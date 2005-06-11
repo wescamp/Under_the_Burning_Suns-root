@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-05-18 10:15+0200\n"
+"POT-Creation-Date: 2005-06-11 11:09+0200\n"
 "PO-Revision-Date: 2005-05-18 10:15+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -15,7 +15,7 @@ msgstr ""
 msgid ""
 "In the distant future, where a small band of elves struggle to survive "
 "amidst the ruins of fallen empires, lead your people out of the desert on an "
-"epic journey to find a new home. (Version 0.4.1 5/17/05)"
+"epic journey to find a new home. (Version 0.4.3 5/30/05)"
 msgstr ""
 
 #: Under_the_Burning_Suns.cfg:23
@@ -207,7 +207,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:965
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:282
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:89
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:281
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:284
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:182
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:816
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:716
@@ -220,7 +220,7 @@ msgid "Rescue Surviving Elves"
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:292
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2749
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2759
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:188
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1079
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:270
@@ -517,7 +517,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3975
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4558
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4674
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2738
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2748
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1068
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:257
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2176
@@ -792,7 +792,7 @@ msgstr ""
 msgid "Northern Edge of the Desert"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:516
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:526
 msgid ""
 "I have crossed these sands long ago, when I was a youth, and we went on a "
 "great raid against a foul necromancer that was hiding out in one of the "
@@ -801,11 +801,11 @@ msgid ""
 "Ah, those were the days..."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:521
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:531
 msgid "Do you remember anything about these sands?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:526
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:536
 msgid ""
 "Do you see that brown spot sticking up on the northern horizon? That's "
 "Pinnacle Rock. It's the highest land for miles around, and has a spring at "
@@ -813,7 +813,7 @@ msgid ""
 "Rock we will be just a few miles from the edge of the mountains."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:531
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:541
 msgid ""
 "But between here and there is a particularly barren stretch of the sands, "
 "with only a few oases and watering holes. Luckily I think there used to be "
@@ -823,13 +823,13 @@ msgid ""
 "formed a great thoroughfare for commerce. "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:536
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:546
 msgid ""
 "I believe that there was once a great empire in these lands, long ago, "
 "before the sands came."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:541
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:551
 msgid ""
 "I've seen the ancient remains of stone castles and markers in the sands. The "
 "paths of the ancients may serve us yet again. If we follow the paths from "
@@ -837,7 +837,7 @@ msgid ""
 "But there are worse dangers in these sands than thirst."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:546
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:556
 msgid ""
 "Unfortunately because of our hasty flight from our village, we are short on "
 "waterskins and rations. We'll have enough if we move quickly and eat as "
@@ -846,7 +846,7 @@ msgid ""
 "the night, this journey will be hard on our people."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:551
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:561
 msgid ""
 "During the daytime (Dawn, Morning, Mid-day, Afternoon, and Dusk) at the end "
 "of each your turns, every unit in a sand, road, rubble or sand dune hex will "
@@ -855,7 +855,7 @@ msgid ""
 "your turn, each unit in an oasis (shallow water) hex will gain 8 hit points."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:556
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:566
 msgid ""
 "The other shamans and I can provide minor healing to ease the exhaustion and "
 "dehydration of the desert journey. But oases like the one next to us are the "
@@ -863,7 +863,7 @@ msgid ""
 "better than any of our powers."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:561
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:571
 msgid ""
 "Also Kaleh, be careful you don't recruit too many guards to go with us. I "
 "doubt we're going to find any other villages out in the sands, so the income "
@@ -872,19 +872,19 @@ msgid ""
 "want to run out of supplies halfway across the desert."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:566
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:576
 msgid "Well, the sooner we reach Pinnacle Rock, the better. Onwards!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:928
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:938
 msgid "Scorpions! We must have stumbled across a nest of them."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:935
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:945
 msgid "We've hit a nest of scorpions!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1013
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1023
 msgid ""
 "The scorpions were devouring some poor person's body. There doesn't seem to "
 "be much of him or her left, but wait...what's this? It looks like a tiny "
@@ -894,7 +894,7 @@ msgid ""
 "items, we can certainly use it now."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1021
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1031
 msgid ""
 "The scorpions were devouring some poor person's body. There doesn't seem to "
 "be much of him or her left, but wait...what's this. It looks like a tiny "
@@ -904,107 +904,107 @@ msgid ""
 "items, we can certainly use it now."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1029
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1039
 msgid ""
 "One unit wearing this ring is immune to any damage caused during the day by "
 "the heat of the desert."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1114
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1124
 msgid ""
 "Look, an oasis! Its refreshing water will heal any of our wounded people who "
 "enter it, and others can rest safely on the grass during the heat of the day."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1411
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1421
 msgid "Ambush! Ogres!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1418
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1428
 msgid "Ogre Ambush!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1426
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1436
 msgid "Fresh Meat!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1440
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1450
 msgid ""
 "Ugh, they smell as bad as they look. And they're huge! Well, the bigger they "
 "are, the harder they fall."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1488
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1494
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1498
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1504
 msgid ""
 "That's the last of them. This looks like a raiding party, they must have a "
 "camp around here somewhere."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1680
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1690
 msgid "This is our oasis, and we will water it with your blood!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1685
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1695
 msgid ""
 "We don't know who you are, and we don't much care. Tremble before the might "
 "of the Black Hand!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1698
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1705
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1708
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1715
 msgid ""
 "We need that water, and if we have to go through you to get it, so be it."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2093
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2103
 msgid "Back you fiends! Or I'll kill you a second time!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2100
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2110
 msgid ""
 "You have defied our master for the last time. Now you shall die! And I shall "
 "personally make it slow and painful, to thank you for that scorching you "
 "gave me. "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2107
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2117
 msgid "You have defied our master for the last time. Now you shall die!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2114
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2124
 msgid "Stupid undead, they never listen. Then have a taste of my flame!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2119
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2129
 msgid "She looks like she's in trouble. We should help her."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2132
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2142
 msgid "Whew! Looks like that's the last of them."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2137
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2147
 msgid "Thanks for the help, that was a little too close for comfort."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2142
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2152
 msgid "That was a lot of undead, why were they coming after you?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2147
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2157
 msgid ""
 "I accidentally managed to anger a powerful necromancer a while ago...it's a "
 "long story. But who are you? You almost look like elves."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2152
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2162
 msgid ""
 "We are, we're the Quenoth Elves and we are traveling north. You look like "
 "you're a mage, but I thought your kind were all gone."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2157
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2167
 msgid ""
 "I am, I'm a fire mage. I've been traveling for quite a while now, exploring "
 "and learning. But these sands seem particularly inhospitable, I've been "
@@ -1012,40 +1012,40 @@ msgid ""
 "in your travels?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2162
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2172
 msgid "We'd be glad to have the help of someone with the mastery of fire."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2199
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2209
 msgid ""
 "The undead are defeated, but we lost her in the fight as well. Darn, if only "
 "we could have saved her."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2334
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2344
 msgid "Elves! Kill them all!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2339
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2349
 msgid ""
 "This ruined castle must be where the ogres make their home. Well, if it's a "
 "fight they want, it's a fight they'll get. "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2401
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2410
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2411
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2420
 msgid "That's the last of those stinking beasts. They will trouble us no more."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2419
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2429
 msgid "Y'know, this ruin looks oddly familiar."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2424
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2434
 msgid "Yuck, there's still dried blood on the stones. It's kind of spooky."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2572
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2582
 msgid ""
 "No more shall infidels pollute my castle! Wait a minute, I remember you "
 "elves. You thought me defeated, but I am back even more powerful than "
@@ -1053,140 +1053,140 @@ msgid ""
 "bodies shall follow a new master!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2577
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2587
 msgid ""
 "Still singing the same tune. We defeated you once before, we can do so again!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2601
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2611
 msgid "No!!!!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2632
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2642
 msgid "Searching his castle, we found a chest with $goldreward gold."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2702
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2712
 msgid ""
 "This sign reads: This land belongs to the Black Hand. Trespass and you will "
 "die."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2715
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2725
 msgid ""
 "So they're posting signs now, are they? Whoever these guys are, if they get "
 "in our way, they're going to be sorry."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2724
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2734
 msgid ""
 "I'm not sure who these guys are, but they don't sound friendly. Nonetheless, "
 "if they get in our way, they're going to be sorry."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2732
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2742
 msgid ""
 "There's no way we can get all our people safely across the desert, if these "
 "outlaws are harassing us. We must defeat them before we can continue. "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2741
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2751
 msgid "Kaleh Must Reach the Northern Edge of the Desert"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2745
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2755
 msgid "Defeat Outlaw Leader"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2857
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2867
 msgid ""
 "Dang. I was sure I saw an oasis here. Must have been a mirage. I've been out "
 "in the sand for too long."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2882
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2892
 msgid ""
 "So, the outlaws have made a base around Pinnacle Rock. It's a good location, "
 "but we will drive them from it all the same"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2905
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2915
 msgid "I surrender, I mean we surrender. Just please don't kill me."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2912
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2924
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2922
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2934
 msgid ""
 "Please, have mercy on us. We'm just trying to survive in this horrible land."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2917
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2927
 msgid ""
 "I will not kill you in cold blood. But leave these lands, and never darken "
 "our path again. Or I will show you no mercy."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2935
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2955
 msgid ""
 "Here, take this vial of holy water. You'll need it with all the undead "
 "around."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2940
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2960
 msgid ""
 "I will take this vial, in exchange for your life. But leave these lands, and "
 "never darken our path again. Or I will show you no mercy."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2945
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2965
 msgid ""
 "It's Holy Water. When anointed on a weapon it makes it deadly to the undead. "
 "Vials such as these are rare and valuable. We should choose carefully who "
 "will use it."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3040
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3056
 msgid ""
 "The Black Hand outlaws still threaten the others. While their leader still "
 "fights we won't be able to get all our people across the sands safely. We "
 "must deal with the Black Hand before we can progress further."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3070
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3086
 msgid ""
 "The outlaws are defeated and we've made it across these blasted sands. The "
 "hills are just a few miles to the north. We should be able to find water and "
 "rest there."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3095
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3111
 msgid ""
 "Now that we have a moment of peace, I have to ask you, Elyssa, what were you "
 "really doing out in the middle of the desert? It's a rather barren place to "
 "be travelling."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3100
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3116
 msgid ""
 "I've been searching for secrets from the past. Did you know that this entire "
 "land used to be a huge empire? Apparently this used to all be great plains "
 "and farmland, before the sands came."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3105
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3121
 msgid ""
 "It's hard to imagine. There's barely enough rain here now to support these "
 "tiny cacti, let alone crops."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3110
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3126
 msgid ""
 "And yet the great ruins that I have seen scattered across these sands are a "
 "testament that something was here before us. Perhaps in a time long ago when "
 "the land was more forgiving."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3115
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3131
 msgid ""
 "Before the great fall, there were huge cities, with great schools of magery, "
 "libraries of books, vast repositories of knowledge. Most of it was destroyed "
@@ -1195,11 +1195,11 @@ msgid ""
 "Fire?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3120
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3136
 msgid "No, I haven't. What is it?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3125
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3141
 msgid ""
 "I'm not sure. I've read various references to it, but nothing specific. I've "
 "been searching for it for a long time. All I know is that it was a very "
@@ -1208,18 +1208,18 @@ msgid ""
 "learning all I can about the olden days. I'm sure it must be somewhere."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3130
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3146
 msgid ""
 "Perhaps. But it has been so long, and so much has been lost. Who can say?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3196
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3214
 msgid ""
 "We've run out of provisions and our people are exhausted. We've taken too "
 "long crossing the desert, I fear we shall never reach the other side. "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3436
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3454
 msgid ""
 "The sands are haunted with the spirits of tortured souls long since dead. At "
 "dusk they rise again, and during the Long Dark they can be particularly "
@@ -1227,23 +1227,23 @@ msgid ""
 "day to the horrors of the night."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3441
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3459
 msgid ""
 "The combination of the heat of the day and the rising undead make dusk a "
 "particularly dangerous time of day."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3709
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3728
 msgid "What happened? The undead spirits all just disappeared."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3714
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3733
 msgid ""
 "These spirits are weak, they seek to prey on the helpless, but when they "
 "encounter strong resistance they flee."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3728
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3747
 msgid "Flee, you craven spirits, and leave us in peace!"
 msgstr ""
 
@@ -1697,10 +1697,6 @@ msgstr ""
 msgid "My undead zombies shall always defeat the living."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/3Night.cfg:1654
-msgid "Killed Ystara ULK: $undead_leaders_killed"
-msgstr ""
-
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1684
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1773
 msgid ""
@@ -1719,10 +1715,6 @@ msgstr ""
 msgid ""
 "See, I told you I was more powerful. This game is over, now I can leave this "
 "shell of a body."
-msgstr ""
-
-#: Under_the_Burning_Suns/scenarios/3Night.cfg:1743
-msgid "Killed Azkotep ULK: $undead_leaders_killed"
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1796
@@ -1812,15 +1804,15 @@ msgid ""
 "would be any better than the land we were born into?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:283
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:286
 msgid "Kaleh Must Reach the Exit Tunnel"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:288
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:291
 msgid "at the North Edge of the Map"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:293
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:296
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:726
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2183
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2225
@@ -1829,13 +1821,13 @@ msgstr ""
 msgid "Death of Kaleh, Nym or Zhul"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:643
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:646
 msgid ""
 "Those mountains are huge, I never thought they would be so big. And what's "
 "that white stuff on the tops of the peaks?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:648
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:651
 msgid ""
 "I wish Garak were here, he'd know more about these lands than I do. I've "
 "never been up here, but I heard stories from the few who have made the "
@@ -1845,18 +1837,18 @@ msgid ""
 "hide in the many caves and tunnels beneath the surface."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:653
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:656
 msgid ""
 "I had another vision last night, Eloh told me that we had to continue north, "
 "but instead of trying to go over the mountains, she said that we had to go "
 "underneath them."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:658
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:661
 msgid "Underneath them? But how?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:663
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:666
 msgid ""
 "Orcs and Goblins have been living here for hundreds of years and their "
 "network of tunnels and caves is more extensive than you might think. Who "
@@ -1865,7 +1857,7 @@ msgid ""
 "to cross these mountains we may have no choice."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:668
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:671
 msgid ""
 "Other creatures besides orcs dig tunnels in the earth, long ago dwarves "
 "mined mountains such as these, and huge trolls like to hide in the deep dark "
@@ -1875,13 +1867,13 @@ msgid ""
 "light."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:673
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:676
 msgid ""
 "Well if we are going to go under these mountains, we're certainly going to "
 "have our hands full fighting all those orcs and goblins."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:678
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:681
 msgid ""
 "Indeed. It's probably impossible to kill all the orcs and goblins in these "
 "mountains; in the past we've just fought to keep them out of our territory. "
@@ -1891,67 +1883,67 @@ msgid ""
 "make it easier to protect them than out in the open."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:691
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:694
 msgid ""
 "I want to warn you again Kaleh, this isn't the desert. The orcs love "
 "fighting in hills and caves, and we won't have the advantages of fighting on "
 "the open sands. So we'd best be extra careful."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:696
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:699
 msgid ""
 "Strike hard and fast and also be careful--right, this is going to be fun."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:915
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:918
 msgid "Attack!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:921
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:924
 msgid "Run Away!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:926
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:929
 msgid "Goblins are so predictable."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1036
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1039
 msgid ""
 "Come forth, creatures of the lake! Fulfill the oaths you have made and help "
 "us drive these hated creatures from our lands."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1041
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1180
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1241
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1044
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1183
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1244
 msgid "Sssslay them all! In the name of the ssscaled one!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1067
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1070
 msgid "These elves are stronger than we thought. Send for more reinforcements!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1072
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1075
 msgid ""
 "How can he move that fast? He is faster than any goblin rider I have ever "
 "seen. It's almost unnatural."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1111
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1114
 msgid ""
 "Wait a minute. He was wearing a silver ring on one of his fingers. I think "
 "the ring might be magical. Maybe that's why he was moving so fast."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1116
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1119
 msgid "I think, Kaleh, that you should take the ring."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1121
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1124
 msgid "Why me?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1126
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1129
 msgid ""
 "Because you tend to move slowly and if we're going into the caves you'll "
 "need all the speed you can get. And besides, we can't afford to lose you; "
@@ -1959,8 +1951,8 @@ msgid ""
 "between life and death."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1175
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1236
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1178
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1239
 msgid ""
 "The elves have killed Panok the goblin! The other goblins may flee to the "
 "caves, but we will not give up these hills without a fight. Come forth, "
@@ -1968,45 +1960,45 @@ msgid ""
 "these hated creatures from our lands."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1309
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1312
 msgid ""
 "Ugh! These tunnels are pitch black, it is as bad as fighting in a moonless "
 "night. And it stinks of orc filth, I can hardly think of a place I would "
 "less like to go into."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1314
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1317
 msgid ""
 "We have no choice. We cannot cross over these mountains, so we must go "
 "beneath them. If the orcs skulk in their tunnels and block our way, we must "
 "enter their dark places and fight them, no matter what the conditions."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1319
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1322
 msgid ""
 "Remember Kaleh, it's nasty fighting underground. Marksmen and Sharpshooters "
 "who can shoot well anywhere will be invaluable, as will Captains and "
 "Marshals who can inspire our people."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1324
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1327
 msgid ""
 "Also, any time you find a particularly tough orc blocking a passage, my "
 "fireballs can blast him quick enough."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1395
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1398
 msgid ""
 "Greebo keep shinies safe from nasty orcses. And 'specially stinking elves."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1415
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1418
 msgid ""
 "Looks like the orcs were stashing their loot here. Not that they had much. "
 "Must be hard times."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1447
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1450
 msgid ""
 "How odd. Someone has carved a crude fountain out of the stone at the end of "
 "the passage. The freezing water pours out into a large pool. At the bottom "
@@ -2017,33 +2009,33 @@ msgid ""
 "like a nice sword, but do I dare chance it?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1449
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1452
 msgid "I fear no creature, I will take the blade!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1459
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1462
 msgid ""
 "The blade is chill to the touch and gives off a cold glow. I wonder how it "
 "came to be here."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1492
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1495
 msgid "I am an abomination, please kill me."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1499
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1502
 msgid "I've seen some ugly creatures in my day, but that thing is just wrong."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1506
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1509
 msgid "The voices say I have no choice, I must attack!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1513
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1516
 msgid "I don't like the sound of this. I'm out of here."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1542
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1545
 msgid ""
 "This is the end of the line. The water is too deep for me to continue any "
 "further. I'm freezing cold, wet, and I can't see a thing. I'm not exactly "
@@ -2051,50 +2043,50 @@ msgid ""
 "here, but I don't know what made me think it could be of any good."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1599
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1602
 msgid "Kaleh, I am death incarnate."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1604
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1607
 msgid "And I shall avenge all those you have killed!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2177
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2180
 msgid "I promise we shall meet again."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2188
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2191
 msgid "He just disappeared, that's odd."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2209
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2212
 msgid "What happened? Where am I?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2214
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2217
 msgid "Where did you go?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2219
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2222
 msgid ""
 "I don't know, someone just knocked me out. I didn't get a good look at them."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2255
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2258
 msgid ""
 "This passage seems different from the other tunnels and caves. It is wide "
 "and smooth and leads sharply downwards. I bet this was the way that Eloh was "
 "talking about."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2260
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2263
 msgid ""
 "This is no natural passage, and the walls are too well carved and smooth to "
 "be made by orcs. I wouldn't be surprised if this was once carved out by "
 "dwarves. I wonder if there are any still left in these mountains..."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2272
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2275
 msgid ""
 "Having killed all the orc and goblin leaders in the immediate vicinity, we "
 "can take our time and should have no trouble bringing the rest of our people "
@@ -2103,7 +2095,7 @@ msgid ""
 "guide us as well as she has before."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2279
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2282
 msgid ""
 "Now that you've found the way we should be able to get the rest of our "
 "people past the orcs. It's odd, I guess we're trading the dangers we know "
@@ -2111,17 +2103,17 @@ msgid ""
 "may she guide as well as she has before."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2286
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2289
 msgid ""
 "I'll just be happy when I can breathe fresh air again and see the suns and "
 "stars. Still, who knows what we'll encounter deep under the earth?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2291
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2294
 msgid "Well, there's only one way to find out."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2318
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2321
 msgid ""
 "We've taken too long to get our people into the tunnels! Even more orcs are "
 "coming across the foothills from the east and west and flanking us. There's "
@@ -2983,7 +2975,7 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6354
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7913
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7915
 msgid "And so, at last, it ends."
 msgstr ""
 
@@ -3008,7 +3000,7 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6403
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7962
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7964
 msgid ""
 "I think they wanted to further test our prowess in battle. And perhaps they "
 "didn't entirely trust us with all their secrets."
@@ -3133,7 +3125,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6716
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6814
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6913
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8262
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8264
 msgid "On second thought, it's better to leave the dead in peace."
 msgstr ""
 
@@ -3206,30 +3198,30 @@ msgstr ""
 msgid "May Griknagh protect you. I'll be back soon!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7808
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7810
 msgid ""
 "Invade our most holy cavern at your peril. Long have we protected our sacred "
 "burial grounds from your foul kind, and we shall scatter your bones next to "
 "those of our ancestors."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7813
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7815
 msgid "Destroy the invaders; make them pay for their slaughter!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7824
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7826
 msgid "Arise our brothers of ages past, arise and destroy the intruders!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7908
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7910
 msgid "Argh! Cure you! May you never leave these tunnels alive!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7918
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7920
 msgid "Da big troll is dead. Run for your lives!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7952
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7954
 msgid ""
 "With the death of their leader the foul trolls have retreated. This war is "
 "far from over, but with your help we won the first battle. You have our "
@@ -3240,14 +3232,14 @@ msgid ""
 "will tell this story for years."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7957
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7959
 msgid ""
 "You think they could have told us about all these secret tunnels beforehand. "
 "It would have saved us a lot of unnecessary fighting in actually getting to "
 "the great troll."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7967
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7969
 msgid ""
 "Shhhh, you two. Yes, of course, we would be honored to come and meet your "
 "chieftain. But we left many of our people back up the passageway and I fear "
@@ -3255,7 +3247,7 @@ msgid ""
 "safety?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7972
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7974
 msgid ""
 "Hmmmm, yes, after what you have done, I think I could arrange something. We "
 "have a few larger caves that should hold your people, a bit cramped, but "
@@ -3265,18 +3257,18 @@ msgid ""
 "any surprises."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7977
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7979
 msgid ""
 "You are full of surprises. But I feel better knowing a few of your kind we "
 "watching out for the rest of my people. All right everyone, no celebrating "
 "yet, we still have work left to do!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8060
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8062
 msgid "It's cooler here, there seems to be a draft to the west."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8071
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8073
 msgid ""
 "Hail, friend elf. Ages ago, I too fought the trolls and came to this place. "
 "But by ill luck I was burned to the death by the lava and died nearby "
@@ -3284,38 +3276,38 @@ msgid ""
 "wish for. Do this and I will let you pass."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8083
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8085
 msgid ""
 "Thank you. You have done for me what all my dwarven kin never did. May "
 "Moradin bless you and watch over you. I leave now for the halls of my "
 "ancestors..."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8119
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8121
 msgid ""
 "Look, a crumbling skeleton. I think this might be the body of the dwarven "
 "ghost. It shouldn't take long to dig a shallow grave."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8131
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8133
 msgid ""
 "May Eloh, or whatever god you worship, grant you peace and safe passage to "
 "the afterlife. We will avenge your death."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8163
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8165
 msgid ""
 "This looks like a troll crypt. Whoever it was must have been very important, "
 "because they have their own undead guardian."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8181
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8183
 msgid ""
 "There is a chasm here cutting off the end of the crypt. It must be rather "
 "recent, it cuts off the path leading to a rather ornate stone coffin."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8210
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8212
 msgid ""
 "For a troll this is quite an ornate tomb. The coffin itself is quite "
 "impressive. Inside the skeleton has crumbled to dust, and there are a few "
@@ -3327,52 +3319,52 @@ msgid ""
 "useful before our journey is over."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8212
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8214
 msgid "It might be useful, I'll take it."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8222
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8224
 msgid ""
 "The wand fit comfortably in my hand. It doesn't seem to have much of a "
 "range, but in close combat it could be quite useful."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8317
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8319
 msgid ""
 "Did you think you escaped me Kaleh? I am your shadow, I will always be there "
 "until you pay for what you have done."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8410
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8412
 msgid "Ow!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8415
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8417
 msgid ""
 "You want to flee, don't you? But you cannot. They couldn't escape her "
 "either. Even death could not save them. She will devour us all. But first I "
 "shall have my revenge. Do the dance of death for me Kaleh! Dance! Dance!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9001
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9003
 msgid ""
 "Where did he go? How does he disappear like that?  And what in Zardia's name "
 "was he ranting about? Whoever that is is starting to make me get edgy."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9022
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9024
 msgid "Huh? What happened?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9027
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9029
 msgid "Where did you go? Do you remember anything?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9032
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9034
 msgid "No, someone grabbed me and knocked me out. I have no idea who it was."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9100
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9102
 msgid ""
 "Oh no, we took too long and enemy reinforcements have arrived. We'll surely "
 "be overwhelmed now!"
@@ -5298,7 +5290,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Hunter.cfg:35
 #: Under_the_Burning_Suns/units/Desert_Hunter6.cfg:35
 #: Under_the_Burning_Suns/units/scen7_Shadow.cfg:27
-#: Under_the_Burning_Suns/units/Desert_Outrider.cfg:40
+#: Under_the_Burning_Suns/units/Desert_Outrider.cfg:39
 #: Under_the_Burning_Suns/units/scen7_Nightgaunt.cfg:28
 #: Under_the_Burning_Suns/units/Desert_Scout.cfg:39
 #: Under_the_Burning_Suns/units/Desert_Fighter6.cfg:36
@@ -5512,6 +5504,14 @@ msgid ""
 "often become confused."
 msgstr ""
 
+#: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:26
+msgid ""
+"Imbued with a dark spirit these corrupted elves combine unhuman strength "
+"with potent magics to create formidable opponents. Though the elvish body "
+"often decays quickly, these abominations are potent weapons of the undead "
+"lords."
+msgstr ""
+
 #: Under_the_Burning_Suns/units/Desert_Scout3.cfg:38
 #: Under_the_Burning_Suns/units/Desert_Prowler.cfg:35
 #: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:35
@@ -5522,7 +5522,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Scout7.cfg:38
 #: Under_the_Burning_Suns/units/Desert_Hunter.cfg:34
 #: Under_the_Burning_Suns/units/Desert_Hunter6.cfg:34
-#: Under_the_Burning_Suns/units/Desert_Outrider.cfg:39
+#: Under_the_Burning_Suns/units/Desert_Outrider.cfg:38
 #: Under_the_Burning_Suns/units/Desert_Scout.cfg:38
 #: Under_the_Burning_Suns/units/Desert_Fighter6.cfg:35
 #: Under_the_Burning_Suns/units/Desert_Fighter7.cfg:35
@@ -5672,6 +5672,15 @@ msgstr ""
 msgid "darts"
 msgstr ""
 
+#: Under_the_Burning_Suns/units/Deep_One.cfg:20
+msgid ""
+"The Deep Ones are gigantic aquatic monsters that lurk in the dark places of "
+"the world. Rarely do they come to the surface, and when they do the best way "
+"to survive an encounter with these monsters is to remain ashore. They can "
+"grab their opponents with strong tentacles, or spit a poisonous black ink "
+"from a distance. "
+msgstr ""
+
 #: Under_the_Burning_Suns/units/Giant_Tentacle.cfg:21
 #: Under_the_Burning_Suns/units/Deep_One.cfg:23
 msgid "tentacle"
@@ -5689,7 +5698,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Scout4.cfg:60
 #: Under_the_Burning_Suns/units/Desert_Captain.cfg:53
 #: Under_the_Burning_Suns/units/Desert_Scout7.cfg:60
-#: Under_the_Burning_Suns/units/Desert_Outrider.cfg:56
+#: Under_the_Burning_Suns/units/Desert_Outrider.cfg:55
 #: Under_the_Burning_Suns/units/Desert_Scout.cfg:60
 #: Under_the_Burning_Suns/units/Desert_Fighter6.cfg:53
 #: Under_the_Burning_Suns/units/Desert_Fighter7.cfg:53
@@ -5740,11 +5749,25 @@ msgstr ""
 msgid "pierce"
 msgstr ""
 
+#: Under_the_Burning_Suns/units/Desert_Archer.cfg:32
+#: Under_the_Burning_Suns/units/Desert_Archer2.cfg:32
+#: Under_the_Burning_Suns/units/Desert_Archer5.cfg:32
+#: Under_the_Burning_Suns/units/Desert_Archer4.cfg:32
+#: Under_the_Burning_Suns/units/Desert_Archer6.cfg:32
+#: Under_the_Burning_Suns/units/Desert_Archer7.cfg:32
+#: Under_the_Burning_Suns/units/Desert_Archer3.cfg:32
+msgid ""
+"Desert Archers are trained from youth in archery, and so skilled in long-"
+"range combat. Though their bows are cruder and their arrows less plentiful "
+"than their elvish ancestors, they fight with ferocity that does credit to "
+"their race."
+msgstr ""
+
 #: Under_the_Burning_Suns/units/Desert_Scout3.cfg:59
 #: Under_the_Burning_Suns/units/Desert_Scout4.cfg:59
 #: Under_the_Burning_Suns/units/Desert_Captain.cfg:52
 #: Under_the_Burning_Suns/units/Desert_Scout7.cfg:59
-#: Under_the_Burning_Suns/units/Desert_Outrider.cfg:55
+#: Under_the_Burning_Suns/units/Desert_Outrider.cfg:54
 #: Under_the_Burning_Suns/units/Desert_Scout.cfg:59
 #: Under_the_Burning_Suns/units/Desert_Fighter6.cfg:52
 #: Under_the_Burning_Suns/units/Desert_Fighter7.cfg:52
@@ -5804,6 +5827,13 @@ msgstr ""
 msgid "backstab"
 msgstr ""
 
+#: Under_the_Burning_Suns/units/Desert_Avenger.cfg:33
+msgid ""
+"Desert Avengers are extremely skillful and extremely quick, powerful in all "
+"forms of combat. Like their kin, they prefer the sword to the bow and are "
+"adept at sneaking around and backstabing their enemies."
+msgstr ""
+
 #: Under_the_Burning_Suns/units/Desert_Avenger.cfg:107
 msgid "female^Desert Avenger"
 msgstr ""
@@ -5818,9 +5848,30 @@ msgstr ""
 msgid "leadership"
 msgstr ""
 
+#: Under_the_Burning_Suns/units/Desert_Captain.cfg:33
+msgid ""
+"Skilled in commanding other elves, Desert Captains provide a bonus to all "
+"level 1 units on adjacent hexes. Desert Captains prefer engaging the enemy "
+"in melee combat, but are trained in archery as well."
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Desert_Champion.cfg:31
+msgid ""
+"Desert Champions are awesome masters of swordsmanship, inflicting grievous "
+"wounds in close combat. Master fighters, they are also skilled with the bow, "
+"able to inflict damage on their enemies from both near and far."
+msgstr ""
+
 #: Under_the_Burning_Suns/units/Desert_Shyde.cfg:37
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:32
 msgid "cures"
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Desert_Druid.cfg:33
+msgid ""
+"Desert Druids are powerful masters of the sands. Brilliant at ensnaring "
+"unwary opponents, they also use the herbs of the forest to heal allies. "
+"Druids are excellent supporting units in any Elvish army."
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:37
@@ -5846,6 +5897,28 @@ msgstr ""
 msgid "thorns"
 msgstr ""
 
+#: Under_the_Burning_Suns/units/Desert_Fighter6.cfg:31
+#: Under_the_Burning_Suns/units/Desert_Fighter7.cfg:31
+#: Under_the_Burning_Suns/units/Desert_Fighter3.cfg:31
+#: Under_the_Burning_Suns/units/Desert_Fighter.cfg:31
+#: Under_the_Burning_Suns/units/Desert_Fighter2.cfg:31
+#: Under_the_Burning_Suns/units/Desert_Fighter5.cfg:31
+#: Under_the_Burning_Suns/units/Desert_Fighter4.cfg:31
+msgid ""
+"Desert Fighters make up the bulk of the Elven military in Wesnoth. They are "
+"trained in both sword and bow, though like most of their kin, they prefer "
+"swordplay to archery. These Elves are deft of foot, and fight best in the "
+"open sands."
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Desert_Hero.cfg:31
+msgid ""
+"Desert Heroes focus on individual performance on the battlefield, having "
+"tweaked their combat skills to the very maximum. Desert Heroes prefer "
+"fighting at close range with the sword, but also have some skill with the "
+"bow."
+msgstr ""
+
 #: Under_the_Burning_Suns/units/Desert_Horseman.cfg:4
 msgid "Desert Horseman"
 msgstr ""
@@ -5858,6 +5931,19 @@ msgid ""
 "generations the Elves have greatly increased their equestrian skills. The "
 "mounted speed and agility allows them to get in more strikes than most "
 "fighters"
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:31
+#: Under_the_Burning_Suns/units/Desert_Hunter5.cfg:31
+#: Under_the_Burning_Suns/units/Desert_Hunter.cfg:31
+#: Under_the_Burning_Suns/units/Desert_Hunter6.cfg:31
+#: Under_the_Burning_Suns/units/Desert_Hunter4.cfg:31
+#: Under_the_Burning_Suns/units/Desert_Hunter2.cfg:31
+#: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:31
+msgid ""
+"Desert Hunters are trained to scour the sands for prey and enemies. They can "
+"quickly entangle others with their bolas and then finish them off with their "
+"swords."
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Prowler.cfg:53
@@ -5873,6 +5959,15 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Hunter2.cfg:52
 #: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:52
 msgid "bola"
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Desert_Marksman.cfg:30
+msgid ""
+"Desert Marksman are expert in use of the bow. Though their bows and arrows "
+"are not as fine as those of their ancestors, they continue to hone their "
+"skill, which guarantees them a 60% chance to hit enemies, even those hidden "
+"in difficult terrain. This great skill with the bow compensates for their "
+"lack of skill in melee combat."
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:49
@@ -5893,6 +5988,14 @@ msgstr ""
 msgid "female^Desert Marksman"
 msgstr ""
 
+#: Under_the_Burning_Suns/units/Desert_Marshal.cfg:34
+msgid ""
+"Desert Marshalls are master commanders, able to inspire confidence in any "
+"level 1 or 2 unit in adjacent hexes, causing them to fight with increased "
+"skill. Desert Marshalls prefer engaging the enemy in melee combat, but are "
+"trained in archery as well."
+msgstr ""
+
 #: Under_the_Burning_Suns/units/Desert_Prowler.cfg:30
 #: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:30
 #: Under_the_Burning_Suns/units/Desert_Outrider.cfg:33
@@ -5902,8 +6005,62 @@ msgstr ""
 msgid "skirmisher"
 msgstr ""
 
+#: Under_the_Burning_Suns/units/Desert_Outrider.cfg:35
+msgid ""
+"Riding like the wind, Desert Outriders breeze across the sands to strike at "
+"weaker units and exposed flanks. Quick and agile they are trained at riding "
+"around enemy formations, bypassing their Zone of Control. Skilled in the "
+"sword, and trained in the bow, they strike hard before flying off into the "
+"sands to evade response."
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Desert_Prowler.cfg:32
+#: Under_the_Burning_Suns/units/Nym_Prowler.cfg:32
+msgid ""
+"Desert Prowlers sneak across the sands, searching out enemies and protecting "
+"their people. They are trained to slip past enemies unnoticed and flank "
+"them. The combination of their bolas and blades allows them to cripple and "
+"kill opponents with alarming ease."
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Desert_Ranger.cfg:31
+msgid ""
+"Desert Rangers are quick and powerful. Skilled in both short and long-range "
+"combat, Rangers are truly all-round fighters. Like their kin, they prefer "
+"the sword to the bow and are adept at sneaking around and backstabing their "
+"enemies."
+msgstr ""
+
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:107
 msgid "female^Desert Ranger"
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Desert_Rider.cfg:37
+msgid ""
+"Swift riders, Desert Riders are fast in the open desert. Quick and agile "
+"they are trained at riding around enemy formations, bypassing their Zone of "
+"Control. They can use a bow from horseback, but prefer to engage in melee "
+"combat when necessary."
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Desert_Scout3.cfg:35
+#: Under_the_Burning_Suns/units/Desert_Scout4.cfg:35
+#: Under_the_Burning_Suns/units/Desert_Scout7.cfg:35
+#: Under_the_Burning_Suns/units/Desert_Scout.cfg:35
+#: Under_the_Burning_Suns/units/Desert_Scout5.cfg:35
+#: Under_the_Burning_Suns/units/Desert_Scout6.cfg:35
+#: Under_the_Burning_Suns/units/Desert_Scout2.cfg:35
+msgid ""
+"Desert Scouts move swiftly across the sands. Their skill on horseback is "
+"virtually unmatched, although they do lack power in combat."
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:32
+#: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:32
+msgid ""
+"Desert Sentinels patrol the sands; they are trained to  avoid enemies when "
+"it is advantageous. They can cripple opponents with their bolas and are "
+"deadly with their swords."
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:12
@@ -5916,6 +6073,19 @@ msgstr ""
 msgid "heals"
 msgstr ""
 
+#: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:33
+#: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:33
+#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:33
+#: Under_the_Burning_Suns/units/Desert_Shaman4.cfg:33
+#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:33
+#: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:33
+#: Under_the_Burning_Suns/units/Desert_Shaman.cfg:33
+msgid ""
+"Desert Shamans focus on less violent ways to hinder the enemy. Their "
+"entangling attack slows enemies down and reduces by one the number of times "
+"they may attack. Shamans also possess basic healing abilities."
+msgstr ""
+
 #: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:56
 #: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:56
 #: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:56
@@ -5926,8 +6096,27 @@ msgstr ""
 msgid "entangle"
 msgstr ""
 
+#: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:29
+msgid ""
+"The most elite archers among the elves, Desert Sharpshooters use the best "
+"bows and arrows available, which makes them just as deadly as their "
+"ancestors. Desert Sharpshooters are incredibly accurate, guaranteed a 60% "
+"chance to hit when attacking, even when firing very quickly, which makes "
+"them excellent at picking off entrenched enemies."
+msgstr ""
+
 #: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:107
 msgid "female^Desert Sharpshooter"
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:38
+msgid ""
+"Shydes are Elves that are devoted to nature and their faerie side. Dragonfly "
+"wings sprout from their backs and change them into beautiful creatures. They "
+"are capable of gliding unencumbered across almost any terrain. The one "
+"exception is deep water, a terrain which the desert elves rarely encounter. "
+"Their magical powers have been adapted to a life among the sands, and so it "
+"does not work over deep water."
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:48
@@ -5937,6 +6126,18 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:12
 msgid "illuminates,cures"
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Desert_Star.cfg:44
+msgid ""
+"Desert Stars are Shydes that have becomes so powerful and holy that they "
+"shine forth the light of Eloh, even in the darkest places. Like Shydes, they "
+"are capable of gliding unencumbered across almost any terrain except deep "
+"water. The hex they occupy and all adjacent hexes are illuminated so that "
+"the never experience night. As a result, when a unit is adjacent to a Desert "
+"Star, it will fight as if it were day when it is dusk, and as if it were "
+"dusk when it is night. Eloh's power also reduces the wounds that Desert "
+"Stars suffer when attacked. "
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Dread_Bat.cfg:4
@@ -6314,6 +6515,19 @@ msgid ""
 "they come from, but they are occasionally summoned by powerful mages to do "
 "their bidding. When not being controlled they like to frolic in pools of "
 "lava and take great delight in burning anything they can reach."
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Nym_Hunter.cfg:31
+msgid ""
+"Desert hunters are trained to scour the sands for prey and enemies. They can "
+"quickly entangle others with their bolas and then finish them off with their "
+"swords."
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:17
+msgid ""
+"Small Mudcrawlers are beings of soil and water. They attack by spraying "
+"boiling water on their foes, or by punching with their fists."
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:35
