@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-06-11 11:09+0200\n"
-"PO-Revision-Date: 2005-06-12 17:08+0200\n"
+"PO-Revision-Date: 2005-06-14 01:21+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -807,6 +807,11 @@ msgid ""
 "over scraps of meat. Among the survivors Kaleh is by heritage the closest "
 "relative to Tanuil and thus our leader. What say you Kaleh?"
 msgstr ""
+"Fred! Lugna er, snälla ni! I kaos finns det bara död och förödelse. Till och "
+"med nu, i denna prövningens tid, måste vi vara starka och följa våra lagar. "
+"Utan lagar är vi som djur i öknen, som slåss om överblivna köttbitar. Bland "
+"de överlevande är Kaleh den närmaste släktingen till Tanuil, och är därför "
+"vår ledare. Vad säger du, Kaleh?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1707
 msgid ""
@@ -820,12 +825,23 @@ msgid ""
 "will see it done. Our home is gone and the desert is a harsh place. If Eloh "
 "has prepared a new home for us, then I will lead us there."
 msgstr ""
+"Igår kväll, före stenstormen, hörde jag i min sömn en röst. Det lät som ljuv "
+"musik, och jag visste att det var Eloh jag hörde. Jag kommer ihåg precis vad "
+"hon sade: 'Du måste vara stark, unge alv, ty ni träder in i en tid av fara. "
+"Hemmet du känner kommer att läggas i ruiner, och du måste leda ditt folk "
+"till ett nytt land. I norden finner ni frälsning och fred. Genomkorsa öknen "
+"och färdas mot bergen. Frukta icke, ty jag skall visa er på vägen och skydda "
+"er.' Jag vet inte varför hon valde att visa sig för mig, men om detta är "
+"hennes vilja, så skall jag se till att det blir gjort. Vårt hem är borta och "
+"öknen är en svår plats. Om Eloh har berett ett nytt hem för oss, så skall "
+"jag leda oss dit."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1712
 msgid ""
 "I fear what dangers lurk in the harsh sands and to beyond to the north, but "
 "as our leader, I will follow your counsel."
 msgstr ""
+"Jag är rädd att faror lurar i sanden och i norr, men jag följer ert råd."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1717
 msgid ""
@@ -833,12 +849,16 @@ msgid ""
 "north with great haste. Our home is protection no longer, we must find a new "
 "haven for our people."
 msgstr ""
+"Låt oss då samla ihop vad vi kan från husen och färdas norrut snabbt. Vårt "
+"hem kan inte längre skydda oss, så vi måste finna en fristad för vårt folk."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1722
 msgid ""
 "What about the bodies of the dead? We can't leave them to be torn by crows "
 "or desecrated by other necromancers."
 msgstr ""
+"Vad skall vi göra med de döda? Vi kan inte lämna dem till kråkorna eller "
+"offra dem till nekromantiker."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1727
 msgid ""
@@ -846,6 +866,9 @@ msgid ""
 "them with proper ceremony, so that the smoke may carry them on to the next "
 "realm."
 msgstr ""
+"Jag instämmer, vi får inte glömma våra döda. Vi borde bygga ett stort bål "
+"och bränna dem i en hedersam ceremoni, så att röken kan bära dem till nästa "
+"rike."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1732
 msgid ""
@@ -853,6 +876,10 @@ msgid ""
 "see to the dead before we leave. Garak, you and your men start collecting "
 "our dead. Nym, help me find oil and wood so that we may build a pyre."
 msgstr ""
+"Kaleh, jag vill inte att vi dröjer kvar här mer än nödvändigt, men jag "
+"håller med om att vi måste se till våra döda innan vi ger oss av. Garak, du "
+"och dina mannar kan börja med att samla ihop de döda. Nym, hjälp mig att "
+"leta efter olja och ved till bålet."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1737
 msgid ""
@@ -863,6 +890,11 @@ msgid ""
 "journey. They were the first of our people to die in this great endeavor, "
 "but they were to be far from the last."
 msgstr ""
+"Och så skedde. De döda lades med stor vördnad ovanpå den lilla ved vi kunde "
+"finna. Men elden blev stor nog för att bränna kropparna till aska och skicka "
+"deras själar till efterlivet. Jag minns att vi tänkte att så många "
+"förolyckade inte bådade gott inför vår resa. De var de första av vårt folk "
+"att gå under i vår resa, men de skulle bli långt ifrån de sista."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1762
 msgid ""
@@ -870,6 +902,10 @@ msgid ""
 "must have attracted other necromancers. There's no way we can defeat them "
 "all. We've run out of time. There's no escape. Eloh save us!"
 msgstr ""
+"Vad händer i norr? Det ser ut som att det kommer ännu fler vandöda! "
+"Stenstormen måste ha lockat hit andra nekromantiker. Vi har inte en chans "
+"att klara av dem allihop. Vi har dröjt för länge! Vi hinner inte härifrån! "
+"Eloh bevare oss!"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:52
 msgid "Pinnacle Rock"
@@ -5396,10 +5432,15 @@ msgid ""
 "campaign is listed under the campaign description in the main campaign "
 "selection screen) Thanks for playing Under the Burning Suns!"
 msgstr ""
+"Denna kampanj är fortfarande under utveckling, och detta är det sista av de "
+"färdiga scenarierna. Se efter i vårt forum (forum.wesnoth.org) och på "
+"kampanjservern om det finns fler färdiga scenarier och andra uppdateringar. "
+"(Versionen för den här kampanjen anges i kampanjbeskrivningen under Kampanj "
+"i huvudmenyn.) Tack för att du spelade Solarnas Rike!"
 
 #: Under_the_Burning_Suns/units/Ant.cfg:4
 msgid "Giant Ant"
-msgstr ""
+msgstr "Jättemyra"
 
 #: Under_the_Burning_Suns/units/Ant.cfg:17
 msgid ""
@@ -5407,6 +5448,9 @@ msgid ""
 "earth to the tops of tall mountains. Though normally not hostile, they can "
 "bite at close range."
 msgstr ""
+"Jättemyror bebor nästan alla sorters miljöer, från grottor djupt i "
+"underjorden till höga bergstoppar. De är normalt inte fientliga, men de kan "
+"bitas om man kommer för nära."
 
 #: Under_the_Burning_Suns/units/Confused_Ant.cfg:20
 #: Under_the_Burning_Suns/units/Ant.cfg:20
@@ -5416,7 +5460,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Dread_Bat.cfg:20
 #: Under_the_Burning_Suns/units/Cave_Spider2.cfg:20
 msgid "fangs"
-msgstr ""
+msgstr "huggtänder"
 
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:23
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:45
@@ -5510,11 +5554,11 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:38
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:139
 msgid "blade"
-msgstr ""
+msgstr "hugg"
 
 #: Under_the_Burning_Suns/units/Blood_Bat2.cfg:4
 msgid "Blood Bat"
-msgstr ""
+msgstr "Blodsugande fladdermus"
 
 #: Under_the_Burning_Suns/units/Blood_Bat2.cfg:17
 msgid ""
@@ -5523,6 +5567,11 @@ msgid ""
 "began the battle. Such is their fury that the fur of these undead flying "
 "beasts is tainted red with the blood of their victims."
 msgstr ""
+"Den blodsugande fladdermusen kan suga blodet och därmed livskraften ur sina "
+"motståndare, och använder blodet för att förbättra sin egen hälsa. På så vis "
+"kan den blodsugande fladdermusen till och med bli kraftigare under pågående "
+"strid. Deras vildsinta attacker färgar detta vandöda flygfäs päls röd av "
+"sina offers blod."
 
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:24
 #: Under_the_Burning_Suns/units/Blood_Bat2.cfg:25
@@ -5531,11 +5580,11 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Dread_Bat.cfg:25
 #: Under_the_Burning_Suns/units/scen7_Spectre.cfg:36
 msgid "drain"
-msgstr ""
+msgstr "suga livskraft"
 
 #: Under_the_Burning_Suns/units/Cave_Spider2.cfg:4
 msgid "Cave Spider"
-msgstr ""
+msgstr "Grottspindel"
 
 #: Under_the_Burning_Suns/units/Cave_Spider2.cfg:17
 msgid ""
@@ -5543,6 +5592,9 @@ msgid ""
 "bite at close range, thereby poisoning their enemies, and also can attack "
 "with a web at long range, slowing their foes down."
 msgstr ""
+"Jättespindlarna lever djupt under jordens yta och livnär sig på oförsiktiga "
+"besökare. De som kommer för nära kan de förgifta med sitt bett, och de kan "
+"sinka sina fiender genom att kasta nät över dem."
 
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:49
 #: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:48
@@ -5551,11 +5603,11 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Cave_Spider2.cfg:25
 #: Under_the_Burning_Suns/units/Deep_One.cfg:71
 msgid "poison"
-msgstr ""
+msgstr "gift"
 
 #: Under_the_Burning_Suns/units/Cave_Spider2.cfg:29
 msgid "web"
-msgstr ""
+msgstr "spindelnät"
 
 #: Under_the_Burning_Suns/units/Great_Troll2.cfg:27
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:49
@@ -5610,7 +5662,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Deep_One.cfg:24
 #: Under_the_Burning_Suns/units/Troll2.cfg:27
 msgid "impact"
-msgstr ""
+msgstr "kross"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:76
 #: Under_the_Burning_Suns/units/Desert_Prowler.cfg:58
@@ -5636,11 +5688,11 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:57
 #: Under_the_Burning_Suns/units/Cave_Spider2.cfg:40
 msgid "slow"
-msgstr ""
+msgstr "sakta ner"
 
 #: Under_the_Burning_Suns/units/Confused_Ant.cfg:4
 msgid "Confused Ant"
-msgstr ""
+msgstr "Förvirrad myra"
 
 #: Under_the_Burning_Suns/units/Confused_Ant.cfg:17
 msgid ""
@@ -5649,6 +5701,10 @@ msgid ""
 "bite at close range. When they don't have a Queen Ant to lead them, they can "
 "often become confused."
 msgstr ""
+"Jättemyror bebor nästan alla sorters miljöer, från grottor djupt i "
+"underjorden till höga bergstoppar. De är normalt inte fientliga, men de kan "
+"bitas om man kommer för nära. När de inte leds av en drottningmyra kan de "
+"lätt bli förvirrade."
 
 #: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:26
 msgid ""
@@ -5657,6 +5713,10 @@ msgid ""
 "often decays quickly, these abominations are potent weapons of the undead "
 "lords."
 msgstr ""
+"Med sina sinnen förgiftade av onda andar kombinerar dessa förvridna alver "
+"omänsklig styrka med kraftfull magi, vilket gör dem till starka fiender. "
+"Även om alvernas kroppar förfaller snabbt, så utgör dessa styggelser mäktiga "
+"vapen för de vandödas furstar."
 
 #: Under_the_Burning_Suns/units/Desert_Scout3.cfg:38
 #: Under_the_Burning_Suns/units/Desert_Prowler.cfg:35
@@ -5716,13 +5776,13 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:37
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:138
 msgid "sword"
-msgstr ""
+msgstr "svärd"
 
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:28
 #: Under_the_Burning_Suns/units/Troll_Shaman.cfg:44
 #: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:48
 msgid "magic"
-msgstr ""
+msgstr "magi"
 
 #: Under_the_Burning_Suns/units/scen7_Ghost.cfg:27
 #: Under_the_Burning_Suns/units/scen7_Ghost.cfg:39
@@ -5734,7 +5794,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/scen7_Wraith.cfg:49
 #: Under_the_Burning_Suns/units/scen7_Spectre.cfg:49
 msgid "cold"
-msgstr ""
+msgstr "frost"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:50
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:96
@@ -5745,11 +5805,11 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Shyde.cfg:90
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:77
 msgid "magical"
-msgstr ""
+msgstr "magisk"
 
 #: Under_the_Burning_Suns/units/Crab_Man.cfg:4
 msgid "Crab Man"
-msgstr ""
+msgstr "Krabbman"
 
 #: Under_the_Burning_Suns/units/Crab_Man.cfg:17
 msgid ""
@@ -5758,16 +5818,21 @@ msgid ""
 "creation of some twisted mage, these monstrosities have spread into the wild "
 "and prefer live around coastal waters, preying on both humans and animals."
 msgstr ""
+"En krabbman är en kombination av krabba och humanoid, och är definitivt ett "
+"av de mer förvridna monster som någonsin hört talas om av de lärda i "
+"Wesnoth. De är troligtvis skapade av någon galen magiker, och dessa monster "
+"har spritt sig över landet och föredra att bo vid kusten, där de söker sitt "
+"byte bland både människor och djur."
 
 #: Under_the_Burning_Suns/units/scen7_Shadow.cfg:26
 #: Under_the_Burning_Suns/units/scen7_Nightgaunt.cfg:27
 #: Under_the_Burning_Suns/units/Crab_Man.cfg:20
 msgid "claws"
-msgstr ""
+msgstr "klor"
 
 #: Under_the_Burning_Suns/units/Darawf.cfg:4
 msgid "Dawarf"
-msgstr ""
+msgstr "Dawarf"
 
 #: Under_the_Burning_Suns/units/Darawf.cfg:17
 msgid ""
@@ -5775,6 +5840,9 @@ msgid ""
 "secret well guarded by the great lore-masters of Wesnoth. And it's isn't "
 "pretty. Hint: it involves lots of sherbet."
 msgstr ""
+"Fråga inte varifrån dawarfen kommer. Du vill inte veta. Det är en välbevakad "
+"hemlighet bland Wesnoths mäktigaste lärda. Och den är inte vacker. Ledtråd: "
+"de handlar om stora mängder sorbet."
 
 #: Under_the_Burning_Suns/units/Troll_Zombie.cfg:26
 #: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:21
@@ -5783,7 +5851,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Darawf.cfg:20
 #: Under_the_Burning_Suns/units/Troll_Whelp2.cfg:26
 msgid "fist"
-msgstr ""
+msgstr "knytnäve"
 
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:4
 #: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:4
@@ -5809,14 +5877,14 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:24
 #: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:21
 msgid "dagger"
-msgstr ""
+msgstr "dolk"
 
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:44
 #: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:43
 #: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:46
 #: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:43
 msgid "darts"
-msgstr ""
+msgstr "kastpilar"
 
 #: Under_the_Burning_Suns/units/Deep_One.cfg:20
 msgid ""
@@ -5826,15 +5894,19 @@ msgid ""
 "grab their opponents with strong tentacles, or spit a poisonous black ink "
 "from a distance. "
 msgstr ""
+"De Djupa är gigantiska vattenlevande monster som lurar i världens mörkaste "
+"platser. De kommer sällan upp till ytan, men när de gör det är det bäst att "
+"stanna på land. De kan krossa sina fiender med sina starka tentakler, eller "
+"spotta giftigt svart bläck på dem."
 
 #: Under_the_Burning_Suns/units/Giant_Tentacle.cfg:21
 #: Under_the_Burning_Suns/units/Deep_One.cfg:23
 msgid "tentacle"
-msgstr ""
+msgstr "tentakel"
 
 #: Under_the_Burning_Suns/units/Deep_One.cfg:61
 msgid "ink"
-msgstr ""
+msgstr "bläck"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:95
 #: Under_the_Burning_Suns/units/Desert_Scout3.cfg:60
@@ -5893,7 +5965,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:56
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:157
 msgid "pierce"
-msgstr ""
+msgstr "stick"
 
 #: Under_the_Burning_Suns/units/Desert_Archer.cfg:32
 #: Under_the_Burning_Suns/units/Desert_Archer2.cfg:32
@@ -5950,7 +6022,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:55
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:156
 msgid "bow"
-msgstr ""
+msgstr "pilbåge"
 
 #: Under_the_Burning_Suns/units/Desert_Archer.cfg:96
 #: Under_the_Burning_Suns/units/Desert_Archer2.cfg:96
@@ -5960,7 +6032,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Archer7.cfg:96
 #: Under_the_Burning_Suns/units/Desert_Archer3.cfg:96
 msgid "female^Desert Archer"
-msgstr ""
+msgstr "Ökenbågskytt"
 
 #: Under_the_Burning_Suns/units/scen7_Shadow.cfg:31
 #: Under_the_Burning_Suns/units/scen7_Nightgaunt.cfg:32
@@ -5971,7 +6043,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:42
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:143
 msgid "backstab"
-msgstr ""
+msgstr "rygghugg"
 
 #: Under_the_Burning_Suns/units/Desert_Avenger.cfg:33
 msgid ""
@@ -5982,17 +6054,17 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Avenger.cfg:107
 msgid "female^Desert Avenger"
-msgstr ""
+msgstr "Ökenjägare"
 
 #: Under_the_Burning_Suns/units/Desert_Avenger.cfg:134
 msgid "ambush"
-msgstr ""
+msgstr "bakhåll"
 
 #: Under_the_Burning_Suns/units/Desert_Captain.cfg:12
 #: Under_the_Burning_Suns/units/Desert_Marshal.cfg:13
 #: Under_the_Burning_Suns/units/Human_Captain.cfg:27
 msgid "leadership"
-msgstr ""
+msgstr "ledarskap"
 
 #: Under_the_Burning_Suns/units/Desert_Captain.cfg:33
 msgid ""
@@ -6011,7 +6083,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Shyde.cfg:37
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:32
 msgid "cures"
-msgstr ""
+msgstr "helar"
 
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:33
 msgid ""
@@ -6029,19 +6101,19 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Shaman.cfg:37
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:36
 msgid "staff"
-msgstr ""
+msgstr "stav"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:74
 #: Under_the_Burning_Suns/units/Desert_Shyde.cfg:68
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:55
 msgid "ensnare"
-msgstr ""
+msgstr "snärja"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:94
 #: Under_the_Burning_Suns/units/Desert_Shyde.cfg:88
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:75
 msgid "thorns"
-msgstr ""
+msgstr "törnen"
 
 #: Under_the_Burning_Suns/units/Desert_Fighter6.cfg:31
 #: Under_the_Burning_Suns/units/Desert_Fighter7.cfg:31
@@ -6067,7 +6139,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Horseman.cfg:4
 msgid "Desert Horseman"
-msgstr ""
+msgstr "Ökenryttare"
 
 #: Under_the_Burning_Suns/units/Desert_Horseman.cfg:35
 msgid ""
@@ -6105,7 +6177,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Hunter2.cfg:52
 #: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:52
 msgid "bola"
-msgstr ""
+msgstr "bola"
 
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:30
 msgid ""
@@ -6121,18 +6193,18 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:49
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:153
 msgid "longbow"
-msgstr ""
+msgstr "långbåge"
 
 #: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:51
 #: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:155
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:51
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:155
 msgid "marksman"
-msgstr ""
+msgstr "prickskytt"
 
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:108
 msgid "female^Desert Marksman"
-msgstr ""
+msgstr "Ökenprickskytt"
 
 #: Under_the_Burning_Suns/units/Desert_Marshal.cfg:34
 msgid ""
@@ -6149,7 +6221,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:30
 #: Under_the_Burning_Suns/units/Nym_Prowler.cfg:30
 msgid "skirmisher"
-msgstr ""
+msgstr "stigfinnare"
 
 #: Under_the_Burning_Suns/units/Desert_Outrider.cfg:35
 msgid ""
@@ -6179,7 +6251,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:107
 msgid "female^Desert Ranger"
-msgstr ""
+msgstr "Ökenvaktare"
 
 #: Under_the_Burning_Suns/units/Desert_Rider.cfg:37
 msgid ""
@@ -6217,7 +6289,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:12
 #: Under_the_Burning_Suns/units/Desert_Shaman.cfg:12
 msgid "heals"
-msgstr ""
+msgstr "vårdar"
 
 #: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:33
 #: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:33
@@ -6240,7 +6312,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:56
 #: Under_the_Burning_Suns/units/Desert_Shaman.cfg:56
 msgid "entangle"
-msgstr ""
+msgstr "snärja"
 
 #: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:29
 msgid ""
@@ -6253,7 +6325,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:107
 msgid "female^Desert Sharpshooter"
-msgstr ""
+msgstr "Ökenskarpskytt"
 
 #: Under_the_Burning_Suns/units/Desert_Shyde.cfg:38
 msgid ""
@@ -6268,11 +6340,11 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:48
 #: Under_the_Burning_Suns/units/Desert_Shyde.cfg:42
 msgid "faerie touch"
-msgstr ""
+msgstr "älvaberöring"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:12
 msgid "illuminates,cures"
-msgstr ""
+msgstr "lyser upp, helar"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:44
 msgid ""
@@ -6300,7 +6372,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Dwarvish_Berserker2.cfg:4
 msgid "Dwarvish Berserker"
-msgstr ""
+msgstr "Dvärgbärsärk"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Berserker2.cfg:21
 msgid ""
@@ -6309,22 +6381,26 @@ msgid ""
 "battle is entered, Dwarvish Berserkers attack ferociously, continuing to "
 "push the attack until either they or their enemy lies dead."
 msgstr ""
+"Dvärgarna är en urgammal ras av mäktiga krigare. Deras bärsärkar glömmer all "
+"självbevarelsedrift för att få in fler träffar på motståndaren. När de har "
+"givit sig in i striden attackerar de vildsint tills antingen de själva eller "
+"deras fiende ligger död på marken."
 
 #: Under_the_Burning_Suns/units/Dwarvish_Ulfserker2.cfg:31
 #: Under_the_Burning_Suns/units/Dwarvish_Berserker2.cfg:31
 msgid "berserker frenzy"
-msgstr ""
+msgstr "bärsärkagång"
 
 #: Under_the_Burning_Suns/units/Flesh_Golem.cfg:29
 #: Under_the_Burning_Suns/units/Dwarvish_Ulfserker2.cfg:34
 #: Under_the_Burning_Suns/units/Dwarvish_Berserker2.cfg:34
 #: Under_the_Burning_Suns/units/Flesh_Golem2.cfg:34
 msgid "berserk"
-msgstr ""
+msgstr "bärsärk"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Dragonguard2.cfg:4
 msgid "Dwarvish Dragonguard"
-msgstr ""
+msgstr "Dvärgarnas drakvakt"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Dragonguard2.cfg:21
 msgid ""
@@ -6332,11 +6408,14 @@ msgid ""
 "using fire from what are called dragonstaves. They are the chief possessors "
 "of arcane Dwarvish technology."
 msgstr ""
+"Drakvakterna är de stora dvärgstädernas väktare, och de skjuter på sina "
+"fiender med eld från vad dvärgarna kallar drakstavar. De besitter den "
+"främsta kunskapen om uråldrig dvärgteknologi."
 
 #: Under_the_Burning_Suns/units/Dwarvish_Dragonguard2.cfg:25
 #: Under_the_Burning_Suns/units/Dwarvish_Dragonguard2.cfg:43
 msgid "dragonstaff"
-msgstr ""
+msgstr "drakstav"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:4
 msgid "Dwarvish Explorer"
@@ -6360,11 +6439,11 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:25
 #: Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:49
 msgid "axe"
-msgstr ""
+msgstr "yxa"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Fighter2.cfg:4
 msgid "Dwarvish Fighter"
-msgstr ""
+msgstr "Dvärgkrigare"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Fighter2.cfg:24
 msgid ""
@@ -6373,16 +6452,19 @@ msgid ""
 "terrain or underground. Though not swift, their power and endurance more "
 "than compensate."
 msgstr ""
+"Dvärgkrigarna är allra bäst i tunnlar och bergig terräng. Kraften i deras "
+"stridsyxor gör dem till fruktade motståndare i närstrid. Om än något "
+"långsamma så är de både starka och uthålliga."
 
 #: Under_the_Burning_Suns/units/Dwarvish_Lord2.cfg:49
 #: Under_the_Burning_Suns/units/Dwarvish_Fighter2.cfg:44
 #: Under_the_Burning_Suns/units/Dwarvish_Steelclad2.cfg:50
 msgid "hammer"
-msgstr ""
+msgstr "hammare"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Lord2.cfg:4
 msgid "Dwarvish Lord"
-msgstr ""
+msgstr "Bergakung"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Lord2.cfg:29
 msgid ""
@@ -6390,15 +6472,18 @@ msgid ""
 "axe is unmatched, and they are able to hit even enemies that are far away. "
 "Their fine armor is made of the strong alloys crafted by their kin."
 msgstr ""
+"Bergakungarna regerar under bergen. Ingen kan mäta sig med dem i hanteringen "
+"av en stridsyxa, de kan till och med kasta den. Deras rustningar är gjorda "
+"av de starka legeringar som bara dvärgarna kan framställa."
 
 #: Under_the_Burning_Suns/units/Dwarvish_Lord2.cfg:32
 #: Under_the_Burning_Suns/units/Dwarvish_Steelclad2.cfg:32
 msgid "battle axe"
-msgstr ""
+msgstr "stridsyxa"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Lord2.cfg:65
 msgid "hatchet"
-msgstr ""
+msgstr "kastyxa"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:4
 msgid "Dwarvish Pathfinder"
@@ -6424,29 +6509,31 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Dwarvish_Sentinel2.cfg:4
 msgid "Dwarvish Sentinel"
-msgstr ""
+msgstr "Dvärgarnas vaktpost"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Sentinel2.cfg:22
 #: Under_the_Burning_Suns/units/Dwarvish_Stalwart2.cfg:22
 msgid "steadfast"
-msgstr ""
+msgstr "ståndaktig"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Sentinel2.cfg:28
 msgid ""
 "The Sentinel, with his tower shield and great courage, refuses to yield "
 "under even the strongest of enemy attacks."
 msgstr ""
+"Vaktposten, med sin breda sköld och stora mod, vägrar att ge vika även under "
+"de mest kraftiga attacker."
 
 #: Under_the_Burning_Suns/units/Dwarvish_Sentinel2.cfg:31
 #: Under_the_Burning_Suns/units/Dwarvish_Sentinel2.cfg:45
 #: Under_the_Burning_Suns/units/Dwarvish_Stalwart2.cfg:31
 #: Under_the_Burning_Suns/units/Dwarvish_Stalwart2.cfg:45
 msgid "spear"
-msgstr ""
+msgstr "spjut"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Stalwart2.cfg:4
 msgid "Dwarvish Stalwart"
-msgstr ""
+msgstr "Dvärgarnas pansarnäve"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Stalwart2.cfg:28
 msgid ""
@@ -6454,20 +6541,25 @@ msgid ""
 "armor from the ruins of their enemies. While slow, they are the feared for "
 "their resilience and strength."
 msgstr ""
+"Pansarnävarna har efter år av strider dragit nytta av sina fienders nederlag "
+"och skapat nya sköldar och starka runstningar. Även om de är långsamma, är "
+"de fruktade för sin uthållighet och styrka."
 
 #: Under_the_Burning_Suns/units/Dwarvish_Steelclad2.cfg:4
 msgid "Dwarvish Steelclad"
-msgstr ""
+msgstr "Dvärgarnas järnnäve"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Steelclad2.cfg:29
 msgid ""
 "The more experienced Dwarvish Steelclad fighters wear heavy chain mail and "
 "plate armor, for which they are rightly famous."
 msgstr ""
+"Dvärgarnas järnnävar bär tunga ringbrynjor och stålrustningar. Detta har "
+"rättmätigt gjort dem berömda och fruktade vida omkring."
 
 #: Under_the_Burning_Suns/units/Dwarvish_Thunderer2.cfg:4
 msgid "Dwarvish Thunderer"
-msgstr ""
+msgstr "Dvärgarnas tordönstrupp"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Thunderer2.cfg:21
 msgid ""
@@ -6476,14 +6568,18 @@ msgid ""
 "are slower, cruder and noisier than the elegant and swift elvish bows, but "
 "their impact is unmatched."
 msgstr ""
+"Dvärgarnas tordönstrupper förser dvärgarna med välbehövligt eldunderstöd, så "
+"att deras mäktiga men långsamma krigare hinner komma fram till närstriden. "
+"Deras mystiska vapen är tyngre, långsammare och mer högljudda än alvernas "
+"långbågar, men deras genomslagskraft är utan motstycke."
 
 #: Under_the_Burning_Suns/units/Dwarvish_Thunderer2.cfg:45
 msgid "thunderstick"
-msgstr ""
+msgstr "åskstav"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Thunderguard2.cfg:4
 msgid "Dwarvish Thunderguard"
-msgstr ""
+msgstr "Dvärgarnas tordönsvakt"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Thunderguard2.cfg:21
 msgid ""
@@ -6492,14 +6588,18 @@ msgid ""
 "they are no faster than the more common Thunderers, their attack is much "
 "more deadly."
 msgstr ""
+"Dvärgarnas berömda tordönsvakter använder sig av mystiska och fruktade vapen "
+"som smitts av dvärgarnas vapenmästare, experter på uråldrig dvärgteknologi. "
+"Även om de inte är lika snabba som de vanliga tordönstrupperna, så är de "
+"mycket mer dödliga."
 
 #: Under_the_Burning_Suns/units/Dwarvish_Thunderguard2.cfg:51
 msgid "dragonstick"
-msgstr ""
+msgstr "drakstav"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Ulfserker2.cfg:4
 msgid "Dwarvish Ulfserker"
-msgstr ""
+msgstr "Dvärgarnas ulvhedin"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Ulfserker2.cfg:21
 msgid ""
@@ -6507,6 +6607,9 @@ msgid ""
 "ferocious of these in battle: they attack without stopping fighting until "
 "either their enemy or they are dead, no matter how many wounds they receive."
 msgstr ""
+"Dvärgar är en uråldrig ras av mäktiga krigare. Ulvhednarna är de mest "
+"vildsinta av dessa i strid: de anfaller obönhörligt tills antingen de själva "
+"eller fienden är död, oavsett hur skadade de själva blir."
 
 #: Under_the_Burning_Suns/units/Flesh_Golem.cfg:4
 #: Under_the_Burning_Suns/units/Flesh_Golem2.cfg:9
@@ -6530,7 +6633,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Giant_Tentacle.cfg:4
 msgid "Giant Tentacle"
-msgstr ""
+msgstr "Jättetentakel"
 
 #: Under_the_Burning_Suns/units/Great_Troll2.cfg:8
 #: Under_the_Burning_Suns/units/Giant_Tentacle.cfg:8
@@ -6540,17 +6643,19 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Troll_Whelp2.cfg:8
 #: Under_the_Burning_Suns/units/Troll2.cfg:8
 msgid "regenerates"
-msgstr ""
+msgstr "regenererar"
 
 #: Under_the_Burning_Suns/units/Giant_Tentacle.cfg:18
 msgid ""
 "Giant Tentacles are probably the appendages of some larger monster that "
 "lurks deep beneath the waters, though no one knows for sure."
 msgstr ""
+"Jättetentaklerna är troligtvis lemmar från några av de större monster som "
+"lurar i havsdjupen, men ingen vet säkert."
 
 #: Under_the_Burning_Suns/units/Great_Troll2.cfg:4
 msgid "Great Troll"
-msgstr ""
+msgstr "Stort troll"
 
 #: Under_the_Burning_Suns/units/Great_Troll2.cfg:23
 msgid ""
@@ -6558,11 +6663,14 @@ msgid ""
 "ability to regenerate themselves, so that they recover from wounds on their "
 "own, even during battle."
 msgstr ""
+"De stora trollen är starka, brutala humanoida monster som har den "
+"fantastiska förmågan att regenerera, så att de kan läka sina skador medan de "
+"fortfarande slåss."
 
 #: Under_the_Burning_Suns/units/Great_Troll2.cfg:26
 #: Under_the_Burning_Suns/units/Troll_Warrior2.cfg:26
 msgid "mace"
-msgstr ""
+msgstr "spikklubba"
 
 #: Under_the_Burning_Suns/units/Haunt.cfg:4
 msgid "Haunt"
@@ -6580,14 +6688,14 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:19
 #: Under_the_Burning_Suns/units/Haunt.cfg:24
 msgid "touch"
-msgstr ""
+msgstr "beröring"
 
 #: Under_the_Burning_Suns/units/scen7_Ghost.cfg:38
 #: Under_the_Burning_Suns/units/Haunt.cfg:36
 #: Under_the_Burning_Suns/units/scen7_Wraith.cfg:48
 #: Under_the_Burning_Suns/units/scen7_Spectre.cfg:48
 msgid "wail"
-msgstr ""
+msgstr "tjut"
 
 #: Under_the_Burning_Suns/units/Human_Captain.cfg:4
 msgid "Human Captain"
@@ -6615,7 +6723,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Ixthala_Demon.cfg:23
 msgid "flaming sword"
-msgstr ""
+msgstr "eldsvärd"
 
 #: Under_the_Burning_Suns/units/Lava_Monster2.cfg:25
 #: Under_the_Burning_Suns/units/Lava_Monster2.cfg:49
@@ -6626,7 +6734,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Lava_Monster3.cfg:25
 #: Under_the_Burning_Suns/units/Lava_Monster3.cfg:49
 msgid "fire"
-msgstr ""
+msgstr "eld"
 
 #: Under_the_Burning_Suns/units/Lava_Monster2.cfg:4
 #: Under_the_Burning_Suns/units/Lava_Monster.cfg:4
@@ -6678,11 +6786,11 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:35
 msgid "boiling water"
-msgstr ""
+msgstr "kokande vatten"
 
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:4
 msgid "Spider Lich"
-msgstr ""
+msgstr "Spindelhäxmästare"
 
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:16
 msgid ""
@@ -6690,10 +6798,13 @@ msgid ""
 "sight to behold. Crawling around on huge skeletal legs, and wielding huge "
 "magical staves, these abominations are fearsome undead foes. "
 msgstr ""
+"Ingen vet riktigt hur spindelhäxmästarna skapades, men de utgör en "
+"fruktansvärd syn. De kryper omkring på sina stora skelettben med sina stora "
+"magiska stavar. Dessa styggelser är skrämmande vandöda monster."
 
 #: Under_the_Burning_Suns/units/Troll2.cfg:4
 msgid "Troll"
-msgstr ""
+msgstr "Troll"
 
 #: Under_the_Burning_Suns/units/Troll2.cfg:23
 msgid ""
@@ -6701,14 +6812,17 @@ msgid ""
 "regenerate themselves, so that they recover from wounds on their own, even "
 "during battle."
 msgstr ""
+"Trollen är starka, brutala humanoida monster som har den fantastiska "
+"förmågan att regenerera, så att de kan läka sina skador medan de fortfarande "
+"slåss."
 
 #: Under_the_Burning_Suns/units/Troll2.cfg:26
 msgid "club"
-msgstr ""
+msgstr "klubba"
 
 #: Under_the_Burning_Suns/units/Troll_Rocklobber2.cfg:4
 msgid "Troll Rocklobber"
-msgstr ""
+msgstr "Stenkastartroll"
 
 #: Under_the_Burning_Suns/units/Troll_Rocklobber2.cfg:23
 msgid ""
@@ -6716,10 +6830,14 @@ msgid ""
 "recovering from their wounds during battle. These trolls have armed "
 "themselves with large rocks they hurl at their opponents."
 msgstr ""
+"Trollen är starka, brutala humanoida monster som har den fantastiska "
+"förmågan att regenerera, så att de kan läka sina skador medan de fortfarande "
+"slåss. Stenkastartrollen har beväpnat sig med stora stenblock som de slungar "
+"mot sina fiender."
 
 #: Under_the_Burning_Suns/units/Troll_Rocklobber2.cfg:44
 msgid "sling"
-msgstr ""
+msgstr "slunga"
 
 #: Under_the_Burning_Suns/units/Troll_Shaman.cfg:4
 msgid "Troll Shaman"
@@ -6734,17 +6852,20 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Troll_Warrior2.cfg:4
 msgid "Troll Warrior"
-msgstr ""
+msgstr "Trollkrigare"
 
 #: Under_the_Burning_Suns/units/Troll_Warrior2.cfg:23
 msgid ""
 "Hardened by battle, Troll Warriors can deliver deadly blows with a mace, and "
 "are able to regenerate, healing their own wounds during combat."
 msgstr ""
+"Härdade av strid som de är, kan trollkrigarna utdela dödande slag med sina "
+"spikklubbor. De har förmågan att regenerera, så att de kan läka sina skador "
+"medan de fortfarande slåss."
 
 #: Under_the_Burning_Suns/units/Troll_Whelp2.cfg:4
 msgid "Troll Whelp"
-msgstr ""
+msgstr "Trollvalp"
 
 #: Under_the_Burning_Suns/units/Troll_Whelp2.cfg:23
 msgid ""
@@ -6752,6 +6873,10 @@ msgid ""
 "recovering from their wounds during battle. Although these Trolls are still "
 "weak whelps, their race is known for developing amazingly fast."
 msgstr ""
+"Trollen är starka, brutala humanoida monster som har den fantastiska "
+"förmågan att regenerera, så att de kan läka sina skador medan de fortfarande "
+"slåss. Även om dessa troll fortfarande är unga och svaga, så är trollen "
+"kända för att utvecklas skrämmande snabbt."
 
 #: Under_the_Burning_Suns/units/Troll_Zombie.cfg:4
 msgid "Troll Zombie"
@@ -6765,11 +6890,11 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Troll_Zombie.cfg:31
 msgid "plague"
-msgstr ""
+msgstr "pest"
 
 #: Under_the_Burning_Suns/units/Undead_Horseman.cfg:4
 msgid "Skeleton Rider"
-msgstr ""
+msgstr "Skelettryttare"
 
 #: Under_the_Burning_Suns/units/Undead_Horseman.cfg:17
 msgid ""
@@ -6780,7 +6905,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Vampire_Bat2.cfg:4
 msgid "Vampire Bat"
-msgstr ""
+msgstr "Vampyrfladdermus"
 
 #: Under_the_Burning_Suns/units/Vampire_Bat2.cfg:17
 msgid ""
@@ -6788,10 +6913,13 @@ msgid ""
 "While their fangs are not very powerful, the health of victims is drained "
 "away along with their blood, and given to the Bats."
 msgstr ""
+"En vandöd flygande best, som attackerar genom att bita sina fiender. Även om "
+"deras huggtänder inte är så kraftfulla, så suger de både blod och livskraft "
+"ur sina offer och utvinner styrka ur detta."
 
 #: Under_the_Burning_Suns/units/Water_Serpent.cfg:4
 msgid "Water Serpent"
-msgstr ""
+msgstr "Vattenorm"
 
 #: Under_the_Burning_Suns/units/Water_Serpent.cfg:16
 msgid ""
@@ -6799,6 +6927,9 @@ msgid ""
 "Serpents can swim through water quite quickly and prey on all manner of "
 "creatures both large and small."
 msgstr ""
+"Vattenormarna är mindre släktingar till de mer kända sjöormarna. Vattenormar "
+"simmar snabbt genom vattnet och väljer sina byten bland både små och stora "
+"varelser."
 
 #: Under_the_Burning_Suns/units/scen7_Ghost.cfg:4
 msgid "Ethereal Ghost"
@@ -6825,7 +6956,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/scen7_Nightgaunt.cfg:25
 msgid "nightstalk"
-msgstr ""
+msgstr "skyggsteg"
 
 #: Under_the_Burning_Suns/units/scen7_Shadow.cfg:4
 msgid "Ethereal Shadow"
@@ -6853,7 +6984,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/scen7_Wraith.cfg:31
 #: Under_the_Burning_Suns/units/scen7_Spectre.cfg:31
 msgid "baneblade"
-msgstr ""
+msgstr "domedagssvärd"
 
 #: Under_the_Burning_Suns/units/scen7_Wraith.cfg:4
 msgid "Ethereal Wraith"
