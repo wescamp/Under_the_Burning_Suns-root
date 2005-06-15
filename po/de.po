@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-06-11 11:09+0200\n"
-"PO-Revision-Date: 2005-06-13 00:07+0200\n"
+"PO-Revision-Date: 2005-06-15 21:25+0200\n"
 "Last-Translator: Allefant <allefant@gmail.com>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -3855,6 +3855,8 @@ msgid ""
 "I heartily agree, I for one can't wait to feel the sun upon my face again "
 "and the wind in my hair."
 msgstr ""
+"Ich stimme gerne zu, ich für meinen Teil kann es gar nicht erwarten, die "
+"Sonne wieder in meinem Gesicht zu spüren."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:340
 msgid ""
@@ -3885,9 +3887,9 @@ msgid ""
 msgstr ""
 "Welche Art Heimat hatte Eloh für uns auf der anderen Seite der Berge "
 "auserkoren? Gab es irgendeinen Platz in der Welt, der nicht von Krieg und "
-"Zerstörung geplagt war? Ich war in einem Land von 'Töten oder getötet' "
-"werden aufgewachsen. Banditen, Oger, und Monster machten Jagt auf die "
-"schwachen und hilflosen. Orks und Kobolde überfielen unsere Siedlungen, und "
+"Zerstörung geplagt war? Ich war in einem Land von 'Töten oder getötet "
+"werden' aufgewachsen. Banditen, Oger, und Monster machten Jagt auf die "
+"Schwachen und Hilflosen. Orks und Kobolde überfielen unsere Siedlungen, und "
 "mein Volk musste kämpfen, um das wenige zu beschützen, das es hatte. Und zu "
 "alledem trieben Totenbeschwörer ihr Unwesen, und untote Geister suchten den "
 "Wüstensand heim, sich ernährend von den wenigen Überlebenden."
@@ -4578,7 +4580,6 @@ msgid "I feel some sort of presence...ugh...it make my skin crawl."
 msgstr "Ich fühle eine Art Präsenz...brr...ich bekomme eine Gänsehaut."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3141
-#, fuzzy
 msgid ""
 "I though you said $ally_name that you'd been here before? Where are we "
 "supposed to go from here?"
@@ -5440,19 +5441,19 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4561
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4677
 msgid "Defeat Durstrag"
-msgstr ""
+msgstr "Besiegt Durstrag"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4640
 msgid "I'm back, Kaleh."
-msgstr ""
+msgstr "Ich bin zurück, Kaleh."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4645
 msgid "Ah! You scared me Nym. I didn't see you coming."
-msgstr ""
+msgstr "Ah! Du hast mich erschreckt, Nym. Ich habe dich nicht kommen gesehen."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4650
 msgid "Of course you didn't. That's why it's called sneaking."
-msgstr ""
+msgstr "Natürlich nicht. Deshalb nennt man es auch anschleichen."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4655
 msgid ""
@@ -5461,10 +5462,14 @@ msgid ""
 "the half-manned. They obviously didn't expect any serious attack to come "
 "from this direction."
 msgstr ""
+"Jedenfalls hast du uns in einen schönen Schlamassel gebracht. Die gute "
+"Nachricht ist dass der Wachposten nicht so gut bewacht ist wie man erwarten "
+"könnte. Die Garnison scheint nur halb besetzt. Offensichtlich haben sie aus "
+"dieser Richtung keinen ernsthaften Angriff erwartet."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4660
 msgid "And what's the bad news?"
-msgstr ""
+msgstr "Und was ist die schlechte Nachricht?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4665
 msgid ""
@@ -5475,16 +5480,25 @@ msgid ""
 "state if they bring the full strength of their army against us I fear we may "
 "be crushed."
 msgstr ""
+"Die schlechte Nachricht ist, das ich den Kommandanten belauschen konnte, wie "
+"er einer Spezialeinheit seiner Männer den Auftrag erteilt hat, nach Norden "
+"zu reiten um Verstärkung anzufordern. Wie es scheint, haben die Menschen "
+"eine größere Ansiedlung im Norden. Dieser Vorposten ist leicht genug "
+"verteidigt, dass wir ihn erobern könnten, aber ich fürchte, dass wir in "
+"unserem geschwächten Zustand in einem Kampf gegen ihre ganze Armee "
+"vernichtend geschlagen würden."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4670
 msgid ""
 "Then we'll just have to make sure that no messenger escapes this valley to "
 "summon reinforcements."
 msgstr ""
+"Dann müssen wir ganz einfach sicherstellen, dass kein Bote aus dem Tal "
+"entkommt, um Verstärkung zu holen."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4681
 msgid "If a Human Messenger Escapes the Valley"
-msgstr ""
+msgstr "Ein Bote der Menschen entkommt aus dem Tal."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4795
 msgid ""
@@ -5493,12 +5507,19 @@ msgid ""
 "are the order of the crimson talon, and even death shall not stop us. You "
 "shall rue the day that you ever trespassed into out lair!"
 msgstr ""
+"Verfluchte Elfen, ihr habt mit euren Schmutzfüßen unsere Hallen befleckt und "
+"unser Heiligtum entweiht. Ihr habt unsere Ehre besudelt, und jetzt werdet "
+"ihr unsere Rache zu spüren bekommen. Wir sind er Orden der Roten Kralle, und "
+"nicht einmal der Tod kann uns aufhalten. Bald werdet ihr den Tag bereuen, an "
+"dem ihr in unser Reich eingedrungen seid."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4811
 msgid ""
 "Can't the dead ever just stay dead? And aren't they trapped by the flooded "
 "tunnels and caves?"
 msgstr ""
+"Können die Toten nicht einmal einfach tot bleiben? Und warum sind sie nicht "
+"in den überfluteten Tunnel und Höhlen eingesperrt?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4816
 msgid ""
@@ -5506,77 +5527,95 @@ msgid ""
 "stop them. Besides you saw how the ghost just flew through the rock, if they "
 "can move through walls then what do they care about flooded tunnels?"
 msgstr ""
+"Untote brauchen nicht atmen, und ich denke nicht, dass ein bisschen Wasser "
+"sie aufhält. Außerdem, du hast gesehen wie der Geist einfach durch den Fels "
+"hindurch geflogen ist. Wenn sie durch Wände gehen können, warum nicht auch "
+"durch überflutete Höhlen?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4821
 msgid "Great. So now we're fighting in a haunted valley."
-msgstr ""
+msgstr "Großartig. Also kämpfen wir jetzt in einem Tal in dem es spukt."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4957
 msgid ""
 "Send forth the messenger and his escort. Go north and bring help as soon as "
 "possible!"
 msgstr ""
+"Sendet den Boten aus, und gebt ihm eine Eskorte. Geht nach Norden und holt "
+"Verstärkung so schnell es geht."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5059
 msgid ""
 "If that messenger escapes the valley, we'll be in trouble. We have to stop "
 "him!"
 msgstr ""
+"Wenn dieser Bote aus dem Tal entkommt, sind wir in ernsten Schwierigkeiten. "
+"Wir müssen ihn aufhalten!"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5094
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5099
 msgid "Human Messenger"
-msgstr ""
+msgstr "Bote der Menschen"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5106
 msgid ""
 "The messenger has escaped! He will surely return with reinforcements. We are "
 "doomed!"
 msgstr ""
+"Der Bote ist entkommen! Jetzt wird er mit Sicherheit die Verstärkung "
+"informieren. Wir sind verloren!"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5126
 msgid ""
 "Don't worry. We're not the monsters you seem to think we are. I will not "
 "kill you in cold blood."
 msgstr ""
+"Mach dir keine Sorgen. Wir sind nicht die blutrünstigen Monster, für die du "
+"uns zu halten scheinst. Ich werde dich nicht kaltblütig ermorden."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5131
 msgid "Paugh, boy you know nothing! There are fates worse than death."
 msgstr ""
+"Pah, Junge, du weißt gar nichts! Es gibt schlimmere Schicksale als den Tod."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5142
 msgid "He killed himself rather then surrender to us!"
-msgstr ""
+msgstr "Er hat lieber Selbstmord begangen als sich uns zu ergeben!"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5164
 msgid "The rest of the humans are fleeing."
-msgstr ""
+msgstr "Die anderen Menschen fliehen."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5169
 msgid "Let them go. We have won this battle and I weary of all this bloodshed."
 msgstr ""
+"Lasst sie gehen. Wir haben diese Schlacht gewonnen, und ich bin all des "
+"Blutvergießens Müde."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5174
 msgid "What was it that Durstrag was so afraid of?"
-msgstr ""
+msgstr "Wovor hatte Durstrang nur so große Angst?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5179
 msgid "I don't know, but I fear we may find out."
-msgstr ""
+msgstr "Ich weiß nicht, aber ich fürchte, wir werden es herausfinden."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5184
 msgid ""
 "You're being very cryptic, Kaleh. Now that the battle is over would you care "
 "to explain to us who you were talking to back when we first met Durstrag?"
 msgstr ""
+"Du sprichst in Rätseln, Kaleh. Jetzt wo die Schlacht vorbei ist, hättest du "
+"die Güte, uns zu erklären, mit wem du gesprochen hast, als wir Durstrang das "
+"erste Mal begegnet sind?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5189
 msgid "No, not yet."
-msgstr ""
+msgstr "Nein, noch nicht"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5194
 msgid "What's wrong Kaleh? Don't you trust us?"
-msgstr ""
+msgstr "Was ist los, Kaleh? Vertraust du uns nicht?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5199
 msgid ""
@@ -5584,12 +5623,17 @@ msgid ""
 "until I have proof. Give me until tomorrow night, then I'll tell you "
 "everything."
 msgstr ""
+"Doch, natürlich vertraue ich euch. Aber es ist nur eine Theorie. Ich will "
+"nicht mehr verraten, bevor ich einen Beweis habe. Gebt mir bis morgen Nacht, "
+"dann werde ich euch alles erzählen."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5204
 msgid ""
 "Very well. I've trusted your decision and your leadership so far, I'll wait "
 "a little longer."
 msgstr ""
+"Wie du willst. Ich habe deinen Entscheidungen und deiner Führung bis jetzt "
+"vertraut, als warte ich noch etwas länger."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5209
 msgid ""
@@ -5598,6 +5642,10 @@ msgid ""
 "forever. The humans will be back with reinforcements eventually, and the "
 "valley is still haunted with undead."
 msgstr ""
+"Also, was mach wir jetzt? Das Land scheint auf der Nordseite des Gebirges "
+"ungefähr das gleiche zu sein wie im Süden. Und wir können hier nicht ewig "
+"bleiben. Die Menschen werden früher oder später mit Verstärkung "
+"zurückkehren, und das Tal wird noch immer von Untoten heimgesucht."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5214
 msgid ""
@@ -5607,6 +5655,12 @@ msgid ""
 "foreign lands when I don't know what's in front of us. We've lost too many "
 "people already. I don't want to lead us into a trap."
 msgstr ""
+"Ja, ich denke, je früher wir dieses Tal verlassen, umso besser. Aber wir "
+"wissen rein gar nichts über das umliegende Gelände. Ohne jemanden, der diese "
+"Gegend kennt, wissen wir nicht, welche Gefahren auf uns lauern. Ich würde "
+"nur ungern unsere Leute über fremdes Land schicken, ohne zu wissen, was vor "
+"uns liegt. Wir hatten schon zu große Verluste. Ich möchte uns nicht in eine "
+"Falle führen."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5219
 msgid ""
@@ -5614,6 +5668,10 @@ msgid ""
 "this valley. If we move out there we should be out of range of the undead. I "
 "think it would be safe, at least for the short term."
 msgstr ""
+"Als ich die Umgebung erkundet habe, denke ich habe ich eine kleine Oase nahe "
+"beim Taleingang gesehen. Wenn wir dorthin gehen, sollten wir uns außerhalb "
+"der Reichweite der Untoten befinden. Ich denke es würde sicher sein, "
+"zumindest kurzfristig."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5224
 msgid ""
@@ -5621,6 +5679,10 @@ msgid ""
 "the farther away they travel, the weaker they are. So if we move out of the "
 "immediate vicinity we should be pretty safe."
 msgstr ""
+"In der Tat. Untote Geister wie diese sind oft an den Ort gebunden, an dem "
+"sie gestorben sind, und je weiter weg sie reisen, umso schwächer sind sie. "
+"Wenn wir also die unmittelbaren Umgebung verlassen, sollten wir ziemlich "
+"sicher sein."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5229
 msgid ""
@@ -5630,34 +5692,53 @@ msgid ""
 "northeast and northwest. Don't go too far, try not to be seen, and please "
 "don't do anything dangerous. But I want to know what's out there."
 msgstr ""
+"Gut, dann werden wir unsere Leute wegbringen, und bei der Oase übernachten. "
+"Jetzt zu dir, Nym, du weißt, wer unsere besten Scouts sind, und ich will, "
+"dass du ein paar Elfen anführst, die die Umgebung erkunden. Wir werden "
+"kleinere Spähtrupps nach Norden, Nordosten und Nordwesten aussenden. Geht "
+"nicht zu weit, versucht nicht gesehen zu werden, und bitte, du nichts "
+"gefährliches. Aber ich muss wissen, was da draußen auf uns wartet."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5234
 msgid "But hasn't Eloh told you where to go and what dangers you face?"
 msgstr ""
+"Aber hat die Eloh nicht gesagt, wohin du gehen sollst, und welchen Gefahren "
+"du gegenüberstehen wirst?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5239
 msgid ""
 "She was...rather vague. I know we're supposed to generally go north, but I "
 "want more information before I commit us to a direction."
 msgstr ""
+"Sie war ziemlich...ungenau. Ich weiß dass wir uns Richtung Norden halten "
+"sollen, aber ich benötige mehr Information, bevor ich mich auf eine Richtung "
+"festlegen kann."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5244
 msgid ""
 "Don't you worry about us, Kaleh. We'll be careful. I'll organize five bands "
 "to scout out the nearby lands. We should be back in about half a day."
 msgstr ""
+"Mach die keine Sorgen um uns, Kaleh. Wir werden vorsichtig sein. Ich werde "
+"fünf Spähtrupps organisieren, die die Umgebung auskundschaften. Wir werde in "
+"einem halben Tag zurück sein."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5249
 msgid ""
 "Good, until then we'll settle around that oasis and set up as good a defense "
 "as we can. Until I know what's out there, I'm not taking any chances."
 msgstr ""
+"Gut, wir lassen uns bis dahin bei der Oase nieder, und werden versuchen, "
+"ringsum eine Verteidigung aufzubauen, so gut es geht. Bevor ich nicht weiß, "
+"was uns erwartet, will ich kein Risiko eingehen."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6037
 msgid ""
 "I can see human reinforcements arriving on the horizon. We'll surely be "
 "overwhelmed now! If only we had moved faster."
 msgstr ""
+"Ich kann am Horizont die Verstärkung der Menschen sehen. Jetzt haben wir "
+"eine Übermacht gegen uns. Wäre wir nur doch nur schneller gewesen!"
 
 #: Under_the_Burning_Suns/scenarios/EndMessage.cfg:20
 msgid ""
@@ -5670,7 +5751,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Ant.cfg:4
 msgid "Giant Ant"
-msgstr ""
+msgstr "Riesenameise"
 
 #: Under_the_Burning_Suns/units/Ant.cfg:17
 msgid ""
@@ -5678,6 +5759,9 @@ msgid ""
 "earth to the tops of tall mountains. Though normally not hostile, they can "
 "bite at close range."
 msgstr ""
+"Riesenameisen sind in fast jeder Umgebung heimisch, von Höhlen tief unter "
+"der Erde, bis zu hohen Berggipfeln. Obwohl sie normalerweise nicht "
+"feindselig sind, können sie kräftig zubeißen, wenn man ihnen zu nahe kommt."
 
 #: Under_the_Burning_Suns/units/Confused_Ant.cfg:20
 #: Under_the_Burning_Suns/units/Ant.cfg:20
@@ -5687,7 +5771,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Dread_Bat.cfg:20
 #: Under_the_Burning_Suns/units/Cave_Spider2.cfg:20
 msgid "fangs"
-msgstr ""
+msgstr "Klauen"
 
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:23
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:45
@@ -5781,11 +5865,11 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:38
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:139
 msgid "blade"
-msgstr ""
+msgstr "Klinge"
 
 #: Under_the_Burning_Suns/units/Blood_Bat2.cfg:4
 msgid "Blood Bat"
-msgstr ""
+msgstr "Blutfledermaus"
 
 #: Under_the_Burning_Suns/units/Blood_Bat2.cfg:17
 msgid ""
@@ -5794,6 +5878,10 @@ msgid ""
 "began the battle. Such is their fury that the fur of these undead flying "
 "beasts is tainted red with the blood of their victims."
 msgstr ""
+"Blutfledermäuse sind nicht nur schnell, sie können auch Blut von ihren "
+"Gegnern saugen und sich damit selbst heilen - sogar über die Anzahl ihrer "
+"anfänglichen Lebenspunkte hinaus. Ihre Wut ist so groß, dass sich das Fell "
+"dieser untoten Flugmonster rot färbt vom Blut ihrer Opfer."
 
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:24
 #: Under_the_Burning_Suns/units/Blood_Bat2.cfg:25
@@ -5802,11 +5890,11 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Dread_Bat.cfg:25
 #: Under_the_Burning_Suns/units/scen7_Spectre.cfg:36
 msgid "drain"
-msgstr ""
+msgstr "aussaugen"
 
 #: Under_the_Burning_Suns/units/Cave_Spider2.cfg:4
 msgid "Cave Spider"
-msgstr ""
+msgstr "Höhlenspinne"
 
 #: Under_the_Burning_Suns/units/Cave_Spider2.cfg:17
 msgid ""
@@ -5814,6 +5902,9 @@ msgid ""
 "bite at close range, thereby poisoning their enemies, and also can attack "
 "with a web at long range, slowing their foes down."
 msgstr ""
+"Höhlenspinnen hausen tief unter der Erde, und verschlingen viele Opfern. Im "
+"Nahkampf beißen sie zu, und vergiften dabei ihre Feinde. Im Fernkampf "
+"attackieren sie mit einem Netz, und verlangsamen ihren Gegner."
 
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:49
 #: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:48
@@ -5822,11 +5913,11 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Cave_Spider2.cfg:25
 #: Under_the_Burning_Suns/units/Deep_One.cfg:71
 msgid "poison"
-msgstr ""
+msgstr "Gift"
 
 #: Under_the_Burning_Suns/units/Cave_Spider2.cfg:29
 msgid "web"
-msgstr ""
+msgstr "Netz"
 
 #: Under_the_Burning_Suns/units/Great_Troll2.cfg:27
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:49
@@ -5881,7 +5972,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Deep_One.cfg:24
 #: Under_the_Burning_Suns/units/Troll2.cfg:27
 msgid "impact"
-msgstr ""
+msgstr "Aufprall"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:76
 #: Under_the_Burning_Suns/units/Desert_Prowler.cfg:58
@@ -5907,11 +5998,11 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:57
 #: Under_the_Burning_Suns/units/Cave_Spider2.cfg:40
 msgid "slow"
-msgstr ""
+msgstr "verlangsamt"
 
 #: Under_the_Burning_Suns/units/Confused_Ant.cfg:4
 msgid "Confused Ant"
-msgstr ""
+msgstr "Wirre Riesenameise"
 
 #: Under_the_Burning_Suns/units/Confused_Ant.cfg:17
 msgid ""
@@ -5920,6 +6011,10 @@ msgid ""
 "bite at close range. When they don't have a Queen Ant to lead them, they can "
 "often become confused."
 msgstr ""
+"Riesenameisen sind in fast jeder Umgebung heimisch, von Höhlen tief unter "
+"der Erde, bis zu hohen Berggipfeln. Obwohl sie normalerweise nicht "
+"feindselig sind, können sie kräftig zubeißen, wenn man ihnen zu nahe kommt. "
+"Wenn sie ihre Königin verlieren, werden sie verwirrt."
 
 #: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:26
 msgid ""
