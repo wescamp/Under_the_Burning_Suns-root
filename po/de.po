@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-06-11 11:09+0200\n"
+"POT-Creation-Date: 2005-06-20 22:36+0200\n"
 "PO-Revision-Date: 2005-06-15 21:25+0200\n"
 "Last-Translator: Allefant <allefant@gmail.com>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
@@ -213,7 +213,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:284
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:182
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:816
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:716
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:717
 msgid "Starting Objectives:"
 msgstr ""
 
@@ -523,10 +523,10 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2748
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1068
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:257
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2176
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2218
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4160
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4215
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2177
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2219
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4161
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4216
 msgid "New Objectives:"
 msgstr ""
 
@@ -888,19 +888,10 @@ msgid "We've hit a nest of scorpions!"
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1023
-msgid ""
-"The scorpions were devouring some poor person's body. There doesn't seem to "
-"be much of him or her left, but wait...what's this? It looks like a tiny "
-"gold ring. And there are elvish runes on the inside, I can barely make them "
-"out. This seems to be a ring of travel, those who wear it will not suffer "
-"from thirst or hunger, nor cold nor heat. I've heard tales of such magical "
-"items, we can certainly use it now."
-msgstr ""
-
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1031
 msgid ""
 "The scorpions were devouring some poor person's body. There doesn't seem to "
-"be much of him or her left, but wait...what's this. It looks like a tiny "
+"be much of him or her left, but wait...what's this? It looks like a tiny "
 "gold ring. And there are elvish runes on the inside, I can barely make them "
 "out. This seems to be a ring of travel, those who wear it will not suffer "
 "from thirst or hunger, nor cold nor heat. I've heard tales of such magical "
@@ -1816,11 +1807,11 @@ msgid "at the North Edge of the Map"
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:296
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:726
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2183
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2225
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4167
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4222
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:727
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2184
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2226
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4168
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4223
 msgid "Death of Kaleh, Nym or Zhul"
 msgstr ""
 
@@ -2169,21 +2160,21 @@ msgid ""
 "frightened now."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:718
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:719
 msgid "Explore Underground"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:722
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:723
 msgid "Defeat all Enemies"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1400
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1401
 msgid ""
 "You mentioned that Dwarves and Trolls often lived underground Elyssa. I've "
 "only heard myths, have you every met a Dwarf or a Troll?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1405
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1406
 msgid ""
 "No I haven't, I don't often explore underground unless I have to. There are "
 "lots of nasty things that lurk far away from the light of the suns. But I "
@@ -2191,12 +2182,12 @@ msgid ""
 "dealings with Dwarves."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1411
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1465
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1412
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1466
 msgid "What are they like?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1416
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1417
 msgid ""
 "They're a proud people, and some would say greedy. They love their gold and "
 "fine metals, and forge many beautiful things. I should warn you, they have "
@@ -2204,11 +2195,11 @@ msgid ""
 "don't know what happened."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1421
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1422
 msgid "And what about Trolls? I'm not sure I'd want to meet one face to face."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1426
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1427
 msgid ""
 "Trolls and Dwarves are natural enemies, living so close together. And many "
 "would say trolls are little more that brutes and savages. Trolls are huge "
@@ -2217,20 +2208,20 @@ msgid ""
 "quite honorable, as long as you didn't try to cheat them."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1431
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1432
 msgid ""
 "Well, with Eloh's guidance, I hope we find these tunnels deserted. I'd be "
 "happy if our biggest problem is not getting lost. I have little wish to meet "
 "either Dwarves or Trolls. But Eloh will watch over us."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1436
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1490
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1437
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1491
 msgid "Will she? I got the impression she was powerless underground."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1441
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1495
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1442
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1496
 msgid ""
 "Where did you get that idea? Certainly Eloh is strongest during the day, "
 "when the suns are shining down on us. But it is said that even in the "
@@ -2242,26 +2233,26 @@ msgid ""
 "path. "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1446
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1500
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1447
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1501
 msgid ""
 "Then let us hope the rest of our journey may be as uneventful as it has been "
 "this far."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1455
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1456
 msgid ""
 "I've heard of dwarves, but do you have any idea Zhul what kinds of creatures "
 "we might encounter underground?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1460
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1461
 msgid ""
 "These tunnels are forign to me, I know little more than you do. All I know "
 "about dwarves is from the few tales from the Golden Age."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1470
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1471
 msgid ""
 "They're lived deep under the earth, mining gold and fine metals and forging "
 "many beautiful things. We were once allies during the Golden Age, but in the "
@@ -2270,11 +2261,11 @@ msgid ""
 "the orcs and trolls."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1475
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1476
 msgid "What are trolls?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1480
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1481
 msgid ""
 "Trolls were huge green creatures as big as giants and very strong. They were "
 "reclusive creatures, hiding underground. We never had much contact with "
@@ -2283,182 +2274,182 @@ msgid ""
 "meet one fact to face."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1485
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1486
 msgid ""
 "But with Eloh's guidance, I hope we find these tunnels deserted. I'd be "
 "happy if our biggest problem is not getting lost. Still, even underground "
 "Eloh will watch over us."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1522
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1523
 msgid "All I'm saying is that these tunnels aren't as bad as I expected."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1527
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1528
 msgid "Ssshhhh, did you hear something?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1556
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1557
 msgid "Ants. Very big ants. Maybe they won't be hostile."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1561
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1562
 msgid "On the other hand, that spider probably is."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1566
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1567
 msgid "Caught between a spider and it's prey. Not a good place to be."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1590
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1591
 msgid ""
 "Woah! Did you see that? That huge stalactite just fell and crushed the "
 "spider. Aren't we lucky."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1606
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1607
 msgid ""
 "You know, if all we discover down here are insects, I'll be very "
 "disappointed. "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1618
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1619
 msgid "Spiders aren't insects."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1623
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1624
 msgid "Thanks for the clarification."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1639
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1640
 msgid "Help! They're everywhere!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1649
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1650
 msgid "Nym, your timing is impeccable."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1661
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1662
 msgid "That's a dwarf, but it looks like he's been beaten to a pulp."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1670
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1671
 msgid "Short and hairy, he must be a dwarf. But he's been beaten to a pulp."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1678
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1679
 msgid ""
 "I don't know that 'they' are, but we can't go back. Prepare yourselves for "
 "anything, everyone."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1717
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1765
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1718
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1766
 msgid ""
 "What are you doing back here? The trolls hide in the southern tunnels, not "
 "this way."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1733
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1734
 msgid ""
 "Treacherous elves, how can you fight with such horrid creatures as Trolls. I "
 "will cleave all in two with my axe!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1782
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1783
 msgid ""
 "Stupid elves, we are masters of fighting underground and we will die to "
 "defend our home. Fight on, my brothers!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1814
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1815
 msgid "Nasty Dwarves and Stinkin' Elves, we will smash you all!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1823
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1865
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1824
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1866
 msgid ""
 "What you doing back here? Nasty dwarves are to the north, no dwarves this "
 "way. Go back and fight bravely."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1856
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1857
 msgid ""
 "Kill the elves! We must stop them here. This is our land, crush the "
 "intruders!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2012
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2013
 msgid "Woah."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2057
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2058
 msgid "I think I preferred the spider and the ants..."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2062
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2063
 msgid "Stand firm boys, here they come!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2067
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2068
 msgid ""
 "You invade our tunnels, you slaughter our women and children, by Griknagh we "
 "will make you pay."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2072
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2073
 msgid ""
 "Tenacious savages aren't they. But these tunnels are rich in ore, and we "
 "won't let a couple of trolls keep them from us. "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2077
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2078
 msgid "Wait...What..Who are you?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2082
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2083
 msgid "Uh...."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2087
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2088
 msgid "What in Moradin's name are they?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2092
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2093
 msgid "Wait a minute....blond hair, pointy ears, they must be Elves"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2097
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2098
 msgid "Elves? What is the nine hells are Elves doing down here?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2102
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2103
 msgid "Nevermind that, who are you?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2107
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2108
 msgid ""
 "I am Kaleh, and we are the Quenoth elves. What in Eloh's name is going on "
 "here?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2112
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2113
 msgid ""
 "They invade our land and kill our young. Dwarves always want more, always "
 "greedy for glittery rocks."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2117
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2118
 msgid ""
 "Those monsters killed me boys. Kaleh, if you be of stout heart, help us "
 "drive these lummoxes from our tunnels."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2122
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2123
 msgid "No, this is our home. Help us, little ones, and we will help you."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2127
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2128
 msgid ""
 "There's too many of them for us to try to take them both on, and besides "
 "with all these branching tunnels we'll have no idea which way to go. I think "
@@ -2466,13 +2457,13 @@ msgid ""
 "factions so we can get their help in finding a way back to the surface."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2132
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2133
 msgid ""
 "But even if we do, what about all of our people? How can we safely escort "
 "them through this war zone?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2137
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2138
 msgid ""
 "We won't. If we keep the majority of our people hidden back up the passage "
 "we should be able to protect them, at least for a little while. In the "
@@ -2481,158 +2472,158 @@ msgid ""
 "here."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2146
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2147
 msgid "But they both look evenly matched. Who should we ally with?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2149
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2150
 msgid "Let's aid the Dwarves."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2168
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2169
 msgid ""
 "Bah! Your kind all the same. Everyone turns on Trolls. But you'll see, "
 "Griknagh will smash you all."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2179
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2180
 msgid "Defeat Troll Leaders"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2192
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2193
 msgid "Let's aid the Trolls."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2211
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2212
 msgid ""
 "I knew elves couldn't be trusted. Foolish boy, you will regret your "
 "betrayal. Taste dwarven steel!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2221
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2222
 msgid "Defeat Dwarf Leaders"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2236
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2237
 msgid ""
 "There seems to be an abandoned Dwarvish fortress right in front of us. If we "
 "can fight our way to the keep, we should be able to start rallying our "
 "warriors to help in the battle."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3003
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3004
 msgid "Burn, Burn and Die!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3026
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3027
 msgid "Dive for cover!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3031
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3032
 msgid ""
 "Those new troll shamans are decimating the dwarves with blasts of fire! This "
 "doesn't look good."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3156
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3410
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3157
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3411
 msgid "Aaauuuggghhhh!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3172
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3426
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3173
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3427
 msgid "No!!!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3188
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3189
 msgid "Help Me!!!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3204
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3205
 msgid "More accursed troll magic. Fall Back! "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3209
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3210
 msgid ""
 "I need to go back and rally more reinforcements. We're hurtin' Kaleh, I'll "
 "need your men to cover for us. Do you best boy, and may Moradin watch over "
 "you."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3276
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3277
 msgid ""
 "Let's blast those monsters back to the pits they spawned from! Fire in the "
 "hole!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3299
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3300
 msgid "More Dwarven trickery! Fall Back!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3304
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3305
 msgid ""
 "Those new dwarves are lobbing explosives at the trolls with devastating "
 "effect! I don't think the trolls can take this much longer."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3442
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3443
 msgid "Gaggghhh!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3458
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3459
 msgid ""
 "I must go back and find more trolls to fight. You must hold them back Kaleh. "
 "Be strong like rock. Griknagh will be with you."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3575
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3576
 msgid ""
 "Our leader sent us to help you. We fight for you until all the dwarves are "
 "dead. We will avenge the deaths of our people!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3686
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3687
 msgid ""
 "Looks like we came just in time. Our chief told us we're to fight with you "
 "until all the trolls are dead. Tell us where to go, I want to kill me some "
 "troll!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3911
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3912
 msgid ""
 "The trolls display the skulls of their enemies as a way of marking their "
 "territory. How barbaric."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3953
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3954
 msgid ""
 "The dwarves use stone cairns to make their territory. What a waste of good "
 "throwing stones."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4124
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4125
 msgid ""
 "Congratulations, some of trolls didn't think you strong enough to beat "
 "dwarves."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4129
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4184
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4130
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4185
 msgid "Where did you come from?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4134
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4135
 msgid ""
 "There many secret tunnels that you sun dwellers no know of. Only troll know. "
 "We smarter than you think. Zurg would have killed dwarves himself, but he "
 "was just sent back from where real fighting is."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4139
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4140
 msgid "The real fighting? I thought that what we were waist-deep in?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4144
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4145
 msgid ""
 "While you fighting another clan of dwarves sneak around flanked us. They "
 "tricksy like that. We must leave you and run back to defend women and little "
@@ -2641,11 +2632,11 @@ msgid ""
 "trolls secret weapon."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4149
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4150
 msgid "How do you mean?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4154
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4155
 msgid ""
 "Dwarves always think they best fighters around. The think you not a big "
 "worry, so they leave only a few dwarves guarding their main stronghold. Just "
@@ -2656,27 +2647,27 @@ msgid ""
 "return to surface. Zurg must go now, you kill dwarf chief. "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4163
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4164
 msgid "Defeat Dwarf Chieftain"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4179
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4180
 msgid ""
 "Congratulations, some of me boys didn't think you could beat the trolls."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4189
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4190
 msgid ""
 "Don't think you know all the tunnels and passages that twist through these "
 "caves, elf. I would have killed him myself, but I was just sent back from "
 "the main front of the battle."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4194
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4195
 msgid "The front? I thought this was was the front."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4199
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4200
 msgid ""
 "While you were fighting a seperate clan of trolls sneaked around our "
 "sentries and flanked us, attacking our supply depots. There are more of "
@@ -2686,11 +2677,11 @@ msgid ""
 "produced a unexpected opportunity."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4204
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4205
 msgid "It has?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4209
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4210
 msgid ""
 "The trolls thought they they could easily hold you off and so they left only "
 "a token force defending their main base. One of their leaders is directing "
@@ -2701,178 +2692,178 @@ msgid ""
 "You'll know the head troll when you see him, he's big, green and extra ugly. "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4218
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4219
 msgid "Defeat Troll Chieftain"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4240
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4241
 msgid "The rest is silence..."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4296
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4369
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4297
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4370
 msgid ""
 "Their knowledge of these tunnels is uncanny. I could have sworn that wall "
 "was solid rock."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4313
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4314
 msgid "I go to my ancestors..."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4388
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4389
 msgid "Arrggg!!!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4444
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4517
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4445
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4518
 msgid ""
 "That would be my description of all the trolls. Still the dwarves' knowledge "
 "of these tunnels is uncanny. I could have sworn that wall was solid rock."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4461
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4462
 msgid "I will be avenged..."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4565
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4654
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4773
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4566
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4655
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4774
 msgid "Do you what the first task of any dwarven warrior is, runt?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4570
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4659
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4778
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4571
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4660
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4779
 msgid "Sir?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4575
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4664
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4783
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4576
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4665
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4784
 msgid "Constant vigilance boys, the enemy could be anywhere!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4580
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4669
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4788
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4581
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4670
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4789
 msgid "But Sir..."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4585
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4674
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4793
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4586
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4675
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4794
 msgid "Did I give you permissions to speak? Did I?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4590
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4679
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4798
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4591
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4680
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4799
 msgid ""
 "I was killing trolls when you were in swaddling clothes. I wrote the book on "
 "killing trolls. And you're not going anywhere until I'm done with you."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4595
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4684
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4803
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4596
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4685
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4804
 msgid "But Sir, behind you..."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4600
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4689
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4808
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4601
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4690
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4809
 msgid ""
 "Oh let me guess, a big nasty troll, right? And when I turn around you flee "
 "like the cowards you are. Do you think I'm stupid enough to fall for that "
 "one?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4605
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4694
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4606
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4695
 msgid "I can't take it any longer, save us!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4610
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4699
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4611
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4700
 msgid "Oh grow a backbone.....Come on boys, kill the intruder!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4725
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4726
 msgid "I love you Sarge..."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4813
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4814
 msgid "No, it's an elf!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4818
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4819
 msgid "What!?!.....Right...First task boys, kill the intruder!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4877
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4936
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4878
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4937
 msgid ""
 "Ha, you're trapped. I've got you right where I want you, and this time no "
 "one is gonna save you."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4882
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4941
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4883
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4942
 msgid "How did a troll get stuck all the way back here?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4963
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4964
 msgid ""
 "Thank you. Grog got lost and there were so many smelly dwarves. If you "
 "hadn't come Grog would have been killed. Grog owes you his life."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5049
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5168
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5050
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5169
 msgid "Tell us where you leader is hiding!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5054
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5173
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5055
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5174
 msgid "Never!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5059
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5178
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5060
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5179
 msgid "Master, look!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5064
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5183
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5065
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5184
 msgid ""
 "Hah! You think you can save your friends. You are wrong. Ulg, go kill the "
 "other prisoner. We will deal with these fools."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5069
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5188
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5070
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5189
 msgid "Yes master, I'll make him suffer."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5108
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5227
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5109
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5228
 msgid "Aaahhhh!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5118
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5237
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5119
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5238
 msgid ""
 "If we move fast we might be able to save the other prisoner before he gets "
 "killed too."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5294
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5348
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5295
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5349
 msgid "I'm gonna make you squeal dwarf!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5370
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5371
 msgid ""
 "I owe you my life. I can't believe I was captured when those all around me "
 "died fighting gloriously. I'm so ashamed. I could not protect them....but I "
@@ -2880,113 +2871,113 @@ msgid ""
 "earth. Now lead me to the trolls and let me avenge my friends' deaths!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5433
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5532
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5434
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5533
 msgid "Here they come! Blow the charges!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5481
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5580
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5482
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5581
 msgid "They're coming this way too! Blow the charges!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5493
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5592
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5494
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5593
 msgid ""
 "What!?! Nothing happened! Who in Moradin's name rigged the darn charges "
 "anyway? I'm going to have to hold them off by myself. "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5644
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5645
 msgid ""
 "It was a mistake to depend on trickery, we will defeat you fighting face to "
 "face. A true dwarf always looks his opponent in the eye when he kills him!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5649
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5650
 msgid ""
 "So I challenge you, man to man, if you are not cowards, step out onto these "
 "bridges and meet your fate!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5697
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5706
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5698
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5707
 msgid "It's not use! We can't hold them back."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5737
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5738
 msgid ""
 "I couldn't do it. Blow the backup charges! If we can't stop them the maybe "
 "the black lake will."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5779
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5788
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5780
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5789
 msgid ""
 "They've crossed the chasm. Blow the backup charges! If we can't stop them "
 "the maybe the black lake will."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5816
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5817
 msgid ""
 "It's a huge underground lake. The water look dark and deep and is cold to "
 "the touch. There also seems to be some glowing moss on the walls which "
 "illuminates the cavern, making it easier to see."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5914
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5915
 msgid ""
 "Incoming! Ug, it's big, hairy, and nasty. I hate bats, I really hate bats."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5928
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5929
 msgid "Grrraaawwwkkk!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5933
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5934
 msgid "Good Riddance."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6025
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6026
 msgid ""
 "The ledge just drops off here. The water might be shallow enough to wade "
 "across, but I think I vaguely see something moving underneath the surface. "
 "Maybe it's just fish, but I don't like the looks of it."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6142
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6143
 msgid "What are those?!?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6152
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6153
 msgid "Here come more of them!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6216
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6217
 msgid ""
 "The movement under the water has stopped. I think we killed the last of "
 "them. Whatever 'them' was."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6335
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6336
 msgid "So you've come at last. Let it end, here and now!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6349
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6350
 msgid ""
 "Paugh! Even in death I curse you! You will never escape these tunnels alive!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6354
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7915
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6355
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7916
 msgid "And so, at last, it ends."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6359
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6360
 msgid "The chieftain has fallen! Flee for your lives!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6393
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6394
 msgid ""
 "You did good. With dwarf leader dead, cowardly dwarves flee before us. This "
 "war not over, still much more fighting, but elf and troll have won first "
@@ -2995,21 +2986,21 @@ msgid ""
 "presence. But he wishes to talk with you and reward you. Please come with us."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6398
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6399
 msgid ""
 "You think they could have told us about all these secret tunnels beforehand. "
 "It would have saved us a lot of unnecessary fighting in actually getting to "
 "the dwarf chieftain."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6403
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7964
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6404
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7965
 msgid ""
 "I think they wanted to further test our prowess in battle. And perhaps they "
 "didn't entirely trust us with all their secrets."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6408
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6409
 msgid ""
 "Shhhh, you two. Yes, of course, we would be honored to come and meet your "
 "leader. But we left many of our people back up the passageway and I fear "
@@ -3017,7 +3008,7 @@ msgid ""
 "safety?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6413
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6414
 msgid ""
 "Hmmmm, yes, yes we can help. We have a few big caves your people can stay "
 "in, and I get some troll warriors to help escort you there. Great leader "
@@ -3025,23 +3016,23 @@ msgid ""
 "and we will help you move them to our caves."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6418
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6419
 msgid ""
 "I thank you. Come on people, no celebrating yet, we still have work left to "
 "do!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6447
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6448
 msgid ""
 "They've come for my precious. It's mine, yes it is. They shant have it, no "
 "they shant. We will kill the nasty elfses, yes we will."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6461
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6462
 msgid "Curse them! We hates them!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6466
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6467
 msgid ""
 "What's this? His clothes were in rags, and yet he had this ancient jeweled "
 "amulet hanging from around his neck. It contains a huge amethyst that seems "
@@ -3049,34 +3040,34 @@ msgid ""
 "trinket?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6495
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6496
 msgid "Rrrraaaarrrr!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6500
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6501
 msgid "Not again! I really really hate things that live underwater!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6528
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6529
 msgid ""
 "Hey wait a minute, that amulet glows the same color as theis rune. Maybe if "
 "I put the amulet on and step into the rune..."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6565
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6566
 msgid ""
 "Woah. That was pretty impressive. The rune just disappeared and the amulet "
 "stopped glowing, but what have they revealed? "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6593
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6594
 msgid ""
 "The rune is still there, glowing mysteriously. I still have no idea why it "
 "was put here, but it's obviously powerful and magical, a combination of "
 "things which I am hesitant to mess with."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6611
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6612
 msgid ""
 "What in Eloh's name is this? Someone has carved a glowing purple rune in the "
 "floor at the end of this passage. It must be magical. And this passage ends "
@@ -3084,9 +3075,9 @@ msgid ""
 "seems quite solid. I wonder who carved that rune and why?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6653
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6751
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6850
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6654
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6752
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6851
 msgid ""
 "Based on the runes covering the walls this must be the tomb of some ancient "
 "dwarf. The tomb seems empty except for this ornate stone coffin. The "
@@ -3098,45 +3089,45 @@ msgid ""
 "certainly won't miss it."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6656
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6754
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6853
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6657
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6755
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6854
 msgid "I fear no ghosts, I'll take it."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6666
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6764
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6863
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6667
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6765
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6864
 msgid ""
 "The belt fits perfectly! Somehow I feel tougher and quicker. This is too "
 "easy, there seem to have been no traps set upon the coffin. Today's my lucky "
 "day."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6704
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6802
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6901
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6705
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6803
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6902
 msgid "You who disturb my rest, come and join me in death!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6709
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6807
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6906
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6710
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6808
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6907
 msgid "Then again, maybe I spoke too soon."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6716
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6814
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6913
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8264
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6717
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6815
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6914
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8265
 msgid "On second thought, it's better to leave the dead in peace."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7201
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7202
 msgid "Woah. This place is hot."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7206
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7207
 msgid ""
 "This cavern is so hot it's stifling, I can already feel my armor heating up, "
 "if we tarry here too long we'll roast alive. And I don't even want to think "
@@ -3145,7 +3136,7 @@ msgid ""
 "trolls waiting on the other side of the cavern."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7211
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7212
 msgid ""
 "Any unit that ends it's turn on a lava hex, except the Desert Shyde and Star "
 "who can fly over the lava, will take 25 damage at the beginning of the next "
@@ -3157,74 +3148,74 @@ msgid ""
 "it can't kill it. "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7315
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7316
 msgid "Arise! Arise and engulf the intruders in your holy fire!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7359
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7360
 msgid ""
 "What the heck is that? I sure doesn't look good. The last thing we need in "
 "here is even more fire."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7442
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7443
 msgid "That thing just won't stay dead!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7524
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7525
 msgid "Look, more fire spirits!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7558
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7559
 msgid ""
 "Oh great, even more fire spirits. When I get through this inferno I'm going "
 "to kill those trolls."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7592
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7593
 msgid ""
 "How surprising, more fire spirits. I'm going to be really glad to get out of "
 "this cavern."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7614
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7615
 msgid "Despite the guardians of fire, the elves has almost crossed the lava!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7619
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7620
 msgid ""
 "The guardians obviously aren't enough. You go alert the others and summon "
 "reinforcements. I will hold them off for as long as I can."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7624
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7625
 msgid "May Griknagh protect you. I'll be back soon!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7810
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7811
 msgid ""
 "Invade our most holy cavern at your peril. Long have we protected our sacred "
 "burial grounds from your foul kind, and we shall scatter your bones next to "
 "those of our ancestors."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7815
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7816
 msgid "Destroy the invaders; make them pay for their slaughter!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7826
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7827
 msgid "Arise our brothers of ages past, arise and destroy the intruders!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7910
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7911
 msgid "Argh! Cure you! May you never leave these tunnels alive!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7920
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7921
 msgid "Da big troll is dead. Run for your lives!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7954
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7955
 msgid ""
 "With the death of their leader the foul trolls have retreated. This war is "
 "far from over, but with your help we won the first battle. You have our "
@@ -3235,14 +3226,14 @@ msgid ""
 "will tell this story for years."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7959
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7960
 msgid ""
 "You think they could have told us about all these secret tunnels beforehand. "
 "It would have saved us a lot of unnecessary fighting in actually getting to "
 "the great troll."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7969
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7970
 msgid ""
 "Shhhh, you two. Yes, of course, we would be honored to come and meet your "
 "chieftain. But we left many of our people back up the passageway and I fear "
@@ -3250,7 +3241,7 @@ msgid ""
 "safety?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7974
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7975
 msgid ""
 "Hmmmm, yes, after what you have done, I think I could arrange something. We "
 "have a few larger caves that should hold your people, a bit cramped, but "
@@ -3260,18 +3251,18 @@ msgid ""
 "any surprises."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7979
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7980
 msgid ""
 "You are full of surprises. But I feel better knowing a few of your kind we "
 "watching out for the rest of my people. All right everyone, no celebrating "
 "yet, we still have work left to do!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8062
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8063
 msgid "It's cooler here, there seems to be a draft to the west."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8073
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8074
 msgid ""
 "Hail, friend elf. Ages ago, I too fought the trolls and came to this place. "
 "But by ill luck I was burned to the death by the lava and died nearby "
@@ -3279,38 +3270,38 @@ msgid ""
 "wish for. Do this and I will let you pass."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8085
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8086
 msgid ""
 "Thank you. You have done for me what all my dwarven kin never did. May "
 "Moradin bless you and watch over you. I leave now for the halls of my "
 "ancestors..."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8121
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8122
 msgid ""
 "Look, a crumbling skeleton. I think this might be the body of the dwarven "
 "ghost. It shouldn't take long to dig a shallow grave."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8133
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8134
 msgid ""
 "May Eloh, or whatever god you worship, grant you peace and safe passage to "
 "the afterlife. We will avenge your death."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8165
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8166
 msgid ""
 "This looks like a troll crypt. Whoever it was must have been very important, "
 "because they have their own undead guardian."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8183
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8184
 msgid ""
 "There is a chasm here cutting off the end of the crypt. It must be rather "
 "recent, it cuts off the path leading to a rather ornate stone coffin."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8212
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8213
 msgid ""
 "For a troll this is quite an ornate tomb. The coffin itself is quite "
 "impressive. Inside the skeleton has crumbled to dust, and there are a few "
@@ -3322,52 +3313,52 @@ msgid ""
 "useful before our journey is over."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8214
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8215
 msgid "It might be useful, I'll take it."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8224
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8225
 msgid ""
 "The wand fit comfortably in my hand. It doesn't seem to have much of a "
 "range, but in close combat it could be quite useful."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8319
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8320
 msgid ""
 "Did you think you escaped me Kaleh? I am your shadow, I will always be there "
 "until you pay for what you have done."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8412
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8413
 msgid "Ow!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8417
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8418
 msgid ""
 "You want to flee, don't you? But you cannot. They couldn't escape her "
 "either. Even death could not save them. She will devour us all. But first I "
 "shall have my revenge. Do the dance of death for me Kaleh! Dance! Dance!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9003
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9004
 msgid ""
 "Where did he go? How does he disappear like that?  And what in Zardia's name "
 "was he ranting about? Whoever that is is starting to make me get edgy."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9024
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9025
 msgid "Huh? What happened?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9029
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9030
 msgid "Where did you go? Do you remember anything?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9034
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9035
 msgid "No, someone grabbed me and knocked me out. I have no idea who it was."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9102
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9103
 msgid ""
 "Oh no, we took too long and enemy reinforcements have arrived. We'll surely "
 "be overwhelmed now!"
