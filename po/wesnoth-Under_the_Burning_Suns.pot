@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-06-20 22:36+0200\n"
+"POT-Creation-Date: 2005-06-23 00:42+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,11 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#: ./Under_the_Burning_Suns.cfg:15
+msgid "Under the Burning Suns"
+msgstr ""
+
 #: ./Under_the_Burning_Suns.cfg:20
 msgid "In the distant future, where a small band of elves struggle to survive amidst the ruins of fallen empires, lead your people out of the desert on an epic journey to find a new home. (Version 0.4.3 5/30/05)"
 msgstr ""
 
-#: ./Under_the_Burning_Suns.cfg:23
+#: ./Under_the_Burning_Suns/units/Desert_Hunter7.cfg:4 ./Under_the_Burning_Suns/units/Desert_Hunter5.cfg:4 ./Under_the_Burning_Suns/units/Desert_Hunter.cfg:4 ./Under_the_Burning_Suns/units/Desert_Hunter6.cfg:4 ./Under_the_Burning_Suns/units/Desert_Hunter4.cfg:4 ./Under_the_Burning_Suns/units/Nym_Hunter.cfg:4 ./Under_the_Burning_Suns/units/Desert_Hunter2.cfg:4 ./Under_the_Burning_Suns/units/Desert_Hunter3.cfg:4 ./Under_the_Burning_Suns.cfg:23
 msgid "Desert Hunter"
 msgstr ""
 
@@ -26,7 +30,7 @@ msgstr ""
 msgid "(Challenging)"
 msgstr ""
 
-#: ./Under_the_Burning_Suns.cfg:24
+#: ./Under_the_Burning_Suns/units/Desert_Sentinel.cfg:4 ./Under_the_Burning_Suns/units/Nym_Sentinel.cfg:4 ./Under_the_Burning_Suns.cfg:24
 msgid "Desert Sentinel"
 msgstr ""
 
@@ -34,7 +38,7 @@ msgstr ""
 msgid "(Hard)"
 msgstr ""
 
-#: ./Under_the_Burning_Suns.cfg:25
+#: ./Under_the_Burning_Suns/units/Desert_Prowler.cfg:4 ./Under_the_Burning_Suns/units/Nym_Prowler.cfg:4 ./Under_the_Burning_Suns.cfg:25
 msgid "Desert Prowler"
 msgstr ""
 
@@ -128,6 +132,10 @@ msgstr ""
 
 #: ./Under_the_Burning_Suns/misc/time.cfg:265
 msgid "The Long Dark (4)"
+msgstr ""
+
+#: ./Under_the_Burning_Suns/scenarios/1Morning_After.cfg:9 ./Under_the_Burning_Suns/scenarios/1Morning_After.cfg:10
+msgid "The Morning After"
 msgstr ""
 
 #: ./Under_the_Burning_Suns/scenarios/1Morning_After.cfg:44
@@ -490,6 +498,10 @@ msgstr ""
 msgid "What's that to the north? It looks like even more undead! The rock storm must have attracted other necromancers. There's no way we can defeat them all. We've run out of time. There's no escape. Eloh save us!"
 msgstr ""
 
+#: ./Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:20 ./Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:21
+msgid "Across the Harsh Sands"
+msgstr ""
+
 #: ./Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:52
 msgid "Pinnacle Rock"
 msgstr ""
@@ -826,6 +838,10 @@ msgstr ""
 msgid "Flee, you craven spirits, and leave us in peace!"
 msgstr ""
 
+#: ./Under_the_Burning_Suns/scenarios/3Night.cfg:15 ./Under_the_Burning_Suns/scenarios/3Night.cfg:16
+msgid "A Stirring in the Night"
+msgstr ""
+
 #: ./Under_the_Burning_Suns/scenarios/3Night.cfg:38
 msgid "Chapter 3: We continued north through the desert, the looming hills and mountains promised blessed relief from the seemingly neverending sand. Soon we got to the end of the foothills, and we decided to rest there for the night. As tired as I was of marching across the sand, I felt strangely afraid. I had lived my entire life in the sands, they were my home, and the rocky hills and white glistening mountaintops seemed foreign and foreboding."
 msgstr ""
@@ -1158,6 +1174,10 @@ msgstr ""
 msgid "This darkness will never end, and the undead will soon overwhelm us. I'm sorry Garak, we couldn't save you."
 msgstr ""
 
+#: ./Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:10 ./Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:11
+msgid "Descending into Darkness"
+msgstr ""
+
 #: ./Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:42
 msgid "Chapter 4: We found the crumbling obsidian tower that Eloh had described, and we camped at the edge of the foothills before the mountains. I was still shocked by the loss of Garak and all the other elves who fell in the battle last night. There was so much death in this land, was it always this way? As we travelled I pondered what this world must have been like back before the Great Fall and I remembered the tale that had been told to me many times since I was a child:"
 msgstr ""
@@ -1388,6 +1408,10 @@ msgstr ""
 
 #: ./Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2321
 msgid "We've taken too long to get our people into the tunnels! Even more orcs are coming across the foothills from the east and west and flanking us. There's no way we can kill all these orcs and goblins. We'll never make it to safety now."
+msgstr ""
+
+#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:9 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:10
+msgid "A Subterranean Struggle"
 msgstr ""
 
 #: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:596
@@ -2238,6 +2262,10 @@ msgstr ""
 msgid "Oh no, we took too long and enemy reinforcements have arrived. We'll surely be overwhelmed now!"
 msgstr ""
 
+#: ./Under_the_Burning_Suns/scenarios/6aDwarf.cfg:7 ./Under_the_Burning_Suns/scenarios/6aDwarf.cfg:8
+msgid "Dealing with Dwarves"
+msgstr ""
+
 #: ./Under_the_Burning_Suns/scenarios/6aDwarf.cfg:58
 msgid "Chapter 6: We returned quickly and found the rest of our people, safely hidden a few miles back from the fighting. Seeing Grendel with us, a troop of dwarves silently appeared out of adjoining secret passages. Once we had assured the rest of the elves that they were friends, Grendel lead us silently and quickly through a maze of secret tunnels towards the Dwarves' home."
 msgstr ""
@@ -2394,6 +2422,10 @@ msgstr ""
 msgid "No, I think someone else should wield it."
 msgstr ""
 
+#: ./Under_the_Burning_Suns/scenarios/6bTroll.cfg:7 ./Under_the_Burning_Suns/scenarios/6bTroll.cfg:8
+msgid "Talking with Trolls"
+msgstr ""
+
 #: ./Under_the_Burning_Suns/scenarios/6bTroll.cfg:58
 msgid "Chapter 6: We returned quickly and found the rest of our people, safely hidden a few miles back from the fighting. Once we had assured the rest of the elves that the trolls were our allies, Zurg lead us silently and quickly away from the front lines through a maze of secret tunnels."
 msgstr ""
@@ -2484,6 +2516,10 @@ msgstr ""
 
 #: ./Under_the_Burning_Suns/scenarios/6bTroll.cfg:732
 msgid "I heartily agree, I for one can't wait to feel the sun upon my face again and the wind in my hair."
+msgstr ""
+
+#: ./Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:18 ./Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:19
+msgid "Out of the Frying Pan"
 msgstr ""
 
 #: ./Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:340
@@ -3554,6 +3590,10 @@ msgstr ""
 msgid "Giant Ants are common in almost any environment, from caverns deep under the earth to the tops of tall mountains. Though normally not hostile, they can bite at close range. When they don't have a Queen Ant to lead them, they can often become confused."
 msgstr ""
 
+#: ./Under_the_Burning_Suns/units/Corrupted_Elf.cfg:4
+msgid "Corrupted Elf"
+msgstr ""
+
 #: ./Under_the_Burning_Suns/units/Corrupted_Elf.cfg:26
 msgid "Imbued with a dark spirit these corrupted elves combine unhuman strength with potent magics to create formidable opponents. Though the elvish body often decays quickly, these abominations are potent weapons of the undead lords."
 msgstr ""
@@ -3614,6 +3654,10 @@ msgstr ""
 msgid "darts"
 msgstr ""
 
+#: ./Under_the_Burning_Suns/units/Deep_One.cfg:4
+msgid "Deep One"
+msgstr ""
+
 #: ./Under_the_Burning_Suns/units/Deep_One.cfg:20
 msgid "The Deep Ones are gigantic aquatic monsters that lurk in the dark places of the world. Rarely do they come to the surface, and when they do the best way to survive an encounter with these monsters is to remain ashore. They can grab their opponents with strong tentacles, or spit a poisonous black ink from a distance. "
 msgstr ""
@@ -3630,6 +3674,10 @@ msgstr ""
 msgid "pierce"
 msgstr ""
 
+#: ./Under_the_Burning_Suns/units/Desert_Archer.cfg:4 ./Under_the_Burning_Suns/units/Desert_Archer2.cfg:4 ./Under_the_Burning_Suns/units/Desert_Archer5.cfg:4 ./Under_the_Burning_Suns/units/Desert_Archer4.cfg:4 ./Under_the_Burning_Suns/units/Desert_Archer6.cfg:4 ./Under_the_Burning_Suns/units/Desert_Archer7.cfg:4 ./Under_the_Burning_Suns/units/Desert_Archer3.cfg:4
+msgid "Desert Archer"
+msgstr ""
+
 #: ./Under_the_Burning_Suns/units/Desert_Archer.cfg:32 ./Under_the_Burning_Suns/units/Desert_Archer2.cfg:32 ./Under_the_Burning_Suns/units/Desert_Archer5.cfg:32 ./Under_the_Burning_Suns/units/Desert_Archer4.cfg:32 ./Under_the_Burning_Suns/units/Desert_Archer6.cfg:32 ./Under_the_Burning_Suns/units/Desert_Archer7.cfg:32 ./Under_the_Burning_Suns/units/Desert_Archer3.cfg:32
 msgid "Desert Archers are trained from youth in archery, and so skilled in long-range combat. Though their bows are cruder and their arrows less plentiful than their elvish ancestors, they fight with ferocity that does credit to their race."
 msgstr ""
@@ -3640,6 +3688,10 @@ msgstr ""
 
 #: ./Under_the_Burning_Suns/units/Desert_Archer.cfg:96 ./Under_the_Burning_Suns/units/Desert_Archer2.cfg:96 ./Under_the_Burning_Suns/units/Desert_Archer5.cfg:96 ./Under_the_Burning_Suns/units/Desert_Archer4.cfg:96 ./Under_the_Burning_Suns/units/Desert_Archer6.cfg:96 ./Under_the_Burning_Suns/units/Desert_Archer7.cfg:96 ./Under_the_Burning_Suns/units/Desert_Archer3.cfg:96
 msgid "female^Desert Archer"
+msgstr ""
+
+#: ./Under_the_Burning_Suns/units/Desert_Avenger.cfg:4
+msgid "Desert Avenger"
 msgstr ""
 
 #: ./Under_the_Burning_Suns/units/scen7_Shadow.cfg:31 ./Under_the_Burning_Suns/units/scen7_Nightgaunt.cfg:32 ./Under_the_Burning_Suns/units/Desert_Avenger.cfg:31 ./Under_the_Burning_Suns/units/Desert_Avenger.cfg:43 ./Under_the_Burning_Suns/units/Desert_Avenger.cfg:145 ./Under_the_Burning_Suns/units/Desert_Ranger.cfg:30 ./Under_the_Burning_Suns/units/Desert_Ranger.cfg:42 ./Under_the_Burning_Suns/units/Desert_Ranger.cfg:143
@@ -3658,6 +3710,10 @@ msgstr ""
 msgid "ambush"
 msgstr ""
 
+#: ./Under_the_Burning_Suns/units/Desert_Captain.cfg:4
+msgid "Desert Captain"
+msgstr ""
+
 #: ./Under_the_Burning_Suns/units/Desert_Captain.cfg:12 ./Under_the_Burning_Suns/units/Desert_Marshal.cfg:13 ./Under_the_Burning_Suns/units/Human_Captain.cfg:27
 msgid "leadership"
 msgstr ""
@@ -3666,8 +3722,16 @@ msgstr ""
 msgid "Skilled in commanding other elves, Desert Captains provide a bonus to all level 1 units on adjacent hexes. Desert Captains prefer engaging the enemy in melee combat, but are trained in archery as well."
 msgstr ""
 
+#: ./Under_the_Burning_Suns/units/Desert_Champion.cfg:4
+msgid "Desert Champion"
+msgstr ""
+
 #: ./Under_the_Burning_Suns/units/Desert_Champion.cfg:31
 msgid "Desert Champions are awesome masters of swordsmanship, inflicting grievous wounds in close combat. Master fighters, they are also skilled with the bow, able to inflict damage on their enemies from both near and far."
+msgstr ""
+
+#: ./Under_the_Burning_Suns/units/Desert_Druid.cfg:4
+msgid "Desert Druid"
 msgstr ""
 
 #: ./Under_the_Burning_Suns/units/Desert_Shyde.cfg:37 ./Under_the_Burning_Suns/units/Desert_Druid.cfg:32
@@ -3690,8 +3754,16 @@ msgstr ""
 msgid "thorns"
 msgstr ""
 
+#: ./Under_the_Burning_Suns/units/Desert_Fighter6.cfg:4 ./Under_the_Burning_Suns/units/Desert_Fighter7.cfg:4 ./Under_the_Burning_Suns/units/Desert_Fighter3.cfg:4 ./Under_the_Burning_Suns/units/Desert_Fighter.cfg:4 ./Under_the_Burning_Suns/units/Desert_Fighter2.cfg:4 ./Under_the_Burning_Suns/units/Desert_Fighter5.cfg:4 ./Under_the_Burning_Suns/units/Desert_Fighter4.cfg:4
+msgid "Desert Fighter"
+msgstr ""
+
 #: ./Under_the_Burning_Suns/units/Desert_Fighter6.cfg:31 ./Under_the_Burning_Suns/units/Desert_Fighter7.cfg:31 ./Under_the_Burning_Suns/units/Desert_Fighter3.cfg:31 ./Under_the_Burning_Suns/units/Desert_Fighter.cfg:31 ./Under_the_Burning_Suns/units/Desert_Fighter2.cfg:31 ./Under_the_Burning_Suns/units/Desert_Fighter5.cfg:31 ./Under_the_Burning_Suns/units/Desert_Fighter4.cfg:31
 msgid "Desert Fighters make up the bulk of the Elven military in Wesnoth. They are trained in both sword and bow, though like most of their kin, they prefer swordplay to archery. These Elves are deft of foot, and fight best in the open sands."
+msgstr ""
+
+#: ./Under_the_Burning_Suns/units/Desert_Hero.cfg:4
+msgid "Desert Hero"
 msgstr ""
 
 #: ./Under_the_Burning_Suns/units/Desert_Hero.cfg:31
@@ -3714,6 +3786,10 @@ msgstr ""
 msgid "bola"
 msgstr ""
 
+#: ./Under_the_Burning_Suns/units/Desert_Marksman.cfg:4
+msgid "Desert Marksman"
+msgstr ""
+
 #: ./Under_the_Burning_Suns/units/Desert_Marksman.cfg:30
 msgid "Desert Marksman are expert in use of the bow. Though their bows and arrows are not as fine as those of their ancestors, they continue to hone their skill, which guarantees them a 60% chance to hit enemies, even those hidden in difficult terrain. This great skill with the bow compensates for their lack of skill in melee combat."
 msgstr ""
@@ -3730,8 +3806,16 @@ msgstr ""
 msgid "female^Desert Marksman"
 msgstr ""
 
+#: ./Under_the_Burning_Suns/units/Desert_Marshal.cfg:4
+msgid "Desert Marshal"
+msgstr ""
+
 #: ./Under_the_Burning_Suns/units/Desert_Marshal.cfg:34
 msgid "Desert Marshalls are master commanders, able to inspire confidence in any level 1 or 2 unit in adjacent hexes, causing them to fight with increased skill. Desert Marshalls prefer engaging the enemy in melee combat, but are trained in archery as well."
+msgstr ""
+
+#: ./Under_the_Burning_Suns/units/Desert_Outrider.cfg:4
+msgid "Desert Outrider"
 msgstr ""
 
 #: ./Under_the_Burning_Suns/units/Desert_Prowler.cfg:30 ./Under_the_Burning_Suns/units/Desert_Sentinel.cfg:30 ./Under_the_Burning_Suns/units/Desert_Outrider.cfg:33 ./Under_the_Burning_Suns/units/Desert_Rider.cfg:34 ./Under_the_Burning_Suns/units/Nym_Sentinel.cfg:30 ./Under_the_Burning_Suns/units/Nym_Prowler.cfg:30
@@ -3746,6 +3830,10 @@ msgstr ""
 msgid "Desert Prowlers sneak across the sands, searching out enemies and protecting their people. They are trained to slip past enemies unnoticed and flank them. The combination of their bolas and blades allows them to cripple and kill opponents with alarming ease."
 msgstr ""
 
+#: ./Under_the_Burning_Suns/units/Desert_Ranger.cfg:4
+msgid "Desert Ranger"
+msgstr ""
+
 #: ./Under_the_Burning_Suns/units/Desert_Ranger.cfg:31
 msgid "Desert Rangers are quick and powerful. Skilled in both short and long-range combat, Rangers are truly all-round fighters. Like their kin, they prefer the sword to the bow and are adept at sneaking around and backstabing their enemies."
 msgstr ""
@@ -3754,8 +3842,16 @@ msgstr ""
 msgid "female^Desert Ranger"
 msgstr ""
 
+#: ./Under_the_Burning_Suns/units/Desert_Rider.cfg:4
+msgid "Desert Rider"
+msgstr ""
+
 #: ./Under_the_Burning_Suns/units/Desert_Rider.cfg:37
 msgid "Swift riders, Desert Riders are fast in the open desert. Quick and agile they are trained at riding around enemy formations, bypassing their Zone of Control. They can use a bow from horseback, but prefer to engage in melee combat when necessary."
+msgstr ""
+
+#: ./Under_the_Burning_Suns/units/Desert_Scout3.cfg:4 ./Under_the_Burning_Suns/units/Desert_Scout4.cfg:4 ./Under_the_Burning_Suns/units/Desert_Scout7.cfg:4 ./Under_the_Burning_Suns/units/Desert_Scout.cfg:4 ./Under_the_Burning_Suns/units/Desert_Scout5.cfg:4 ./Under_the_Burning_Suns/units/Desert_Scout6.cfg:4 ./Under_the_Burning_Suns/units/Desert_Scout2.cfg:4
+msgid "Desert Scout"
 msgstr ""
 
 #: ./Under_the_Burning_Suns/units/Desert_Scout3.cfg:35 ./Under_the_Burning_Suns/units/Desert_Scout4.cfg:35 ./Under_the_Burning_Suns/units/Desert_Scout7.cfg:35 ./Under_the_Burning_Suns/units/Desert_Scout.cfg:35 ./Under_the_Burning_Suns/units/Desert_Scout5.cfg:35 ./Under_the_Burning_Suns/units/Desert_Scout6.cfg:35 ./Under_the_Burning_Suns/units/Desert_Scout2.cfg:35
@@ -3764,6 +3860,10 @@ msgstr ""
 
 #: ./Under_the_Burning_Suns/units/Desert_Sentinel.cfg:32 ./Under_the_Burning_Suns/units/Nym_Sentinel.cfg:32
 msgid "Desert Sentinels patrol the sands; they are trained to  avoid enemies when it is advantageous. They can cripple opponents with their bolas and are deadly with their swords."
+msgstr ""
+
+#: ./Under_the_Burning_Suns/units/Desert_Shaman5.cfg:4 ./Under_the_Burning_Suns/units/Desert_Shaman3.cfg:4 ./Under_the_Burning_Suns/units/Desert_Shaman6.cfg:4 ./Under_the_Burning_Suns/units/Desert_Shaman4.cfg:4 ./Under_the_Burning_Suns/units/Desert_Shaman7.cfg:4 ./Under_the_Burning_Suns/units/Desert_Shaman2.cfg:4 ./Under_the_Burning_Suns/units/Desert_Shaman.cfg:4
+msgid "Desert Shaman"
 msgstr ""
 
 #: ./Under_the_Burning_Suns/units/Desert_Shaman5.cfg:12 ./Under_the_Burning_Suns/units/Desert_Shaman3.cfg:12 ./Under_the_Burning_Suns/units/Desert_Shaman6.cfg:12 ./Under_the_Burning_Suns/units/Desert_Shaman4.cfg:12 ./Under_the_Burning_Suns/units/Desert_Shaman7.cfg:12 ./Under_the_Burning_Suns/units/Desert_Shaman2.cfg:12 ./Under_the_Burning_Suns/units/Desert_Shaman.cfg:12
@@ -3778,6 +3878,10 @@ msgstr ""
 msgid "entangle"
 msgstr ""
 
+#: ./Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:4
+msgid "Desert Sharpshooter"
+msgstr ""
+
 #: ./Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:29
 msgid "The most elite archers among the elves, Desert Sharpshooters use the best bows and arrows available, which makes them just as deadly as their ancestors. Desert Sharpshooters are incredibly accurate, guaranteed a 60% chance to hit when attacking, even when firing very quickly, which makes them excellent at picking off entrenched enemies."
 msgstr ""
@@ -3786,12 +3890,20 @@ msgstr ""
 msgid "female^Desert Sharpshooter"
 msgstr ""
 
+#: ./Under_the_Burning_Suns/units/Desert_Shyde.cfg:4
+msgid "Desert Shyde"
+msgstr ""
+
 #: ./Under_the_Burning_Suns/units/Desert_Shyde.cfg:38
 msgid "Shydes are Elves that are devoted to nature and their faerie side. Dragonfly wings sprout from their backs and change them into beautiful creatures. They are capable of gliding unencumbered across almost any terrain. The one exception is deep water, a terrain which the desert elves rarely encounter. Their magical powers have been adapted to a life among the sands, and so it does not work over deep water."
 msgstr ""
 
 #: ./Under_the_Burning_Suns/units/Desert_Star.cfg:48 ./Under_the_Burning_Suns/units/Desert_Shyde.cfg:42
 msgid "faerie touch"
+msgstr ""
+
+#: ./Under_the_Burning_Suns/units/Desert_Star.cfg:4
+msgid "Desert Star"
 msgstr ""
 
 #: ./Under_the_Burning_Suns/units/Desert_Star.cfg:12
@@ -4056,6 +4168,10 @@ msgstr ""
 
 #: ./Under_the_Burning_Suns/units/Nym_Hunter.cfg:31
 msgid "Desert hunters are trained to scour the sands for prey and enemies. They can quickly entangle others with their bolas and then finish them off with their swords."
+msgstr ""
+
+#: ./Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:4
+msgid "Small Mudcrawler"
 msgstr ""
 
 #: ./Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:17

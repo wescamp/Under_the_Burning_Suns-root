@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-06-20 22:36+0200\n"
+"POT-Creation-Date: 2005-06-23 00:42+0200\n"
 "PO-Revision-Date: 2005-06-21 17:53+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
@@ -11,6 +11,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
 "X-Generator: KBabel 1.10.1\n"
+
+#: Under_the_Burning_Suns.cfg:15
+msgid "Under the Burning Suns"
+msgstr ""
 
 #: Under_the_Burning_Suns.cfg:20
 msgid ""
@@ -22,6 +26,14 @@ msgstr ""
 "ruinerna av fallna stater. Led ditt folk på en episk resa ut ur öknen i "
 "jakten på ett nytt hem. (Version 0.4.3, 2005-05-30)"
 
+#: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Hunter5.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Hunter.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Hunter6.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Hunter4.cfg:4
+#: Under_the_Burning_Suns/units/Nym_Hunter.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Hunter2.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:4
 #: Under_the_Burning_Suns.cfg:23
 msgid "Desert Hunter"
 msgstr "Ökenjägare"
@@ -34,6 +46,8 @@ msgstr "(Normal)"
 msgid "(Challenging)"
 msgstr "(Utmanande)"
 
+#: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:4
+#: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:4
 #: Under_the_Burning_Suns.cfg:24
 msgid "Desert Sentinel"
 msgstr "Ökenväktare"
@@ -42,6 +56,8 @@ msgstr "Ökenväktare"
 msgid "(Hard)"
 msgstr "(Svårt)"
 
+#: Under_the_Burning_Suns/units/Desert_Prowler.cfg:4
+#: Under_the_Burning_Suns/units/Nym_Prowler.cfg:4
 #: Under_the_Burning_Suns.cfg:25
 msgid "Desert Prowler"
 msgstr "Ökenströvare"
@@ -160,6 +176,11 @@ msgstr "Det långa mörkret (3)"
 #: Under_the_Burning_Suns/misc/time.cfg:265
 msgid "The Long Dark (4)"
 msgstr "Det långa mörkret (4)"
+
+#: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:9
+#: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:10
+msgid "The Morning After"
+msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:44
 msgid ""
@@ -907,6 +928,11 @@ msgstr ""
 "att klara av dem allihop. Vi har dröjt för länge! Vi hinner inte härifrån! "
 "Eloh bevare oss!"
 
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:20
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:21
+msgid "Across the Harsh Sands"
+msgstr ""
+
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:52
 msgid "Pinnacle Rock"
 msgstr "Högklippan"
@@ -1607,6 +1633,11 @@ msgstr ""
 msgid "Flee, you craven spirits, and leave us in peace!"
 msgstr "Fly, era ryggradslösa andar, och låt oss vara i fred!"
 
+#: Under_the_Burning_Suns/scenarios/3Night.cfg:15
+#: Under_the_Burning_Suns/scenarios/3Night.cfg:16
+msgid "A Stirring in the Night"
+msgstr ""
+
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:38
 msgid ""
 "Chapter 3: We continued north through the desert, the looming hills and "
@@ -2095,6 +2126,11 @@ msgid ""
 "sorry Garak, we couldn't save you."
 msgstr ""
 
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:10
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:11
+msgid "Descending into Darkness"
+msgstr ""
+
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:42
 msgid ""
 "Chapter 4: We found the crumbling obsidian tower that Eloh had described, "
@@ -2479,6 +2515,11 @@ msgid ""
 "coming across the foothills from the east and west and flanking us. There's "
 "no way we can kill all these orcs and goblins. We'll never make it to safety "
 "now."
+msgstr ""
+
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:10
+msgid "A Subterranean Struggle"
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:596
@@ -3730,6 +3771,11 @@ msgid ""
 "be overwhelmed now!"
 msgstr ""
 
+#: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:7
+#: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:8
+msgid "Dealing with Dwarves"
+msgstr ""
+
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:58
 msgid ""
 "Chapter 6: We returned quickly and found the rest of our people, safely "
@@ -4014,6 +4060,11 @@ msgstr ""
 msgid "No, I think someone else should wield it."
 msgstr ""
 
+#: Under_the_Burning_Suns/scenarios/6bTroll.cfg:7
+#: Under_the_Burning_Suns/scenarios/6bTroll.cfg:8
+msgid "Talking with Trolls"
+msgstr ""
+
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:58
 msgid ""
 "Chapter 6: We returned quickly and found the rest of our people, safely "
@@ -4211,6 +4262,11 @@ msgstr ""
 msgid ""
 "I heartily agree, I for one can't wait to feel the sun upon my face again "
 "and the wind in my hair."
+msgstr ""
+
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:18
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:19
+msgid "Out of the Frying Pan"
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:340
@@ -5884,6 +5940,10 @@ msgstr ""
 "bitas om man kommer för nära. När de inte leds av en drottningmyra kan de "
 "lätt bli förvirrade."
 
+#: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:4
+msgid "Corrupted Elf"
+msgstr ""
+
 #: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:26
 msgid ""
 "Imbued with a dark spirit these corrupted elves combine unhuman strength "
@@ -6064,6 +6124,10 @@ msgstr "dolk"
 msgid "darts"
 msgstr "kastpilar"
 
+#: Under_the_Burning_Suns/units/Deep_One.cfg:4
+msgid "Deep One"
+msgstr ""
+
 #: Under_the_Burning_Suns/units/Deep_One.cfg:20
 msgid ""
 "The Deep Ones are gigantic aquatic monsters that lurk in the dark places of "
@@ -6145,6 +6209,17 @@ msgstr "bläck"
 msgid "pierce"
 msgstr "stick"
 
+#: Under_the_Burning_Suns/units/Desert_Archer.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Archer2.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Archer5.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Archer4.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Archer6.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Archer7.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Archer3.cfg:4
+#, fuzzy
+msgid "Desert Archer"
+msgstr "Ökenbågskytt"
+
 #: Under_the_Burning_Suns/units/Desert_Archer.cfg:32
 #: Under_the_Burning_Suns/units/Desert_Archer2.cfg:32
 #: Under_the_Burning_Suns/units/Desert_Archer5.cfg:32
@@ -6212,6 +6287,11 @@ msgstr "pilbåge"
 msgid "female^Desert Archer"
 msgstr "Ökenbågskytt"
 
+#: Under_the_Burning_Suns/units/Desert_Avenger.cfg:4
+#, fuzzy
+msgid "Desert Avenger"
+msgstr "Ökenjägare"
+
 #: Under_the_Burning_Suns/units/scen7_Shadow.cfg:31
 #: Under_the_Burning_Suns/units/scen7_Nightgaunt.cfg:32
 #: Under_the_Burning_Suns/units/Desert_Avenger.cfg:31
@@ -6238,6 +6318,11 @@ msgstr "Ökenjägare"
 msgid "ambush"
 msgstr "bakhåll"
 
+#: Under_the_Burning_Suns/units/Desert_Captain.cfg:4
+#, fuzzy
+msgid "Desert Captain"
+msgstr "Ökenväktare"
+
 #: Under_the_Burning_Suns/units/Desert_Captain.cfg:12
 #: Under_the_Burning_Suns/units/Desert_Marshal.cfg:13
 #: Under_the_Burning_Suns/units/Human_Captain.cfg:27
@@ -6251,12 +6336,22 @@ msgid ""
 "in melee combat, but are trained in archery as well."
 msgstr ""
 
+#: Under_the_Burning_Suns/units/Desert_Champion.cfg:4
+#, fuzzy
+msgid "Desert Champion"
+msgstr "Ökenryttare"
+
 #: Under_the_Burning_Suns/units/Desert_Champion.cfg:31
 msgid ""
 "Desert Champions are awesome masters of swordsmanship, inflicting grievous "
 "wounds in close combat. Master fighters, they are also skilled with the bow, "
 "able to inflict damage on their enemies from both near and far."
 msgstr ""
+
+#: Under_the_Burning_Suns/units/Desert_Druid.cfg:4
+#, fuzzy
+msgid "Desert Druid"
+msgstr "Ökenjägare"
 
 #: Under_the_Burning_Suns/units/Desert_Shyde.cfg:37
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:32
@@ -6293,6 +6388,17 @@ msgstr "snärja"
 msgid "thorns"
 msgstr "törnen"
 
+#: Under_the_Burning_Suns/units/Desert_Fighter6.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Fighter7.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Fighter3.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Fighter.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Fighter2.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Fighter5.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Fighter4.cfg:4
+#, fuzzy
+msgid "Desert Fighter"
+msgstr "Ökenjägare"
+
 #: Under_the_Burning_Suns/units/Desert_Fighter6.cfg:31
 #: Under_the_Burning_Suns/units/Desert_Fighter7.cfg:31
 #: Under_the_Burning_Suns/units/Desert_Fighter3.cfg:31
@@ -6306,6 +6412,11 @@ msgid ""
 "swordplay to archery. These Elves are deft of foot, and fight best in the "
 "open sands."
 msgstr ""
+
+#: Under_the_Burning_Suns/units/Desert_Hero.cfg:4
+#, fuzzy
+msgid "Desert Hero"
+msgstr "Ökenjägare"
 
 #: Under_the_Burning_Suns/units/Desert_Hero.cfg:31
 msgid ""
@@ -6357,6 +6468,11 @@ msgstr ""
 msgid "bola"
 msgstr "bola"
 
+#: Under_the_Burning_Suns/units/Desert_Marksman.cfg:4
+#, fuzzy
+msgid "Desert Marksman"
+msgstr "Ökenprickskytt"
+
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:30
 msgid ""
 "Desert Marksman are expert in use of the bow. Though their bows and arrows "
@@ -6384,6 +6500,11 @@ msgstr "prickskytt"
 msgid "female^Desert Marksman"
 msgstr "Ökenprickskytt"
 
+#: Under_the_Burning_Suns/units/Desert_Marshal.cfg:4
+#, fuzzy
+msgid "Desert Marshal"
+msgstr "Ökenryttare"
+
 #: Under_the_Burning_Suns/units/Desert_Marshal.cfg:34
 msgid ""
 "Desert Marshalls are master commanders, able to inspire confidence in any "
@@ -6391,6 +6512,11 @@ msgid ""
 "skill. Desert Marshalls prefer engaging the enemy in melee combat, but are "
 "trained in archery as well."
 msgstr ""
+
+#: Under_the_Burning_Suns/units/Desert_Outrider.cfg:4
+#, fuzzy
+msgid "Desert Outrider"
+msgstr "Ökenjägare"
 
 #: Under_the_Burning_Suns/units/Desert_Prowler.cfg:30
 #: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:30
@@ -6419,6 +6545,11 @@ msgid ""
 "kill opponents with alarming ease."
 msgstr ""
 
+#: Under_the_Burning_Suns/units/Desert_Ranger.cfg:4
+#, fuzzy
+msgid "Desert Ranger"
+msgstr "Ökenvaktare"
+
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:31
 msgid ""
 "Desert Rangers are quick and powerful. Skilled in both short and long-range "
@@ -6431,6 +6562,11 @@ msgstr ""
 msgid "female^Desert Ranger"
 msgstr "Ökenvaktare"
 
+#: Under_the_Burning_Suns/units/Desert_Rider.cfg:4
+#, fuzzy
+msgid "Desert Rider"
+msgstr "Ökenjägare"
+
 #: Under_the_Burning_Suns/units/Desert_Rider.cfg:37
 msgid ""
 "Swift riders, Desert Riders are fast in the open desert. Quick and agile "
@@ -6438,6 +6574,17 @@ msgid ""
 "Control. They can use a bow from horseback, but prefer to engage in melee "
 "combat when necessary."
 msgstr ""
+
+#: Under_the_Burning_Suns/units/Desert_Scout3.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Scout4.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Scout7.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Scout.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Scout5.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Scout6.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Scout2.cfg:4
+#, fuzzy
+msgid "Desert Scout"
+msgstr "Ökenjägare"
 
 #: Under_the_Burning_Suns/units/Desert_Scout3.cfg:35
 #: Under_the_Burning_Suns/units/Desert_Scout4.cfg:35
@@ -6458,6 +6605,17 @@ msgid ""
 "it is advantageous. They can cripple opponents with their bolas and are "
 "deadly with their swords."
 msgstr ""
+
+#: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Shaman4.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Shaman.cfg:4
+#, fuzzy
+msgid "Desert Shaman"
+msgstr "Ökenryttare"
 
 #: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:12
 #: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:12
@@ -6492,6 +6650,11 @@ msgstr ""
 msgid "entangle"
 msgstr "snärja"
 
+#: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:4
+#, fuzzy
+msgid "Desert Sharpshooter"
+msgstr "Ökenskarpskytt"
+
 #: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:29
 msgid ""
 "The most elite archers among the elves, Desert Sharpshooters use the best "
@@ -6504,6 +6667,11 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:107
 msgid "female^Desert Sharpshooter"
 msgstr "Ökenskarpskytt"
+
+#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:4
+#, fuzzy
+msgid "Desert Shyde"
+msgstr "Ökenväktare"
 
 #: Under_the_Burning_Suns/units/Desert_Shyde.cfg:38
 msgid ""
@@ -6519,6 +6687,11 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Shyde.cfg:42
 msgid "faerie touch"
 msgstr "älvaberöring"
+
+#: Under_the_Burning_Suns/units/Desert_Star.cfg:4
+#, fuzzy
+msgid "Desert Star"
+msgstr "Ökenjägare"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:12
 msgid "illuminates,cures"
@@ -6954,6 +7127,10 @@ msgid ""
 "Desert hunters are trained to scour the sands for prey and enemies. They can "
 "quickly entangle others with their bolas and then finish them off with their "
 "swords."
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:4
+msgid "Small Mudcrawler"
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:17
