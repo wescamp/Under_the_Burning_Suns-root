@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-06-23 00:42+0200\n"
-"PO-Revision-Date: 2005-06-21 17:53+0200\n"
+"PO-Revision-Date: 2005-06-28 18:54+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns.cfg:15
 msgid "Under the Burning Suns"
-msgstr ""
+msgstr "De Brännande Solarna"
 
 #: Under_the_Burning_Suns.cfg:20
 msgid ""
@@ -492,7 +492,7 @@ msgid ""
 "need healing."
 msgstr ""
 "Var inte så formell. Jag mår bra. Jag är rädd att bara några få av oss har "
-"överlevt, men vi ska hjälpa till så långt våra färdigheter räcker. Ta mig "
+"överlevt, men vi skall hjälpa till så långt våra färdigheter räcker. Ta mig "
 "till dem som behöver helas."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:749
@@ -6216,7 +6216,6 @@ msgstr "stick"
 #: Under_the_Burning_Suns/units/Desert_Archer6.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Archer7.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Archer3.cfg:4
-#, fuzzy
 msgid "Desert Archer"
 msgstr "Ökenbågskytt"
 
@@ -6288,7 +6287,6 @@ msgid "female^Desert Archer"
 msgstr "Ökenbågskytt"
 
 #: Under_the_Burning_Suns/units/Desert_Avenger.cfg:4
-#, fuzzy
 msgid "Desert Avenger"
 msgstr "Ökenjägare"
 
@@ -6319,9 +6317,8 @@ msgid "ambush"
 msgstr "bakhåll"
 
 #: Under_the_Burning_Suns/units/Desert_Captain.cfg:4
-#, fuzzy
 msgid "Desert Captain"
-msgstr "Ökenväktare"
+msgstr "Ökenkapten"
 
 #: Under_the_Burning_Suns/units/Desert_Captain.cfg:12
 #: Under_the_Burning_Suns/units/Desert_Marshal.cfg:13
@@ -6337,9 +6334,8 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Champion.cfg:4
-#, fuzzy
 msgid "Desert Champion"
-msgstr "Ökenryttare"
+msgstr "Ökenförkämpe"
 
 #: Under_the_Burning_Suns/units/Desert_Champion.cfg:31
 msgid ""
@@ -6349,9 +6345,8 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:4
-#, fuzzy
 msgid "Desert Druid"
-msgstr "Ökenjägare"
+msgstr "Ökendruid"
 
 #: Under_the_Burning_Suns/units/Desert_Shyde.cfg:37
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:32
@@ -6395,9 +6390,8 @@ msgstr "törnen"
 #: Under_the_Burning_Suns/units/Desert_Fighter2.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Fighter5.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Fighter4.cfg:4
-#, fuzzy
 msgid "Desert Fighter"
-msgstr "Ökenjägare"
+msgstr "Ökenkrigare"
 
 #: Under_the_Burning_Suns/units/Desert_Fighter6.cfg:31
 #: Under_the_Burning_Suns/units/Desert_Fighter7.cfg:31
@@ -6414,9 +6408,8 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Hero.cfg:4
-#, fuzzy
 msgid "Desert Hero"
-msgstr "Ökenjägare"
+msgstr "Ökenhjälte"
 
 #: Under_the_Burning_Suns/units/Desert_Hero.cfg:31
 msgid ""
@@ -6469,7 +6462,6 @@ msgid "bola"
 msgstr "bola"
 
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:4
-#, fuzzy
 msgid "Desert Marksman"
 msgstr "Ökenprickskytt"
 
@@ -6501,9 +6493,8 @@ msgid "female^Desert Marksman"
 msgstr "Ökenprickskytt"
 
 #: Under_the_Burning_Suns/units/Desert_Marshal.cfg:4
-#, fuzzy
 msgid "Desert Marshal"
-msgstr "Ökenryttare"
+msgstr "Ökenöverste"
 
 #: Under_the_Burning_Suns/units/Desert_Marshal.cfg:34
 msgid ""
@@ -6514,9 +6505,8 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Outrider.cfg:4
-#, fuzzy
 msgid "Desert Outrider"
-msgstr "Ökenjägare"
+msgstr "Ökenförtrupp"
 
 #: Under_the_Burning_Suns/units/Desert_Prowler.cfg:30
 #: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:30
@@ -6546,7 +6536,6 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:4
-#, fuzzy
 msgid "Desert Ranger"
 msgstr "Ökenvaktare"
 
@@ -6563,9 +6552,8 @@ msgid "female^Desert Ranger"
 msgstr "Ökenvaktare"
 
 #: Under_the_Burning_Suns/units/Desert_Rider.cfg:4
-#, fuzzy
 msgid "Desert Rider"
-msgstr "Ökenjägare"
+msgstr "Ökenryttare"
 
 #: Under_the_Burning_Suns/units/Desert_Rider.cfg:37
 msgid ""
@@ -6582,9 +6570,8 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Scout5.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Scout6.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Scout2.cfg:4
-#, fuzzy
 msgid "Desert Scout"
-msgstr "Ökenjägare"
+msgstr "Ökenspejare"
 
 #: Under_the_Burning_Suns/units/Desert_Scout3.cfg:35
 #: Under_the_Burning_Suns/units/Desert_Scout4.cfg:35
@@ -6613,9 +6600,8 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Shaman.cfg:4
-#, fuzzy
 msgid "Desert Shaman"
-msgstr "Ökenryttare"
+msgstr "Ökenschaman"
 
 #: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:12
 #: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:12
@@ -6651,7 +6637,6 @@ msgid "entangle"
 msgstr "snärja"
 
 #: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:4
-#, fuzzy
 msgid "Desert Sharpshooter"
 msgstr "Ökenskarpskytt"
 
@@ -6669,9 +6654,8 @@ msgid "female^Desert Sharpshooter"
 msgstr "Ökenskarpskytt"
 
 #: Under_the_Burning_Suns/units/Desert_Shyde.cfg:4
-#, fuzzy
 msgid "Desert Shyde"
-msgstr "Ökenväktare"
+msgstr "Ökenälva"
 
 #: Under_the_Burning_Suns/units/Desert_Shyde.cfg:38
 msgid ""
@@ -6689,9 +6673,8 @@ msgid "faerie touch"
 msgstr "älvaberöring"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:4
-#, fuzzy
 msgid "Desert Star"
-msgstr "Ökenjägare"
+msgstr "Ökenstjärna"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:12
 msgid "illuminates,cures"
@@ -7352,19 +7335,3 @@ msgid ""
 "strengthening themselves. They also have a terrible wail that freezes the "
 "heart of the weak."
 msgstr ""
-
-#~ msgid ""
-#~ "The scorpions were devouring some poor person's body. There doesn't seem "
-#~ "to be much of him or her left, but wait...what's this. It looks like a "
-#~ "tiny gold ring. And there are elvish runes on the inside, I can barely "
-#~ "make them out. This seems to be a ring of travel, those who wear it will "
-#~ "not suffer from thirst or hunger, nor cold nor heat. I've heard tales of "
-#~ "such magical items, we can certainly use it now."
-#~ msgstr ""
-#~ "Skorpioner åt på någon stackares lik. Det verkar inte som att det finns "
-#~ "mycket kvar av honom eller henne... Men vänta... Vad är det här? Det ser "
-#~ "ut som en liten guldring. Det finns alvrunor på insidan, men jag kan "
-#~ "knappt läsa dem. Det verkar vara en färdring... Den som bär den kommer "
-#~ "inte att lida av hunger eller törst, eller av hetta eller kyla. Jag har "
-#~ "hört talas om sådana magiska föremål. Den kan verkligen komma till nytta "
-#~ "nu."
