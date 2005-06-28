@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-06-23 00:42+0200\n"
-"PO-Revision-Date: 2005-06-15 21:25+0200\n"
+"PO-Revision-Date: 2005-06-28 23:56+0200\n"
 "Last-Translator: Allefant <allefant@gmail.com>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -3419,6 +3419,12 @@ msgid ""
 "silently and quickly through a maze of secret tunnels towards the Dwarves' "
 "home."
 msgstr ""
+"Kapitel 6: Wir kehrten schnell zurück, und fanden den Rest unserer Leute "
+"sicher versteckt ein paar Meilen abseits des Kampfgeschehens. Eine Truppe "
+"Zwerge erschien lautlos aus benachbarten Geheimgängen, als sie Grendel bei "
+"uns entdeckten. Als wir den anderen Elfen versicherten, dass sie Freunde "
+"waren, führte und Grendel leise und rasch durch ein Labyrinth von "
+"Geheimgängen zur Heimat der Zwerge."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:62
 msgid ""
@@ -3431,6 +3437,15 @@ msgid ""
 "stonework and I saw that the place was crawling with dwarves. It was bigger "
 "than any village I had ever seen."
 msgstr ""
+"Ich weiß nicht, wie lange wir durch diese winzigen Passagen stapften. Die "
+"Zeit schien hier unten anders zu vergehen, so tief unter der Erde. Aber "
+"letztendlich, als wir unser Ziel erreichen, bot sich uns ein atemberaubender "
+"Anblick. Wir betraten eine große Kaverne, in der die Zwerge eine riesige "
+"Stadt aus Stein erbaut hatten. Geschützt von steinernen Wänden und von "
+"Pforten, die größer waren als alle die ich je zuvor gesehen hatte, erschien "
+"dieser Ort praktisch uneinnehmbar. Während wir hinein gingen, bewunderte ich "
+"ihre Steinhauerkunst,  und ich stellte fest, dass es nur so wimmelte von "
+"Zwergen. Diese Stadt war größer als alle Siedlungen die ich je gesehen hatte."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:66
 msgid ""
@@ -3439,6 +3454,10 @@ msgid ""
 "accommodations were a bit cramped, but for the first time since I had "
 "plunged into the earth, I felt safe."
 msgstr ""
+"Die Zwerge führten uns zur anderen Seite der Stadt, wo sie uns mehrere "
+"Behelfshöhlen zur Verfügung stellten, die normalerweise als Lagerräume "
+"dienten. Die Unterbringung war etwas eng, aber ich fühlte mich zum ersten "
+"Mal wieder sicher, seit wir uns unter die Erde gewagt hatten."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:70
 msgid ""
@@ -3451,11 +3470,22 @@ msgid ""
 "dwarves overall were very polite and met out every need. Finally the summons "
 "came to meet with the dwarven king..."
 msgstr ""
+"Der Zwergenkönig war abwesend und damit beschäftigt, nach den Kämpfen wieder "
+"für Ordnung zu sorgen. Er wurde nicht vor einigen Tagen zurück erwartet. Ich "
+"war glücklich, in der kurzen Zeit, die ich hier verbringen durfte, so viel "
+"ich konnte über dieses sonderbare Volk zu lernen. Ich war sehr beeindruckt "
+"von ihrer handwerklichen Kunstfertigkeit. Die Waffen und Rüstungen die sie "
+"herstellten waren von einer Qualität wie ich sie noch nie gesehen hatte. "
+"Umgekehrt waren auch wir ein Objekt der Neugierde für die Zwerge, ich weiß "
+"nicht, wann sie zuletzt einen Elfen gesehen hatten. Während einige "
+"argwöhnisch schienen oder Angst vor uns hatten, waren die Zwerge insgesamt "
+"sehr höflich und ließen es uns an nichts fehlen. Schließlich kam unsere "
+"Einladung, den Zwergenkönig zu treffen..."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:91
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:91
 msgid "Choose a Unit to Take the Fire Blade"
-msgstr ""
+msgstr "Wählt eine Einheit um das Feuerschwert zu nehmen"
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:547
 msgid ""
@@ -3466,14 +3496,20 @@ msgid ""
 "of smooth tiles directs visitors up to a small stone seat which faces the "
 "throne."
 msgstr ""
+"Die Kammer ist prachtvoll ausgeschmückt. Kunstvolle Fresken und Zwergen-"
+"Runen bedecken die Wände, und Mittelpunkt des Raumes ist ein großer, "
+"kunstvoll in den Stein gemeißelter Thron, flankiert von zwei detailreichen "
+"Statuen, die unbekannte Wesen darstellen. Der Boden ist mit dunklem Schiefer "
+"bedeckt, und ein Pfad von glatten Fließen führt Besucher zu einem kleinen "
+"steinernen Sitz gegenüber dem Thron."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:552
 msgid "Hail Kaleh, I am Thurongar, King of the Dwarves."
-msgstr ""
+msgstr "Sei gegrüßt, Kaleh! Ich bin Thurongar, König der Zwerge."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:557
 msgid "I am Kaleh, leader of the Quenoth Elves."
-msgstr ""
+msgstr "Ich bin Kaleh, Anführer der Quenoth Elfen."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:562
 msgid ""
@@ -3485,6 +3521,15 @@ msgid ""
 "recent victory perhaps this battle is turning in our favor. But tell me, "
 "what is are so many elves doing so deep under the earth?"
 msgstr ""
+"Ich habe von euren kürzlichen Heldentaten gegen die Trollplage vernommen. "
+"Die Trolle waren uns schon seit längerem ein Dorn im Auge. Früher haben sie "
+"uns nur gelegentlich heimgesucht, aber inzwischen hat sich der Trollbefall "
+"ausgeweitet, wohin wir auch gehen, jeder Ort ist mit Trollen verseucht. Ihre "
+"Taktiken sind listiger geworden, und wir haben bereits mehrere unserer "
+"außenliegenden Siedlungen in den Angriffen verloren. Die Kämpfe haben aber "
+"noch lange kein Ende, und mit eurem kürzlichen Sieg wendet sich das "
+"Schlachtenglück vielleicht zu unseren Gunsten. Aber berichtet mir, was "
+"suchen so viele der Elfen so tief unter der Erde?"
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:567
 msgid ""
@@ -3495,6 +3540,13 @@ msgid ""
 "trying to cross the snowy peaks. So that's how several thousand of us ended "
 "up down here."
 msgstr ""
+"Es ist eine lange Geschichte, aber soviel sei gesagt, wir kommen aus dem "
+"Süden, wo wir in der Wüste gelebt haben. Unsere Siedlung wurde zerstört, und "
+"ich führe mein Volk an auf der Suche nach einer neuen Heimat. Unsere Göttin "
+"Eloh erschien mir in einer Vision, und gab mir die Anweisung, nach Norden zu "
+"gehen. Als wir dann das Gebirge erreichten, sagte sie, wir sollten den Weg "
+"unter dem Berg nehmen, anstatt zu versuchen die eisigen Gipfel zu "
+"überqueren. Das ist es wie einige Tausend von uns hier unten gelandet sind."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:572
 msgid ""
@@ -3503,6 +3555,11 @@ msgid ""
 "you, I don't think that the under-realm is  quite the place for your kind. I "
 "think your god may have somewhere else intended for you."
 msgstr ""
+"Interessant. Wir würden auch anbieten, hier mit uns zu leben, aber ich "
+"fürchte, wir haben nicht sehr viel Platz. Diese Stadt hat beinahe die "
+"Grenzen ihrer Kapazität erreicht. Und wenn ich euch ansehe, bezweifle ich, "
+"dass dieses Reich der Unterwelt der richtige Platz für euch wäre. Ich denke, "
+"eure Göttin hat etwas anderes für euch vorbereitet."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:577
 msgid ""
@@ -3511,6 +3568,10 @@ msgid ""
 "want to do is to find a way back to the surface on the northern side of the "
 "mountains."
 msgstr ""
+"In der Tat, obwohl ich diese großartige, in den Stein gehauene Stadt "
+"bewundere, denke ich dass viele meiner Leute diese Tunnel als fremdartig und "
+"furchterregend empfinden. Alles was wir wirklich wollen, ist einen Weg "
+"zurück an die Oberfläche auf der nördlichen Seite des Gebirges zu finden."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:582
 msgid ""
@@ -3521,6 +3582,12 @@ msgid ""
 "decreed that all contact with us should be cut off. We sent messengers to "
 "find out why, but they never returned."
 msgstr ""
+"Dabei kann ich euch wohl behilflich sein. Wir haben seit Jahren niemanden "
+"mehr an die Oberfläche geschickt, aber wir kennen den Weg der zum alten "
+"Nordtor führt. Vor einigen Generation herrschte ein reger Handel mit den "
+"Menschen die nördlich der Berge leben, aber dann kam ein neuer Herrscher der "
+"Menschen und verordnete, jeglichen Kontakt mit uns abzubrechen. Wir sandten "
+"Boten aus, um den Grund zu erfahren, aber sie kehrten nie zurück."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:587
 msgid ""
@@ -3530,12 +3597,20 @@ msgid ""
 "understand our maps, so, $dwarf_name here has volunteered to lead you to the "
 "surface."
 msgstr ""
+"Zwerge sind jedoch exzellente Höhlenforscher, und wir führen genaueste "
+"Karten über all die Tunnel die wir erforscht haben. Somit haben wir auch "
+"noch Karten der Tunnel die zurück an die Oberfläche führen. Natürlich "
+"bezweifle ich, dass ihr unsere Karten verstehen würdet, aber $dwarf_name "
+"hier hat sie bereit erklärt, euch zur Oberfläche zu führen."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:600
 msgid ""
 "You saved my life and my debt to you is still unpaid. Showing you the way to "
 "the surface and protecting you is the least I can do."
 msgstr ""
+"Ihr habt mein Leben gerettet, und meine Schuld ist noch nicht beglichen. "
+"Euch den Weg an die Oberfläche zu zeigen, und euch zu beschützen, ist das "
+"Mindeste was ich tun kann."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:605
 msgid ""
@@ -3543,6 +3618,10 @@ msgid ""
 "death instead of a cowards's. For that I thank you. I will take his place "
 "and help you get to the surface."
 msgstr ""
+"Ihr habt meinen Bruder befreit, und auch wenn er im Kampf gefallen ist, so "
+"starb er den Tod eines Kriegers anstatt den eines Feiglings. Dafür habt ihe "
+"meinen Dank. Ich werde seinen Platz einnehmen und euch helfen, zur "
+"Oberfläche zu gelangen."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:614
 msgid ""
@@ -3550,6 +3629,9 @@ msgid ""
 "light I am the one who known the upper tunnels the best, so I'll be your "
 "guide."
 msgstr ""
+"Ihr habt meinen Brüdern große Dienste erwiesen, und als Gegenleistung, so "
+"sehr ich auch das Tageslicht verabscheue, werde ich euer Führer sein, da ich "
+"derjenige bin der die oberen Tunnel am besten kennt."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:622
 msgid ""
@@ -3557,11 +3639,16 @@ msgid ""
 "these twisting tunnels. And we would be honored to have you come with us, "
 "$dwarf_name ."
 msgstr ""
+"Habt vielen Dank für eure Hilfe. Wir waren schon besorgt, wir würden uns "
+"alleine in all diesen sich windenden Tunneln verlaufen. Und es ist uns eine "
+"große Ehre, Euch bei uns zu haben, $dwarf_name."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:634
 msgid ""
 "The dwarves who fought by your side have come to pay their respects as well."
 msgstr ""
+"Die Zwerge, die an eurer Seite kämpften, sind ebenfalls gekommen, um euch "
+"die Ehre zu erweisen."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:639
 msgid ""
@@ -3571,6 +3658,13 @@ msgid ""
 "surface, and besides there's still lots of fighting to be done down here. "
 "Don't you worry, we won't rest until we have killed every last of troll."
 msgstr ""
+"Ihr habt uns geholfen, einen gewaltigen Schlag gegen diese Bestien zu "
+"führen, und es war uns eine Ehre, an eurer Seite zu kämpfen. Ihr seid die "
+"tapfersten Elfen, die wir je gekannt haben. Wir würden gerne mit euch "
+"kommen, aber, nun ja, wir bevorzugen es, nicht so nahe an die Oberfläche zu "
+"gehen. Außerdem gibt es hier unten noch eine Menge zu kämpfen. Macht euch "
+"keine Sorgen, wir werden nicht eher ruhen, als bis der letzte Troll "
+"erschlagen ist."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:644
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:646
@@ -3578,16 +3672,19 @@ msgid ""
 "I understand. Thank you, you were a huge help to us. It was a honor to fight "
 "by your side."
 msgstr ""
+"Ich verstehe. Habt Dank, ihr ward eine große Hilfe für uns. Es war eine "
+"Ehre, an eurer Seite zu kämpfen."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:659
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:661
 msgid "I'm afraid, Kaleh, that the time has come for our paths to seperate."
 msgstr ""
+"Ich fürchte, Kaleh, die Zeit ist gekommen, da sich unsere Wege trennen."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:664
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:666
 msgid "What?!"
-msgstr ""
+msgstr "Was?!"
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:669
 msgid ""
@@ -3600,11 +3697,20 @@ msgid ""
 "craft the sceptre of fire. Imagine if I could find the dwarves who helped "
 "build such an artifact?"
 msgstr ""
+"Ich habe in meiner Zeit hier viel über die Zwerge gelernt, und doch gibt es "
+"noch so viel mehr zu lernen. Hast du ihre Schmieden gesehen? Sie verstehen "
+"es wahrhaftig, mit Feuer umzugehen, und nutzen es auf erstaunliche Weisen. "
+"Sie haben auch einige interessante Ideen, wie ihre Schmiedekunst mit meinem "
+"magischen Feuer kombiniert werden könnte. Und hast du ihre Aufzeichnungen "
+"gesehen? Ihre Aufzeichnungen reichen viele Generationen zurück. Sie wissen "
+"sogar über den Zwergenstamm Bescheid, der dabei geholfen hat, das "
+"Feuerzepter anzufertigen. Stell dir nur vor, ich könnte die Zwerge ausfindig "
+"machen, die daran beteiligt waren, ein solches Artefakt zu bauen?"
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:674
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:676
 msgid "But we need you, what would do without you?"
-msgstr ""
+msgstr "Aber wir brauchen dich, was sollte wir denn ohne dich machen?"
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:679
 msgid ""
@@ -3613,22 +3719,33 @@ msgid ""
 "know that you will find a place for your people. My place is here, with the "
 "dwarves. And you don't really need me, you have each other."
 msgstr ""
+"Mit der Hilfe der Zwerge kommt ihr ganz gut ohne mich zurück, denke ich. Ich "
+"weiß nicht, welche Heimat eure Göttin für euch auserkoren hat, Kaleh - aber "
+"ich glaube an dich, und ich weiß, dass du einen Platz für dein Volk finden "
+"wirst. Mein Platz ist hier, bei den Zwergen. Und ihr braucht mich nicht "
+"wirklich, ihr habt euch ja gegenseitig."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:684
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:686
 msgid ""
 "If your mind is set, then I won't try to convince you. But we will miss you."
 msgstr ""
+"Wenn deine Entscheidung feststeht, dann werde ich nicht versuchen, dich "
+"umzustimmen. Aber wir werden dich vermissen."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:689
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:691
 msgid "I thank Eloh for the brief time that she has let you spend with us."
 msgstr ""
+"Ich danke Eloh für die kurze Zeit, die sie dich mit uns verbringen lassen "
+"hat."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:694
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:696
 msgid "You take care of yourself, and someday maybe we'll meet again."
 msgstr ""
+"Passt auf euch auf, uns eines Tages werden wir vielleicht wieder aufeinander "
+"treffen."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:699
 msgid ""
@@ -3638,16 +3755,25 @@ msgid ""
 "strike down your enemies. I give this to all of you as a token of my "
 "gratitude."
 msgstr ""
+"Danke. Und ich schulde euch so viel dafür, dass ihr mir geholfen habt, die "
+"Zwerge zu treffen. Ich wäre von alleine niemals hier herunter gekommen. "
+"Hier, mit der Hilfe der Zwerge, habe ich dieses Schwert für euch "
+"angefertigt. Mögen seine Flammen immer ein Licht auf eurem Pfad sein, und "
+"möge es eure Feinde niederstrecken. Ich überreiche es euch als ein Zeichen "
+"meiner Dankbarkeit."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:706
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:708
 msgid "A flaming sword. That's amazing. I just don't know who should use it. "
 msgstr ""
+"Ein Flammenschwert. Verblüffend. Ich weiß nur nicht, wer es tragen soll."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:711
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:713
 msgid "I will let you decide, use it in the best way that you see fit."
 msgstr ""
+"Ich überlasse die Entscheidung dir. Nutze es in der Weise die du für am "
+"Besten hältst."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:716
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:718
@@ -3655,6 +3781,9 @@ msgid ""
 "You can choose which unit you want to take the flaming sword. If you want "
 "another unit to wield the sword Kaleh can recruit or recall other units."
 msgstr ""
+"Ihr könnt wählen, welche Einheit das Flammenschwert erhalten soll. Falls "
+"eine andere Einheit das Schwert nutzen soll, kann Kaleh diese jetzt "
+"einberufen oder rekrutieren."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:725
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:798
@@ -3663,6 +3792,9 @@ msgid ""
 "retreated back into their holes for the present, but who knows when they "
 "will strike again."
 msgstr ""
+"Und jetzt ist es wohl das Beste, wenn ihr so schnell wie möglich aufbrecht. "
+"Die Trolle haben sich für den Augenblick in Ihre Löcher zurückgezogen, aber "
+"keiner weiß, wann sie einen neuen Angriff starten."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:730
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:805
@@ -3671,16 +3803,18 @@ msgid ""
 "This is a marvelous city, but I for one can't wait to feel the sun upon my "
 "face again and the wind in my hair."
 msgstr ""
+"Das ist eine fabelhafte Stadt, aber ich für meinen Teil kann es gar nicht "
+"erwarten, wieder die Sonne auf meinem Haar zu spüren."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:759
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:761
 msgid "Should I take this sword?"
-msgstr ""
+msgstr "Soll ich dieses Schwert nehmen?"
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:761
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:763
 msgid "Yes, I'll take it."
-msgstr ""
+msgstr "Ja, nimm es."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:791
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:793
@@ -3688,16 +3822,18 @@ msgid ""
 "I will wield this blade proudly, and whenever I look upon it I shall "
 "remember you, Elyssa."
 msgstr ""
+"Ich werde dieses Schwert voll Stolz tragen, und wann immer ich es ansehe, "
+"werde ich an dich denken, Elyssa."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:818
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:820
 msgid "No, I think someone else should wield it."
-msgstr ""
+msgstr "Nein, ich denke, jemand anderer sollte es tragen."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:7
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:8
 msgid "Talking with Trolls"
-msgstr ""
+msgstr "Unterhaltung mit Trollen"
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:58
 msgid ""
@@ -3706,6 +3842,11 @@ msgid ""
 "the elves that the trolls were our allies, Zurg lead us silently and quickly "
 "away from the front lines through a maze of secret tunnels."
 msgstr ""
+"Kapitel 6: Wir kehrten schnell zurück, und fanden den Rest unserer Leute "
+"sicher versteckt ein paar Meilen abseits des Kampfgeschehens. Nachdem wir "
+"den andere Elfen versichert hatte, dass die Trolle unsere Verbündeten waren, "
+"führte uns Zurg lautlos und schnell weg von den Frontlinien, hindurch durch "
+"ein Labyrinth aus Tunneln."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:62
 msgid ""
@@ -3721,6 +3862,18 @@ msgid ""
 "of space for us to bed down and stay out of the way, and the dwarves had "
 "left behind plenty of provisions. "
 msgstr ""
+"Ich weiß nicht, wie lange wir durch diese winzigen Passagen stapften. "
+"DieZeit schien hier unten anders zu vergehen, so tief unter der Erde. "
+"Schließlich erreichten wir eine große Höhle, die von den Überresten einer "
+"einstigen Zwergenstadt überragt wurde. Die goßen Steinwände waren übersäht "
+"mit riesigen Löchern, und die Eisengatter waren auseinander gesprengt. Als "
+"wir die Tore passierten, sahen wir tote Zwerge, und andere grauenhafte "
+"Zeichen eines kürzlichen Kampfes. Überall um uns herum waren viele Trolle, "
+"die hart daran arbeiteten, die Mauern und Verteidigungsanlagen zu "
+"reparieren. Zurg führte uns durch das Chaos zu einigen Seitenhöhlen, die bis "
+"vor kurzem als Lagerhallen gedient hatten. Es war genug Platz für uns, "
+"Schlafstellen zu errichten ohne den Trollen im Weg zu sein. Und die Zwerge "
+"hatten genug Vorräte zurückgelassen."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:66
 msgid ""
@@ -3734,6 +3887,16 @@ msgid ""
 "between the warriors and the shamans, the trolls shamans were the ones that "
 "chose the military leader of the people."
 msgstr ""
+"Zurg erzählte und, dass die diese Stadt von den Zwergen erobert hätten, und "
+"der Große Anführer hier sein neues Operationszentrum errichtet hatte. Sie "
+"waren offenbar besorgt über einen Gegenangriff der Zwerge. Glücklicher Weise "
+"waren die Trolle sehr geschickte Steinarbeiter, und die Wände waren schnell "
+"repariert. Die Trolle sprachen nicht viele, aber sie waren sehr intelligent, "
+"und auf keine Fall die blutrünstigen Wilden als die sie dargestellt wurden. "
+"Insgesamt schienen sie sogar recht friedfertig zu sein, außer wenn sie "
+"provoziert wurden. Ich erfuhr, dass die Herrschaft gleichermaßen zwischen "
+"Kriegern und Schamanen aufgeteilt war. Die Trollschamanen wählten die "
+"militärischen Anführer des Volkes aus."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:70
 msgid ""
@@ -3743,6 +3906,11 @@ msgid ""
 "so after waiting a few days, I was able to get an audience with the Great "
 "Leader."
 msgstr ""
+"Ich wünschte, ich hätte mehr Zeit damit verbringen können, alles über diese "
+"mißverstandenen Geschöpfe zu lernen, aber wir hatten keine Zeit lange zu "
+"verweilen. Sogar unter dem Schutz der Trolle fürchtete ich inmitten eines "
+"großes Krieges um die Sicherheit meines Volkes. Und so bekam ich nach "
+"einigen Tagen eine Audienz beim Großen Anführer."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:554
 msgid ""
@@ -3756,14 +3924,26 @@ msgid ""
 "running up the center of the chamber has been left untouched, it leads to a "
 "small stone chair facing the large throne."
 msgstr ""
+"Es ist deutlich zu erkennen, dass diese Kammer prachtvoll ausgeschmückt "
+"gewesen sein muss, aber außer dem schmutzigen Steinboden ist nichts mehr zu "
+"sehen. Nur ein großer steinerner Tron ist übrig, der mir Schädeln, "
+"Tierhäuten und heller Farbe bedeckt worden war. Die Wände waren einst mit "
+"Fresken und Zwergenrunen geschmückt, aber einige Trolle sind damit "
+"beschäftigt, sie weg zu meißeln. Der Boden war einst mit dunklem Schiefer "
+"bedeckt, aber nur mehr ein paar kleine Überreste um die beiden Stühle in der "
+"Kammer waren noch hier. Ihr seid  überrascht, dass der Pfad aus Fließen "
+"unversehrt gelassen wurde, der durch das Zentrum der Kammer zu einem kleinen "
+"Steinsitz gegenüber dem Tron führt."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:559
 msgid "I, Great Leader Darmog, greet you, Kaleh."
-msgstr ""
+msgstr "Ich, Großer Anführer Darmog, grüße dich, Kaleh."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:564
 msgid "I Kaleh, leader of the Quenoth Elves, thank you for meeting with me."
 msgstr ""
+"Ich, Kaleh, Anführer der Quenoth Elfen, danke Euch für dieses Treffen mit "
+"mir."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:569
 msgid ""
@@ -3776,12 +3956,22 @@ msgid ""
 "of our kin cry out for vengeance and Darmog will not rest until every dwarf "
 "is dead!"
 msgstr ""
+"Im Namen von alle Trolle, Darmog danken dir für großen Sieg über Zwerge. Du "
+"uns geholfen, scheußliche Zwerge vertreiben, und Zeit gegeben, unsere "
+"Verteidigung stärken. Wir Trolle nicht immer Feinde mit Zwerge. Bis vor "
+"kurzem wir nicht viel Kontakt mit kleinen Menschen. Aber, Zwerge dringen in "
+"unsere Tunnel, beschmutzen unsere heiligen Plätze, und töten unsere Frauen "
+"und Kinder. Zwerge nur interessiert Gold und schöne Edelsteine. Schamanen "
+"sagen, Geister unser Angehörigen schreien nach Rache, und Darmog nicht eher "
+"ruhen als letzter Zwerg tot!"
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:574
 msgid ""
 "But I am curious, we do not know of your kind. We thank you for your help, "
 "but who are you and why do you come down here with so many of your people?"
 msgstr ""
+"Bin neugierig. Wir nicht wissen viel über euch. Wir Danken euch für Hilfe, "
+"aber wer weid ihe, und warum kommt ihr hier herunter, mit so viele Leute?"
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:579
 msgid ""
@@ -3793,6 +3983,14 @@ msgid ""
 "live down here, we are just trying to find a way to the other side of the "
 "mountains. "
 msgstr ""
+"Es ist eine lange Geschichte, aber soviel sei gesagt, wir kommen aus dem "
+"Süden, wo wir in der Wüste gelebt haben. Unsere Siedlung wurde zerstört, und "
+"ich führe mein Volk an auf der Suche nach einer neuen Heimat. Unsere Göttin "
+"Eloh erschien mir in einer Vision, und gab mir die Anweisung, nach Norden zu "
+"gehen. Als wir dann das Gebirge erreichten, sagte sie, wir sollten den Weg "
+"unter dem Berg nehmen, anstatt zu versuchen die eisigen Gipfel zu "
+"überqueren. Wir wollen uns nicht hier unten niederlassen, wir versuchen nur, "
+"einen Weg auf die andere Seite des Berges zu finden."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:584
 msgid ""
@@ -3800,6 +3998,9 @@ msgid ""
 "leader must protect and care for his people. Every people deserve to find "
 "their own home, if we can help you we will."
 msgstr ""
+"Darmog nie auf Obergrund gewesen, aber Darmog verstehen deine Geschichte. "
+"Anführer muss dein Volk schützen und für Leute sorgen. Jedes Volk verdienen "
+"ihr eigenes Zuhause. Wenn wir helfen können wir werden."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:589
 msgid ""
@@ -3812,12 +4013,23 @@ msgid ""
 "achievements, we will help you. $troll_name has volunteered to protect you "
 "and lead you back to the sunlight lands."
 msgstr ""
+"Wir können euch nützlich sein Weg zurück finden in Sonnenscheinland. In "
+"unsere Tempel Aufzeichnungen von Vergangenheit. Wir nicht über Erde seit "
+"vielen Generationen, nicht seit Dunkelheit uns in Untergrund getrieben. Aber "
+"wir sind Meister der Untergrundländer, und wir erforschen viele Tunnel. "
+"Kürzlich, ein von unsere Scouts gefunden Pfad führt nach Norden zu "
+"Sonnenscheinland. Ich denke Weg ihr sucht. Als Belohnung für Taten, wir "
+"helfen euch. $troll_name freiwillig, euch schützen und in Sonnenscheinland "
+"zurück führen."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:602
 msgid ""
 "You saved Grog's life. Grog still owe you a debt of thanks. In return Grog "
 "will protect little elves and show them the way back to lighted lands. "
 msgstr ""
+"Ihr habt Grogs Leben geretted. Grog schuldet euch noch immer Dank. Als "
+"Gegenleistung wird nun Grog die kleinen Elfen beschützen, und ihnen den Weg "
+"zurück an die Oberfläche zeigen."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:607
 msgid ""
@@ -3825,6 +4037,10 @@ msgid ""
 "coward in chains. Nog is very greatful, you proved yourselves to be brave "
 "strong warriors, and Nog will help you find way back to lighted lands."
 msgstr ""
+"Ihr habt Nogs Bruder gerettet, und so starb er wie ein Kämpfer in der "
+"Schlacht, und nicht als Feigling in Ketten. Nog ist euch sehr zu Dank "
+"verplflichtet. Ihr habt bewiesen, dass ihr starke und mutige Krieger seid, "
+"und Nog wir euch helfen, einen Weg in die erleuchteten Länder zu finden."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:616
 msgid ""
@@ -3833,6 +4049,10 @@ msgid ""
 "though he not want to leave battle, he agrees to show elves way back to "
 "lighted lands."
 msgstr ""
+"Ihr habt den Trollen einen großen Dienst erwiesen. Grog wandert gerne in den "
+"Tunneln, und der Anführer sagt, er kennt die oberen Tunnel am besten Grog "
+"will den Elfen helfen, und obwohl er weiter kämpfen will, ist er "
+"einverstanden, den Elfen den Weg zu den erleuchteten Ländern zu zeigen."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:624
 msgid ""
@@ -3840,12 +4060,17 @@ msgid ""
 "these twisting tunnels. And we would be honored to have you come with us, "
 "$troll_name"
 msgstr ""
+"Vielen Dank für eure Hilfe. Wir waren besorgt, wir würden und in all den "
+"verzweigten Gängen nicht zurechtfinden. Und wir würden uns geehrt fühlen, "
+"dich bei uns zu haben, $troll_name"
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:636
 msgid ""
 "The trolls who fought with you also want to thank you. They tell great tales "
 "of your valor."
 msgstr ""
+"Trolle mit euch gekämpft haben auch wollen euch danken. Erzählen große "
+"Geschichten euer Heldenmut."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:641
 msgid ""
@@ -3855,6 +4080,12 @@ msgid ""
 "Leader need us to protect this city. Many dwarves still left, much fighting "
 "still to do. Griknagh will protect us, may he watch over you too."
 msgstr ""
+"Danken euch für alles ihr habt getan für Trolle. Ihr seid mutigste kleine "
+"Menschen wir kennen. Wrden Geschichten erzählen alle unsere Familien von all "
+"eure Taten sie werden nie vergessen. Wir wünschten, wir kommen mit euch "
+"kämpfen mehr. Aber Großer Anführer braucht uns beschützen Stadt. Viele "
+"Zwerge noch übrig, viel Kämpfen notwendig. Griknagh uns beschützen uns, auch "
+"beschützen euch."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:671
 msgid ""
@@ -3866,6 +4097,15 @@ msgid ""
 "still teaching it deep under the earth? The is just so much I can learn from "
 "the them, I can't leave now."
 msgstr ""
+"Ich habe eine Menge über die Trolle gelernt, in meiner Zeit hier. Und doch, "
+"es gibt noch so viel mehr zu lernen. Ihre Zauberkunst ist erstaunlich. Habt "
+"ihr ihre Schamanen gesehen? Sie machen Feuer mit ihren bloßen Händen! Und "
+"sie sind sehr an meiner Zauberkunst interessiert, sie haben mir sogar "
+"angeboten, mir beizubringen, wie sie mit Magie Feuer machen. Ich dachte "
+"immer, ich sei eine der letzten Menschen, die noch Zauberei ausüben - wer "
+"hätte gedacht, ich würde hier tief unter der Erde Trolle finden, die sie "
+"noch immer lehren? Es gibt einfach so viel das ich von ihnen lernen kann, "
+"ich kann jetzt unmöglich weg von hier."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:681
 msgid ""
@@ -3874,6 +4114,11 @@ msgid ""
 "know that you will find a place for your people. My place is here, with the "
 "dwarves. And you don't really need me, you have each other."
 msgstr ""
+"Mit der Hilfe der Trolle werdet ihr ganz gut ohne mich zurecht kommen. Ich "
+"weiß nicht, welche Heimat eure Göttin für euch auserkoren hat, Kaleh - aber "
+"ich glaube an dich, und ich weiß, dass du einen Platz für dein Volk finden "
+"wirst. Mein Platz ist hier, bei den Zwergen. Und ihr braucht mich nicht "
+"wirklich, ihr habt euch ja gegenseitig."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:701
 msgid ""
@@ -3883,6 +4128,13 @@ msgid ""
 "blade for you. May it's flames always light your path, and strike down your "
 "enemies. I give this to all of you as a token of my gratitude."
 msgstr ""
+"Danke. Und ich schulde euch so viel dafür, dass ihr mir geholfen habt, die "
+"Trolle zu treffen. Ich wäre von alleine niemals hier herunter gekommen. "
+"Hier, ich habe dieses Schwert gefunden, als wir gegen die Zwerge gekämpft "
+"haben, und mit Hilfer der Trolle habe ich die Klinge mit Feuermagie belegt "
+"und ein Flammenschwert gefertigt. Mögen seine Flammen immer ein Licht auf "
+"eurem Pfad sein, und möge es eure Feinde niederstrecken. Ich überreiche es "
+"euch als ein Zeichen meiner Dankbarkeit."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:727
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:800
@@ -3891,6 +4143,8 @@ msgid ""
 "sneaky, they retreat today but may attack again tomorrow. The sooner you "
 "leave the safer you will be."
 msgstr ""
+"Und jetzt, Darmog denkt, ihr geht bald als möglich. Zwerge hinterlistig, "
+"machen Rückzug heute, greifen morgen an. Ihr früher weg desto sicherer."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:732
 msgid ""
@@ -3903,7 +4157,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:18
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:19
 msgid "Out of the Frying Pan"
-msgstr ""
+msgstr "Flucht aus dem Hexenkessel"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:340
 msgid ""
