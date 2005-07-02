@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-06-23 00:42+0200\n"
-"PO-Revision-Date: 2005-06-28 18:54+0200\n"
+"PO-Revision-Date: 2005-07-02 14:39+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -180,7 +180,7 @@ msgstr "Det långa mörkret (4)"
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:9
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:10
 msgid "The Morning After"
-msgstr ""
+msgstr "Nästa morgon"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:44
 msgid ""
@@ -630,7 +630,7 @@ msgid ""
 "armies."
 msgstr ""
 "Bah, jag har slagits mot de här mörka kultanhängarna förut. De kan dödas "
-"precis som alla andra, och våra alvjägare kan utan problem decimera deras "
+"precis som alla andra, och våra jägare kan utan problem decimera deras "
 "skelettarméer."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1058
@@ -931,7 +931,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:20
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:21
 msgid "Across the Harsh Sands"
-msgstr ""
+msgstr "Genom den kärva öknen"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:52
 msgid "Pinnacle Rock"
@@ -1636,7 +1636,7 @@ msgstr "Fly, era ryggradslösa andar, och låt oss vara i fred!"
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:15
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:16
 msgid "A Stirring in the Night"
-msgstr ""
+msgstr "Rörelser i natten"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:38
 msgid ""
@@ -1647,6 +1647,13 @@ msgid ""
 "afraid. I had lived my entire life in the sands, they were my home, and the "
 "rocky hills and white glistening mountaintops seemed foreign and foreboding."
 msgstr ""
+"Kapitel 3: Vi fortsatte norrut genom öknen. Bergen och kullarna framför oss "
+"utlovade välbehövlig vila från sanden som verkade utan slut. Snart kom vi "
+"till foten av berget, och vi beslöt oss för att vila där över natten. Hur "
+"trött jag än var av marschen genom öknen, så var jag ändå på något sätt "
+"underligt rädd. Hela mitt liv så hade jag levt i öknen, den var mitt hem, "
+"och de steniga klipporna och vita glittrande bergstopparna verkade främmande "
+"och ödesdigra."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:42
 msgid ""
@@ -1657,6 +1664,11 @@ msgid ""
 "more about day to day matters than the extra-worldly ones. But who was I to "
 "question a god?"
 msgstr ""
+"Jag undrade om jag verkligen gjorde det rätta när jag ledde mitt folk till "
+"främmande länder. Trots Elohs löften så hade jag inte samma tillförsikt som "
+"Zhul. Jag undrade varför Eloh valt att visa sig för mig. Jag var inte "
+"särskilt gudfruktig, jag brydde mig alltid mer om vardagens bestyr än "
+"utomvärldsliga sådana. Men vem var jag att ifrågasätta en gud?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:46
 msgid ""
@@ -1675,54 +1687,77 @@ msgid ""
 "fear not the dark.' And again, just like before, I was woken up by a shout "
 "in the night. "
 msgstr ""
+"Den natten drömde jag igen, och för första gången sedan den första ödesdigra "
+"natten så kom Eloh till mig igen. Den här gången visade hon sig som en "
+"vacker skimrande varelse, lika klar som solarna. Hon sade: 'Tappa inte "
+"modet, för snart kommer du att träda in i en mörkrets tid, men alla dina "
+"vedermödor kommer till slut att bli belönade. Du måste gå under de norra "
+"bergen, inte över dem. Vid foten av kullarna finner du ruinerna av ett "
+"åldrigt vakttorn uppfört i svart obsidian. Ingången till tunnlarna du söker "
+"ligger vid det tornet. Följ den jämnhuggna gamla tunneln ner under bergen, "
+"och när du återigen ser himlen och mina solar så kommer jag att möta dig i "
+"drömmen igen. Men tag dig i akt för dem som lurar i mörkret, de gömmer sig "
+"från mitt ljus och är inte pålitliga. Jag har inte någon makt i mörkret, så "
+"du är min rättvisas hand. Straffa de vantrogna. Gå nu, och frukta inte "
+"mörkret.' Och återigen väcktes jag ur min sömn av ett rop i natten."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:60
 msgid "Kaleh, wake up! Scouts report movement out in the sands."
-msgstr ""
+msgstr "Kaleh, vakna nu! Spejarna rapporterar om rörelser ute i öknen."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:65
 msgid "Is it orc raiders?"
-msgstr ""
+msgstr "Är det orchrövare?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:70
 msgid "I don't think so..."
-msgstr ""
+msgstr "Jag tror inte det..."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:75
 msgid "We meet again Ystara."
-msgstr ""
+msgstr "Så möts vi igen, Ystara."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:80
 msgid "You think you can take me, Azkotep?"
-msgstr ""
+msgstr "Tror du att du kan besegra mig, Azkotep?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:85
 msgid ""
 "My champion, Zur shall slice you to shreds like the puny adept you once were."
 msgstr ""
+"Min förkämpe, Zur, skall slita dig i stycken, som den ynklige lärjunge du en "
+"gång var."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:90
 msgid ""
 "You always were an arrogant little bastard. Grek will swallow your soul "
 "first, or what's left of it."
 msgstr ""
+"Du har alltid varit en uppkäftig liten djävul. Grek kommer att sluka din "
+"själ först, om du nu har något kvar av den."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:95
 msgid ""
 "You spurned me once; I will make you pay. But enough of the past--to battle, "
 "my minions! Behold the wrath of the dead!"
 msgstr ""
+"Du avvisade mig en gång, det skall du få betala för. Men nog om det "
+"förflutna nu. Till strid, mina undersåtar! Skåda vreden hos de döda!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:100
 msgid ""
 "Great, ringside seats for an all out battle between two undead lords. You "
 "really know how to pick a campsite, Kaleh."
 msgstr ""
+"Toppen, platser på första parkett för en strid mellan två vandöda mästare. "
+"Du vet verkligen hur man väljer en bra lägerplats, Kaleh."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:105
 msgid ""
 "Where did they come from? I swear those castles weren't there at sunset."
 msgstr ""
+"Men varifrån kom de? Jag kan svära på att de där borgarna inte fanns där när "
+"solen gick ner."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:110
 msgid ""
@@ -1730,36 +1765,49 @@ msgid ""
 "wraith-like forms, I have no doubt that their cold steel can still bite "
 "flesh."
 msgstr ""
+"Många underliga saker händer under det långa mörkret. Men deras skugglika "
+"former till trots, så betvivlar jag inte att deras kalla stål kan bita hårt "
+"i köttet."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:115
 msgid ""
 "Like I haven't killed enough undead recently. Why can't these guys just stay "
 "dead?"
 msgstr ""
+"Som om jag inte hade dödat tillräckligt med vandöda på sistone. Varför kan "
+"de där inte bara förbli döda?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:120
 msgid ""
 "Our encampment is out of the direct line of attack, so we should be somewhat "
 "safe, at least."
 msgstr ""
+"Vår lägerplats är inte direkt i anfallsriktningen, så vi är nog någorlunda "
+"säkra här, i alla fall."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:125
 msgid ""
 "But our people's encampments are in danger, they'll be slaughtered by the "
 "undead hordes!"
 msgstr ""
+"Men vårt folk hotas, deras lägerplatser är i fara. De kommer att slaktas av "
+"de vandöda horderna!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:131
 msgid ""
 "There's no way we can marshal our people to escape the battle in time. We "
 "must protect our people's twelve encampments from the undead."
 msgstr ""
+"Vi hinner aldrig samla ihop vårt folk och undfly striden i tid. Vi måste "
+"skydda de tolv lägerplatserna där vårt folk bor från de vandöda."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:136
 msgid ""
 "There's no way we can marshal our people to escape the battle in time. We "
 "must protect our people's eleven encampments from the undead."
 msgstr ""
+"Vi hinner aldrig samla ihop vårt folk och undfly striden i tid. Vi måste "
+"skydda de elva lägerplatserna där vårt folk bor från de vandöda."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:142
 msgid ""
@@ -1768,28 +1816,34 @@ msgid ""
 "have the strength to go on. Garak, wake your men. We must hold off the "
 "undead until dawn."
 msgstr ""
+"Om de vandöda styrkorna når våra lägerplatser först så kommer de utan tvekan "
+"att förstöras. Jag fruktar att om vi förlorar fler än hälften av våra "
+"lägerplatser, så kommer vi inte att kunna fortsätta. Garak, väck dina "
+"mannar. Vi måste hålla de vandöda stången tills gryningen."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:147
 msgid "To arms my people, to arms!"
-msgstr ""
+msgstr "Till vapen, mitt folk, till vapen!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:157
 msgid "Eloh protect us, what has he done?"
-msgstr ""
+msgstr "Eloh beskydda oss, vad har han gjort?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:162
 msgid "I live again! I can feel!"
-msgstr ""
+msgstr "Jag lever igen! Jag kan känna!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:167
 msgid "Garak?"
-msgstr ""
+msgstr "Garak?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:172
 msgid ""
 "Hahahaha! Your puny friend is no more. With his body I shall crush you all. "
 "Arise again my minions and feast in the slaughter!"
 msgstr ""
+"Hahahaha! Din ynklige vän är inte mer. Jag skall använda hans kropp för att "
+"krossa er alla. Stig upp mina undersåtar och fröjdas åt slakten!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:177
 msgid ""
@@ -1797,12 +1851,17 @@ msgid ""
 "cannot last forever, and with the light of the sun the undeads' dark power "
 "wanes and their magics unravel."
 msgstr ""
+"Titta, gryningen nalkas, och vi är nästan räddade. Inte ens det långa "
+"mörkret kan vara för alltid, och med solens ljus förbleknar de vandödas "
+"mörka krafter och deras magi blir till intet."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:182
 msgid ""
 "No! I shall have my vengeance upon you all. Darkness shall reign until I "
 "have triumphed!"
 msgstr ""
+"Nej! Jag skall utkräva min hämnd på er alla. Mörkret skall råda tills jag "
+"har vunnit!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:195
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:204
@@ -1810,6 +1869,8 @@ msgid ""
 "In this I shall support you, the sun shall not rise until one of us is "
 "victorious."
 msgstr ""
+"Jag står vid din sida i detta, solen kommer inte att stiga på himlavalvet "
+"förrän en av oss går segrande ur striden."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:212
 msgid ""
@@ -1819,10 +1880,15 @@ msgid ""
 "the spectral evil that remains, one of them must die for this battle to end. "
 "We have no choice."
 msgstr ""
+"Jag var visst förhastad. Förbannad vare Zardia, de har till och med täckt "
+"stjärnorna, allt är mörker. Kaleh, vi måste förgöra åtminstone en av dessa "
+"vidriga varelser. Om det blir den som har besatt vår vän, eller den andra "
+"onda skepnaden spelar inte någon roll. Någon av dem måste dö, så att striden "
+"tar slut. Vi har inte något val."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:217
 msgid "But to kill Garak? How can we?"
-msgstr ""
+msgstr "Men, att döda Garak? Hur kan vi göra det?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:222
 msgid ""
@@ -1833,29 +1899,37 @@ msgid ""
 "important than protecting our encampments. And I do not intend to let that..."
 "thing keep control of the body of our friend."
 msgstr ""
+"Det där är inte Garak. Natten har varat länge nog, och alltför många av vårt "
+"folk har dött. Hur många fler vill du offra för Garaks skull? Det är lönlöst "
+"att beskydda våra lägerplatser om vi inte kan få ett slut på den här "
+"striden, mörker och kaos kommer att råda. Just nu är det viktigare att vi "
+"dödar en av de två onda än att skydda våra lägerplatser. Och jag har inte "
+"för avsikt att låta den där...saken besitta vår väns kropp."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:234
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:241
 msgid "The stench of death is in the air."
-msgstr ""
+msgstr "Det stinker av död här."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:248
 msgid "Yes, let us end this once and for all."
-msgstr ""
+msgstr "Ja, låt oss en gång för alla göra slut på detta."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:253
 msgid ""
 "Your scenario objectives have changed: no longer must you protect at least 6 "
 "encampments."
 msgstr ""
+"Dina scenariomål har ändrats: du behöver inte längre beskydda åtminstone 6 "
+"lägerplatser."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:260
 msgid "Kill Possessed Garak (or)"
-msgstr ""
+msgstr "Döda den besatte Garak (eller)"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:265
 msgid "Defeat remaining Undead Lord"
-msgstr ""
+msgstr "Besegra den återstående vandöde fursten"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:284
 msgid ""
@@ -1863,38 +1937,46 @@ msgid ""
 "so easily vanquished. We shall return, and shall rule long after your bones "
 "have crumbled to dust. This is our land, and none shall leave it unscathed."
 msgstr ""
+"Du står som segrare nu, men tro aldrig att mörkrets herrar kan besegras så "
+"lätt. Vi kommer att återvända, och vi skall regera under lång tid efter det "
+"att dina ben blivit till stoft. Detta är vårt land, och ingen lämnar det "
+"oskadd."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:289
 msgid ""
 "You fought so hard to protect your precious people, young elf. No great deed "
 "should go unpunished."
 msgstr ""
+"Du har kämpat så hårt för att skydda ditt kära folk, unge alv. En sådan stor "
+"gärning skall inte gå ostraffad."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:294
 msgid "A token to remember us by..."
-msgstr ""
+msgstr "En liten gåva så att du minns oss..."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:299
 msgid "Aaaauuugggghhhh!"
-msgstr ""
+msgstr "Aaaauuugggghhhh!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:304
 msgid "He just collapsed!"
-msgstr ""
+msgstr "Han bara föll ihop!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:358
 msgid "The undead lords are defeated at last."
-msgstr ""
+msgstr "Äntligen är de vandöda furstarna besegrade!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:367
 msgid "Finally. It is over."
-msgstr ""
+msgstr "Det är över."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:386
 msgid ""
 "There's too many of them and the night is almost gone. Pull back you "
 "wretches, pull back!"
 msgstr ""
+"De är alltför många, och natten är nästan över. Tillbaka, ni olyckliga, "
+"tillbaka!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:395
 msgid ""
@@ -1902,35 +1984,44 @@ msgid ""
 "so beautiful. The undead forces have crumbled into dust and the remaining "
 "orcs are retreating with the dawn. But what of Garak?"
 msgstr ""
+"Jag ser Naias första strålar över horisonten! Aldrig har hon sett så vacker "
+"ut. Den vandöda styrkorna har blivit till stoft, och de kvarvarande orcherna "
+"drar sig tillbaka med gryningen. Men vad skall vi göra med Garak?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:400
 msgid "He's...He's still breathing!"
-msgstr ""
+msgstr "Han...han andas fortfarande!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:405
 msgid "Protect the boy for me Zhul (cough). I go to a better place."
-msgstr ""
+msgstr "Zhul, skydda pojken åt mig (host). Jag går till ett bättre ställe."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:416
 msgid ""
 "From the sands he came, to the sands he will return. We remember and honor "
 "his sacrifice, and I vow that his death will not be in vain. "
 msgstr ""
+"Av sand är han kommen, till sand skall han gå. Vi minns och ärar hans offer, "
+"och jag lovar att hans död inte skall ha varit förgäves."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:421
 msgid "Goodbye old friend, may Eloh shine her light eternal upon you."
-msgstr ""
+msgstr "Farväl gamle vän, må Eloh låta sitt eviga ljus skina över dig."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:426
 msgid ""
 "He was as brave and valiant a fighter as I have ever seen in my travels."
 msgstr ""
+"Han var den mest modiga och tappra krigare som jag någonsin stött på under "
+"mina resor."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:431
 msgid ""
 "He was a bastard at times.... But...but why did he have to die? It...it just "
 "doesn't make sense. "
 msgstr ""
+"Han var en skitstövel ibland... Men...men varför måste han dö? Det...det "
+"verkar så meningslöst."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:450
 msgid ""
@@ -1940,6 +2031,11 @@ msgid ""
 "fewer of our people died than would have if we had had to wait out the long "
 "night."
 msgstr ""
+"Det var mycket modigt av dig, Kaleh, när du besegrade båda de vandöda "
+"furstarna. Det krävdes stort mod och stor styrka. Din dristiga attack gjorde "
+"att vi inte behövde invänta gryningen och dess räddning. Du har räddat oss. "
+"Och många färre av vårt folk föll än om vi hade varit tvungna att hålla ut "
+"hela den långa natten."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:455
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:481
@@ -1950,18 +2046,25 @@ msgid ""
 "costly to recruit new warriors. It would be wise to stockpile gold against "
 "this eventuality."
 msgstr ""
+"Visserligen lyckades vi rädda de flesta av vårt folk den här gången, men vi "
+"kan inte räkna med sådan tur varje gång. Alver som en gång kämpat under din "
+"ledning återvänder visserligen gärna för att fylla ut dina led om de tunnas "
+"ut. Men det kommer att bli allt dyrare att rekrytera nya soldater. Du gör "
+"klokt i att samla på dig guld för sådana eventualiteter."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:476
 msgid "Miraculously, all of our encampments survived the night."
-msgstr ""
+msgstr "Som genom ett under så överlevde alla våra lägerplatser natten."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:495
 msgid "Well, only $village_counter encampments remain, but we shall survive."
 msgstr ""
+"Hm, vi har bara $village_counter lägerplatser kvar, men vi kommer att klara "
+"oss."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:500
 msgid "Yes, but at what cost?"
-msgstr ""
+msgstr "Ja, men till vilket pris?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:514
 msgid ""
@@ -1971,6 +2074,11 @@ msgid ""
 "costly to recruit new warriors. It would be wise to stockpile gold against "
 "this eventuality."
 msgstr ""
+"Visserligen lyckades vi rädda de flesta av vårt folk den här gången, men vi "
+"kan inte räkna med sådan tur varje gång. Alver som en gång kämpat under din "
+"ledning återvänder visserligen gärna för att fylla ut dina led om dessa "
+"tunnas ut. Men det kommer att bli allt dyrare att rekrytera nya soldater. Du "
+"gör klokt i att samla på dig guld för sådana eventualiteter."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:537
 msgid ""
@@ -1980,6 +2088,11 @@ msgid ""
 "become more and more costly to recruit new warriors. It would be wise to "
 "stockpile gold against this eventuality."
 msgstr ""
+"Vi har löpt en del förluster, men är ännu inte nedbrutna. Vi har räddat de "
+"flesta av vårt folk i natt. Alver som en gång kämpat under din ledning "
+"återvänder visserligen gärna för att fylla ut dina led om dessa tunnas ut. "
+"Men det kommer att bli allt dyrare att rekrytera nya soldater. Du gör klokt "
+"i att samla på dig guld för sådana eventualiteter."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:551
 msgid ""
@@ -1990,78 +2103,99 @@ msgid ""
 "become more and more costly to recruit new warriors. It would be wise to "
 "stockpile gold against this eventuality."
 msgstr ""
+"Vi har löpt stora förluster, men är ännu inte nedbrutna. Länge kommer denna "
+"slakt att leva i minnet hos vårt folk. Var var Eloh under de mörka timmarna? "
+"Jag är rädd att även om alver som en gång kämpat under din ledning gärna "
+"återvänder för att fylla ut dina led om dessa tunnas ut, så kommer det att "
+"bli allt dyrare att rekrytera nya soldater. Du gör klokt i att samla på dig "
+"guld för sådana eventualiteter."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:575
 msgid ""
 "All this death and destruction. What were those shades arguing over? Was "
 "this all just some sort of demented game?"
 msgstr ""
+"All denna död och förödelse! Vad var det skuggorna stred över? Var det här "
+"bara en del av någon förvriden lek?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:580
 msgid ""
 "The lords of the dead are powerful and twisted indeed. Only Eloh knows the "
 "truth of what happened tonight."
 msgstr ""
+"Dödens furstar är mäktiga och sannerligen förvridna. Endast Eloh känner "
+"sanningen om vad som hände i natt."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:585
 msgid ""
 "I don't want to be here tomorrow night to find out. The hills to the north "
 "are close. Let's be far away before another nightfall."
 msgstr ""
+"Jag vill inte vara kvar här i morgon och bli varse vad det handlade om. "
+"Kullarna i norr är nära. Låt oss vara långt härifrån innan natten kommer."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:818
 msgid "Survive Until Dawn (or)"
-msgstr ""
+msgstr "Överlev till gryningen (eller)"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:823
 msgid "Defeat all Undead Leaders"
-msgstr ""
+msgstr "Besegra alla vandöda fiendeledare"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:828
 msgid "You Control Less Than 6 Villages"
-msgstr ""
+msgstr "Du kontrollerar mindre än 6 byar"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1053
 msgid "Curse you! I will not forget this. You will rue this night."
 msgstr ""
+"Förbannad vare du! Jag kommer inte att glömma detta. Du kommer att ångra dig "
+"i natt."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1078
 msgid "Noooooo! I shall have my revenge!"
-msgstr ""
+msgstr "Neeeeeej! Jag skall få min hämnd!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1186
 msgid ""
 "What's this on our borders? Stinkin' elves and more undead? We'll teach them "
 "a lesson they won't soon forget. Attack!"
 msgstr ""
+"Vad är detta för ena vid våra gränser? Stinkande alver och fler vandöda? Vi "
+"skall minsann lära dem en läxa de sent skall glömma! Attack!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1191
 msgid ""
 "If those raiders capture any of our encampments, I fear our people's fates "
 "will be just as bad as if it was captured by the undead."
 msgstr ""
+"Om de där rövarna erövrar någon av våra lägerplatser, så fruktar jag att "
+"vårt folk kommer att gå ett lika bittert öde till mötes som om vi hade "
+"blivit tillfångatagna av de vandöda."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1293
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1902
 msgid "They're raising the corpses of our slain people! What a horrible fate!"
-msgstr ""
+msgstr "De återuppväcker våra döda! Vilket fruktansvärt öde!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1298
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1907
 msgid "Then we shall have to give them a proper cremation."
-msgstr ""
+msgstr "Då måste vi ge dem en anständigt kremering."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1332
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1411
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1493
 msgid "I can just barely see the sun poking over the dunes. It is almost dawn!"
-msgstr ""
+msgstr "Jag ser solen skymta fram över sanddynerna. Det är nästan gryning!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1337
 msgid ""
 "No! This contest is not over yet, Azkotep. I shall show you a taste of my "
 "true power."
 msgstr ""
+"Nej! Vår tävlan är inte över ännu, Azkotep. Jag skall visa dig vad min kraft "
+"verkligen är gjord av."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1416
 msgid ""
@@ -2069,6 +2203,9 @@ msgid ""
 "just before dawn. I call upon the lord of death and decay, grant me my "
 "vengeance!"
 msgstr ""
+"Nej, jag skall utkräva min hämnd. Jag skall visa dig att mörkret är som "
+"starkast just före gryningen. Jag åberopar dödens och förruttnelsens herre, "
+"ge mig min hämnd!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1498
 msgid ""
@@ -2076,6 +2213,9 @@ msgid ""
 "just before dawn. I call upon the powers of disease and despair, grant me my "
 "vengeance!"
 msgstr ""
+"Nej, jag skall utkräva min hämnd. Jag skall visa dig att mörkret är som "
+"starkast just före gryningen. Jag åberopar sjukdomens och förtvivlans "
+"krafter, ge mig min hämnd!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1586
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1626
@@ -2083,10 +2223,12 @@ msgid ""
 "Hah, now you have learned the flesh is always weaker than the powers of the "
 "undead."
 msgstr ""
+"Ha, nu har du lärt dig att de levandes kött alltid är svagare än de vandödas "
+"krafter."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1606
 msgid "My undead zombies shall always defeat the living."
-msgstr ""
+msgstr "Mina vandöda zombier kommer alltid att besegra de levande."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1684
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1773
@@ -2094,6 +2236,8 @@ msgid ""
 "You think you have defeated me, don't you? Foolish boy, I shall assume a new "
 "form more powerful and horrible than you could ever imagine!"
 msgstr ""
+"Du tror att du har besegrat mig, eller hur? Dåraktiga pojkvasker, jag skall "
+"anta en ny skepnad, mäktigare och mer fruktansvärd än du kan tänka dig!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1689
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1778
@@ -2101,35 +2245,45 @@ msgid ""
 "How dare you interfere in our contest! I did not need your help. I shall "
 "teach you not to cross a lord of darkness."
 msgstr ""
+"Hur vågar du störa oss i vår tävlan! Jag bad inte om din hjälp. Jag skall "
+"lära dig att inte gå i vägen för en mörkrets furste!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1707
 msgid ""
 "See, I told you I was more powerful. This game is over, now I can leave this "
 "shell of a body."
 msgstr ""
+"Där ser du, jag sade ju att jag var den mäktigare. Spelet är slut. Nu kan "
+"jag överge det här skalet till kropp."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1796
 msgid ""
 "See I told you I was more powerful. This game is over, now I can leave this "
 "shell of a body."
 msgstr ""
+"Där ser du, jag sade ju att jag var den mäktigare. Spelet är slut. Nu kan "
+"jag överge det här skalet till kropp."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1963
 msgid ""
 "Too many of our people have been killed. We will surely be overwhelmed by "
 "the undead now. All is lost!"
 msgstr ""
+"Alltför många av vårt folk har gått under. Vi är ett lätt byte för de "
+"vandöda nu. Allt är förlorat!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1988
 msgid ""
 "This darkness will never end, and the undead will soon overwhelm us. I'm "
 "sorry Garak, we couldn't save you."
 msgstr ""
+"Det här mörkret tar aldrig slut, och de vandöda är snart över oss. Jag är "
+"ledsen, Garak, vi kunde inte rädda dig."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:10
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:11
 msgid "Descending into Darkness"
-msgstr ""
+msgstr "In i mörkret"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:42
 msgid ""
@@ -2202,11 +2356,11 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:286
 msgid "Kaleh Must Reach the Exit Tunnel"
-msgstr ""
+msgstr "Kaleh måste nå utgångstunneln"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:291
 msgid "at the North Edge of the Map"
-msgstr ""
+msgstr "i norra kanten av kartan"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:296
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:727
@@ -2215,7 +2369,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4168
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4223
 msgid "Death of Kaleh, Nym or Zhul"
-msgstr ""
+msgstr "Kaleh, Nym eller Zhul dör"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:646
 msgid ""
@@ -2293,11 +2447,11 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:918
 msgid "Attack!"
-msgstr ""
+msgstr "Anfall!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:924
 msgid "Run Away!"
-msgstr ""
+msgstr "Fly!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:929
 msgid "Goblins are so predictable."
@@ -2337,7 +2491,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1124
 msgid "Why me?"
-msgstr ""
+msgstr "Varför just jag?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1129
 msgid ""
@@ -2573,7 +2727,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:723
 msgid "Defeat all Enemies"
-msgstr ""
+msgstr "Besegra alla fiender"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1401
 msgid ""
@@ -2670,7 +2824,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1476
 msgid "What are trolls?"
-msgstr ""
+msgstr "Vad är troll för något?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1481
 msgid ""
@@ -5942,7 +6096,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:4
 msgid "Corrupted Elf"
-msgstr ""
+msgstr "Förvriden alv"
 
 #: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:26
 msgid ""
@@ -6126,7 +6280,7 @@ msgstr "kastpilar"
 
 #: Under_the_Burning_Suns/units/Deep_One.cfg:4
 msgid "Deep One"
-msgstr ""
+msgstr "Djupets varelse"
 
 #: Under_the_Burning_Suns/units/Deep_One.cfg:20
 msgid ""
@@ -6232,6 +6386,9 @@ msgid ""
 "than their elvish ancestors, they fight with ferocity that does credit to "
 "their race."
 msgstr ""
+"Ökenbågskyttarna börjar träna redan i unga år, och uppnår stor skicklighet i "
+"distansstrid. Deras bågar är enklare och deras pilar inte lika mångtaliga "
+"som bland deras förfäder, men detta uppvägs istället av deras vildsinthet."
 
 #: Under_the_Burning_Suns/units/Desert_Scout3.cfg:59
 #: Under_the_Burning_Suns/units/Desert_Scout4.cfg:59
@@ -6288,7 +6445,7 @@ msgstr "Ökenbågskytt"
 
 #: Under_the_Burning_Suns/units/Desert_Avenger.cfg:4
 msgid "Desert Avenger"
-msgstr "Ökenjägare"
+msgstr "Ökenhämnare"
 
 #: Under_the_Burning_Suns/units/scen7_Shadow.cfg:31
 #: Under_the_Burning_Suns/units/scen7_Nightgaunt.cfg:32
@@ -6307,10 +6464,13 @@ msgid ""
 "forms of combat. Like their kin, they prefer the sword to the bow and are "
 "adept at sneaking around and backstabing their enemies."
 msgstr ""
+"Ökenhämnarna är extremt snabba och skickliga i alla stridsformer. De "
+"föredrar svärdet framför bågen och är mycket skickliga på att smyga och "
+"hugga sina fiender i ryggen."
 
 #: Under_the_Burning_Suns/units/Desert_Avenger.cfg:107
 msgid "female^Desert Avenger"
-msgstr "Ökenjägare"
+msgstr "Ökenhämnare"
 
 #: Under_the_Burning_Suns/units/Desert_Avenger.cfg:134
 msgid "ambush"
@@ -6332,6 +6492,9 @@ msgid ""
 "level 1 units on adjacent hexes. Desert Captains prefer engaging the enemy "
 "in melee combat, but are trained in archery as well."
 msgstr ""
+"Ökenkaptenerna är skickliga på att leda sina soldater, och ingjuter mod i "
+"alla nivå 1-trupper när de slåss tillsammans. Ökenkaptenerna föredrar "
+"närstrid, men de är även tränade i bågskytte."
 
 #: Under_the_Burning_Suns/units/Desert_Champion.cfg:4
 msgid "Desert Champion"
@@ -6343,6 +6506,10 @@ msgid ""
 "wounds in close combat. Master fighters, they are also skilled with the bow, "
 "able to inflict damage on their enemies from both near and far."
 msgstr ""
+"Ökenförkämparna är vördnadsbjudande mästare i svärdskonst, som i närstrid "
+"vållar sina motståndare stor skada. Dessa mästerkrigare är även skickliga "
+"bågskyttar och kan därför åsamka sina fiender stor skada i både närstrid och "
+"på distans."
 
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:4
 msgid "Desert Druid"
@@ -6359,6 +6526,9 @@ msgid ""
 "unwary opponents, they also use the herbs of the forest to heal allies. "
 "Druids are excellent supporting units in any Elvish army."
 msgstr ""
+"Ökendruiderna är sandens mäktiga mästare. De kan lätt snärja oförberedda "
+"fiender, och de kan använda örter för att vårda sina vänner. Druiderna "
+"fungerar ofta som understödstrupper i alvernas armé."
 
 #: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:37
 #: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:37
@@ -6406,6 +6576,10 @@ msgid ""
 "swordplay to archery. These Elves are deft of foot, and fight best in the "
 "open sands."
 msgstr ""
+"Ökenkrigarna utgör merparten av alvernas armé i Wesnoth. De är utbildade i "
+"både svärdskonst och bågskytte, men som de flesta andra av deras släkte "
+"föredrar de svärdet. Dessa alver är snabbfotade och slåss bäst på öppna "
+"sandvidder."
 
 #: Under_the_Burning_Suns/units/Desert_Hero.cfg:4
 msgid "Desert Hero"
@@ -6418,6 +6592,9 @@ msgid ""
 "fighting at close range with the sword, but also have some skill with the "
 "bow."
 msgstr ""
+"Ökenhjältarna har fintrimmat sina stridskunskaper till skrämmande "
+"skicklighet. De föredrar att slåss i närstrid med svärd, men är även "
+"skickliga med bågen."
 
 #: Under_the_Burning_Suns/units/Desert_Horseman.cfg:4
 msgid "Desert Horseman"
@@ -6432,6 +6609,12 @@ msgid ""
 "mounted speed and agility allows them to get in more strikes than most "
 "fighters"
 msgstr ""
+"Ökenryttarna har offrat snabbheten för tyngre vapen och rustningar, och "
+"beger sig hellre rakt in i striden än vänder ryggen till. De öppna "
+"sandvidderna lämpar sig mycket bättre för beridna soldater än skogarna de "
+"bodde i för länge sedan, och över generationer har alverna ökat sin "
+"skicklighet på hästryggen med stora mått. Deras snabbhet och smidighet gör "
+"dem till farliga motståndare."
 
 #: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:31
 #: Under_the_Burning_Suns/units/Desert_Hunter5.cfg:31
@@ -6445,6 +6628,9 @@ msgid ""
 "quickly entangle others with their bolas and then finish them off with their "
 "swords."
 msgstr ""
+"En ökenjägare är tränad att genomsöka sandvidderna efter byte och fiender. "
+"Jägaren snärjer snabbt sina motståndare med sin bola och tar sedan kål på "
+"dem med sitt svärd."
 
 #: Under_the_Burning_Suns/units/Desert_Prowler.cfg:53
 #: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:53
@@ -7114,13 +7300,16 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:4
 msgid "Small Mudcrawler"
-msgstr ""
+msgstr "Liten slamkrypare"
 
 #: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:17
 msgid ""
 "Small Mudcrawlers are beings of soil and water. They attack by spraying "
 "boiling water on their foes, or by punching with their fists."
 msgstr ""
+"De små slamkryparna är varelser av jord och vatten. De attackerar genom att "
+"spruta kokande vatten på sina fiender, eller genom att slå dem med sina "
+"knytnävar."
 
 #: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:35
 msgid "boiling water"
@@ -7179,7 +7368,7 @@ msgstr "slunga"
 
 #: Under_the_Burning_Suns/units/Troll_Shaman.cfg:4
 msgid "Troll Shaman"
-msgstr ""
+msgstr "Trollschaman"
 
 #: Under_the_Burning_Suns/units/Troll_Shaman.cfg:25
 msgid ""
@@ -7187,6 +7376,8 @@ msgid ""
 "or tough as other trolls, their true power lies in their fire magic, which "
 "they use to blast enemies with gouts of fire."
 msgstr ""
+"Trollschamanerna är trollens mystiska ledare. De är inte lika starka och "
+"hårda som de andra trollen, men de har istället bemästrat eldens magi."
 
 #: Under_the_Burning_Suns/units/Troll_Warrior2.cfg:4
 msgid "Troll Warrior"
@@ -7218,13 +7409,15 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Troll_Zombie.cfg:4
 msgid "Troll Zombie"
-msgstr ""
+msgstr "Trollzombie"
 
 #: Under_the_Burning_Suns/units/Troll_Zombie.cfg:23
 msgid ""
 "These huge trolls fight again in death as they did in life, except this time "
 "they smell much worse."
 msgstr ""
+"Dessa stora troll slåss i döden lika väl som i livet, med den skillnaden att "
+"de luktar än värre nu."
 
 #: Under_the_Burning_Suns/units/Troll_Zombie.cfg:31
 msgid "plague"
@@ -7240,6 +7433,8 @@ msgid ""
 "skeletal horses were raised from the ground by unholy magic to spread fear "
 "and destruction."
 msgstr ""
+"Dessa slätternas mäktiga krigare återuppväcktes av vanhelig magi och sprider "
+"nu skräck och förödelse på sina skeletthästar."
 
 #: Under_the_Burning_Suns/units/Vampire_Bat2.cfg:4
 msgid "Vampire Bat"
@@ -7271,7 +7466,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/scen7_Ghost.cfg:4
 msgid "Ethereal Ghost"
-msgstr ""
+msgstr "Spöke"
 
 #: Under_the_Burning_Suns/units/scen7_Ghost.cfg:23
 msgid ""
@@ -7280,10 +7475,14 @@ msgid ""
 "freedom of movement and protection from physical attacks, ghosts cannot "
 "easily cross running water."
 msgstr ""
+"Spöken är själarna hos krigare som gick en smärtsam död till mötes för många "
+"hundra år sedan utan att lämna ett lik efter sig. Även om de inte längre är "
+"begränsade av sina fysiska kroppar, vilket ger dem stor rörlighet och skydd "
+"mot fysiska attacker, så tar de sig inte gärna över rinnande vatten."
 
 #: Under_the_Burning_Suns/units/scen7_Nightgaunt.cfg:4
 msgid "Ethereal Nightgaunt"
-msgstr ""
+msgstr "Blekman"
 
 #: Under_the_Burning_Suns/units/scen7_Nightgaunt.cfg:23
 msgid ""
@@ -7291,6 +7490,9 @@ msgid ""
 "effort to hide their souls of pure evil. These despicable creatures are able "
 "to hide at night, leaving no trace of their presence."
 msgstr ""
+"Blekmännen sprider skräck i natten; de döljer sina hemska ansikten bakom "
+"masker för att försöka dölja sina genomonda själar. Dessa föraktliga "
+"varelser kan gömma sig i natten utan att lämna ett enda spår av sin närvaro."
 
 #: Under_the_Burning_Suns/units/scen7_Nightgaunt.cfg:25
 msgid "nightstalk"
@@ -7298,7 +7500,7 @@ msgstr "skuggsteg"
 
 #: Under_the_Burning_Suns/units/scen7_Shadow.cfg:4
 msgid "Ethereal Shadow"
-msgstr ""
+msgstr "Skugga"
 
 #: Under_the_Burning_Suns/units/scen7_Shadow.cfg:23
 msgid ""
@@ -7306,10 +7508,13 @@ msgid ""
 "These incorporeal fiends are able to hide at night, leaving no trace of "
 "their presence."
 msgstr ""
+"Skuggor strövar omkring i natten med själar svarta av ondska, och attackerar "
+"oförberedda fiender. Dessa kroppslösa kan gömma sig i natten, och lämnar "
+"inga spår av sin närvaro."
 
 #: Under_the_Burning_Suns/units/scen7_Spectre.cfg:4
 msgid "Ethereal Spectre"
-msgstr ""
+msgstr "Ond ande"
 
 #: Under_the_Burning_Suns/units/scen7_Spectre.cfg:28
 msgid ""
@@ -7318,6 +7523,10 @@ msgid ""
 "strengthen themselves. They also have a terrible wail that freezes the heart "
 "of the weak."
 msgstr ""
+"De onda andarna är bland de mäktigaste av spökena och kan använda sina "
+"krafter för att frammana ett spektralsvärd, som suger livskraften ur sina "
+"motståndare och förbättrar deras egen. De har också ett förfärligt tjut, som "
+"får de svagas hjärtan att frysa i bröstet."
 
 #: Under_the_Burning_Suns/units/scen7_Wraith.cfg:31
 #: Under_the_Burning_Suns/units/scen7_Spectre.cfg:31
@@ -7326,7 +7535,7 @@ msgstr "domedagssvärd"
 
 #: Under_the_Burning_Suns/units/scen7_Wraith.cfg:4
 msgid "Ethereal Wraith"
-msgstr ""
+msgstr "Vålnad"
 
 #: Under_the_Burning_Suns/units/scen7_Wraith.cfg:28
 msgid ""
@@ -7335,3 +7544,7 @@ msgid ""
 "strengthening themselves. They also have a terrible wail that freezes the "
 "heart of the weak."
 msgstr ""
+"Vålnaderna är bland de mäktigaste av spökena och kan använda sina krafter "
+"för att frammana ett spektralsvärd, som suger livskraften ur sina "
+"motståndare och förbättrar deras egen. De har också ett förfärligt tjut, som "
+"får de svagas hjärtan att frysa."
