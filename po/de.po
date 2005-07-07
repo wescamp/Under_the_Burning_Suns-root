@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-06-23 00:42+0200\n"
-"PO-Revision-Date: 2005-06-28 23:56+0200\n"
+"PO-Revision-Date: 2005-07-07 00:42+0200\n"
 "Last-Translator: Allefant <allefant@gmail.com>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -2156,6 +2156,7 @@ msgstr ""
 msgid "A Subterranean Struggle"
 msgstr ""
 
+# Anm. Was sind palm toches?
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:596
 msgid ""
 "Chapter 5: We plunged into the darkness, shepherding long lines of our "
@@ -2166,6 +2167,14 @@ msgid ""
 "flickered everywhere. The walls were damp and clammy, the air seemed stale "
 "and the sound of our footsteps echoed up and down the passageway."
 msgstr ""
+"Kapitel 5: Wir drangen in die Dunkelheit ein, und führten lange Reihen der "
+"Unsrigen entlang gewundenen Pfaden tiefer und tiefer unter die Wurzeln der "
+"Berge. Wir hatten Palmen-Fackeln mitgebracht, und wir hatten einige andere "
+"Fackeln von den Orks erbeutet. Dadurch hatten wir genügend Licht, zumindest "
+"für den Augenblick. Und trotzdem, das flackernde Licht der Fackeln warf nur "
+"wenig Helligkeit ab, und Schatten tanzten überall. Die Wände waren kalt und "
+"feucht, die Luft war stickig, und das Geräusch unserer Schritte sendete ein "
+"Echo in alle Richtungen aus."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:600
 msgid ""
@@ -2178,6 +2187,16 @@ msgid ""
 "and turned, and soon I lost all sense of direction, but since there were no "
 "side-passages, we had little choice but to keep going forward."
 msgstr ""
+"Die Umgebung hier erschien uns so sonderbar wie sie es nur sein konnte. Wir "
+"waren Menschen der weiten Wüste, und sogar während der langen Dunkelheit "
+"konnten wir nach oben schauen und uns an den hell in der Höhe funkelnden "
+"Sternen orientieren. Mein Verstand sagte mir, dass es uns nicht möglich war, "
+"über die eisigen Berge zu gehen, und wir konnten auch nicht zurück, aber "
+"dennoch ließ mich der Gedanke an Meilen über Meilen von Stein über mir "
+"erzittern, und ich fühlte wie mich das Gewicht des Gebirges einengte. Der "
+"Weg war verschlugen und gewunden, und bald hatte ich jeden Orientierungssinn "
+"verloren. Da es aber keine Abzweigungen gab, hatten wir keine andere "
+"Möglichkeit als vorwärts zu gehen."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:604
 msgid ""
@@ -2190,6 +2209,16 @@ msgid ""
 "outlaws, undead, orcs and goblins. My previous life seemed like years ago, "
 "even though it had only been ten days since our village was demolished."
 msgstr ""
+"Zurückblickend denke ich, das mutigste, das meine Leute je getan haben war "
+"es, mir in die Dunkelheit zu folgen, nur auf Grund der Versprechen von Eloh "
+"und ihrem Vertrauen auf meine Führung. Ich hatte keine Ahnung, wie lange wir "
+"im Untergrund gefangen sein würden, oder wohin wir überhaupt gehen sollten. "
+"Ich hoffte nur, dass Eloh uns irgendwie einen Weg weisen würde. Nym sagte, "
+"die Leute flüsterten untereinander, dass ich sie durch alles hindurch führen "
+"könne. Und es stimmte - als wir aufbrachen, konnte ich mir kaum vorstellen, "
+"dass wir gegen Banditen, Untote, Orks und Goblins kämpfen würden. Mein "
+"vorheriges Leben schien Jahre zurück, obwohl es erst zehn Tage seit der "
+"Zerstörung unserer Siedlung waren."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:608
 msgid ""
@@ -2200,20 +2229,29 @@ msgid ""
 "everything we had gone through so far, Zardia be damned if I was going to be "
 "frightened now."
 msgstr ""
+"Was erwartete uns in der Dunkelheit? Wer waren die Ungläubigen, die Eloh so "
+"vage angedeutet hatte? Ich hörte mein Herz laut in meiner Brust schlagen, "
+"hier unten schien jedes Geräusch verstärkt. Ich hatte den starken Verdacht, "
+"dass dies kein Ort war, an dem meine Leute sich aufhalten sollten. Ich "
+"schritt grimmig voran; wenn ich daran dachte, was wir bereits alles "
+"durchgemacht hatten, müsste Zardia verdammt sein wenn ich jetzt Angst bekäme."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:719
 msgid "Explore Underground"
-msgstr ""
+msgstr "Erforscht die Unterwelt"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:723
 msgid "Defeat all Enemies"
-msgstr ""
+msgstr "Besiegt all Eure Feinde"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1401
 msgid ""
 "You mentioned that Dwarves and Trolls often lived underground Elyssa. I've "
 "only heard myths, have you every met a Dwarf or a Troll?"
 msgstr ""
+"Du hast erwähnt, dass Zwerge und Trolle oft im Untergrund leben, Elyssa. Ich "
+"habe nur Geschichten über sie gehört - hast du jemals einen Zwerg oder Troll "
+"getroffen?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1406
 msgid ""
@@ -2222,11 +2260,15 @@ msgid ""
 "have read a bit about them, and have a even met a few people who have had "
 "dealings with Dwarves."
 msgstr ""
+"Nein, ich erforsche nicht oft den Untergrund, wenn ich nicht muss. Es gibt "
+"eine Menge widerlicher Dinge, die weit ab vom Licht der Sonnen lauern. Aber "
+"ich habe einiges über sie gelesen, und ich habe einige Leute getroffen, die "
+"Geschäfte mit Zwergen gemacht haben."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1412
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1466
 msgid "What are they like?"
-msgstr ""
+msgstr "Wie sind sie so?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1417
 msgid ""
@@ -2235,10 +2277,16 @@ msgid ""
 "little liking for Elves. There was some betrayal many years ago, though I "
 "don't know what happened."
 msgstr ""
+"Sie sind ein stolzes Volk, und wie einige meinen, gierig. Sie lieben ihr "
+"Gold und andere wertvolle Metalle, und schmieden viele wunderschöne Dinge. "
+"Ich sollte euch warnen, sie mögen Elfen nicht besonders gerne. Es gab vor "
+"vielen Jahren einen Verrat, aber ich weiß nichts darüber."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1422
 msgid "And what about Trolls? I'm not sure I'd want to meet one face to face."
 msgstr ""
+"Und Trolle? Ich bin mir nicht sicher, ob ich gerne einem Troll von Angesicht "
+"zu Angesicht gegenüber stehen würde."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1427
 msgid ""
@@ -2248,6 +2296,12 @@ msgid ""
 "I knew one man long ago who traded with a group of trolls and said they were "
 "quite honorable, as long as you didn't try to cheat them."
 msgstr ""
+"Trolle und Zwerge sind natürliche Feinde, wo sie so nahe beieinander leben. "
+"Und viele halten Trolle für nicht viel mehr als wilde Tiere und Bestien. "
+"Trolle sind riesengroß, und sehr stark. Ihre Haut ist hart wie Stein, und "
+"sie sind furchteinflößende Gegner. Aber vor langer Zeit kannte ich einen "
+"Mann, der mit einer Gruppe von Trollen Handel trieb, und er sagte, sie seien "
+"sehr ehrbar, so lange man sie nicht zu betrügen versuchte."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1432
 msgid ""
@@ -2255,11 +2309,16 @@ msgid ""
 "happy if our biggest problem is not getting lost. I have little wish to meet "
 "either Dwarves or Trolls. But Eloh will watch over us."
 msgstr ""
+"Wie auch immer, ich hoffe, durch Elohs Fügung werden wir diese Tunnel "
+"verlassen vorfinden. Ich würde mich glücklich schätzen, wenn es unsere "
+"größte Sorge wäre, uns nicht zu verlaufen. Ich verspüre keinen großen Drang "
+"danach, entweder Zwerge oder Trolle zu treffen. Eloh wird über uns wachen."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1437
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1491
 msgid "Will she? I got the impression she was powerless underground."
 msgstr ""
+"Wird sie? Ich habe den Eindruck bekommen, sie ist im Untergrund machtlos."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1442
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1496
@@ -2273,6 +2332,15 @@ msgid ""
 "do to unduly worry our people. Eloh will always protect us, if we follow her "
 "path. "
 msgstr ""
+"Wie kommst du auf so etwas? Natürlich ist Eloh bei Tageslicht am stärksten, "
+"wenn beide Sonnen auf uns herab scheinen. Aber es wird gesagt, dass sie "
+"selbst in der tiefsten Nacht alle treu Ergebenen beschützt. Und vor langer "
+"Zeit, im goldenen Zeitalter, führten heilige Elfenkrieger große Kreuzzüge "
+"gegen Orks und andere faule Kreaturen aus der Unterwelt - ganz ohne die "
+"Hilfe von Eloh. Vertrauen ist unser Schild, Kaleh. Ich denke, du solltest "
+"deine Zweifel für dich behalten - es wäre nicht gut, unsere Leute unnötig zu "
+"beunruhigen. Eloh wird uns immer beschützen, solange wie auf ihrem Pfad "
+"wandeln."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1447
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1501
@@ -2280,18 +2348,24 @@ msgid ""
 "Then let us hope the rest of our journey may be as uneventful as it has been "
 "this far."
 msgstr ""
+"Dann lasst uns hoffen, dass sich der Rest der Reise genauso ereignislos "
+"gestaltet wie bisher."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1456
 msgid ""
 "I've heard of dwarves, but do you have any idea Zhul what kinds of creatures "
 "we might encounter underground?"
 msgstr ""
+"Ich habe von Zwergen gehört, aber hast du irgendeine Ahnung, welchen "
+"Kreaturen wir möglicher Weise begegnen könnten, Zhul?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1461
 msgid ""
 "These tunnels are forign to me, I know little more than you do. All I know "
 "about dwarves is from the few tales from the Golden Age."
 msgstr ""
+"Diese Tunnel sind mir fremd, ich weiß kaum mehr als du. Alles was ich über "
+"Zwerge weiß stammt aus den paar Geschichten aus dem goldenen Zeitalter."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1471
 msgid ""
@@ -2301,10 +2375,16 @@ msgid ""
 "survived. But in the golden age they were very helpful in  our wars against "
 "the orcs and trolls."
 msgstr ""
+"Sie lebten tief unter der Erde, bauten Gold und wertvollen Metalle ab, und "
+"schmiedeten wunderbare Dinge. Während des goldenen Zeitalters waren "
+"wirVerbündete, aber im Streit und Chaos des Niederganges verloren wir jeden "
+"Kontakt. Ich weiß nicht ob überhaupt irgendwelche überlebten. Aber im "
+"goldenen Zeitalter waren sie sehr hilfsbereit in unseren Kriegen gegen die "
+"Orks und Trolle."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1476
 msgid "What are trolls?"
-msgstr ""
+msgstr "Was sind Trolle?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1481
 msgid ""
@@ -2314,6 +2394,12 @@ msgid ""
 "warriors. I'm sure they have all died off, I certainly would never want to "
 "meet one fact to face."
 msgstr ""
+"Trolle waren riesige grüne Kreaturen, so groß wie Riesen, und sehr stark. "
+"Sie lebten zurückgezogen, und versteckten sich im Untergrund. Wir hatten nie "
+"sehr viel Kontakt mit ihnen, aber einige kämpften während der großen Kriege "
+"mit den Orcs. Sie waren mächtige Krieger. Ich bin mir sicher dass sie alle "
+"ausgestorben sind, und falls nicht, möchte ich sicher nie einen von "
+"Angesicht zu Angesicht zusehen bekommen."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1486
 msgid ""
@@ -2321,68 +2407,82 @@ msgid ""
 "happy if our biggest problem is not getting lost. Still, even underground "
 "Eloh will watch over us."
 msgstr ""
+"Mit Elohs Fügung werden wir diese Tunnel verlassen vorfinden. Ich würde mich "
+"glücklich schätzen, wenn es unsere größte Sorge wäre, uns nicht zu "
+"verlaufen. Außerdem, sogar unter der Erde wacht Eloh über uns."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1523
 msgid "All I'm saying is that these tunnels aren't as bad as I expected."
 msgstr ""
+"Alles was ich sagen will ist dass diese Tunnel nicht so schlimm sind wie "
+"erwartet."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1528
 msgid "Ssshhhh, did you hear something?"
-msgstr ""
+msgstr "Schhhh, habt ihr etwas gehört?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1557
 msgid "Ants. Very big ants. Maybe they won't be hostile."
-msgstr ""
+msgstr "Ameisen. Sehr große Ameisen. Vielleicht sind sie gar nicht feindselig?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1562
 msgid "On the other hand, that spider probably is."
-msgstr ""
+msgstr "Andererseits, die Spinne wahrscheinlich schon."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1567
 msgid "Caught between a spider and it's prey. Not a good place to be."
 msgstr ""
+"Gefangen zwischen der Spinne und ihrer Beute. Kein guter Aufenthaltsort."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1591
 msgid ""
 "Woah! Did you see that? That huge stalactite just fell and crushed the "
 "spider. Aren't we lucky."
 msgstr ""
+"Woah! Habt ihr das gesehen? Dieser große Stalaktit ist auf die Spinne "
+"gefallen und hat sie zerquetscht. Glück muss man haben!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1607
 msgid ""
 "You know, if all we discover down here are insects, I'll be very "
 "disappointed. "
 msgstr ""
+"Wisst ihr, falls wir hier unten nichts außer Insekten finden, wäre ich "
+"schwer enttäuscht."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1619
 msgid "Spiders aren't insects."
-msgstr ""
+msgstr "Spinnen sind keine Insekten."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1624
 msgid "Thanks for the clarification."
-msgstr ""
+msgstr "Vielen Dank für die Klarstellung."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1640
 msgid "Help! They're everywhere!"
-msgstr ""
+msgstr "Hilfe! Sie sind überall!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1650
 msgid "Nym, your timing is impeccable."
-msgstr ""
+msgstr "Nym, dein Timing ist unübertreffbar.."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1662
 msgid "That's a dwarf, but it looks like he's been beaten to a pulp."
 msgstr ""
+"Das ist ein Zwerg, aber es sieht aus, als hätte man ihn zu Brei geschlagen."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1671
 msgid "Short and hairy, he must be a dwarf. But he's been beaten to a pulp."
 msgstr ""
+"Klein und haarig, es muss ein Zwerg sein. Aber er wurde zu Brei geschlagen."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1679
 msgid ""
 "I don't know that 'they' are, but we can't go back. Prepare yourselves for "
 "anything, everyone."
 msgstr ""
+"Ich weiß nicht, ob 'sie' es sind, aber wir können nicht umkehren. Bereitet "
+"euch auf alles vor, jeder einzelne von euch."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1718
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1766
@@ -2390,22 +2490,28 @@ msgid ""
 "What are you doing back here? The trolls hide in the southern tunnels, not "
 "this way."
 msgstr ""
+"Was macht ihr hier hinten? Die Trolle verstecken sich in den südlichen "
+"Tunneln, in der anderen Richtung."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1734
 msgid ""
 "Treacherous elves, how can you fight with such horrid creatures as Trolls. I "
 "will cleave all in two with my axe!"
 msgstr ""
+"Verräterische Elfen, wie könnt ihr nur an der Seite von solch grauenvollen "
+"Bestien wie Trollen kämpfen? Meine Axt wird euch in zwei Teile spalten!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1783
 msgid ""
 "Stupid elves, we are masters of fighting underground and we will die to "
 "defend our home. Fight on, my brothers!"
 msgstr ""
+"Dumme Elfen! Hier im Untergrund sind wir Meister im Kämpfen, und wir werden "
+"unsere Heimat mit unserem Leben verteidigen. Kämpft weiter, Brüder!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1815
 msgid "Nasty Dwarves and Stinkin' Elves, we will smash you all!"
-msgstr ""
+msgstr "Garstige Zwerge und stinkende Elfen, wir werden euch alle zermalmen!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1824
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1866
@@ -2413,82 +2519,99 @@ msgid ""
 "What you doing back here? Nasty dwarves are to the north, no dwarves this "
 "way. Go back and fight bravely."
 msgstr ""
+"Was machen, hier hinten? Garstige Zwerge im Norden, keine Zwerge hier. "
+"Zurück, kämpfen tapfer."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1857
 msgid ""
 "Kill the elves! We must stop them here. This is our land, crush the "
 "intruders!"
 msgstr ""
+"Tötet die Elfen! Wir müssen sie aufhalten. Das ist unser Land, vernichtet "
+"die Eindringlinge."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2013
 msgid "Woah."
-msgstr ""
+msgstr "Woah!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2058
 msgid "I think I preferred the spider and the ants..."
-msgstr ""
+msgstr "Ich glaube, ich bevorzuge die Spinnen und die Ameisen..."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2063
 msgid "Stand firm boys, here they come!"
-msgstr ""
+msgstr "Haltet stand, Jungs, da kommen sie!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2068
 msgid ""
 "You invade our tunnels, you slaughter our women and children, by Griknagh we "
 "will make you pay."
 msgstr ""
+"Ihr eindringen in unsere Tunnel, schlachten unsere Frauen und Kinder, bei "
+"Griknagh, wir lassen euch dafür bezahlen!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2073
 msgid ""
 "Tenacious savages aren't they. But these tunnels are rich in ore, and we "
 "won't let a couple of trolls keep them from us. "
 msgstr ""
+"Was für hartnäckige Wilde. Aber diese Tunnel sind reich an Mineralien, und "
+"ein paar Trolle werden uns nicht von ihnen fern halten."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2078
 msgid "Wait...What..Who are you?"
-msgstr ""
+msgstr "Wartet...Was...Wer seid ihr?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2083
 msgid "Uh...."
-msgstr ""
+msgstr "Um...."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2088
 msgid "What in Moradin's name are they?"
-msgstr ""
+msgstr "Was in Moradins Namen sind diese?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2093
 msgid "Wait a minute....blond hair, pointy ears, they must be Elves"
-msgstr ""
+msgstr "Einen Moment....blondes Haar, spitze Ohren, es müssen Elfen sein!"
 
+# Anm. nine hells ? drei Teufels Namen
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2098
 msgid "Elves? What is the nine hells are Elves doing down here?"
-msgstr ""
+msgstr "Elfen? Was in drei Teufels Namen machen Elfen hier unten?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2103
 msgid "Nevermind that, who are you?"
-msgstr ""
+msgstr "Schon gut. Wer seid ihr?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2108
 msgid ""
 "I am Kaleh, and we are the Quenoth elves. What in Eloh's name is going on "
 "here?"
 msgstr ""
+"Ich bin Kaleh, und wir sind Quenoth Elfen. Was in Elohs Namen geht hier vor "
+"sich?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2113
 msgid ""
 "They invade our land and kill our young. Dwarves always want more, always "
 "greedy for glittery rocks."
 msgstr ""
+"Sie dringen in unser Land ein, töten unsere Kinder. Zwerge immer wollen "
+"mehr, immer gierig nach Glitzersteinen."
 
+# Anm. lummoxes ? Grimsköpfe
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2118
 msgid ""
 "Those monsters killed me boys. Kaleh, if you be of stout heart, help us "
 "drive these lummoxes from our tunnels."
 msgstr ""
+"Diese Monster haben meine Söhne getötet. Kaleh, wenn dein Herz am richtigen "
+"Ort sitzt, dann hilf uns, diese Grimsköpfe aus unseren Tunneln zu vertreiben."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2123
 msgid "No, this is our home. Help us, little ones, and we will help you."
 msgstr ""
+"Nein, das unsere Heimat. Helfen uns, kleine Elfen, und wir helfen euch."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2128
 msgid ""
@@ -2497,12 +2620,19 @@ msgid ""
 "we should take them up on their offer; ally ourselves with one of the "
 "factions so we can get their help in finding a way back to the surface."
 msgstr ""
+"Es sind zu viele von ihnen, als dass wir uns mit beiden anlegen könnten. Und "
+"außerdem, bei all diesen verzweigten Tunneln haben wir keine Ahnung, wohin "
+"wir gehen sollen. Ich denke, wir sollten eines der Angebote annehmen, und "
+"uns mit einer der zwei Seiten verbünden. So können wir dann auch Hilfe "
+"erwarten, um einen Weg zurück an die Oberfläche zu finden."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2133
 msgid ""
 "But even if we do, what about all of our people? How can we safely escort "
 "them through this war zone?"
 msgstr ""
+"Aber wenn wir das tun, was passiert mit unseren Leuten? Wie können wir sie "
+"sicher durch dieses Kriegsgebiet bringen?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2138
 msgid ""
@@ -2512,38 +2642,48 @@ msgid ""
 "Zhul, if we're lucky we may just be able to negotiate a safe passage out of "
 "here."
 msgstr ""
+"Wir müssen sie nicht hierher bringen. Wir können den Großteil sicher "
+"versteckt weiter Oben im Tunnel lassen. Somit können wie sie gut beschützen, "
+"zumindest für einige Zeit. In der Zwischenzeit können wir hier vorne etwas "
+"Ordnung in diese Chaos bringen. Ich denke, du hast recht, Zhul - wenn wir "
+"Glück haben, können wir über eine sichere Passage verhandeln."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2147
 msgid "But they both look evenly matched. Who should we ally with?"
 msgstr ""
+"Sie sehen aber beide gleich stark aus. Mit wem sollen wir uns verbünden?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2150
 msgid "Let's aid the Dwarves."
-msgstr ""
+msgstr "Lasst uns den Zwergen helfen!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2169
 msgid ""
 "Bah! Your kind all the same. Everyone turns on Trolls. But you'll see, "
 "Griknagh will smash you all."
 msgstr ""
+"Bah! Ihr alle gleich. Jeder gegen Trolle. Aber ihr sehen, Griknagh "
+"zerschmettern euch alle."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2180
 msgid "Defeat Troll Leaders"
-msgstr ""
+msgstr "Besiegt die Anführer der Trolle"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2193
 msgid "Let's aid the Trolls."
-msgstr ""
+msgstr "Lasst uns den Trollen helfen!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2212
 msgid ""
 "I knew elves couldn't be trusted. Foolish boy, you will regret your "
 "betrayal. Taste dwarven steel!"
 msgstr ""
+"Ich hab's gewusst! Den Elfen kann man nicht trauen. Törichter Junge, du "
+"wirst diesen Verrat bereuen. Jetzt bekommst du Zwergenstahl zu spüren!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2222
 msgid "Defeat Dwarf Leaders"
-msgstr ""
+msgstr "Besiegt die Anführer der Zwerge"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2237
 msgid ""
@@ -2551,38 +2691,43 @@ msgid ""
 "can fight our way to the keep, we should be able to start rallying our "
 "warriors to help in the battle."
 msgstr ""
+"Eine verlassene Zwergenfestung scheint sich genau vor uns zu befinden. Wenn "
+"wir uns den Weg bis dorthin freikämpfen können, sollte es uns möglich sein, "
+"unsere Kämpfer zu versammeln, um bei der Schlacht zu helfen."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3004
 msgid "Burn, Burn and Die!"
-msgstr ""
+msgstr "Brennt, brennt und sterbt!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3027
 msgid "Dive for cover!"
-msgstr ""
+msgstr "Duckt euch!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3032
 msgid ""
 "Those new troll shamans are decimating the dwarves with blasts of fire! This "
 "doesn't look good."
 msgstr ""
+"Diese neuen Troll Schamanen dezimieren die Reihen der Zwerge mit ihren "
+"Feuergeschossen. Es sieht nicht gut aus."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3157
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3411
 msgid "Aaauuuggghhhh!"
-msgstr ""
+msgstr "Aaauuuggghhhh!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3173
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3427
 msgid "No!!!"
-msgstr ""
+msgstr "Nein!!!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3189
 msgid "Help Me!!!"
-msgstr ""
+msgstr "Hilfe!!!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3205
 msgid "More accursed troll magic. Fall Back! "
-msgstr ""
+msgstr "Noch mehr verfluchte Trollmagie. Rückzug!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3210
 msgid ""
@@ -2590,38 +2735,49 @@ msgid ""
 "need your men to cover for us. Do you best boy, and may Moradin watch over "
 "you."
 msgstr ""
+"Ich muss zurück gehen, und Verstärkung holen. Kaleh, wir brauchen deine "
+"Kämpfer um uns Deckung zu geben. Du dein bestes, Junge, und möge Moradin "
+"dich beschützen!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3277
 msgid ""
 "Let's blast those monsters back to the pits they spawned from! Fire in the "
 "hole!"
 msgstr ""
+"Blast diese Monster  zurück in die Gruben aus denen sie gekommen sind! "
+"Feuert in das Loch!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3300
 msgid "More Dwarven trickery! Fall Back!"
-msgstr ""
+msgstr "Fauler Zwergenzauber! Rückzug!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3305
 msgid ""
 "Those new dwarves are lobbing explosives at the trolls with devastating "
 "effect! I don't think the trolls can take this much longer."
 msgstr ""
+"Diese neuen Zwerge decken die Trolle Sprengstoff ein, und mit verheerender "
+"Wirkung. Ich galube nicht, dass die Trolle dem noch lange standhalten können."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3443
 msgid "Gaggghhh!"
-msgstr ""
+msgstr "Gaggghhh!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3459
 msgid ""
 "I must go back and find more trolls to fight. You must hold them back Kaleh. "
 "Be strong like rock. Griknagh will be with you."
 msgstr ""
+"Muss zurück, mehr Trolle finden zu kämpfen. Ihr sie aufhalten, Kaleh. Stark "
+"wie Fels. Griknagh ist mit euch."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3576
 msgid ""
 "Our leader sent us to help you. We fight for you until all the dwarves are "
 "dead. We will avenge the deaths of our people!"
 msgstr ""
+"Anführer schickt uns, die helfen. Wir kämpfen bis alle Zwerge tot. Rächen "
+"den Tod unserer Leute!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3687
 msgid ""
@@ -2629,29 +2785,38 @@ msgid ""
 "until all the trolls are dead. Tell us where to go, I want to kill me some "
 "troll!"
 msgstr ""
+"Sieht so aus als wären wir gerade noch rechtzeitig gekommen. Unser Häuptling "
+"hat uns gesagt, wir sollen mit euch kämpfen, bis alle Trolle getötet sind. "
+"Sag uns nur, wohin wir gehen sollen, wir wollen noch ein paar Trolle töten!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3912
 msgid ""
 "The trolls display the skulls of their enemies as a way of marking their "
 "territory. How barbaric."
 msgstr ""
+"Die Trolle markieren mit den Totenköpfen ihrer Feinde ihr Territorium. Wie "
+"barbarisch."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3954
 msgid ""
 "The dwarves use stone cairns to make their territory. What a waste of good "
 "throwing stones."
 msgstr ""
+"Zwerge benutzen Steinpyramiden, markieren ihr Territorium. Was für "
+"Verschwendung von gute Wurfsteine."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4125
 msgid ""
 "Congratulations, some of trolls didn't think you strong enough to beat "
 "dwarves."
 msgstr ""
+"Glückwunsch! Einige Trolle nicht geglaubt, ihr stark genug Zwerge zu "
+"besiegen."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4130
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4185
 msgid "Where did you come from?"
-msgstr ""
+msgstr "Woher seid ihr gekommen?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4135
 msgid ""
@@ -2659,10 +2824,14 @@ msgid ""
 "We smarter than you think. Zurg would have killed dwarves himself, but he "
 "was just sent back from where real fighting is."
 msgstr ""
+"Gibt geheime Gänge, Sonnenmenschen nicht kenne. Nur Troll kennen. Wir "
+"schlauer als ihr denkt. Zurg würde selber Zwerge töten, aber war bei "
+"wirklicher Schlacht."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4140
 msgid "The real fighting? I thought that what we were waist-deep in?"
 msgstr ""
+"Bei der wirklichen Schlacht? Ich hab gedacht, wir stecken bis zum Hals darin?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4145
 msgid ""
@@ -2672,10 +2841,15 @@ msgid ""
 "But dwarves make mistake, you stronger than dwarf or troll thought. You "
 "trolls secret weapon."
 msgstr ""
+"Während ihr kämpfen, andere Zwergenclan schleicht rundrum und greift uns von "
+"Seite an. Zwerge hinterlistig. Wir müssen zurück, Frauen und kleine Trolle "
+"verteidigen. Zwerge geben nie auf, viele Trolle heute gestorben, harter "
+"Kampf. Aber Zwerge machen Fehler, ihr stärker als Zwerge oder Trolle "
+"gedacht. Ihr Geheimwaffe der Trolle."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4150
 msgid "How do you mean?"
-msgstr ""
+msgstr "Wie meinst du das?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4155
 msgid ""
@@ -2687,15 +2861,24 @@ msgid ""
 "are we can drive them back. Then troll leader can help show you how to "
 "return to surface. Zurg must go now, you kill dwarf chief. "
 msgstr ""
+"Zwerge immer denken, sie sind beste Kämpfer. Zwerge denken, ihr seid kein "
+"Grund zur Sorge, lassen nur ein paar Wächter zurück in ihrer Hauptfestung. "
+"Ein Stück im Norden, großer wichtige Zwerg führt Schlacht an. Wenn ihr Elfen "
+"Zwergenverteidigung durchbrechen und ihn töten, großer Schaden für Zwerge. "
+"Zwerge dann fürchten und verwirrt, leichte Beute für Trolle. Ihr macht es, "
+"und wir schlagen sie zurück. Dann Trollanführer kann euch helfen, zeigt euch "
+"Weg zurück an Oberfläche. Zurg muss jetzt gehen, ihr tötet Zwerghäuptling."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4164
 msgid "Defeat Dwarf Chieftain"
-msgstr ""
+msgstr "Besiegt den Zwergenhäuptling!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4180
 msgid ""
 "Congratulations, some of me boys didn't think you could beat the trolls."
 msgstr ""
+"Glückwunsch! Einige meiner Jungs haben gar nicht geglaubt, ihr würdet die "
+"Trolle besiegen."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4190
 msgid ""
@@ -2703,10 +2886,13 @@ msgid ""
 "caves, elf. I would have killed him myself, but I was just sent back from "
 "the main front of the battle."
 msgstr ""
+"Denke nicht, Elfe, dass du all die verschlungenen Gänge kennst, die sich "
+"durch diese Höhlen ziehen. Ich hätte den Troll selber getötet, aber ich "
+"komme gerade erst von der Hauptfront."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4195
 msgid "The front? I thought this was was the front."
-msgstr ""
+msgstr "Hauptfront? Ich dachte, das hier wäre die Front."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4200
 msgid ""
@@ -2717,10 +2903,17 @@ msgid ""
 "in these caves to reinforce the back lines. But you victory here has "
 "produced a unexpected opportunity."
 msgstr ""
+"Während ihr hier gekämpft habt, hat sich ein anderer Trollhaufen an unseren "
+"Wachposten vorbeigeschlichen und von der Flanke unsere Vorratslager "
+"angegriffen. Es gibt mehr von diesen stinkenden Mistkerlen als wir "
+"ursprünglich angenommen haben. Um euch die Wahrheit zu sagen, wir stecken in "
+"der Klemme. Wir müssen all unsere Kräfte aus diesem Teil der Höhlen "
+"zurückziehen, um unsere weiter zurückliegenden Linien zu verstärken. Aber "
+"euer Sieg hier hat uns eine unerwartete Möglichkeit eröffnet."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4205
 msgid "It has?"
-msgstr ""
+msgstr "Hat er das?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4210
 msgid ""
@@ -2732,14 +2925,24 @@ msgid ""
 "your people to the sunlit lands. I got to run now, more messages to deliver. "
 "You'll know the head troll when you see him, he's big, green and extra ugly. "
 msgstr ""
+"Die Trolle haben gedacht, sie könnten euch leicht zurückschlagen, und haben "
+"deshalb keine Nennenswerte Verteidigung in ihrem Hauptlager zurückgelassen. "
+"Einer ihrer Anführer befeligt die Schlacht von einem Ort aus der nicht weit "
+"von hier im Süden liegt. Wenn ihr durch ihre Linien brechen könnt, und "
+"diesen Anführer tötet, dann wird das dazu beitragen, die Trolle zu verwirren "
+"und ihnen Angst einzujagen - und wir könnten sie zurückwerfen. Als "
+"Gegenleistung hat unser Anführer versprochen, euch zu helfen, zurück in das "
+"sonnenbeschienene Land zu gelangen. Ich muss jetzt zurück, habe auch noch "
+"andere Meldungen weiterzugeben. Ihr werdet den Tollanführer erkennen, wenn "
+"ihr ihn seht. Er ist groß, grün, und extra hässlich."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4219
 msgid "Defeat Troll Chieftain"
-msgstr ""
+msgstr "Besiegt den Anführer der Trolle!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4241
 msgid "The rest is silence..."
-msgstr ""
+msgstr "Der Rest ist Stille..."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4297
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4370
@@ -2747,14 +2950,16 @@ msgid ""
 "Their knowledge of these tunnels is uncanny. I could have sworn that wall "
 "was solid rock."
 msgstr ""
+"Ihre Kenntnis über diese Tunnel ist unheimlich. Ich hätte schwören können, "
+"diese Wand wäre massiver Fels."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4314
 msgid "I go to my ancestors..."
-msgstr ""
+msgstr "Ich gehe zu meinen Vorfahren..."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4389
 msgid "Arrggg!!!"
-msgstr ""
+msgstr "Arrggg!!!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4445
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4518
@@ -2762,40 +2967,43 @@ msgid ""
 "That would be my description of all the trolls. Still the dwarves' knowledge "
 "of these tunnels is uncanny. I could have sworn that wall was solid rock."
 msgstr ""
+"Das wäre mein Beschreibung von allen Trollen. Trotzdem, die Orientierung der "
+"Zwerge in diesen Tunneln ist unheimlich. Ich hätte schwören können, diese "
+"Wand wäre massiver Fels."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4462
 msgid "I will be avenged..."
-msgstr ""
+msgstr "Man wird mich rächen..."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4566
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4655
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4774
 msgid "Do you what the first task of any dwarven warrior is, runt?"
-msgstr ""
+msgstr "He, du Neuling, kennst du die oberste Aufgabe eines Zwergenkriegers?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4571
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4660
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4779
 msgid "Sir?"
-msgstr ""
+msgstr "Sir?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4576
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4665
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4784
 msgid "Constant vigilance boys, the enemy could be anywhere!"
-msgstr ""
+msgstr "Stetige Wachsamkeit, Knaben! Der Feind kann überall sein!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4581
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4670
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4789
 msgid "But Sir..."
-msgstr ""
+msgstr "Aber SIr..."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4586
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4675
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4794
 msgid "Did I give you permissions to speak? Did I?"
-msgstr ""
+msgstr "Habe ich die erlaubt, zu sprechen? Habe ich?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4591
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4680
@@ -2804,12 +3012,15 @@ msgid ""
 "I was killing trolls when you were in swaddling clothes. I wrote the book on "
 "killing trolls. And you're not going anywhere until I'm done with you."
 msgstr ""
+"Ich habe schon Trolle getötet, als du noch in den Windeln gelegen bist. Ich "
+"bin gewissermaßen der Erfinder des Trolltötens. Und du wirst dich hier nicht "
+"von der Stelle rühren, solange ich nicht mit dir fertig bin!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4596
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4685
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4804
 msgid "But Sir, behind you..."
-msgstr ""
+msgstr "Aber Sir, hinter Euch..."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4601
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4690
@@ -2819,16 +3030,20 @@ msgid ""
 "like the cowards you are. Do you think I'm stupid enough to fall for that "
 "one?"
 msgstr ""
+"Oh, lass mich raten. Ein großer, scheußlicher Troll, nicht wahr? Und wenn "
+"ich mich umdrehe, rennt ihr davon, Feiglinge die ihr seid! Denkt ihr "
+"wirklich, ich bin dumm genug, darauf hereinzufallen?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4606
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4695
 msgid "I can't take it any longer, save us!"
-msgstr ""
+msgstr "Ich halte das nicht mehr länger aus, rettet uns!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4611
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4700
 msgid "Oh grow a backbone.....Come on boys, kill the intruder!"
 msgstr ""
+"Ihr habt einfach kein Rückgrat. Vorwärts, Jungs, tötet den EIndringling!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4726
 msgid "I love you Sarge..."
@@ -4168,13 +4383,13 @@ msgid ""
 "we had many more miles to wend and in the monotony of the marching I let my "
 "mind wander to bigger matters."
 msgstr ""
-"Kapitel 7: Leichten Mutes brach ich auf, und meine Schritte wurden "
-"schneller, endlich gingen wir wieder bergauf und ich war sicher, dass dieser "
-"Spießrutenlauf bald ein Ende haben würde. Mit der Hilfe unserer neuen "
-"Verbündeten war ich wieder viel zuversichtlicher als zuvor. Oh, wieder den "
-"Wind in meinem Haar spüren, und die Sonne auf meinem Gesicht! Aber im Moment "
-"hatten wir noch viele Meilen vor uns, und während der Eintönigkeit des "
-"Marschierens grübelte ich über höhere Angelegenheiten."
+"Kapitel 7: Leichten Mutes brach ich auf, und beseelt von dem Gedanken an ein "
+"baldiges Ende dieses Spießrutenlaufs, beschleunigten sich meine Schritte auf "
+"dem Weg bergauf. Mit der Hilfe unserer neuen Verbündeten war ich wieder viel "
+"zuversichtlicher als zuvor. Oh, wieder den Wind in meinem Haar spüren, und "
+"die Sonne auf meinem Gesicht! Aber im Moment hatten wir noch viele Meilen "
+"vor uns, und während der Eintönigkeit des Marschierens grübelte ich über "
+"höhere Angelegenheiten."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:344
 msgid ""
@@ -7331,9 +7546,7 @@ msgid ""
 "Giant Tentacles are probably the appendages of some larger monster that "
 "lurks deep beneath the waters, though no one knows for sure."
 msgstr ""
-"Riesen-Tentakle, so wird gesagt, gehören zu einem noch viel größeren "
-"Ungetüm, das tief unter der Wasseroberfläche haust, aber keiner weiß es "
-"genau.Riesen-Tentakle, so wird gesagt, gehören zu einem noch viel größeren "
+"Riesen-Tentakel, so wird gesagt, gehören zu einem noch viel größeren "
 "Ungetüm, das tief unter der Wasseroberfläche haust, aber keiner weiß es "
 "genau."
 
