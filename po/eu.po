@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-07-21 11:31+0200\n"
+"POT-Creation-Date: 2005-07-21 17:12+0200\n"
 "PO-Revision-Date: 2005-05-18 10:15+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -6401,11 +6401,8 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Confused_Ant.cfg:20
 #: Under_the_Burning_Suns/units/Ant.cfg:20
-#: Under_the_Burning_Suns/units/Blood_Bat2.cfg:20
 #: Under_the_Burning_Suns/units/Water_Serpent.cfg:19
-#: Under_the_Burning_Suns/units/Vampire_Bat2.cfg:20
 #: Under_the_Burning_Suns/units/Dread_Bat.cfg:20
-#: Under_the_Burning_Suns/units/Cave_Spider2.cfg:20
 msgid "fangs"
 msgstr ""
 
@@ -6421,27 +6418,20 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Garak_Captain.cfg:38
 #: Under_the_Burning_Suns/units/Garak_Marshal.cfg:38
 #: Under_the_Burning_Suns/units/Desert_Hunter5.cfg:35
-#: Under_the_Burning_Suns/units/Dwarvish_Thunderguard2.cfg:26
 #: Under_the_Burning_Suns/units/Desert_Scout4.cfg:39
 #: Under_the_Burning_Suns/units/Kaleh_Champion.cfg:36
-#: Under_the_Burning_Suns/units/Dwarvish_Lord2.cfg:33
-#: Under_the_Burning_Suns/units/Dwarvish_Lord2.cfg:66
 #: Under_the_Burning_Suns/units/Kaleh_Marshal.cfg:38
 #: Under_the_Burning_Suns/units/Desert_Captain.cfg:37
 #: Under_the_Burning_Suns/units/Desert_Scout7.cfg:39
 #: Under_the_Burning_Suns/units/Desert_Hunter.cfg:35
 #: Under_the_Burning_Suns/units/Desert_Hunter6.cfg:35
-#: Under_the_Burning_Suns/units/scen7_Shadow.cfg:27
 #: Under_the_Burning_Suns/units/Desert_Outrider.cfg:39
-#: Under_the_Burning_Suns/units/scen7_Nightgaunt.cfg:28
 #: Under_the_Burning_Suns/units/Desert_Scout.cfg:39
 #: Under_the_Burning_Suns/units/Desert_Fighter6.cfg:36
 #: Under_the_Burning_Suns/units/Desert_Fighter7.cfg:36
-#: Under_the_Burning_Suns/units/Dwarvish_Ulfserker2.cfg:33
 #: Under_the_Burning_Suns/units/Desert_Marshal.cfg:38
 #: Under_the_Burning_Suns/units/Desert_Archer.cfg:37
 #: Under_the_Burning_Suns/units/Desert_Archer.cfg:127
-#: Under_the_Burning_Suns/units/Human_Captain.cfg:33
 #: Under_the_Burning_Suns/units/Desert_Rider.cfg:42
 #: Under_the_Burning_Suns/units/Desert_Scout5.cfg:39
 #: Under_the_Burning_Suns/units/Crab_Man.cfg:21
@@ -6450,9 +6440,6 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Fighter3.cfg:36
 #: Under_the_Burning_Suns/units/Desert_Avenger.cfg:39
 #: Under_the_Burning_Suns/units/Desert_Avenger.cfg:141
-#: Under_the_Burning_Suns/units/Dwarvish_Fighter2.cfg:28
-#: Under_the_Burning_Suns/units/Dwarvish_Berserker2.cfg:33
-#: Under_the_Burning_Suns/units/Dwarvish_Thunderer2.cfg:26
 #: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:30
 #: Under_the_Burning_Suns/units/Undead_Horseman.cfg:21
 #: Under_the_Burning_Suns/units/Confused_Ant.cfg:21
@@ -6468,13 +6455,10 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Nym_Prowler.cfg:37
 #: Under_the_Burning_Suns/units/Nym_Hunter.cfg:36
 #: Under_the_Burning_Suns/units/Desert_Fighter2.cfg:36
-#: Under_the_Burning_Suns/units/Blood_Bat2.cfg:21
-#: Under_the_Burning_Suns/units/scen7_Wraith.cfg:32
 #: Under_the_Burning_Suns/units/Desert_Archer5.cfg:37
 #: Under_the_Burning_Suns/units/Desert_Archer5.cfg:127
 #: Under_the_Burning_Suns/units/Desert_Archer4.cfg:37
 #: Under_the_Burning_Suns/units/Desert_Archer4.cfg:127
-#: Under_the_Burning_Suns/units/Vampire_Bat2.cfg:21
 #: Under_the_Burning_Suns/units/Desert_Archer6.cfg:37
 #: Under_the_Burning_Suns/units/Desert_Archer6.cfg:127
 #: Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:31
@@ -6491,15 +6475,12 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:50
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:34
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:138
-#: Under_the_Burning_Suns/units/Dwarvish_Steelclad2.cfg:34
 #: Under_the_Burning_Suns/units/Desert_Champion.cfg:35
 #: Under_the_Burning_Suns/units/Dread_Bat.cfg:21
 #: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:22
 #: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:44
 #: Under_the_Burning_Suns/units/Desert_Hunter2.cfg:35
 #: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:35
-#: Under_the_Burning_Suns/units/scen7_Spectre.cfg:32
-#: Under_the_Burning_Suns/units/Cave_Spider2.cfg:21
 #: Under_the_Burning_Suns/units/Desert_Fighter5.cfg:36
 #: Under_the_Burning_Suns/units/Desert_Fighter4.cfg:36
 #: Under_the_Burning_Suns/units/Desert_Archer3.cfg:37
@@ -6508,148 +6489,6 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:38
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:139
 msgid "blade"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Blood_Bat2.cfg:4
-msgid "Blood Bat"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Blood_Bat2.cfg:17
-msgid ""
-"Blood Bats are fast and can drain the blood of those they attack, thereby "
-"healing themselves, even to the point where they become stronger than they "
-"began the battle. Such is their fury that the fur of these undead flying "
-"beasts is tainted red with the blood of their victims."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Spider_Lich.cfg:24
-#: Under_the_Burning_Suns/units/Blood_Bat2.cfg:25
-#: Under_the_Burning_Suns/units/scen7_Wraith.cfg:36
-#: Under_the_Burning_Suns/units/Vampire_Bat2.cfg:25
-#: Under_the_Burning_Suns/units/Dread_Bat.cfg:25
-#: Under_the_Burning_Suns/units/scen7_Spectre.cfg:36
-msgid "drain"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Cave_Spider2.cfg:4
-msgid "Cave Spider"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Cave_Spider2.cfg:17
-msgid ""
-"Cave Spiders are roam deep under the earth, devouring many victims. They can "
-"bite at close range, thereby poisoning their enemies, and also can attack "
-"with a web at long range, slowing their foes down."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:49
-#: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:48
-#: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:51
-#: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:48
-#: Under_the_Burning_Suns/units/Cave_Spider2.cfg:25
-#: Under_the_Burning_Suns/units/Deep_One.cfg:71
-msgid "poison"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Cave_Spider2.cfg:29
-msgid "web"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Great_Troll2.cfg:27
-#: Under_the_Burning_Suns/units/Desert_Star.cfg:49
-#: Under_the_Burning_Suns/units/Desert_Star.cfg:75
-#: Under_the_Burning_Suns/units/Desert_Prowler.cfg:54
-#: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:54
-#: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:53
-#: Under_the_Burning_Suns/units/Dark_Sorcerer2.cfg:21
-#: Under_the_Burning_Suns/units/Zhul_Star.cfg:50
-#: Under_the_Burning_Suns/units/Zhul_Star.cfg:76
-#: Under_the_Burning_Suns/units/Elyssa_Silver_Mage.cfg:80
-#: Under_the_Burning_Suns/units/Grog_Troll.cfg:28
-#: Under_the_Burning_Suns/units/Giant_Tentacle.cfg:23
-#: Under_the_Burning_Suns/units/Desert_Hunter5.cfg:53
-#: Under_the_Burning_Suns/units/Dwarvish_Lord2.cfg:50
-#: Under_the_Burning_Suns/units/Flesh_Golem.cfg:28
-#: Under_the_Burning_Suns/units/Troll_Zombie.cfg:27
-#: Under_the_Burning_Suns/units/Grog_Troll_Warrior.cfg:28
-#: Under_the_Burning_Suns/units/Desert_Hunter.cfg:53
-#: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:38
-#: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:57
-#: Under_the_Burning_Suns/units/Elyssa_Great_Mage.cfg:26
-#: Under_the_Burning_Suns/units/Desert_Hunter6.cfg:53
-#: Under_the_Burning_Suns/units/Troll_Warrior2.cfg:27
-#: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:38
-#: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:57
-#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:38
-#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:57
-#: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:46
-#: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:64
-#: Under_the_Burning_Suns/units/Troll_Shaman.cfg:32
-#: Under_the_Burning_Suns/units/Troll_Rocklobber2.cfg:27
-#: Under_the_Burning_Suns/units/Troll_Rocklobber2.cfg:45
-#: Under_the_Burning_Suns/units/Dwarvish_Fighter2.cfg:45
-#: Under_the_Burning_Suns/units/Flesh_Golem2.cfg:33
-#: Under_the_Burning_Suns/units/Desert_Shaman4.cfg:38
-#: Under_the_Burning_Suns/units/Desert_Shaman4.cfg:57
-#: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:55
-#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:38
-#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:57
-#: Under_the_Burning_Suns/units/Desert_Hunter4.cfg:53
-#: Under_the_Burning_Suns/units/Nym_Prowler.cfg:55
-#: Under_the_Burning_Suns/units/Nym_Hunter.cfg:54
-#: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:38
-#: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:57
-#: Under_the_Burning_Suns/units/Desert_Shaman.cfg:38
-#: Under_the_Burning_Suns/units/Desert_Shaman.cfg:57
-#: Under_the_Burning_Suns/units/Darawf.cfg:21
-#: Under_the_Burning_Suns/units/Dwarvish_Dragonguard2.cfg:26
-#: Under_the_Burning_Suns/units/Troll_Whelp2.cfg:27
-#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:38
-#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:57
-#: Under_the_Burning_Suns/units/Dwarvish_Steelclad2.cfg:51
-#: Under_the_Burning_Suns/units/Elyssa_Arch_Mage.cfg:41
-#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:43
-#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:69
-#: Under_the_Burning_Suns/units/Elyssa_Red_Mage.cfg:26
-#: Under_the_Burning_Suns/units/Desert_Druid.cfg:37
-#: Under_the_Burning_Suns/units/Desert_Druid.cfg:56
-#: Under_the_Burning_Suns/units/Desert_Hunter2.cfg:53
-#: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:53
-#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:44
-#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:70
-#: Under_the_Burning_Suns/units/Cave_Spider2.cfg:30
-#: Under_the_Burning_Suns/units/Deep_One.cfg:24
-#: Under_the_Burning_Suns/units/Troll2.cfg:27
-msgid "impact"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Desert_Star.cfg:76
-#: Under_the_Burning_Suns/units/Desert_Prowler.cfg:58
-#: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:58
-#: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:57
-#: Under_the_Burning_Suns/units/Zhul_Star.cfg:77
-#: Under_the_Burning_Suns/units/Desert_Hunter5.cfg:57
-#: Under_the_Burning_Suns/units/Desert_Hunter.cfg:57
-#: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:58
-#: Under_the_Burning_Suns/units/Desert_Hunter6.cfg:57
-#: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:58
-#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:58
-#: Under_the_Burning_Suns/units/Desert_Shaman4.cfg:58
-#: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:59
-#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:58
-#: Under_the_Burning_Suns/units/Desert_Hunter4.cfg:57
-#: Under_the_Burning_Suns/units/Nym_Prowler.cfg:59
-#: Under_the_Burning_Suns/units/Nym_Hunter.cfg:58
-#: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:58
-#: Under_the_Burning_Suns/units/Desert_Shaman.cfg:58
-#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:58
-#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:70
-#: Under_the_Burning_Suns/units/Desert_Druid.cfg:57
-#: Under_the_Burning_Suns/units/Desert_Hunter2.cfg:57
-#: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:57
-#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:71
-#: Under_the_Burning_Suns/units/Cave_Spider2.cfg:40
-msgid "slow"
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Confused_Ant.cfg:4
@@ -6698,7 +6537,6 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Marshal.cfg:37
 #: Under_the_Burning_Suns/units/Desert_Archer.cfg:36
 #: Under_the_Burning_Suns/units/Desert_Archer.cfg:126
-#: Under_the_Burning_Suns/units/Human_Captain.cfg:32
 #: Under_the_Burning_Suns/units/Desert_Rider.cfg:41
 #: Under_the_Burning_Suns/units/Desert_Scout5.cfg:38
 #: Under_the_Burning_Suns/units/Desert_Fighter3.cfg:35
@@ -6749,34 +6587,24 @@ msgstr ""
 msgid "magic"
 msgstr ""
 
-#: Under_the_Burning_Suns/units/Dark_Sorcerer2.cfg:42
-#: Under_the_Burning_Suns/units/scen7_Ghost.cfg:27
-#: Under_the_Burning_Suns/units/scen7_Ghost.cfg:39
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:20
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:29
 #: Under_the_Burning_Suns/units/Haunt.cfg:25
 #: Under_the_Burning_Suns/units/Haunt.cfg:37
 #: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:49
-#: Under_the_Burning_Suns/units/scen7_Wraith.cfg:49
-#: Under_the_Burning_Suns/units/scen7_Spectre.cfg:49
 msgid "cold"
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:50
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:96
-#: Under_the_Burning_Suns/units/Dark_Sorcerer2.cfg:43
 #: Under_the_Burning_Suns/units/Zhul_Star.cfg:51
 #: Under_the_Burning_Suns/units/Zhul_Star.cfg:97
-#: Under_the_Burning_Suns/units/Elyssa_Silver_Mage.cfg:98
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:30
-#: Under_the_Burning_Suns/units/Elyssa_Great_Mage.cfg:49
 #: Under_the_Burning_Suns/units/Troll_Shaman.cfg:46
 #: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:50
 #: Under_the_Burning_Suns/units/Zhul_Druid.cfg:78
-#: Under_the_Burning_Suns/units/Elyssa_Arch_Mage.cfg:64
 #: Under_the_Burning_Suns/units/Desert_Shyde.cfg:44
 #: Under_the_Burning_Suns/units/Desert_Shyde.cfg:90
-#: Under_the_Burning_Suns/units/Elyssa_Red_Mage.cfg:49
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:77
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:45
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:91
@@ -6795,8 +6623,6 @@ msgid ""
 "and prefer live around coastal waters, preying on both humans and animals."
 msgstr ""
 
-#: Under_the_Burning_Suns/units/scen7_Shadow.cfg:26
-#: Under_the_Burning_Suns/units/scen7_Nightgaunt.cfg:27
 #: Under_the_Burning_Suns/units/Crab_Man.cfg:20
 msgid "claws"
 msgstr ""
@@ -6815,10 +6641,59 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Troll_Zombie.cfg:26
 #: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:44
 #: Under_the_Burning_Suns/units/Troll_Shaman.cfg:31
-#: Under_the_Burning_Suns/units/Troll_Rocklobber2.cfg:26
 #: Under_the_Burning_Suns/units/Darawf.cfg:20
-#: Under_the_Burning_Suns/units/Troll_Whelp2.cfg:26
 msgid "fist"
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Desert_Star.cfg:49
+#: Under_the_Burning_Suns/units/Desert_Star.cfg:75
+#: Under_the_Burning_Suns/units/Desert_Prowler.cfg:54
+#: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:54
+#: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:53
+#: Under_the_Burning_Suns/units/Zhul_Star.cfg:50
+#: Under_the_Burning_Suns/units/Zhul_Star.cfg:76
+#: Under_the_Burning_Suns/units/Grog_Troll.cfg:28
+#: Under_the_Burning_Suns/units/Giant_Tentacle.cfg:23
+#: Under_the_Burning_Suns/units/Desert_Hunter5.cfg:53
+#: Under_the_Burning_Suns/units/Flesh_Golem.cfg:28
+#: Under_the_Burning_Suns/units/Troll_Zombie.cfg:27
+#: Under_the_Burning_Suns/units/Grog_Troll_Warrior.cfg:28
+#: Under_the_Burning_Suns/units/Desert_Hunter.cfg:53
+#: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:38
+#: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:57
+#: Under_the_Burning_Suns/units/Desert_Hunter6.cfg:53
+#: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:38
+#: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:57
+#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:38
+#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:57
+#: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:46
+#: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:64
+#: Under_the_Burning_Suns/units/Troll_Shaman.cfg:32
+#: Under_the_Burning_Suns/units/Desert_Shaman4.cfg:38
+#: Under_the_Burning_Suns/units/Desert_Shaman4.cfg:57
+#: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:55
+#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:38
+#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:57
+#: Under_the_Burning_Suns/units/Desert_Hunter4.cfg:53
+#: Under_the_Burning_Suns/units/Nym_Prowler.cfg:55
+#: Under_the_Burning_Suns/units/Nym_Hunter.cfg:54
+#: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:38
+#: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:57
+#: Under_the_Burning_Suns/units/Desert_Shaman.cfg:38
+#: Under_the_Burning_Suns/units/Desert_Shaman.cfg:57
+#: Under_the_Burning_Suns/units/Darawf.cfg:21
+#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:38
+#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:57
+#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:43
+#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:69
+#: Under_the_Burning_Suns/units/Desert_Druid.cfg:37
+#: Under_the_Burning_Suns/units/Desert_Druid.cfg:56
+#: Under_the_Burning_Suns/units/Desert_Hunter2.cfg:53
+#: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:53
+#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:44
+#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:70
+#: Under_the_Burning_Suns/units/Deep_One.cfg:24
+msgid "impact"
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:4
@@ -6840,8 +6715,6 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:22
 #: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:21
-#: Under_the_Burning_Suns/units/Dwarvish_Thunderguard2.cfg:25
-#: Under_the_Burning_Suns/units/Dwarvish_Thunderer2.cfg:25
 #: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:24
 #: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:21
 msgid "dagger"
@@ -6854,37 +6727,12 @@ msgstr ""
 msgid "darts"
 msgstr ""
 
-#: Under_the_Burning_Suns/units/Dark_Sorcerer2.cfg:4
-msgid "Dark Sorcerer"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dark_Sorcerer2.cfg:17
-msgid ""
-"Dark Sorcerers did not fully embrace the power of the undead by becoming "
-"undead themselves. Instead, their advanced studies of the dark arts have "
-"made them stronger, but not nearly as powerful as they would have been as "
-"Liches. Because they retain their humanity, they do not fear holy magic. "
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dark_Sorcerer2.cfg:20
-#: Under_the_Burning_Suns/units/Elyssa_Silver_Mage.cfg:79
-#: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:37
-#: Under_the_Burning_Suns/units/Elyssa_Great_Mage.cfg:25
-#: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:37
-#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:37
-#: Under_the_Burning_Suns/units/Desert_Shaman4.cfg:37
-#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:37
-#: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:37
-#: Under_the_Burning_Suns/units/Desert_Shaman.cfg:37
-#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:37
-#: Under_the_Burning_Suns/units/Elyssa_Arch_Mage.cfg:40
-#: Under_the_Burning_Suns/units/Elyssa_Red_Mage.cfg:25
-#: Under_the_Burning_Suns/units/Desert_Druid.cfg:36
-msgid "staff"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dark_Sorcerer2.cfg:41
-msgid "chill wave"
+#: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:49
+#: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:48
+#: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:51
+#: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:48
+#: Under_the_Burning_Suns/units/Deep_One.cfg:71
+msgid "poison"
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Deep_One.cfg:4
@@ -6911,13 +6759,10 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:95
 #: Under_the_Burning_Suns/units/Desert_Scout3.cfg:60
-#: Under_the_Burning_Suns/units/Dwarvish_Sentinel2.cfg:33
-#: Under_the_Burning_Suns/units/Dwarvish_Sentinel2.cfg:46
 #: Under_the_Burning_Suns/units/Kaleh_Fighter.cfg:54
 #: Under_the_Burning_Suns/units/Garak_Captain.cfg:54
 #: Under_the_Burning_Suns/units/Zhul_Star.cfg:96
 #: Under_the_Burning_Suns/units/Garak_Marshal.cfg:54
-#: Under_the_Burning_Suns/units/Dwarvish_Thunderguard2.cfg:52
 #: Under_the_Burning_Suns/units/Desert_Scout4.cfg:60
 #: Under_the_Burning_Suns/units/Kaleh_Champion.cfg:55
 #: Under_the_Burning_Suns/units/Kaleh_Marshal.cfg:54
@@ -6930,7 +6775,6 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Marshal.cfg:54
 #: Under_the_Burning_Suns/units/Desert_Archer.cfg:54
 #: Under_the_Burning_Suns/units/Desert_Archer.cfg:145
-#: Under_the_Burning_Suns/units/Human_Captain.cfg:56
 #: Under_the_Burning_Suns/units/Desert_Rider.cfg:63
 #: Under_the_Burning_Suns/units/Desert_Scout5.cfg:60
 #: Under_the_Burning_Suns/units/Desert_Fighter3.cfg:53
@@ -6940,20 +6784,16 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Avenger.cfg:158
 #: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Stalwart.cfg:34
 #: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Stalwart.cfg:47
-#: Under_the_Burning_Suns/units/Dwarvish_Thunderer2.cfg:46
 #: Under_the_Burning_Suns/units/Desert_Scout6.cfg:60
 #: Under_the_Burning_Suns/units/Kaleh_Hero.cfg:55
 #: Under_the_Burning_Suns/units/Desert_Fighter.cfg:53
 #: Under_the_Burning_Suns/units/Kaleh_Captain.cfg:54
 #: Under_the_Burning_Suns/units/Desert_Archer2.cfg:54
 #: Under_the_Burning_Suns/units/Desert_Archer2.cfg:145
-#: Under_the_Burning_Suns/units/Dwarvish_Stalwart2.cfg:33
-#: Under_the_Burning_Suns/units/Dwarvish_Stalwart2.cfg:46
 #: Under_the_Burning_Suns/units/Desert_Fighter2.cfg:53
 #: Under_the_Burning_Suns/units/Water_Serpent.cfg:20
 #: Under_the_Burning_Suns/units/Desert_Archer5.cfg:54
 #: Under_the_Burning_Suns/units/Desert_Archer5.cfg:145
-#: Under_the_Burning_Suns/units/Dwarvish_Dragonguard2.cfg:44
 #: Under_the_Burning_Suns/units/Desert_Archer4.cfg:54
 #: Under_the_Burning_Suns/units/Desert_Archer4.cfg:145
 #: Under_the_Burning_Suns/units/Desert_Archer6.cfg:54
@@ -7022,7 +6862,6 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Marshal.cfg:53
 #: Under_the_Burning_Suns/units/Desert_Archer.cfg:53
 #: Under_the_Burning_Suns/units/Desert_Archer.cfg:144
-#: Under_the_Burning_Suns/units/Human_Captain.cfg:55
 #: Under_the_Burning_Suns/units/Desert_Rider.cfg:62
 #: Under_the_Burning_Suns/units/Desert_Scout5.cfg:59
 #: Under_the_Burning_Suns/units/Desert_Fighter3.cfg:52
@@ -7070,8 +6909,6 @@ msgstr ""
 msgid "Desert Avenger"
 msgstr ""
 
-#: Under_the_Burning_Suns/units/scen7_Shadow.cfg:31
-#: Under_the_Burning_Suns/units/scen7_Nightgaunt.cfg:32
 #: Under_the_Burning_Suns/units/Desert_Avenger.cfg:31
 #: Under_the_Burning_Suns/units/Desert_Avenger.cfg:43
 #: Under_the_Burning_Suns/units/Desert_Avenger.cfg:145
@@ -7107,7 +6944,6 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Kaleh_Marshal.cfg:13
 #: Under_the_Burning_Suns/units/Desert_Captain.cfg:12
 #: Under_the_Burning_Suns/units/Desert_Marshal.cfg:13
-#: Under_the_Burning_Suns/units/Human_Captain.cfg:27
 #: Under_the_Burning_Suns/units/Kaleh_Captain.cfg:13
 msgid "leadership"
 msgstr ""
@@ -7154,6 +6990,18 @@ msgid ""
 "Druids are excellent supporting units in any Elvish army."
 msgstr ""
 
+#: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:37
+#: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:37
+#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:37
+#: Under_the_Burning_Suns/units/Desert_Shaman4.cfg:37
+#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:37
+#: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:37
+#: Under_the_Burning_Suns/units/Desert_Shaman.cfg:37
+#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:37
+#: Under_the_Burning_Suns/units/Desert_Druid.cfg:36
+msgid "staff"
+msgstr ""
+
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:74
 #: Under_the_Burning_Suns/units/Zhul_Star.cfg:75
 #: Under_the_Burning_Suns/units/Zhul_Druid.cfg:56
@@ -7161,6 +7009,34 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:55
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:69
 msgid "ensnare"
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Desert_Star.cfg:76
+#: Under_the_Burning_Suns/units/Desert_Prowler.cfg:58
+#: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:58
+#: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:57
+#: Under_the_Burning_Suns/units/Zhul_Star.cfg:77
+#: Under_the_Burning_Suns/units/Desert_Hunter5.cfg:57
+#: Under_the_Burning_Suns/units/Desert_Hunter.cfg:57
+#: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:58
+#: Under_the_Burning_Suns/units/Desert_Hunter6.cfg:57
+#: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:58
+#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:58
+#: Under_the_Burning_Suns/units/Desert_Shaman4.cfg:58
+#: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:59
+#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:58
+#: Under_the_Burning_Suns/units/Desert_Hunter4.cfg:57
+#: Under_the_Burning_Suns/units/Nym_Prowler.cfg:59
+#: Under_the_Burning_Suns/units/Nym_Hunter.cfg:58
+#: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:58
+#: Under_the_Burning_Suns/units/Desert_Shaman.cfg:58
+#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:58
+#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:70
+#: Under_the_Burning_Suns/units/Desert_Druid.cfg:57
+#: Under_the_Burning_Suns/units/Desert_Hunter2.cfg:57
+#: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:57
+#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:71
+msgid "slow"
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:94
@@ -7508,44 +7384,9 @@ msgid ""
 "feast on bigger and bigger victims."
 msgstr ""
 
-#: Under_the_Burning_Suns/units/Dwarvish_Berserker2.cfg:4
-msgid "Dwarvish Berserker"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Berserker2.cfg:21
-msgid ""
-"Dwarves are an ancient race of powerful fighters. Their Berserkers forget "
-"all defense in exchange for massive damage against their enemies. Once a "
-"battle is entered, Dwarvish Berserkers attack ferociously, continuing to "
-"push the attack until either they or their enemy lies dead."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Ulfserker2.cfg:31
-#: Under_the_Burning_Suns/units/Dwarvish_Berserker2.cfg:31
-msgid "berserker frenzy"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Flesh_Golem.cfg:29
-#: Under_the_Burning_Suns/units/Dwarvish_Ulfserker2.cfg:34
-#: Under_the_Burning_Suns/units/Dwarvish_Berserker2.cfg:34
-#: Under_the_Burning_Suns/units/Flesh_Golem2.cfg:34
-msgid "berserk"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Dragonguard2.cfg:4
-msgid "Dwarvish Dragonguard"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Dragonguard2.cfg:21
-msgid ""
-"The guardians of the great dwarvish cities, they blast at their enemies "
-"using fire from what are called dragonstaves. They are the chief possessors "
-"of arcane Dwarvish technology."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Dragonguard2.cfg:25
-#: Under_the_Burning_Suns/units/Dwarvish_Dragonguard2.cfg:43
-msgid "dragonstaff"
+#: Under_the_Burning_Suns/units/Spider_Lich.cfg:24
+#: Under_the_Burning_Suns/units/Dread_Bat.cfg:25
+msgid "drain"
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:4
@@ -7563,51 +7404,12 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:25
 #: Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:54
-#: Under_the_Burning_Suns/units/Dwarvish_Fighter2.cfg:27
 #: Under_the_Burning_Suns/units/Undead_Horseman.cfg:20
 #: Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:30
 #: Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:64
 #: Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:25
 #: Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:49
 msgid "axe"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Fighter2.cfg:4
-msgid "Dwarvish Fighter"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Fighter2.cfg:24
-msgid ""
-"Dwarvish Fighters wield mighty battle axes and hammers, which make them "
-"feared opponents in close range combat. They are excellent in mountainous "
-"terrain or underground. Though not swift, their power and endurance more "
-"than compensate."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Lord2.cfg:49
-#: Under_the_Burning_Suns/units/Dwarvish_Fighter2.cfg:44
-#: Under_the_Burning_Suns/units/Dwarvish_Steelclad2.cfg:50
-msgid "hammer"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Lord2.cfg:4
-msgid "Dwarvish Lord"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Lord2.cfg:29
-msgid ""
-"Dwarvish Lords are kings under the mountains. Their skill with the battle "
-"axe is unmatched, and they are able to hit even enemies that are far away. "
-"Their fine armor is made of the strong alloys crafted by their kin."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Lord2.cfg:32
-#: Under_the_Burning_Suns/units/Dwarvish_Steelclad2.cfg:32
-msgid "battle axe"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Lord2.cfg:65
-msgid "hatchet"
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:4
@@ -7632,180 +7434,11 @@ msgid ""
 "and throwing them."
 msgstr ""
 
-#: Under_the_Burning_Suns/units/Dwarvish_Sentinel2.cfg:4
-#: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Sentinel.cfg:4
-msgid "Dwarvish Sentinel"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Sentinel2.cfg:22
-#: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Sentinel.cfg:23
-#: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Stalwart.cfg:23
-#: Under_the_Burning_Suns/units/Dwarvish_Stalwart2.cfg:22
-msgid "steadfast"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Sentinel2.cfg:28
-#: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Sentinel.cfg:29
-msgid ""
-"The Sentinel, with his tower shield and great courage, refuses to yield "
-"under even the strongest of enemy attacks."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Sentinel2.cfg:31
-#: Under_the_Burning_Suns/units/Dwarvish_Sentinel2.cfg:45
-#: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Sentinel.cfg:32
-#: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Sentinel.cfg:46
-#: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Stalwart.cfg:32
-#: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Stalwart.cfg:46
-#: Under_the_Burning_Suns/units/Dwarvish_Stalwart2.cfg:31
-#: Under_the_Burning_Suns/units/Dwarvish_Stalwart2.cfg:45
-msgid "spear"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Stalwart.cfg:4
-#: Under_the_Burning_Suns/units/Dwarvish_Stalwart2.cfg:4
-msgid "Dwarvish Stalwart"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Stalwart.cfg:29
-#: Under_the_Burning_Suns/units/Dwarvish_Stalwart2.cfg:28
-msgid ""
-"Stalwarts, after years in battle, have fashioned new shields and strong "
-"armor from the ruins of their enemies. While slow, they are the feared for "
-"their resilience and strength."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Steelclad2.cfg:4
-msgid "Dwarvish Steelclad"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Steelclad2.cfg:29
-msgid ""
-"The more experienced Dwarvish Steelclad fighters wear heavy chain mail and "
-"plate armor, for which they are rightly famous."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Thunderer2.cfg:4
-msgid "Dwarvish Thunderer"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Thunderer2.cfg:21
-msgid ""
-"Dwarvish Thunderers provide much needed ranged support to the mighty, yet "
-"slow, close-range fighters of the Dwarvish armies. Their mysterious weapons "
-"are slower, cruder and noisier than the elegant and swift elvish bows, but "
-"their impact is unmatched."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Thunderer2.cfg:45
-msgid "thunderstick"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Thunderguard2.cfg:4
-msgid "Dwarvish Thunderguard"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Thunderguard2.cfg:21
-msgid ""
-"The famed Dwarvish Thunderguards wield mysterious and feared weapons forged "
-"by the Dwarf weapon-masters, experts in arcane Dwarvish technology. Although "
-"they are no faster than the more common Thunderers, their attack is much "
-"more deadly."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Thunderguard2.cfg:51
-msgid "dragonstick"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Ulfserker2.cfg:4
-msgid "Dwarvish Ulfserker"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dwarvish_Ulfserker2.cfg:21
-msgid ""
-"Dwarves are an ancient race of powerful fighters. Ulfserkers are the most "
-"ferocious of these in battle: they attack without stopping fighting until "
-"either their enemy or they are dead, no matter how many wounds they receive."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Elyssa_Arch_Mage.cfg:4
-msgid "female^Arch Mage"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Elyssa_Arch_Mage.cfg:22
-msgid ""
-"Leaders among the mages, the Arch Mages hurl huge balls of fire at their "
-"enemies."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Elyssa_Great_Mage.cfg:46
-#: Under_the_Burning_Suns/units/Elyssa_Arch_Mage.cfg:61
-#: Under_the_Burning_Suns/units/Elyssa_Red_Mage.cfg:46
-msgid "fireball"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Elyssa_Silver_Mage.cfg:96
-#: Under_the_Burning_Suns/units/Lava_Monster2.cfg:25
-#: Under_the_Burning_Suns/units/Lava_Monster2.cfg:49
-#: Under_the_Burning_Suns/units/Ixthala_Demon.cfg:24
-#: Under_the_Burning_Suns/units/Elyssa_Great_Mage.cfg:47
-#: Under_the_Burning_Suns/units/Lava_Monster.cfg:24
-#: Under_the_Burning_Suns/units/Lava_Monster.cfg:48
-#: Under_the_Burning_Suns/units/Troll_Shaman.cfg:45
-#: Under_the_Burning_Suns/units/Elyssa_Arch_Mage.cfg:62
-#: Under_the_Burning_Suns/units/Lava_Monster3.cfg:25
-#: Under_the_Burning_Suns/units/Lava_Monster3.cfg:49
-#: Under_the_Burning_Suns/units/Elyssa_Red_Mage.cfg:47
-msgid "fire"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Elyssa_Great_Mage.cfg:4
-msgid "female^Great Mage"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Elyssa_Great_Mage.cfg:22
-msgid ""
-"Great Mages are awesome and fearsome enemies, exceeding even the Arch Mages "
-"in power."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Elyssa_Red_Mage.cfg:4
-msgid "female^Red Mage"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Elyssa_Red_Mage.cfg:22
-msgid ""
-"Red Mages attack with powerful magic fireballs that are guaranteed a good "
-"chance of hitting. Deft of foot, and skilled fighters both day and night, "
-"Red Mages are therefore valuable in almost all situations."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Elyssa_Silver_Mage.cfg:4
-msgid "female^Silver Mage"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Elyssa_Silver_Mage.cfg:23
-msgid "teleport"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Elyssa_Silver_Mage.cfg:24
-msgid ""
-"Silver Mages are the most deft of foot and elusive of all mages. They can "
-"teleport from any friendly village to another, translating themselves in an "
-"instant. They are also highly resistant to most forms of magical attack."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Elyssa_Silver_Mage.cfg:95
-msgid "missile"
-msgstr ""
-
 #: Under_the_Burning_Suns/units/Flesh_Golem.cfg:4
-#: Under_the_Burning_Suns/units/Flesh_Golem2.cfg:9
 msgid "Flesh Golem"
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Flesh_Golem.cfg:16
-#: Under_the_Burning_Suns/units/Flesh_Golem2.cfg:21
 msgid ""
 "Incredibly strong constructs, flesh golems are created by powerful "
 "necromancers from the bodies of fallen warriors. Though these golems "
@@ -7815,23 +7448,21 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Flesh_Golem.cfg:26
-#: Under_the_Burning_Suns/units/Flesh_Golem2.cfg:31
 msgid "smashing frenzy"
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Flesh_Golem.cfg:29
+msgid "berserk"
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Giant_Tentacle.cfg:4
 msgid "Giant Tentacle"
 msgstr ""
 
-#: Under_the_Burning_Suns/units/Great_Troll2.cfg:8
 #: Under_the_Burning_Suns/units/Grog_Troll.cfg:9
 #: Under_the_Burning_Suns/units/Giant_Tentacle.cfg:8
 #: Under_the_Burning_Suns/units/Grog_Troll_Warrior.cfg:9
-#: Under_the_Burning_Suns/units/Troll_Warrior2.cfg:8
 #: Under_the_Burning_Suns/units/Troll_Shaman.cfg:7
-#: Under_the_Burning_Suns/units/Troll_Rocklobber2.cfg:8
-#: Under_the_Burning_Suns/units/Troll_Whelp2.cfg:8
-#: Under_the_Burning_Suns/units/Troll2.cfg:8
 msgid "regenerates"
 msgstr ""
 
@@ -7841,30 +7472,11 @@ msgid ""
 "lurks deep beneath the waters, though no one knows for sure."
 msgstr ""
 
-#: Under_the_Burning_Suns/units/Great_Troll2.cfg:4
-msgid "Great Troll"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Great_Troll2.cfg:23
-msgid ""
-"Great Trolls are strong and brutal humanoid monsters with the amazing "
-"ability to regenerate themselves, so that they recover from wounds on their "
-"own, even during battle."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Great_Troll2.cfg:26
-#: Under_the_Burning_Suns/units/Grog_Troll_Warrior.cfg:27
-#: Under_the_Burning_Suns/units/Troll_Warrior2.cfg:26
-msgid "mace"
-msgstr ""
-
 #: Under_the_Burning_Suns/units/Grog_Troll.cfg:4
-#: Under_the_Burning_Suns/units/Troll2.cfg:4
 msgid "Troll"
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Grog_Troll.cfg:24
-#: Under_the_Burning_Suns/units/Troll2.cfg:23
 msgid ""
 "Trolls are strong and brutal humanoid monsters with the amazing ability to "
 "regenerate themselves, so that they recover from wounds on their own, even "
@@ -7872,20 +7484,21 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Grog_Troll.cfg:27
-#: Under_the_Burning_Suns/units/Troll2.cfg:26
 msgid "club"
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Grog_Troll_Warrior.cfg:4
-#: Under_the_Burning_Suns/units/Troll_Warrior2.cfg:4
 msgid "Troll Warrior"
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Grog_Troll_Warrior.cfg:24
-#: Under_the_Burning_Suns/units/Troll_Warrior2.cfg:23
 msgid ""
 "Hardened by battle, Troll Warriors can deliver deadly blows with a mace, and "
 "are able to regenerate, healing their own wounds during combat."
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Grog_Troll_Warrior.cfg:27
+msgid "mace"
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Haunt.cfg:4
@@ -7900,29 +7513,13 @@ msgid ""
 "and over and over."
 msgstr ""
 
-#: Under_the_Burning_Suns/units/scen7_Ghost.cfg:26
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:19
 #: Under_the_Burning_Suns/units/Haunt.cfg:24
 msgid "touch"
 msgstr ""
 
-#: Under_the_Burning_Suns/units/scen7_Ghost.cfg:38
 #: Under_the_Burning_Suns/units/Haunt.cfg:36
-#: Under_the_Burning_Suns/units/scen7_Wraith.cfg:48
-#: Under_the_Burning_Suns/units/scen7_Spectre.cfg:48
 msgid "wail"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Human_Captain.cfg:4
-msgid "Human Captain"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Human_Captain.cfg:29
-msgid ""
-"In this new harsh world, might often makes right and these captains are "
-"strong enough to rise to positions of leadership. Leading small groups of "
-"warriors, captains rally their troops around them and show no mercy to their "
-"enemies, striking fiercely with both sword and bow."
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Ixthala_Demon.cfg:4
@@ -7939,6 +7536,17 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Ixthala_Demon.cfg:23
 msgid "flaming sword"
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Lava_Monster2.cfg:25
+#: Under_the_Burning_Suns/units/Lava_Monster2.cfg:49
+#: Under_the_Burning_Suns/units/Ixthala_Demon.cfg:24
+#: Under_the_Burning_Suns/units/Lava_Monster.cfg:24
+#: Under_the_Burning_Suns/units/Lava_Monster.cfg:48
+#: Under_the_Burning_Suns/units/Troll_Shaman.cfg:45
+#: Under_the_Burning_Suns/units/Lava_Monster3.cfg:25
+#: Under_the_Burning_Suns/units/Lava_Monster3.cfg:49
+msgid "fire"
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Lava_Monster2.cfg:4
@@ -7983,6 +7591,39 @@ msgid ""
 "swords."
 msgstr ""
 
+#: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Sentinel.cfg:4
+msgid "Dwarvish Sentinel"
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Sentinel.cfg:23
+#: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Stalwart.cfg:23
+msgid "steadfast"
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Sentinel.cfg:29
+msgid ""
+"The Sentinel, with his tower shield and great courage, refuses to yield "
+"under even the strongest of enemy attacks."
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Sentinel.cfg:32
+#: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Sentinel.cfg:46
+#: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Stalwart.cfg:32
+#: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Stalwart.cfg:46
+msgid "spear"
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Stalwart.cfg:4
+msgid "Dwarvish Stalwart"
+msgstr ""
+
+#: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Stalwart.cfg:29
+msgid ""
+"Stalwarts, after years in battle, have fashioned new shields and strong "
+"armor from the ruins of their enemies. While slow, they are the feared for "
+"their resilience and strength."
+msgstr ""
+
 #: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:4
 msgid "Small Mudcrawler"
 msgstr ""
@@ -8008,21 +7649,6 @@ msgid ""
 "magical staves, these abominations are fearsome undead foes. "
 msgstr ""
 
-#: Under_the_Burning_Suns/units/Troll_Rocklobber2.cfg:4
-msgid "Troll Rocklobber"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Troll_Rocklobber2.cfg:23
-msgid ""
-"Trolls are humanoid monsters that have the amazing ability to regenerate, "
-"recovering from their wounds during battle. These trolls have armed "
-"themselves with large rocks they hurl at their opponents."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Troll_Rocklobber2.cfg:44
-msgid "sling"
-msgstr ""
-
 #: Under_the_Burning_Suns/units/Troll_Shaman.cfg:4
 msgid "Troll Shaman"
 msgstr ""
@@ -8032,17 +7658,6 @@ msgid ""
 "Troll shamans are the mystical leaders of the trolls. Though not as strong "
 "or tough as other trolls, their true power lies in their fire magic, which "
 "they use to blast enemies with gouts of fire."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Troll_Whelp2.cfg:4
-msgid "Troll Whelp"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Troll_Whelp2.cfg:23
-msgid ""
-"Trolls are humanoid monsters that have the amazing ability to regenerate, "
-"recovering from their wounds during battle. Although these Trolls are still "
-"weak whelps, their race is known for developing amazingly fast."
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Troll_Zombie.cfg:4
@@ -8070,17 +7685,6 @@ msgid ""
 "and destruction."
 msgstr ""
 
-#: Under_the_Burning_Suns/units/Vampire_Bat2.cfg:4
-msgid "Vampire Bat"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Vampire_Bat2.cfg:17
-msgid ""
-"Vampire Bats are undead flying beasts that attack by biting their victims. "
-"While their fangs are not very powerful, the health of victims is drained "
-"away along with their blood, and given to the Bats."
-msgstr ""
-
 #: Under_the_Burning_Suns/units/Water_Serpent.cfg:4
 msgid "Water Serpent"
 msgstr ""
@@ -8090,71 +7694,4 @@ msgid ""
 "Water Serpents are smaller cousins of the more famous Sea Serpents. Water "
 "Serpents can swim through water quite quickly and prey on all manner of "
 "creatures both large and small."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/scen7_Ghost.cfg:4
-msgid "Ethereal Ghost"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/scen7_Ghost.cfg:23
-msgid ""
-"Ghosts are the souls of warriors that died in agony centuries ago without "
-"leaving a corpse behind. Although their non-corporeal form allows them great "
-"freedom of movement and protection from physical attacks, ghosts cannot "
-"easily cross running water."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/scen7_Nightgaunt.cfg:4
-msgid "Ethereal Nightgaunt"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/scen7_Nightgaunt.cfg:23
-msgid ""
-"Nightgaunts haunt the night, keeping their ugly faces behind masks in an "
-"effort to hide their souls of pure evil. These despicable creatures are able "
-"to hide at night, leaving no trace of their presence."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/scen7_Nightgaunt.cfg:25
-msgid "nightstalk"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/scen7_Shadow.cfg:4
-msgid "Ethereal Shadow"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/scen7_Shadow.cfg:23
-msgid ""
-"Souls blackened by evil, Shadows roam the night attacking unsuspecting foes. "
-"These incorporeal fiends are able to hide at night, leaving no trace of "
-"their presence."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/scen7_Spectre.cfg:4
-msgid "Ethereal Spectre"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/scen7_Spectre.cfg:28
-msgid ""
-"Spectres, the most powerful ghosts in the undead ranks, can use their powers "
-"to summon a spectral sword that drains the life out of their foes to "
-"strengthen themselves. They also have a terrible wail that freezes the heart "
-"of the weak."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/scen7_Wraith.cfg:31
-#: Under_the_Burning_Suns/units/scen7_Spectre.cfg:31
-msgid "baneblade"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/scen7_Wraith.cfg:4
-msgid "Ethereal Wraith"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/scen7_Wraith.cfg:28
-msgid ""
-"Wraiths are some of the most powerful ghosts in the undead ranks. They can "
-"summon a spectral sword that drains the life out of their foes, thereby "
-"strengthening themselves. They also have a terrible wail that freezes the "
-"heart of the weak."
 msgstr ""
