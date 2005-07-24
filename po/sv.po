@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-07-21 17:12+0200\n"
-"PO-Revision-Date: 2005-07-02 14:39+0200\n"
+"PO-Revision-Date: 2005-07-24 16:42+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,6 @@ msgid "Under the Burning Suns"
 msgstr "De Brännande Solarna"
 
 #: Under_the_Burning_Suns.cfg:20
-#, fuzzy
 msgid ""
 "In the distant future, where a small band of elves struggle to survive "
 "amidst the ruins of fallen empires, lead your people out of the desert on an "
@@ -25,7 +24,7 @@ msgid ""
 msgstr ""
 "I en avlägsen framtid kämpar en liten grupp alver för sin överlevnad bland "
 "ruinerna av fallna stater. Led ditt folk på en episk resa ut ur öknen i "
-"jakten på ett nytt hem. (Version 0.4.3, 2005-05-30)"
+"jakten på ett nytt hem. (Version 0.5.1, 2005-07-20)"
 
 #: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Hunter5.cfg:4
@@ -5868,7 +5867,6 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:672
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1303
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3681
-#, fuzzy
 msgid "Death of Kaleh, Nym, Zhul"
 msgstr "Kaleh, Nym eller Zhul dör"
 
@@ -6067,9 +6065,8 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1096
-#, fuzzy
 msgid "No!"
-msgstr "Nej!!!"
+msgstr "Nej!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1102
 msgid "Who?"
@@ -6609,18 +6606,16 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3336
-#, fuzzy
 msgid "Aaaargh! Fresh Meat!"
-msgstr "Färskt kött!"
+msgstr "Aaaargh! Färskt kött!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3341
 msgid "Where'd those things come from? They look dangerous."
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3361
-#, fuzzy
 msgid "Gaaaggghhh! Kill!"
-msgstr "Aaaauuugggghhhh!"
+msgstr "Gaaaggghhh! Döda!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3366
 msgid "What are those things? They looked like ticked off giant crabs."
@@ -8223,8 +8218,8 @@ msgid ""
 "their resilience and strength."
 msgstr ""
 "Pansarnävarna har efter år av strider dragit nytta av sina fienders nederlag "
-"och skapat nya sköldar och starka runstningar. Även om de är långsamma, är "
-"de fruktade för sin uthållighet och styrka."
+"och skapat nya sköldar och starka rustningar. Även om de är långsamma, är de "
+"fruktade för sin uthållighet och styrka."
 
 #: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:4
 msgid "Small Mudcrawler"
@@ -8312,307 +8307,3 @@ msgstr ""
 "Vattenormarna är mindre släktingar till de mer kända sjöormarna. Vattenormar "
 "simmar snabbt genom vattnet och väljer sina byten bland både små och stora "
 "varelser."
-
-#~ msgid "Blood Bat"
-#~ msgstr "Blodsugande fladdermus"
-
-#~ msgid ""
-#~ "Blood Bats are fast and can drain the blood of those they attack, thereby "
-#~ "healing themselves, even to the point where they become stronger than "
-#~ "they began the battle. Such is their fury that the fur of these undead "
-#~ "flying beasts is tainted red with the blood of their victims."
-#~ msgstr ""
-#~ "Den blodsugande fladdermusen kan suga blodet och därmed livskraften ur "
-#~ "sina motståndare, och använder blodet för att förbättra sin egen hälsa. "
-#~ "På så vis kan den blodsugande fladdermusen till och med bli kraftigare "
-#~ "under pågående strid. Deras vildsinta attacker färgar detta vandöda "
-#~ "flygfäs päls röd av sina offers blod."
-
-#~ msgid "Cave Spider"
-#~ msgstr "Grottspindel"
-
-#~ msgid ""
-#~ "Cave Spiders are roam deep under the earth, devouring many victims. They "
-#~ "can bite at close range, thereby poisoning their enemies, and also can "
-#~ "attack with a web at long range, slowing their foes down."
-#~ msgstr ""
-#~ "Jättespindlarna lever djupt under jordens yta och livnär sig på "
-#~ "oförsiktiga besökare. De som kommer för nära kan de förgifta med sitt "
-#~ "bett, och de kan sinka sina fiender genom att kasta nät över dem."
-
-#~ msgid "web"
-#~ msgstr "spindelnät"
-
-#~ msgid "Dwarvish Berserker"
-#~ msgstr "Dvärgbärsärk"
-
-#~ msgid ""
-#~ "Dwarves are an ancient race of powerful fighters. Their Berserkers forget "
-#~ "all defense in exchange for massive damage against their enemies. Once a "
-#~ "battle is entered, Dwarvish Berserkers attack ferociously, continuing to "
-#~ "push the attack until either they or their enemy lies dead."
-#~ msgstr ""
-#~ "Dvärgarna är en urgammal ras av mäktiga krigare. Deras bärsärkar glömmer "
-#~ "all självbevarelsedrift för att få in fler träffar på motståndaren. När "
-#~ "de har givit sig in i striden attackerar de vildsint tills antingen de "
-#~ "själva eller deras fiende ligger död på marken."
-
-#~ msgid "berserker frenzy"
-#~ msgstr "bärsärkagång"
-
-#~ msgid "Dwarvish Dragonguard"
-#~ msgstr "Dvärgarnas drakvakt"
-
-#~ msgid ""
-#~ "The guardians of the great dwarvish cities, they blast at their enemies "
-#~ "using fire from what are called dragonstaves. They are the chief "
-#~ "possessors of arcane Dwarvish technology."
-#~ msgstr ""
-#~ "Drakvakterna är de stora dvärgstädernas väktare, och de skjuter på sina "
-#~ "fiender med eld från vad dvärgarna kallar drakstavar. De besitter den "
-#~ "främsta kunskapen om uråldrig dvärgteknologi."
-
-#~ msgid "dragonstaff"
-#~ msgstr "drakstav"
-
-#~ msgid "Dwarvish Fighter"
-#~ msgstr "Dvärgkrigare"
-
-#~ msgid ""
-#~ "Dwarvish Fighters wield mighty battle axes and hammers, which make them "
-#~ "feared opponents in close range combat. They are excellent in mountainous "
-#~ "terrain or underground. Though not swift, their power and endurance more "
-#~ "than compensate."
-#~ msgstr ""
-#~ "Dvärgkrigarna är allra bäst i tunnlar och bergig terräng. Kraften i deras "
-#~ "stridsyxor gör dem till fruktade motståndare i närstrid. Om än något "
-#~ "långsamma så är de både starka och uthålliga."
-
-#~ msgid "hammer"
-#~ msgstr "hammare"
-
-#~ msgid "Dwarvish Lord"
-#~ msgstr "Bergakung"
-
-#~ msgid ""
-#~ "Dwarvish Lords are kings under the mountains. Their skill with the battle "
-#~ "axe is unmatched, and they are able to hit even enemies that are far "
-#~ "away. Their fine armor is made of the strong alloys crafted by their kin."
-#~ msgstr ""
-#~ "Bergakungarna regerar under bergen. Ingen kan mäta sig med dem i "
-#~ "hanteringen av en stridsyxa, de kan till och med kasta den. Deras "
-#~ "rustningar är gjorda av de starka legeringar som bara dvärgarna kan "
-#~ "framställa."
-
-#~ msgid "battle axe"
-#~ msgstr "stridsyxa"
-
-#~ msgid "hatchet"
-#~ msgstr "kastyxa"
-
-#~ msgid "Dwarvish Steelclad"
-#~ msgstr "Dvärgarnas järnnäve"
-
-#~ msgid ""
-#~ "The more experienced Dwarvish Steelclad fighters wear heavy chain mail "
-#~ "and plate armor, for which they are rightly famous."
-#~ msgstr ""
-#~ "Dvärgarnas järnnävar bär tunga ringbrynjor och stålrustningar. Detta har "
-#~ "rättmätigt gjort dem berömda och fruktade vida omkring."
-
-#~ msgid "Dwarvish Thunderer"
-#~ msgstr "Dvärgarnas tordönstrupp"
-
-#~ msgid ""
-#~ "Dwarvish Thunderers provide much needed ranged support to the mighty, yet "
-#~ "slow, close-range fighters of the Dwarvish armies. Their mysterious "
-#~ "weapons are slower, cruder and noisier than the elegant and swift elvish "
-#~ "bows, but their impact is unmatched."
-#~ msgstr ""
-#~ "Dvärgarnas tordönstrupper förser dvärgarna med välbehövligt eldunderstöd, "
-#~ "så att deras mäktiga men långsamma krigare hinner komma fram till "
-#~ "närstriden. Deras mystiska vapen är tyngre, långsammare och mer högljudda "
-#~ "än alvernas långbågar, men deras genomslagskraft är utan motstycke."
-
-#~ msgid "thunderstick"
-#~ msgstr "åskstav"
-
-#~ msgid "Dwarvish Thunderguard"
-#~ msgstr "Dvärgarnas tordönsvakt"
-
-#~ msgid ""
-#~ "The famed Dwarvish Thunderguards wield mysterious and feared weapons "
-#~ "forged by the Dwarf weapon-masters, experts in arcane Dwarvish "
-#~ "technology. Although they are no faster than the more common Thunderers, "
-#~ "their attack is much more deadly."
-#~ msgstr ""
-#~ "Dvärgarnas berömda tordönsvakter använder sig av mystiska och fruktade "
-#~ "vapen som smitts av dvärgarnas vapenmästare, experter på uråldrig "
-#~ "dvärgteknologi. Även om de inte är lika snabba som de vanliga "
-#~ "tordönstrupperna, så är de mycket mer dödliga."
-
-#~ msgid "dragonstick"
-#~ msgstr "drakstav"
-
-#~ msgid "Dwarvish Ulfserker"
-#~ msgstr "Dvärgarnas ulvhedin"
-
-#~ msgid ""
-#~ "Dwarves are an ancient race of powerful fighters. Ulfserkers are the most "
-#~ "ferocious of these in battle: they attack without stopping fighting until "
-#~ "either their enemy or they are dead, no matter how many wounds they "
-#~ "receive."
-#~ msgstr ""
-#~ "Dvärgar är en uråldrig ras av mäktiga krigare. Ulvhednarna är de mest "
-#~ "vildsinta av dessa i strid: de anfaller obönhörligt tills antingen de "
-#~ "själva eller fienden är död, oavsett hur skadade de själva blir."
-
-#, fuzzy
-#~ msgid "female^Arch Mage"
-#~ msgstr "Ökenvaktare"
-
-#, fuzzy
-#~ msgid "fireball"
-#~ msgstr "eld"
-
-#, fuzzy
-#~ msgid "female^Great Mage"
-#~ msgstr "Ökenvaktare"
-
-#, fuzzy
-#~ msgid "female^Red Mage"
-#~ msgstr "Ökenvaktare"
-
-#, fuzzy
-#~ msgid "female^Silver Mage"
-#~ msgstr "Ökenvaktare"
-
-#~ msgid "Great Troll"
-#~ msgstr "Stort troll"
-
-#~ msgid ""
-#~ "Great Trolls are strong and brutal humanoid monsters with the amazing "
-#~ "ability to regenerate themselves, so that they recover from wounds on "
-#~ "their own, even during battle."
-#~ msgstr ""
-#~ "De stora trollen är starka, brutala humanoida monster som har den "
-#~ "fantastiska förmågan att regenerera, så att de kan läka sina skador medan "
-#~ "de fortfarande slåss."
-
-#~ msgid "Troll Rocklobber"
-#~ msgstr "Stenkastartroll"
-
-#~ msgid ""
-#~ "Trolls are humanoid monsters that have the amazing ability to regenerate, "
-#~ "recovering from their wounds during battle. These trolls have armed "
-#~ "themselves with large rocks they hurl at their opponents."
-#~ msgstr ""
-#~ "Trollen är starka, brutala humanoida monster som har den fantastiska "
-#~ "förmågan att regenerera, så att de kan läka sina skador medan de "
-#~ "fortfarande slåss. Stenkastartrollen har beväpnat sig med stora stenblock "
-#~ "som de slungar mot sina fiender."
-
-#~ msgid "sling"
-#~ msgstr "slunga"
-
-#~ msgid "Troll Whelp"
-#~ msgstr "Trollvalp"
-
-#~ msgid ""
-#~ "Trolls are humanoid monsters that have the amazing ability to regenerate, "
-#~ "recovering from their wounds during battle. Although these Trolls are "
-#~ "still weak whelps, their race is known for developing amazingly fast."
-#~ msgstr ""
-#~ "Trollen är starka, brutala humanoida monster som har den fantastiska "
-#~ "förmågan att regenerera, så att de kan läka sina skador medan de "
-#~ "fortfarande slåss. Även om dessa troll fortfarande är unga och svaga, så "
-#~ "är trollen kända för att utvecklas skrämmande snabbt."
-
-#~ msgid "Vampire Bat"
-#~ msgstr "Vampyrfladdermus"
-
-#~ msgid ""
-#~ "Vampire Bats are undead flying beasts that attack by biting their "
-#~ "victims. While their fangs are not very powerful, the health of victims "
-#~ "is drained away along with their blood, and given to the Bats."
-#~ msgstr ""
-#~ "En vandöd flygande best, som attackerar genom att bita sina fiender. Även "
-#~ "om deras huggtänder inte är så kraftfulla, så suger de både blod och "
-#~ "livskraft ur sina offer och utvinner styrka ur detta."
-
-#~ msgid "Ethereal Ghost"
-#~ msgstr "Spöke"
-
-#~ msgid ""
-#~ "Ghosts are the souls of warriors that died in agony centuries ago without "
-#~ "leaving a corpse behind. Although their non-corporeal form allows them "
-#~ "great freedom of movement and protection from physical attacks, ghosts "
-#~ "cannot easily cross running water."
-#~ msgstr ""
-#~ "Spöken är själarna hos krigare som gick en smärtsam död till mötes för "
-#~ "många hundra år sedan utan att lämna ett lik efter sig. Även om de inte "
-#~ "längre är begränsade av sina fysiska kroppar, vilket ger dem stor "
-#~ "rörlighet och skydd mot fysiska attacker, så tar de sig inte gärna över "
-#~ "rinnande vatten."
-
-#~ msgid "Ethereal Nightgaunt"
-#~ msgstr "Blekman"
-
-#~ msgid ""
-#~ "Nightgaunts haunt the night, keeping their ugly faces behind masks in an "
-#~ "effort to hide their souls of pure evil. These despicable creatures are "
-#~ "able to hide at night, leaving no trace of their presence."
-#~ msgstr ""
-#~ "Blekmännen sprider skräck i natten; de döljer sina hemska ansikten bakom "
-#~ "masker för att försöka dölja sina genomonda själar. Dessa föraktliga "
-#~ "varelser kan gömma sig i natten utan att lämna ett enda spår av sin "
-#~ "närvaro."
-
-#~ msgid "nightstalk"
-#~ msgstr "skuggsteg"
-
-#~ msgid "Ethereal Shadow"
-#~ msgstr "Skugga"
-
-#~ msgid ""
-#~ "Souls blackened by evil, Shadows roam the night attacking unsuspecting "
-#~ "foes. These incorporeal fiends are able to hide at night, leaving no "
-#~ "trace of their presence."
-#~ msgstr ""
-#~ "Skuggor strövar omkring i natten med själar svarta av ondska, och "
-#~ "attackerar oförberedda fiender. Dessa kroppslösa kan gömma sig i natten, "
-#~ "och lämnar inga spår av sin närvaro."
-
-#~ msgid "Ethereal Spectre"
-#~ msgstr "Ond ande"
-
-#~ msgid ""
-#~ "Spectres, the most powerful ghosts in the undead ranks, can use their "
-#~ "powers to summon a spectral sword that drains the life out of their foes "
-#~ "to strengthen themselves. They also have a terrible wail that freezes the "
-#~ "heart of the weak."
-#~ msgstr ""
-#~ "De onda andarna är bland de mäktigaste av spökena och kan använda sina "
-#~ "krafter för att frammana ett spektralsvärd, som suger livskraften ur sina "
-#~ "motståndare och förbättrar deras egen. De har också ett förfärligt tjut, "
-#~ "som får de svagas hjärtan att frysa i bröstet."
-
-#~ msgid "baneblade"
-#~ msgstr "domedagssvärd"
-
-#~ msgid "Ethereal Wraith"
-#~ msgstr "Vålnad"
-
-#~ msgid ""
-#~ "Wraiths are some of the most powerful ghosts in the undead ranks. They "
-#~ "can summon a spectral sword that drains the life out of their foes, "
-#~ "thereby strengthening themselves. They also have a terrible wail that "
-#~ "freezes the heart of the weak."
-#~ msgstr ""
-#~ "Vålnaderna är bland de mäktigaste av spökena och kan använda sina krafter "
-#~ "för att frammana ett spektralsvärd, som suger livskraften ur sina "
-#~ "motståndare och förbättrar deras egen. De har också ett förfärligt tjut, "
-#~ "som får de svagas hjärtan att frysa."
-
-#~ msgid "boiling water"
-#~ msgstr "kokande vatten"
