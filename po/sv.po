@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-07-21 17:12+0200\n"
-"PO-Revision-Date: 2005-07-24 16:42+0200\n"
+"PO-Revision-Date: 2005-07-27 18:20+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -222,7 +222,7 @@ msgid ""
 "A people struggling in an ocean of sand, we thought we were ready for "
 "anything. All that changed one fateful night, when the sky rained fire..."
 msgstr ""
-"Kapitel 1:, Jag, Kaleh, växte upp bland de vandrande sanddynerna, under våra "
+"Kapitel 1: Jag, Kaleh, växte upp bland de vandrande sanddynerna, under våra "
 "två solar Sela och Naia. Dagarna var heta och torra, och nätterna kalla. "
 "Fasor strövade omkring i landet, och vatten var mer dyrbart än guld. Vi hade "
 "bott i sanden ända sedan skogarna föll för många eoner sedan. Det var ett "
@@ -541,7 +541,7 @@ msgstr "Kanske de har tagit skydd i stallen. Låt oss gå och se efter."
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:867
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:940
 msgid "I think I see movement in the stables. Is anyone there?"
-msgstr "Jag tyckte jag såg något som rörde sig i stallen. Är det någon där?"
+msgstr "Jag tyckte jag såg något som rörde sig här inne. Är det någon där?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:874
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:947
@@ -1266,9 +1266,9 @@ msgid ""
 "personally make it slow and painful, to thank you for that scorching you "
 "gave me. "
 msgstr ""
-"Det var sista gången som ni trotsade vår mästare. Nu skall ni dö! Och jag "
-"skall personligen se till att er död blir långsam och plågsam, som tack för "
-"vad ni gjorde mot mig."
+"Det var sista gången du trotsade vår mästare. Nu skall du dö! Och jag skall "
+"personligen se till att din död blir långsam och plågsam, som tack för vad "
+"du gjorde mot mig."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2115
 msgid "You have defied our master for the last time. Now you shall die!"
@@ -1988,7 +1988,7 @@ msgid ""
 "orcs are retreating with the dawn. But what of Garak?"
 msgstr ""
 "Jag ser Naias första strålar över horisonten! Aldrig har hon sett så vacker "
-"ut. Den vandöda styrkorna har blivit till stoft, och de kvarvarande orcherna "
+"ut. De vandöda styrkorna har blivit till stoft, och de kvarvarande orcherna "
 "drar sig tillbaka med gryningen. Men vad skall vi göra med Garak?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:400
@@ -2034,11 +2034,11 @@ msgid ""
 "fewer of our people died than would have if we had had to wait out the long "
 "night."
 msgstr ""
-"Det var mycket modigt av dig, Kaleh, när du besegrade båda de vandöda "
-"furstarna. Det krävdes stort mod och stor styrka. Din dristiga attack gjorde "
-"att vi inte behövde invänta gryningen och dess räddning. Du har räddat oss. "
-"Och många färre av vårt folk föll än om vi hade varit tvungna att hålla ut "
-"hela den långa natten."
+"Det var mycket modigt av dig, Kaleh, när du besegrade de vandöda furstarna. "
+"Det krävdes stort mod och stor styrka. Din dristiga attack gjorde att vi "
+"inte behövde invänta gryningen och dess räddning. Du har räddat oss. Och "
+"många färre av vårt folk föll än om vi hade varit tvungna att hålla ut hela "
+"den långa natten."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:455
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:481
@@ -2049,8 +2049,8 @@ msgid ""
 "costly to recruit new warriors. It would be wise to stockpile gold against "
 "this eventuality."
 msgstr ""
-"Visserligen lyckades vi rädda de flesta av vårt folk den här gången, men vi "
-"kan inte räkna med sådan tur varje gång. Alver som en gång kämpat under din "
+"Förvisso lyckades vi rädda de flesta av vårt folk den här gången, men vi kan "
+"inte räkna med sådan tur varje gång. Alver som en gång kämpat under din "
 "ledning återvänder visserligen gärna för att fylla ut dina led om de tunnas "
 "ut. Men det kommer att bli allt dyrare att rekrytera nya soldater. Du gör "
 "klokt i att samla på dig guld för sådana eventualiteter."
@@ -2359,7 +2359,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:286
 msgid "Kaleh Must Reach the Exit Tunnel"
-msgstr "Kaleh måste nå utgångstunneln"
+msgstr "Kaleh måste nå tunnelmynningen"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:291
 msgid "at the North Edge of the Map"
@@ -7184,7 +7184,7 @@ msgid ""
 msgstr ""
 "Fråga inte varifrån dawarfen kommer. Du vill inte veta. Det är en välbevakad "
 "hemlighet bland Wesnoths mäktigaste lärda. Och den är inte vacker. Ledtråd: "
-"de handlar om stora mängder sorbet."
+"det handlar om stora mängder sorbet."
 
 #: Under_the_Burning_Suns/units/Troll_Zombie.cfg:26
 #: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:44
@@ -8236,7 +8236,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:62
 msgid "mud glob"
-msgstr ""
+msgstr "lerklump"
 
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:4
 msgid "Spider Lich"
