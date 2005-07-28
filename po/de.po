@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-07-21 17:12+0200\n"
-"PO-Revision-Date: 2005-07-09 00:38+0200\n"
+"PO-Revision-Date: 2005-07-28 15:21+0200\n"
 "Last-Translator: Allefant <allefant@gmail.com>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -1766,7 +1766,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:10
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:11
 msgid "Descending into Darkness"
-msgstr ""
+msgstr "Abstieg in die Finsterniss"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:42
 msgid ""
@@ -1778,6 +1778,14 @@ msgid ""
 "Great Fall and I remembered the tale that had been told to me many times "
 "since I was a child:"
 msgstr ""
+"Kapitel 4: Wir fanden den verfallenen Obsidianturm, den Eloh beschrieben "
+"hatte, und wir schlugen unser Lager am Rand von Hügeln auf, die den Bergen "
+"vorgelagert waren. Ich war noch immer schockiert über den Tod von Garak und "
+"von all den den anderen Elfen, die letzte Nacht in der Schlacht gefallen "
+"waren. Es gab so viel Tod in diesem Land - war das immer so? Als wir "
+"wanderten machte ich mir Gedanken, wie diese Welt wohl früher ausgesehen "
+"haben musste, vor dem großen Zerfall, und ich erinnerte mich an die "
+"Geschichte, die man mir als Kind oft erzählt hatte:"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:46
 msgid ""
@@ -1790,7 +1798,17 @@ msgid ""
 "dark hours were few. Happy indeed were our people during these long years, "
 "but it was not to last forever."
 msgstr ""
+"Vor langer, langer Zeit gab es ein goldenes Zeitalter für die Elfen. Unser "
+"Volk lebte im Einklang mit der Natur, in Ländern, die mit Bäumen bewachsen "
+"waren, Bäumen, so weit das Auge reichte. Es herrschte Frieden zwischen den "
+"Elfen und anderen Rassen wie Menschen und Zwerge, und alle bösartigen "
+"Geschöpfe wurden tief unter die Erde getrieben. Die dunklen Kräfte von "
+"Zardia waren beinahe vergessen, und in dieser Zeit beschenkte uns Eloh mit "
+"einer zweiten Sonne, die die Tage länger machte, und die dunklen Stunden "
+"verringerte. Und in der Tat, wie glücklich waren unsere Leute in all den "
+"langen Jahren. Aber es sollte nicht für immer währen."
 
+# Anm. was heißt "bade her time"?
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:50
 msgid ""
 "Though Zardia had been forgotten by most of our people, she had not faded "
@@ -1808,6 +1826,24 @@ msgid ""
 "friends fought over what few resources remained, and chaos threatened to "
 "overwhelm us all."
 msgstr ""
+"Obwohl Zardia von den meisten unserer Leute vergessen worden war, war sie "
+"dennoch nicht einfach verschwunden. Mit der Zeit streckte sie ihre schwarzen "
+"Hände über der Welt aus. Zuerst waren es nur kleinere Streitigkeiten "
+"zwischen Menschen, Elfen und Zwergen, die sich zu Konflikten entwickelten, "
+"und schließlich zu den ersten Kriegen führten, die nach langer Zeit zum "
+"ersten Mal wieder gefochten wurden. Danach kamen auch Orks und andere "
+"faulige Kreaturen zurück an die Oberfläche, und plünderten unsere "
+"Siedlungen, verwüsteten ganze Ortschaften, und massakrierten hunderte. Unser "
+"Volk war in der langen Zeit von Frieden und Überfluss schwach und "
+"verweichlicht geworden, und konnte mit diesen neuen Herausforderungen nicht "
+"fertig werden. Sogar die Natur selbst schien bei diesem Ansturm zu verzagen: "
+"Ernten fielen aus, die Bäume wurden krank und die Wälder begannen zu "
+"sterben. Am schlimmsten war, dass sich die Nächte verlängerten. Seit damals "
+"gibt es die Lange Dunkelheit, wie wir sie heute kennen. Viele der unsrigen "
+"verzweifelten, und einige wenige hießen die kommende Dunkelheit sogar "
+"willkommen und beteten Zardia an, in der Hoffnung, es würde sie retten. "
+"Vormalige Freunde kämpften um das wenige, das noch geblieben war, uns Chaos "
+"drohte uns zu übermannen."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:54
 msgid ""
@@ -1825,6 +1861,21 @@ msgid ""
 "that we might live, and always looking to create a better world for our "
 "children."
 msgstr ""
+"In dieser Zeit des Schreckens war es, dass Eloh selbst einigen von uns "
+"erschien - denjenigen, die noch immer darum kämpften, unser Land uns unser "
+"Vermächtnis zu bewahren. Sie erzählte uns, dass die alten Tage zu Ende "
+"waren, und wir nur mit äußerster Disziplin und Stärke in der neuen Welt "
+"überleben konnten. Sie führte uns hinaus aus den Wäldern, die von Orks "
+"abgeholzt und verbrannt wurden, hinaus in die weiten Ebenen, wo wir uns frei "
+"bewegen konnten. Sie lehrte uns, dass wir alleine schwach waren, aber dass "
+"wie geeint noch immer Schrecken in den Herzen unserer Feinde verbreiten "
+"konnten. Der einzige Weg zu überleben war es, das Wohl unseres Volkes über "
+"die Bedürfnisse der Einzelnen zu stellen. Wenn wir nicht für uns gegenseitig "
+"da waren, waren wir nichts. Uns selbst als dann die Ebenen verdorrten und zu "
+"Wüste wurden, fuhren wir fort, ihrem Willen Folge zu leisten, und auf ihrem "
+"Pfad zu wandeln. Wir erinnerten uns unserer Vorfahren, und an die Opfer, die "
+"sie erbracht hatten, sodass wir heute leben konnten. Und stets waren wir "
+"bemüht, unseren Kindern eine bessere Welt zu hinterlassen."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:58
 msgid ""
@@ -1836,14 +1887,23 @@ msgid ""
 "Was there anywhere left in this world that I could take my people which "
 "would be any better than the land we were born into?"
 msgstr ""
+"War das goldene Zeitalter nur ein Märchen? Welche Art von Welt würde ich im "
+"Stande zu sein, den zukünftigen Generationen meines Volkes zu hinterlassen? "
+"Alles was ich aus der Vergangenheit kannte, waren Ruinen großer Burgen, und "
+"Legenden aus einer Zeit, als Leben mehr war als nur der Kampf ums Überleben. "
+"Das Leben schien für mein Volk in den letzten Generationen nicht einfacher "
+"geworden zu sein, falls sich irgendetwas geändert hatte, dann war das Land "
+"nur noch unerbittlicher geworden. Gab es irgendeinen Ort in dieser Welt, an "
+"den ich mein Volk führen konnte, der besser war als das Land, in dem wir "
+"geboren wurden?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:286
 msgid "Kaleh Must Reach the Exit Tunnel"
-msgstr ""
+msgstr "Kaleh muss den Ausgangstunnel am"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:291
 msgid "at the North Edge of the Map"
-msgstr ""
+msgstr "Nordende der Karte erreichen!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:296
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:715
@@ -1852,13 +1912,15 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4130
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4185
 msgid "Death of Kaleh, Nym or Zhul"
-msgstr ""
+msgstr "Tod von Kaleh, Nym oder Zhul"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:646
 msgid ""
 "Those mountains are huge, I never thought they would be so big. And what's "
 "that white stuff on the tops of the peaks?"
 msgstr ""
+"Diese Berge sind riesig, ich hatte sie mir nie so groß vorgestellt. Und was "
+"ist dieses weiße Zeug oben auf den Gipfeln?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:651
 msgid ""
@@ -1869,6 +1931,13 @@ msgid ""
 "they are filled with orcs and goblins. It may look peaceful now, but they "
 "hide in the many caves and tunnels beneath the surface."
 msgstr ""
+"Ich wünschte, Garak wäre hier, er wüsste mehr über diese Länder als ich. Ich "
+"war noch nie hier oben, aber ich habe Erzählungen von denen gehört, die die "
+"Reise hierher und zurück gemacht haben. Das weiße Zeug wird Schnee genannt, "
+"Nym, und die Berge sind sehr kalt. Diese kleineren Hügel sind nicht so "
+"schwer zu überqueren, aber es wimmelt dort von Orks und Kobolden. Im Moment "
+"mag es hier friedlich aussehen, aber sie verstecken sich in Höhlen und "
+"Tunneln unter der Oberfläche."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:656
 msgid ""
@@ -1876,10 +1945,13 @@ msgid ""
 "but instead of trying to go over the mountains, she said that we had to go "
 "underneath them."
 msgstr ""
+"Letzte Nacht hatte ich eine weitere Vision. Eloh sagte mir, dass wir weiter "
+"nach Norden gehen sollten, jedoch sollten wir nicht den Weg über die Berge "
+"wählen, sondern vielmehr den Weg unter den Bergen."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:661
 msgid "Underneath them? But how?"
-msgstr ""
+msgstr "Unter den Bergen? Aber wie soll das gehen?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:666
 msgid ""
@@ -1889,6 +1961,12 @@ msgid ""
 "those frozen peaks. As much as I dislike those pitch-black caves, if we want "
 "to cross these mountains we may have no choice."
 msgstr ""
+"Orks und Kobolde hausen hier seit Jahrhunderten, und inr Netzwerk aus Gängen "
+"und Höhlen ist weitreichender, als man denken möchte. Wer weiß wie tief sie "
+"in den Untergrund vordringen? Wir sind schlecht vorbereitet für eine Reise "
+"über die eisigen Gipfel. Und so sehr ich diese pechschwarzen Höhlen auch "
+"verabscheue, sie könnten unsere einzige Möglichkeit sein, auf die andere "
+"Seite des Gebirges zu gelangen."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:671
 msgid ""
@@ -1899,12 +1977,21 @@ msgid ""
 "mountains. I fear no darkness, and you won't be lacking a source of fire or "
 "light."
 msgstr ""
+"Andere Kreaturn als Orks graben Tunnel unter der Erde. Vor langer Zeit haben "
+"Zwerge in Bergen wie diesen Bergbau betrieben, and riesige Trolle verstecken "
+"sich gerne an tiefen, dunklen Orten, weit unter der Erde. Falls eure Göttin "
+"so allwissend ist wie du glaubtst, Kaleh, dann würde es mich nicht wunderen, "
+"wenn es einen Weg gibt, der unter diesen Bergen hindurch führt. Ich fürchte "
+"mich nicht vor der Dunkelheit, und ihr werdet eine gute Quelle für Feuer und "
+"Licht mit euch haben."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:676
 msgid ""
 "Well if we are going to go under these mountains, we're certainly going to "
 "have our hands full fighting all those orcs and goblins."
 msgstr ""
+"Auf jeden Fall werden wie alle Hände voll damit zu tun haben, gegen Orks und "
+"Kobolde zu kämpfen, falls wir uns unter diese Berge begeben."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:681
 msgid ""
@@ -1916,59 +2003,78 @@ msgid ""
 "people into the tunnels. And hopefully underground it will be easier to "
 "protect them than out in the open."
 msgstr ""
+"Mit Sicherheit. Ich muss dich noch einmal warnen, Kaleh - das hier ist nicht "
+"die Wüste. Die Orks lieben es, auf Hügeln und in Höhlen zu kämpfen, und wir "
+"werden den Vorteil des offenen Kampfes auf Wüstensand vermissen. Und mit den "
+"kürzlich erlittenen Verlusten können wir auch mit keiner zahlenmäßigen "
+"Überlegenheit rechnen, wie wir es bisher gewohnt waren. Daher sollten wir so "
+"vorsichtig wie möglich sein. Wenn es uns gelingt, eine Schneise in den "
+"Hügeln vor uns freizuhalten, dann sollte es uns möglich sein, unsere Leute "
+"in die Hählen zu eskortieren. Und im Untergrund wird es hoffentlich "
+"einfacher sein, sie zu beschützen, als auf freiem Feld."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:686
 msgid ""
 "Strike hard and fast and also be careful--right, this is going to be fun."
 msgstr ""
+"Schlage hart uns schnell zu, und sei dabei auch noch vorsichtig -- genau. "
+"Das kann ja heiter werden."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:905
 msgid "Attack!"
-msgstr ""
+msgstr "Zum Angriff!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:911
 msgid "Run Away!"
-msgstr ""
+msgstr "Rückzug!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:916
 msgid "Goblins are so predictable."
-msgstr ""
+msgstr "Kobolde sind so vorhersagbar."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1026
 msgid ""
 "Come forth, creatures of the lake! Fulfill the oaths you have made and help "
 "us drive these hated creatures from our lands."
 msgstr ""
+"Zeigt euch, Wesen des Sees! Vollführt nun, was ihr in euren Eiden geschworen "
+"habt, und helft uns, diese verhassten Kreaturen von unserem Land zu "
+"vertreiben."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1031
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1170
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1231
 msgid "Sssslay them all! In the name of the ssscaled one!"
-msgstr ""
+msgstr "Tötet ssssie alle! Im Namen desss Grosssssen!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1057
 msgid "These elves are stronger than we thought. Send for more reinforcements!"
-msgstr ""
+msgstr "Diese Elfen sind stärker als wir dachten. Schickt nach Verstärkung!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1062
 msgid ""
 "How can he move that fast? He is faster than any goblin rider I have ever "
 "seen. It's almost unnatural."
 msgstr ""
+"Wie kann er sich nur so schnell fortbewegen? Er ist schneller als jeder "
+"berittene Kobold, den ich je gesehen habe. Es ist fast übernatürlich."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1101
 msgid ""
 "Wait a minute. He was wearing a silver ring on one of his fingers. I think "
 "the ring might be magical. Maybe that's why he was moving so fast."
 msgstr ""
+"Einen Augenblick! Er hatte einen silbernen Ring an einem seiner Finger. Ich "
+"denke, das war ein magischer Ring. Vermutlich kann er sich deshalb so "
+"schnell bewegen."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1106
 msgid "I think, Kaleh, that you should take the ring."
-msgstr ""
+msgstr "Ich denke dass du den Ring tragen solltests, Kaleh."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1111
 msgid "Why me?"
-msgstr ""
+msgstr "Warum ich?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1116
 msgid ""
@@ -1977,6 +2083,11 @@ msgid ""
 "you never know when being able to run a bit faster might be the difference "
 "between life and death."
 msgstr ""
+"Weil du dazu neigst, dich langsam zu bewegen, und wenn wir durch die Höhlen "
+"gehen, kannt du jede zusätzliche Geschwindigkeit brauchen. Außerdem können "
+"wir es uns nicht leisten dich zu verlieren; man kann nie wissen, wann die "
+"Fähigkeit, ein bisschen schneller zu laufen, den Unterschied zwischen Leben "
+"und Tod bedeutet."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1165
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1226
@@ -1986,6 +2097,11 @@ msgid ""
 "creatures of the lake! Fulfill the oaths you have made and help us drive "
 "these hated creatures from our lands."
 msgstr ""
+"Die Elfen haben den Kobold Panok getötet! Die anderen Kobolde werden jetzt "
+"wohl in die Höhlen flüchten, aber wir werden diese Hügel nicht kampflos "
+"aufgeben. Kommt heraus, Geschöpfe des Sees! Leistet jetzt die Eide ab, die "
+"ihr geschworen habt, und helft uns, diese verhassten Kreaturen von unserem "
+"Land zu vertreiben."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1299
 msgid ""
@@ -1993,6 +2109,9 @@ msgid ""
 "night. And it stinks of orc filth, I can hardly think of a place I would "
 "less like to go into."
 msgstr ""
+"Ack! Diese Tunnel sind pechschwarz. Es ist genauso, wie wenn man in einder "
+"mondlosen Nacht kämpft. Und es stinkt nach Orkschmutz. Ich kann mir kaum "
+"einen Ort vorstellen, den ich weniger gerne betreten würde, als diesen."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1304
 msgid ""
@@ -2000,6 +2119,10 @@ msgid ""
 "beneath them. If the orcs skulk in their tunnels and block our way, we must "
 "enter their dark places and fight them, no matter what the conditions."
 msgstr ""
+"Wir haben keine Wahl. Wir können die Berge nicht überqueren, als müssen wir "
+"unter ihnen durch. Auch wenn sich die Orks ih ihren Tunneln verstecken und "
+"uns den Weg versperren, wir müssen dort hinein und sie an den dunkelsten "
+"Orten bekämpfen, egal unter welchen Bedingungen."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1309
 msgid ""
@@ -2007,23 +2130,32 @@ msgid ""
 "who can shoot well anywhere will be invaluable, as will Captains and "
 "Marshals who can inspire our people."
 msgstr ""
+"Denke immer daran, Kaleh, dass der Kampf im Untergrund schwierig ist. "
+"Langbogenschützen und Scharfschützen, sie selbst hier unten ihr Ziel "
+"treffen, werden unentbehrlich sein. Genauso wie Hauptmänner und Marschalle, "
+"die unsere Leute anführen."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1314
 msgid ""
 "Also, any time you find a particularly tough orc blocking a passage, my "
 "fireballs can blast him quick enough."
 msgstr ""
+"Außerdem können meine Feuerbälle besonders hartnäckige Orks vernichten."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1385
 msgid ""
 "Greebo keep shinies safe from nasty orcses. And 'specially stinking elves."
 msgstr ""
+"Greebo versteckt funkelndes vor den garstigen Orksen. Und ganz besonders vor "
+"den stinkenden Elfen."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1405
 msgid ""
 "Looks like the orcs were stashing their loot here. Not that they had much. "
 "Must be hard times."
 msgstr ""
+"Es sieht so aus, als hätten die Orks hier ihre Beute aufbewahrt. Sieht nicht "
+"so aus, als wäre es sehr viel, es müssen wohl harte Zeiten sein."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1437
 msgid ""
@@ -2035,32 +2167,45 @@ msgid ""
 "to take this blade here, your greatest fear, will surely appear' It looks "
 "like a nice sword, but do I dare chance it?"
 msgstr ""
+"Wie seltsam. Am ende diese Ganges hat jemand  einen Springbrunnen grob in "
+"den Fels gemeisselt. Das eiskalte Wasser sprudelt in ein großes Becken. Und "
+"am Grund des Beckens erkenne ich ein Skelett, dass noch immer ein Schwert in "
+"der Hand hält. Die Klinge scheint einen leichten blauen Schimmer zu haben. "
+"Das Becken ist nicht sehr tief, ich könnte mit Leichtigkeit hineinsteigen "
+"und es aufheben. Jemand anders hat aber noch eine Nachricht in den Stein "
+"gemeißelt: 'Erlaub' es dir, zu nehmen diese Klinge hier, und schlecht ergeht "
+"es dir!' Es sieht wie eine gutes Schwert aus, aber soll ich das Risiko "
+"eingehen?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1439
 msgid "I fear no creature, I will take the blade!"
-msgstr ""
+msgstr "Ich fürchte kein Unwesen, und werde das Schwert nehmen!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1449
 msgid ""
 "The blade is chill to the touch and gives off a cold glow. I wonder how it "
 "came to be here."
 msgstr ""
+"Die Klinge fühlt sich kalt an, und gibt ein kaltes Licht ab. Ich frage mich, "
+"wie sie hierher gekommen ist."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1482
 msgid "I am an abomination, please kill me."
-msgstr ""
+msgstr "Ich bin eine schreckliche Ausgeburt, bitte tötet mich."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1489
 msgid "I've seen some ugly creatures in my day, but that thing is just wrong."
 msgstr ""
+"Ich habe eine Menge entsetzliche Kreaturen gesehen, aber das wäre einfach "
+"falsch."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1496
 msgid "The voices say I have no choice, I must attack!"
-msgstr ""
+msgstr "Die Stimmen sagen dass ich keine Wahl habe. Ich muss angreifen!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1503
 msgid "I don't like the sound of this. I'm out of here."
-msgstr ""
+msgstr "Mir gefällt das gar nicht. Ich geh' hier raus."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1532
 msgid ""
@@ -2069,35 +2214,43 @@ msgid ""
 "sure what I'm doing up here. Some strange influence made me want to come up "
 "here, but I don't know what made me think it could be of any good."
 msgstr ""
+"Hier ist Endstation für mich. Das Wasser ist zu tief für mich, um weiter zu "
+"gehen. Ich bin beim erfrieren, durchässt, und ich kann überhaupt nichts "
+"sehen. Ich bin mir nicht ganz sicher warum ich überhaupt hier bin. Irgendein "
+"seltsamer Einfluss hat in mir das Verlangen erweckt, hier herauf zu kommen, "
+"aber ich weiß nicht mehr, wie ich darauf gekommen bin, dass es zu "
+"irgendetwas gut sein könnte."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1589
 msgid "Kaleh, I am death incarnate."
-msgstr ""
+msgstr "Kaleh, ich bin der personifizierte Tod."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1594
 msgid "And I shall avenge all those you have killed!"
-msgstr ""
+msgstr "Und ich werde alle rächen, die du getötet hast."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2167
 msgid "I promise we shall meet again."
-msgstr ""
+msgstr "Ich verspreche, dass wir uns wieder sehen."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2178
 msgid "He just disappeared, that's odd."
-msgstr ""
+msgstr "Er ist einfach verschwunden, sehr seltsam."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2199
 msgid "What happened? Where am I?"
-msgstr ""
+msgstr "Was ist passiert? Wo bin ich?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2204
 msgid "Where did you go?"
-msgstr ""
+msgstr "Wo warst du?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2209
 msgid ""
 "I don't know, someone just knocked me out. I didn't get a good look at them."
 msgstr ""
+"Ich weiß nicht, jemand habt mich einfach KO geschlagen. Ich konnte nicht "
+"erkennen, wer es war."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2245
 msgid ""
@@ -2105,6 +2258,9 @@ msgid ""
 "and smooth and leads sharply downwards. I bet this was the way that Eloh was "
 "talking about."
 msgstr ""
+"Dieser Gang ist anders als die anderen Tunnel und Höhlen. Er ist breit und "
+"glatt, und führt steil bergab. Ich glaube, das ist der Weg, von dem Eloh "
+"gesprochen hat."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2250
 msgid ""
@@ -2112,6 +2268,10 @@ msgid ""
 "be made by orcs. I wouldn't be surprised if this was once carved out by "
 "dwarves. I wonder if there are any still left in these mountains..."
 msgstr ""
+"Das ist kein natürlicher Durchgang. Und die Wändesind zu gut gemeißelt und "
+"zu glatt, als dass es das Werk von Orks sein könnte. Ich wäre nicht "
+"überrascht, wenn einst Zwerge diese Passage gebaut hätten. Ich frage mich, "
+"ob es noch einige von ihnen in diesen Bergen gibt..."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2262
 msgid ""
@@ -2121,6 +2281,12 @@ msgid ""
 "dangers we don't. We really are putting our lives in Eloh's palm, may she "
 "guide us as well as she has before."
 msgstr ""
+"Nachdem wir alle Ork- und Koboldanführer in der unmittelbaren Umgebung "
+"getötet haben, sollten wir zie Zeit jetzt nutzen, um problemlos den Rest "
+"unserer Leute hierher zu bringen. Es ist seltsam, vermutlich tauschen wir "
+"die Gefahren, die wir kennen, gegen Gefahren, die wir nicht kennen. Wir "
+"legen unser Leben jetzt völlig in die Hand von Eloh, möge sie uns so gut "
+"führen, wie sie es zuvor getan hat."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2269
 msgid ""
@@ -2129,16 +2295,23 @@ msgid ""
 "for the dangers we don't. We really are putting our lives in Eloh's palm, "
 "may she guide as well as she has before."
 msgstr ""
+"Jetzt wo du den Weg gefunden hast, sollte es uns möglich sein, unsere "
+"restlichen Leute an den Orks vorbeizuführen. Es ist seltsam, vermutlich "
+"tauschen wir die Gefahren, die wir kennen, gegen Gefahren, die wir nicht "
+"kennen. Wir legen unser Leben jetzt völlig in die Hand von Eloh, möge sie "
+"uns so gut führen, wie sie es zuvor getan hat."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2276
 msgid ""
 "I'll just be happy when I can breathe fresh air again and see the suns and "
 "stars. Still, who knows what we'll encounter deep under the earth?"
 msgstr ""
+"Ich werde wirklich froh sein, wenn ich wieder frische Luft atmen kanne, und "
+"Sonne und Sterne sehen. Aber wer weiß was uns tief unter der Erde erwartet?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2281
 msgid "Well, there's only one way to find out."
-msgstr ""
+msgstr "Nun gut, es gibt nur einen Weg, es herauszufinden."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2308
 msgid ""
@@ -2147,11 +2320,15 @@ msgid ""
 "no way we can kill all these orcs and goblins. We'll never make it to safety "
 "now."
 msgstr ""
+"Wir haben zu lange gebraucht, um unsere Leute in den Tunnel zu bringen! Mehr "
+"und mehr Orks kommen von den vorderen Hügeln aus dem Osten und Westen und "
+"flankieren uns. Es gibt keine Möglichkeit, all diese Orks und kobolde zu "
+"töten. Wir sind verloren."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8
 msgid "A Subterranean Struggle"
-msgstr "Unterirdische Streitereien"
+msgstr "Streit im Untergrund"
 
 # Anm. Was sind palm toches?
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:594
@@ -4034,15 +4211,14 @@ msgstr ""
 "Oberfläche zu gelangen."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:614
-#, fuzzy
 msgid ""
 "You did a great service for my brothers. In exchange, as much as I hate the "
 "light, I am the one who known the upper tunnels the best, so I'll be your "
 "guide."
 msgstr ""
-"Ihr habt meinen Brüdern große Dienste erwiesen, und als Gegenleistung, so "
-"sehr ich auch das Tageslicht verabscheue, werde ich euer Führer sein, da ich "
-"derjenige bin der die oberen Tunnel am besten kennt."
+"Ihr habt meinen Brüdern einen großen Dienst erwiesen, und als Gegenleistung, "
+"so sehr ich auch das Tageslicht verabscheue, werde ich euer Führer sein, da "
+"ich derjenige bin, der die oberen Tunnel am besten kennt."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:622
 msgid ""
@@ -4454,17 +4630,17 @@ msgstr ""
 "und Nog wir euch helfen, einen Weg in die erleuchteten Länder zu finden."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:616
-#, fuzzy
 msgid ""
 "You did trolls big service. $troll_name like to wander in tunnels, and chief "
 "say that he knows the upper tunnels the best. $troll_name want to help elves "
 "so even though he not want to leave battle, he agrees to show elves way back "
 "to lighted lands."
 msgstr ""
-"Ihr habt den Trollen einen großen Dienst erwiesen. Grog wandert gerne in den "
-"Tunneln, und der Anführer sagt, er kennt die oberen Tunnel am besten Grog "
-"will den Elfen helfen, und obwohl er weiter kämpfen will, ist er "
-"einverstanden, den Elfen den Weg zu den erleuchteten Ländern zu zeigen."
+"Ihr habt den Trollen einen großen Dienst erwiesen. $troll_name wandert gerne "
+"in den Tunneln, und der Anführer sagt, er kennt die oberen Tunnel am besten. "
+"$troll_name will den Elfen helfen, und obwohl er weiter kämpfen will, ist er "
+"einverstanden, den Elfen den Weg zurück zu den erleuchteten Ländern zu "
+"zeigen."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:624
 msgid ""
@@ -6211,13 +6387,12 @@ msgstr ""
 "entkommt, um Verstärkung zu holen."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4699
-#, fuzzy
 msgid "If a human messenger escapes the valley"
-msgstr "Ein Bote der Menschen entkommt aus dem Tal."
+msgstr "Falls ein Bote der Menschen aus dem Tal entkommt"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4706
 msgid "The messenger is the leader of the special white colored units"
-msgstr ""
+msgstr "Der Bote ist der Anführer der weiß gefärbten Einheiten."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4813
 msgid ""
@@ -6512,7 +6687,6 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:672
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1303
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3681
-#, fuzzy
 msgid "Death of Kaleh, Nym, Zhul"
 msgstr "Tod von Kaleh, Nym, oder Zhul"
 
@@ -6579,27 +6753,24 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:800
-#, fuzzy
 msgid "Wait, did you hear that?"
-msgstr "Warte, hast du das gespürt?"
+msgstr "Warte, hast du das gehört?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:806
 msgid "Someone's coming. Quick, hide!"
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:811
-#, fuzzy
 msgid "What? Huh?"
-msgstr "Was?"
+msgstr "Was? Huh?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:819
 msgid "Hey, what do we have here?"
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:824
-#, fuzzy
 msgid "Uh....Uh..."
-msgstr "Um...."
+msgstr "Um....Um..."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:829
 msgid ""
@@ -6636,9 +6807,8 @@ msgid "There's tons of them! Flee, we must warn the others."
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:888
-#, fuzzy
 msgid "Well, so much for the element of surprise."
-msgstr "Nun, so viel zu schlafen jetzt ewig."
+msgstr "Nun, so viel zum Überraschungsmoment."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:893
 msgid ""
@@ -6715,14 +6885,12 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1096
-#, fuzzy
 msgid "No!"
-msgstr "Nein!!!"
+msgstr "Nein!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1102
-#, fuzzy
 msgid "Who?"
-msgstr "Was?"
+msgstr "Wer?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1107
 msgid ""
@@ -7266,9 +7434,8 @@ msgid "Where'd those things come from? They look dangerous."
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3361
-#, fuzzy
 msgid "Gaaaggghhh! Kill!"
-msgstr "Gaggghhh!"
+msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3366
 msgid "What are those things? They looked like ticked off giant crabs."
