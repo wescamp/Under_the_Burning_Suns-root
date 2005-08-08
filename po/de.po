@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-07-21 17:12+0200\n"
-"PO-Revision-Date: 2005-07-28 15:21+0200\n"
+"PO-Revision-Date: 2005-08-07 00:29+0200\n"
 "Last-Translator: Allefant <allefant@gmail.com>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -1779,13 +1779,13 @@ msgid ""
 "since I was a child:"
 msgstr ""
 "Kapitel 4: Wir fanden den verfallenen Obsidianturm, den Eloh beschrieben "
-"hatte, und wir schlugen unser Lager am Rand von Hügeln auf, die den Bergen "
-"vorgelagert waren. Ich war noch immer schockiert über den Tod von Garak und "
-"von all den den anderen Elfen, die letzte Nacht in der Schlacht gefallen "
-"waren. Es gab so viel Tod in diesem Land - war das immer so? Als wir "
-"wanderten machte ich mir Gedanken, wie diese Welt wohl früher ausgesehen "
-"haben musste, vor dem großen Zerfall, und ich erinnerte mich an die "
-"Geschichte, die man mir als Kind oft erzählt hatte:"
+"hatte, und wir schlugen unser Lager am Rand von den Bergen vorgelagerten "
+"Hügeln auf.Ich war noch immer erschüttert über den Tod von Garak - und über "
+"den Tod von all den den anderen Elfen, die letzte Nacht in der Schlacht "
+"gefallen waren. Es gab so viel Tod in diesem Land - war das immer so "
+"gewesen? Während wir weiter zogen, machte ich mir Gedanken, wie diese Welt "
+"wohl früher ausgesehen haben musste, vor dem großen Zerfall. Und ich "
+"erinnerte mich an die Geschichte, die man mir als Kind oft erzählt hatte:"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:46
 msgid ""
@@ -1800,13 +1800,13 @@ msgid ""
 msgstr ""
 "Vor langer, langer Zeit gab es ein goldenes Zeitalter für die Elfen. Unser "
 "Volk lebte im Einklang mit der Natur, in Ländern, die mit Bäumen bewachsen "
-"waren, Bäumen, so weit das Auge reichte. Es herrschte Frieden zwischen den "
-"Elfen und anderen Rassen wie Menschen und Zwerge, und alle bösartigen "
-"Geschöpfe wurden tief unter die Erde getrieben. Die dunklen Kräfte von "
-"Zardia waren beinahe vergessen, und in dieser Zeit beschenkte uns Eloh mit "
-"einer zweiten Sonne, die die Tage länger machte, und die dunklen Stunden "
-"verringerte. Und in der Tat, wie glücklich waren unsere Leute in all den "
-"langen Jahren. Aber es sollte nicht für immer währen."
+"waren - Bäumen, so weit das Auge reichte. Es herrschte Frieden zwischen den "
+"Elfen und anderen Rassen, wie den Menschen und den Zwergen. Alle bösartigen "
+"Geschöpfe wurden tief unter die Erde verbannt. Die dunklen Kräfte von Zardia "
+"waren beinahe vergessen, und in dieser Zeit beschenkte uns Eloh mit einer "
+"zweiten Sonne, die die Tage länger machte, und die dunklen Stunden "
+"verringerte. Und in der Tat, wie glücklich waren die Elfen in all den langen "
+"Jahren. Aber es sollte nicht für immer währen."
 
 # Anm. was heißt "bade her time"?
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:50
@@ -1829,9 +1829,9 @@ msgstr ""
 "Obwohl Zardia von den meisten unserer Leute vergessen worden war, war sie "
 "dennoch nicht einfach verschwunden. Mit der Zeit streckte sie ihre schwarzen "
 "Hände über der Welt aus. Zuerst waren es nur kleinere Streitigkeiten "
-"zwischen Menschen, Elfen und Zwergen, die sich zu Konflikten entwickelten, "
-"und schließlich zu den ersten Kriegen führten, die nach langer Zeit zum "
-"ersten Mal wieder gefochten wurden. Danach kamen auch Orks und andere "
+"zwischen Menschen, Elfen und Zwergen, die sich zu Konflikten entwickelten - "
+"und schließlich zu den ersten Kriegen führten. Den ersten Kriegen die nach "
+"langer Zeit wieder gefochten wurden. Danach kamen auch Orks und andere "
 "faulige Kreaturen zurück an die Oberfläche, und plünderten unsere "
 "Siedlungen, verwüsteten ganze Ortschaften, und massakrierten hunderte. Unser "
 "Volk war in der langen Zeit von Frieden und Überfluss schwach und "
@@ -1864,18 +1864,19 @@ msgstr ""
 "In dieser Zeit des Schreckens war es, dass Eloh selbst einigen von uns "
 "erschien - denjenigen, die noch immer darum kämpften, unser Land uns unser "
 "Vermächtnis zu bewahren. Sie erzählte uns, dass die alten Tage zu Ende "
-"waren, und wir nur mit äußerster Disziplin und Stärke in der neuen Welt "
+"wären, und wir nur mit äußerster Disziplin und Stärke in der neuen Welt "
 "überleben konnten. Sie führte uns hinaus aus den Wäldern, die von Orks "
 "abgeholzt und verbrannt wurden, hinaus in die weiten Ebenen, wo wir uns frei "
 "bewegen konnten. Sie lehrte uns, dass wir alleine schwach waren, aber dass "
 "wie geeint noch immer Schrecken in den Herzen unserer Feinde verbreiten "
 "konnten. Der einzige Weg zu überleben war es, das Wohl unseres Volkes über "
 "die Bedürfnisse der Einzelnen zu stellen. Wenn wir nicht für uns gegenseitig "
-"da waren, waren wir nichts. Uns selbst als dann die Ebenen verdorrten und zu "
-"Wüste wurden, fuhren wir fort, ihrem Willen Folge zu leisten, und auf ihrem "
-"Pfad zu wandeln. Wir erinnerten uns unserer Vorfahren, und an die Opfer, die "
-"sie erbracht hatten, sodass wir heute leben konnten. Und stets waren wir "
-"bemüht, unseren Kindern eine bessere Welt zu hinterlassen."
+"da waren, waren wir gar nichts. Uns selbst als dann die Ebenen verdorrten "
+"und zu Wüste wurden, fuhren wir fort, ihrem Willen Folge zu leisten, und auf "
+"ihrem Pfad zu wandeln. Wir erinnerten uns unserer Vorfahren, und an die "
+"Opfer, die sie erbracht hatten, sodass es uns heute möglich war, hier zu "
+"leben. Und stets waren wir bemüht, unseren Kindern eine bessere Welt zu "
+"hinterlassen als wir sie hatten."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:58
 msgid ""
@@ -1892,7 +1893,7 @@ msgstr ""
 "Alles was ich aus der Vergangenheit kannte, waren Ruinen großer Burgen, und "
 "Legenden aus einer Zeit, als Leben mehr war als nur der Kampf ums Überleben. "
 "Das Leben schien für mein Volk in den letzten Generationen nicht einfacher "
-"geworden zu sein, falls sich irgendetwas geändert hatte, dann war das Land "
+"geworden zu sein - falls sich irgendetwas geändert hatte, dann war das Land "
 "nur noch unerbittlicher geworden. Gab es irgendeinen Ort in dieser Welt, an "
 "den ich mein Volk führen konnte, der besser war als das Land, in dem wir "
 "geboren wurden?"
@@ -1932,12 +1933,12 @@ msgid ""
 "hide in the many caves and tunnels beneath the surface."
 msgstr ""
 "Ich wünschte, Garak wäre hier, er wüsste mehr über diese Länder als ich. Ich "
-"war noch nie hier oben, aber ich habe Erzählungen von denen gehört, die die "
-"Reise hierher und zurück gemacht haben. Das weiße Zeug wird Schnee genannt, "
-"Nym, und die Berge sind sehr kalt. Diese kleineren Hügel sind nicht so "
-"schwer zu überqueren, aber es wimmelt dort von Orks und Kobolden. Im Moment "
-"mag es hier friedlich aussehen, aber sie verstecken sich in Höhlen und "
-"Tunneln unter der Oberfläche."
+"war noch nie hier oben, aber ich habe Erzählungen von Elfen gehört, die die "
+"Reise hierher und zurück schon gemacht haben. Das weiße Zeug wird Schnee "
+"genannt, Nym, und die Berge sind sehr kalt. Diese kleineren Hügel sind nicht "
+"so schwer zu überqueren, aber es wimmelt dort von Orks und Kobolden. Im "
+"Moment mag es hier friedlich aussehen, aber sie verstecken sich in Höhlen "
+"und Tunneln unter der Oberfläche."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:656
 msgid ""
@@ -1946,8 +1947,8 @@ msgid ""
 "underneath them."
 msgstr ""
 "Letzte Nacht hatte ich eine weitere Vision. Eloh sagte mir, dass wir weiter "
-"nach Norden gehen sollten, jedoch sollten wir nicht den Weg über die Berge "
-"wählen, sondern vielmehr den Weg unter den Bergen."
+"nach Norden gehen sollten - nicht aber über die Berge hinüber, sondern "
+"vielmehr unter den Bergen hindurch."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:661
 msgid "Underneath them? But how?"
@@ -1977,13 +1978,13 @@ msgid ""
 "mountains. I fear no darkness, and you won't be lacking a source of fire or "
 "light."
 msgstr ""
-"Andere Kreaturn als Orks graben Tunnel unter der Erde. Vor langer Zeit haben "
-"Zwerge in Bergen wie diesen Bergbau betrieben, and riesige Trolle verstecken "
-"sich gerne an tiefen, dunklen Orten, weit unter der Erde. Falls eure Göttin "
-"so allwissend ist wie du glaubtst, Kaleh, dann würde es mich nicht wunderen, "
-"wenn es einen Weg gibt, der unter diesen Bergen hindurch führt. Ich fürchte "
-"mich nicht vor der Dunkelheit, und ihr werdet eine gute Quelle für Feuer und "
-"Licht mit euch haben."
+"Andere Kreaturen als nur Orks graben Tunnel unter der Erde. Vor langer Zeit "
+"haben Zwerge in Bergen wie diesen Bergbau betrieben, and riesige Trolle "
+"verstecken sich gerne an tiefen, dunklen Orten, weit unter der Erde. Falls "
+"eure Göttin so allwissend ist wie du glaubtst, Kaleh, dann würde es mich "
+"nicht wunderen, wenn es einen Weg gibt, der unter diesen Bergen hindurch "
+"führt. Ich fürchte mich nicht vor der Dunkelheit, und ihr werdet eine gute "
+"Quelle für Feuer und Licht bei euch haben."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:676
 msgid ""
@@ -6637,7 +6638,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:17
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:18
 msgid "Blood is Thicker than Water"
-msgstr ""
+msgstr "Blut ist dicker als Wasser"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:347
 msgid ""
@@ -6646,6 +6647,11 @@ msgid ""
 "asked Nym where Esanoo has come from, but she wouldn't answer, she just said "
 "that I had to see it for myself."
 msgstr ""
+"Kapitel 8: Nym und Esanoo führten uns über den Sand und durch die Dünen nach "
+"Norden, in die Richtung, wo sich die menschlichen Befestigungen befanden, in "
+"denen die Meeresbewohner gefangen gehalten wurden. Ich fragte Nym, woher "
+"Esanoo gekommen sei, aber sie gab mir keine Antwort und sagte nur, ich müsse "
+"es mit eigenen Augen sehen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:351
 msgid ""
@@ -6658,6 +6664,16 @@ msgid ""
 "strange places, high up in the mountains, deep down under thousands of tons "
 "of rock, but this ocean of water was the most alien to me."
 msgstr ""
+"Als wir die letzte Düne überschritten hatten, sah ich was sie gemeint hatte. "
+"Glitzerndes, blaues Wasser, so weit das Auge reichte. Es bedeckte den ganzen "
+"Horizont. Ich fiel voller Ehrfurcht auf die Knie, ich hatte noch nie soviel "
+"Wasser auf einmal gesehen. Ich kann nicht in Worte fassen, was ich fühlte, "
+"so groß war die Begeisterung und Verblüfftheit. In dem Land, in dem ich "
+"aufgewachsen war, war Wasser so kostbar wie Gold - und jetzt sah ich Meile "
+"um Meile davon. Erst jetzt verstand ich wirklich, woher die Meeresbewohner "
+"kamen. Ich war schon an einigen seltsamen Orten gewesen, hoch in den Bergen, "
+"und tief unter der Erde unter tausenden Tonnen Stein - aber dieser Ozean aus "
+"Wasser war das fremdartigste bisher."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:355
 msgid ""
@@ -6673,16 +6689,30 @@ msgid ""
 "answers. I pray to whatever gods may be left that I'm not leading my people "
 "into a trap..."
 msgstr ""
+"Was mich zu etwas anderen fremdartigen bringt, das ich noch herausfinden "
+"musste - unsere Göttin Eloh. Was war ihr Plan? Warum wollte sie, dass ich "
+"mich den Menschen ergebe? Beteten die Menschen sie auch an? Diese Menschen "
+"schienen so brutal und niederträchtig, dass ich mir nicht vorstellen konnte, "
+"dass sie dieselbe Göttin verehrten. Ich dachte immer, Eloh war nur unsere "
+"Göttin. Ich konnte mich nicht daran erinnern, dass Zhul je irgendwelche "
+"anderen Rassen erwähnt hatte, die sie während des goldenen Zeitalters "
+"ebenfalls anbeteten. Aber vielleicht hatten sich die Dinge ja geändert. Ihre "
+"Anweisungen ergaben keinen Sinn. Sie schien der Göttin, von der Zhul mir "
+"immer erzählt hatte, überhaupt nicht zu ähneln. Und wovon sprach Esanoo? Wie "
+"konnte sein Meister von 'Yechnagoth' und 'Yanqui' wissen? Und wenn Eloh mir "
+"nicht helfen würde, dann musste ich einige Antworten haben. Ich bete zu "
+"welchen Göttern auch immer noch übrig sein mögen, dass ich mein Volk nicht "
+"in eine Falle führe..."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:664
 msgid "Rescue at least two merfolk by turn 16"
-msgstr ""
+msgstr "Befreit mindestens zwei der Meeresbewohner bevor Zug 16"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:668
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1299
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3677
 msgid "Three merfolk must survive"
-msgstr ""
+msgstr "Drei Meeresbewohner müssen überleben"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:672
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1303
@@ -6695,30 +6725,41 @@ msgid ""
 "Now that we're down off the hills, you can't even see all that water, it's "
 "hidden by the trees. I never thought so would see so many trees in one place."
 msgstr ""
+"Jetzt wo wir vom Hügel herunter sind, kann man das ganze Wasser gar nicht "
+"mehr sehen, es ist von Bäumen verdeckt. Ich hätte mir nie gedacht, dass ich "
+"einmal so viele Bäume auf einmal sehen würde."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:740
 msgid ""
 "Compared to the desert it seems almost like a paradise. All this growth and "
 "vegetation, I can feel it pulsing with life."
 msgstr ""
+"Im Vergleich zur Wüste kommt man sich hier wie im Paradies vor. Man kann "
+"förmlich das Leben in all dieser üppigen Vegetation pulsieren hören."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:746
 msgid ""
 "And yet these trees seem different, the forest seems darker, somehow. I "
 "prefer to stay out in the open where I can see my enemies coming."
 msgstr ""
+"Und doch scheinen diese Bäume irgendwie anders zu sein, der Wald scheint "
+"dunkler. Ich bevorzuge das freie Feld, wo man seine Feinde kommen sieht."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:760
 msgid ""
 "It looks nice and dark under the trees, less exposed to that blazing sun. "
 "I'm exhausted after walking across all that harsh sand."
 msgstr ""
+"Es sieht nett und dunkel aus unter den Bäumen. Nicht so sehr der glühenden "
+"Hitze ausgesetzt. Ich bin erschöpft nach all dem Wandern im rauen Wüstensand."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:770
 msgid ""
 "Trees look big and strong, like trolls. Dark, too. $ally_name tired of "
 "walking under the hot sun."
 msgstr ""
+"Bäume sehen groß und stark aus, wie Trolle. Und dunkel. $ally_name ist müde, "
+"immer unter heißer Sonne laufen. "
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:778
 msgid ""
@@ -6727,6 +6768,10 @@ msgid ""
 "through these trees you will soon see them. I think that's where they are "
 "holding the rest of my group. "
 msgstr ""
+"Hier liegen die menschlichen Befestigungsanlagen, im Nordwesten. Sie haben "
+"eine Inselgruppe entlang der Küste besetzt. Wenn ihr durch diese Bäume "
+"hindurchgeht, seht ihr sie sofort. Ich denke, dort verstecken sie auch den "
+"Rest meiner Gruppe."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:783
 msgid ""
@@ -6736,10 +6781,16 @@ msgid ""
 "cast. So in order to find him, we must rescue at least two of my people. "
 "Though I hope we can save all of them."
 msgstr ""
+"Mein Meister wollte sicher gehen, dass niemand seine Position verraten kann, "
+"falls einer von uns gefangen genommen wird. Deshalb erzählt er uns nicht, wo "
+"er sich aufhält, sondern lehrte uns einen einfachen Zauberspruch, der sein "
+"Versteck preisgibt. Dieser Zauber benötigt aber mindestens drei "
+"Meeresbewohner. Deshalb müssen wir mindestens zwei meiner Leute finden. Aber "
+"ich hoffe, dass wir sie alle befreien können."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:789
 msgid "And you said that only five others in your group left?"
-msgstr ""
+msgstr "Und du sagst, dass nur fünf andere aus deiner Gruppe übrig sind?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:794
 msgid ""
@@ -6751,6 +6802,14 @@ msgid ""
 "I do not know how long they can last. Remember, without three of my people, "
 "you will not be able to find my master."
 msgstr ""
+"Ursprünglich waren wir viel mehr. Aber wir gerieten unterwegs in einen "
+"Hinterhalt einer Naga-Bande. Die Hälfte unserer Mannschaft blieb zurück, um "
+"die Naga aufzuhalten, während die anderen flohen. Nur fünf außer mir "
+"erreichten diese Küste. Aber Dank der Gnade unseres Meeresgottes gelang es "
+"mir, mich zu verstecken, als alle anderen überfallen und gefangen genommen "
+"wurden. Ich bezweifle, dass sie schon tot sind, aber ich weiß nicht, wie "
+"lange sie es noch aushalten können. Denkt daran, ohne drei von meinem Volk "
+"könnt ihr meinen Meister nicht finden."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:800
 msgid "Wait, did you hear that?"
@@ -6758,7 +6817,7 @@ msgstr "Warte, hast du das gehört?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:806
 msgid "Someone's coming. Quick, hide!"
-msgstr ""
+msgstr "Es kommt jemand. Los, verstecken!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:811
 msgid "What? Huh?"
@@ -6766,7 +6825,7 @@ msgstr "Was? Huh?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:819
 msgid "Hey, what do we have here?"
-msgstr ""
+msgstr "Na so was, was haben wir denn da?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:824
 msgid "Uh....Uh..."
@@ -6777,34 +6836,40 @@ msgid ""
 "It's another one of those fish creatures, it must have come back to try to "
 "rescue it's friends. "
 msgstr ""
+"Es ist noch eines von diesen Fischwesen, es muss zurückgekommen sein, um "
+"seine Freunde zu befreien."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:834
 msgid ""
 "Ha, stupid creature. But we're in luck, the council was looking for the last "
 "of these spies."
 msgstr ""
+"Ha, dumme Kreatur. Aber wir haben Glück, der Rat ist auf der Suche nach dem "
+"letzten dieser Spione."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:839
 msgid ""
 "We'd better get him back to the base. They're going to sacrifice them all in "
 "some big holy ceremony at dawn in just two days from now."
 msgstr ""
+"Besser wir bringen ihn zur Basis zurück. Sie wollen sie alle in zwei Tagen "
+"in irgendsoeiner großen heiligen Zeremonie opfern."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:844
 msgid "Yeah, we'll be heroes!"
-msgstr ""
+msgstr "Ja, wir werden Helden sein!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:850
 msgid "Not if we gut you first. Attack!"
-msgstr ""
+msgstr "Nicht wenn wir euch vorher aufschlitzen. Zum Angriff!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:855
 msgid "The Dark Lady protect us, they're elves!"
-msgstr ""
+msgstr "Möge uns die dunkle Herrscherin beschützen, es sind Elfen!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:860
 msgid "There's tons of them! Flee, we must warn the others."
-msgstr ""
+msgstr "Es sind zu viele von ihnen! Wie müssen fliehen und die anderen warnen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:888
 msgid "Well, so much for the element of surprise."
@@ -6815,6 +6880,8 @@ msgid ""
 "Thank you. I'm sorry, I don't know what came over me, they just jumped out "
 "of nowhere."
 msgstr ""
+"Vielen Dank. Es tut mir leid, ich weiß nicht, was passiert ist. Sie sind "
+"plötzlich aus dem Nichts aufgetaucht."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:899
 msgid ""
@@ -6822,12 +6889,18 @@ msgid ""
 "lot. Even if the humans know we're coming, we can still take them. Just be "
 "careful and stay in the back until we reach the water again."
 msgstr ""
+"Es macht nichts, du bist es nicht gewohnt, dich auf dem Land fortzubewegen. "
+"Und du hast eine Menge durchgemacht. Auch wenn die Menschen jetzt wissen, "
+"dass wie kommen, wir werden sicher mit ihnen fertig. Sei aber vorsichtig, "
+"und bleib im Hintergrund, bis wir wieder Wasser erreichen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:904
 msgid ""
 "I sure will look forward to that. I'm afraid my scales have all dried out "
 "again. It itches something terrible."
 msgstr ""
+"Ich kann es gar nicht erwarten. Ich befürchte, meine Schuppen sind schon "
+"ganz eingetrocknet. Es juckt ganz furchtbar."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:910
 msgid ""
@@ -6836,14 +6909,18 @@ msgid ""
 "set up camp here and push on north west as soon as possible. I just hope we "
 "can make it in time."
 msgstr ""
+"Nun, falls wir die Meeresbewohner retten wollen, haben wir keine Zeit zu "
+"verlieren. Diese Menschen sagten, sie würden sie in nur zwei Tagen opfern. "
+"Wir errichten besser ein Lager, und schlagen uns dann sobald als möglich  "
+"nach Nordwesten vor. Ich hoffe nur, wir schaffen es rechtzeitig."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1022
 msgid "Hail, my brothers, I have returned!"
-msgstr ""
+msgstr "Heil, meine Brüder. Ich bin zurückgekehrt!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1028
 msgid "Tanstafaal where have you been? We have been looking for you."
-msgstr ""
+msgstr "Transtafaal, wo bist du gewesen? Wir haben dich gesucht."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1033
 msgid ""
@@ -6852,37 +6929,48 @@ msgid ""
 "truth path. She has spoken to me, and I am but an implement of her divine "
 "will."
 msgstr ""
+"Ich bin auf eine Reise gegangen, und ich habe das Licht gesehen. Ich werde "
+"nicht länger blindlings deinen Fußstapfen folgen, Kaleh. Ich bin "
+"zurückgekehrt als der Führer unseres Volkes, um es auf den rechten Pfad zu "
+"leiten. Sie hat zu mir gesprochen. Ich bin nichts weiter als der Erfüller "
+"ihres göttlichen Willens."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1039
 msgid "Who has spoken to you?"
-msgstr ""
+msgstr "Wer hat zu dir gesprochen?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1056
 msgid "Behold, our goddess has return to us. All bow down to Eloh, our savior!"
 msgstr ""
+"Sehet, unsere Göttin ist zu uns zurückgekehrt. Verneigt auch alle vor Eloh, "
+"unserer Erlöserin!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1062
 msgid "The Goddess!"
-msgstr ""
+msgstr "Die Göttin!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1068
 msgid "Forgive me my sins!"
-msgstr ""
+msgstr "Vergib mir meine Sünden!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1074
 msgid "That I am so blessed to gaze upon Eloh herself..."
-msgstr ""
+msgstr "Welch Glück wiederfährt mir, dass ich Eloh selbst erblicken darf..."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1079
 msgid ""
 "Hail my people. In your time of trial I appear to you, to save you yet again."
 msgstr ""
+"Sei gegrüßt, mein Volk. In eurer Zeit der Prüfung erscheine ich vor euch, um "
+"euch erneut zu erretten."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1084
 msgid ""
 "I come to you with dire news, one of you has betrayed me, and is a traitor "
 "to your cause."
 msgstr ""
+"Ich komme zu euch mit schlimmer Botschaft - einer der eurigen hat mit mich "
+"betrogen, und er ist ein Verräter an eurem Schicksal."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1096
 msgid "No!"
@@ -6898,6 +6986,9 @@ msgid ""
 "promised land? I have shepherded you out of the harsh deserts and under the "
 "mountains. And your salvation was almost at hand."
 msgstr ""
+"Habe ich euch nicht gesagt, ich würde euch von allem Bösen erlösen, und euch "
+"in das gelobte Land führen? Ich habe euch behütet und aus der rauen Wüste "
+"geführt, und unter die Berge. Und eure Erlösung war zum Greifen nah."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1112
 msgid ""
@@ -6907,6 +6998,12 @@ msgid ""
 "to lead you astray. In these perilous lands, the fate your journey stands "
 "upon the edge of a knife, falter once and all shall fail."
 msgstr ""
+"Aber da war einer, den seine Macht verdorben hatte, und der meinen "
+"göttlichen Plan zurückwies. Er versuchte, gegen mich aufzubegehren. Er hatte "
+"kein Vertrauen, und dachte er wüsste besser Bescheid als ich. Ich, die ich "
+"so viele Generationen lang über euch gewacht habe. Er wollte euch in die "
+"Irre führen. Eure Fahrt in diesem verhängnisvollen Land steht nun auf "
+"Messers Schneide, zöget auch nur einen Moment, und alles ist verloren."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1117
 msgid ""
@@ -6917,6 +7014,13 @@ msgid ""
 "their insidious plans. Follow his path and he would have you bow down and "
 "serve the merfolk's foul god."
 msgstr ""
+"Ja, ich meine euren so-genannten Führer, Kaleh. Ich habe zuerst ihn "
+"auserwählt, weil ich dachte, er wäre einer der Vertrauenswürdigen, aber er "
+"enttäuschte mein Vertrauen. Die Menschen die ihr niedergemetzelt habt wollte "
+"euch helfen, bis Kaleh sie sie närrischer Weise angriff. Und jetzt will "
+"Kaleh, dass ihr dem bösen Meervolk dient und teil ihres hinterlistigen "
+"Planes werdet. Folgt seinem Pfad, und er wird auch gebieten, dem "
+"schändlichen Gott des Meervolkes zu dienen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1122
 msgid ""
@@ -6925,6 +7029,11 @@ msgid ""
 "first, come back to me, stop fighting these humans, and kill this heretic "
 "Kaleh and his cronies."
 msgstr ""
+"Das ist der Grund, warum ich Tanstafaal zu mir gerufen habe, einen meiner "
+"treu ergebenen Anhänger. Es ist noch nicht alles verloren. Folgt ihm, und "
+"ihr werdet doch noch errettet. Aber zuallererst, kommt zurück zu mir, und "
+"hört auf, diese Menschen zu bekämpfen. Tötet den Ketzer Kaleh und seine "
+"seine Kumpanen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1136
 msgid ""
@@ -6937,12 +7046,23 @@ msgid ""
 "she would destroy me. Never has Eloh threatened one of us or dictated our "
 "actions."
 msgstr ""
+"Wartet! Lasst euch nicht täuschen! Dieses Ding an der Seite Tanstafaals ist "
+"nicht unsere Göttin. Ich habe mich zuerst auch täusschen lassen, aber durch "
+"ihre Handlungen ist mir klar geworden, dass es ein Scharlatan ist. Als sie "
+"mir in der Nach bevor Garak starb erschien, sagte sie mir, wir sollten alle "
+"die unter den Bergen lebten töten, sogar die Zwerge, die uns dann geholfen "
+"haben. Genauso erschien sie mir, als wir aus den Höhlen entflohen waren, und "
+"sagte mir, ich solle mich den Menschen ergeben, andernfalls würde sie mich "
+"vernichten. Nie hat Eloh einen von uns bedroht, oder Befehle erteilt."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1142
 msgid ""
 "Why should we trust you? We have not heard Eloh's words directly. Only now "
 "that you have led us into this folly has Eloh appeared to us."
 msgstr ""
+"Warum sollten wir dir glauben? Wir selber haben Eloh's Worte nie vernommen. "
+"Erst jetzt, nachdem du uns in diesen Schlamassel gebracht hast, ist sie uns "
+"erschienen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1148
 msgid ""
@@ -6956,6 +7076,18 @@ msgid ""
 "threats, we elves have always been free to make our own choices. We are not "
 "slaves, and will not blindly follow either human or some false god."
 msgstr ""
+"Sie gibt vor, diejenige zu sein, die auf unserer Reise über uns gewacht hat. "
+"Aber wer hat euch in Wirklichkeit beschützt, als wir uns durch die raue "
+"Wüste kämpften, oder als wir die Orks bekämpften. Und wer hat euch unter die "
+"Berge geführt, und hat euch, gegen alle Wahrscheinlichkeiten, auch wieder "
+"heraus geführt? Ich war das. Ich habe für euch jeden Tag geblutet, mit jedem "
+"Schritt des Weges. Wenn ihr meinen Worten nicht vertrauen könnt, das "
+"vertraut meinen Taten. Ich habe für mein Volk getan, was ich konnte, und ich "
+"stehe zu allem, was ich getan habe. Ich glaube, dass das Meervolk unsere "
+"Freunde sind, wie es die Zwergen waren. Ich habe mich geweigert, mich harten "
+"Worten und Drohungen zu beugen. Wir Elfen waren immer frei, und konnten "
+"immer selbst Entscheidungen treffen. Wir sind keine Sklaven, und werden "
+"weder einem Menschen noch einer falschen Gottheit blindlings folgen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1158
 msgid ""
@@ -6968,12 +7100,23 @@ msgid ""
 "she would destroy me. Never has Eloh threatened one of us or dictated our "
 "actions."
 msgstr ""
+"Wartet! Lasst euch nicht täuschen! Dieses Ding an der Seite Tanstafaals ist "
+"nicht unsere Göttin. Ich habe mich zuerst auch täuschen lassen, aber durch "
+"ihre Handlungen ist mir klar geworden, dass es ein Scharlatan ist. Als sie "
+"mir in der Nach bevor Garak starb erschien, sagte sie mir, wir sollten alle "
+"die unter den Bergen lebten töten, sogar die Trolle, die uns dann geholfen "
+"haben. Genauso erschien sie mir, als wir aus den Höhlen entflohen waren, und "
+"sagte mir, ich solle mich den Menschen ergeben, andernfalls würde sie mich "
+"vernichten. Nie hat Eloh einen von uns bedroht, oder Befehle erteilt."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1165
 msgid ""
 "Why should we trust you? We have not heard these words directly. Only now "
 "that you have led us into this folly has she appeared to us. "
 msgstr ""
+"Warum sollten wir dir glauben? Wir selber haben Eloh's Worte nie vernommen. "
+"Erst jetzt, nachdem du uns in diesen Schlamassel gebracht hast, ist sie uns "
+"erschienen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1172
 msgid ""
@@ -6987,6 +7130,18 @@ msgid ""
 "threats, we elves have always been free to make our own choices. We are not "
 "slaves, and will not blindly follow either the humans or some false god."
 msgstr ""
+"Sie gibt vor, diejenige zu sein, die auf unserer Reise über uns gewacht hat. "
+"Aber wer hat euch in Wirklichkeit beschützt, als wir uns durch die raue "
+"Wüste kämpften, oder als wir die Orks bekämpften. Und wer hat euch unter die "
+"Berge geführt, und hat euch, gegen alle Wahrscheinlichkeiten, auch wieder "
+"heraus geführt? Ich war das. Ich habe für euch jeden Tag geblutet, mit jedem "
+"Schritt des Weges. Wenn ihr meinen Worten nicht vertrauen könnt, das "
+"vertraut meinen Taten. Ich habe für mein Volk getan, was ich konnte, und ich "
+"stehe zu allem, was ich getan habe. Ich glaube, dass das Meervolk unsere "
+"Freunde sind, wie es die Trollen waren. Ich habe mich geweigert, mich harten "
+"Worten und Drohungen zu beugen. Wir Elfen waren immer frei und konnten immer "
+"selbst Entscheidungen treffen. Wir sind keine Sklaven, und werden weder "
+"einem Menschen noch einer falschen Gottheit blindlings folgen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1180
 msgid ""
@@ -6994,6 +7149,11 @@ msgid ""
 "She has spoken. Defy her at your own peril. I declare all who oppose Eloh "
 "heretics. All who are faithful, join me and let us kill the usurpers!"
 msgstr ""
+"Deine Worte sind bedeutungslos, Kaleh. Mein Volk, deine Göttin ist dir "
+"erschienen. Sie hat gesprochen. Widersetzt euch, und es wird euer Verderben "
+"sein. Ich sehe alle, die sich Eloh's Willen widersetzen, als Ketzer an. "
+"Alle, die ihr treu ergeben sind, kommt zu mir, und lass uns die "
+"Aufständischen töten."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1186
 msgid ""
@@ -7001,12 +7161,18 @@ msgid ""
 "people, I have lead you this far, join with me and help me crush this new "
 "rebellion!"
 msgstr ""
+"Eloh würde nie wollen, dass sich Elfen gegenseitig umbringen. Aber wie es "
+"aussieht, habe ich keine Wahl. Mein Volk, ich habe euch so weit geführt, "
+"seid jetzt vereint mit mir, und lass uns diese Rebellion niederschlagen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1192
 msgid ""
 "I have followed you this far Kaleh, I will not abandon you know. But I admit "
 "that my faith is shaken. If that is not our god, than what is it?"
 msgstr ""
+"Ich bin dir bis hierher gefolgt, Kaleh, und ich werde mich jetzt nicht von "
+"dir abwenden. Aber ich muss zugeben, dass mein Vertrauen erschüttert ist. "
+"Wenn das nicht unsere Göttin ist, was ist sie dann?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1198
 msgid ""
@@ -7014,11 +7180,17 @@ msgid ""
 "her would lead us down a dark road. One that I personally  do not want to "
 "discover the end of."
 msgstr ""
+"Ich weiß es nicht, aber wenn man bedenkt, was wir so weit von den Menschen "
+"gesehen haben, dann scheint es mir, wir würden uns auf einen dunklen Weg "
+"begeben, wenn wir ihr folgen. Einen Weg, dessen Ende ich persönlich nicht "
+"herausfinden will."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1204
 msgid ""
 "Forgive me, Kaleh. I do not know what to believe. I...I have to ponder this."
 msgstr ""
+"Verzeih mir, Kaleh. Ich weiß nicht, was ich glauben soll. Ich...Ich muss "
+"darüber nachdenken."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1218
 msgid ""
@@ -7026,6 +7198,10 @@ msgid ""
 "shatter my confidence in you, lad. But those elves must be out on a "
 "different island, how will we cross the deep water?"
 msgstr ""
+"Der Zwergenanführer hat mich beauftragt, die zu dienen, und es muss eine "
+"Menge mehr geschehen, bevor mein Vertrauen in dich erschüttert wird, mein "
+"Junge. Diese Elfen müssen sich auf einer anderen Insel befinden. Wie sollen "
+"wir das Wasser überqueren?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1228
 msgid ""
@@ -7033,6 +7209,9 @@ msgid ""
 "follow your command. But other elves must be out on a  separate island. How "
 "will we cross deep water?"
 msgstr ""
+"Großer Führer sagte $ally_name dienen dir, und $ally_name folgen dir und "
+"deinen Befehlen. Aber andere Elfen auf anderer Insel. Wie erreichen durch "
+"tiefes Wasser?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1238
 msgid ""
@@ -7043,6 +7222,13 @@ msgid ""
 "island where the other elves must be. We can show you these paths and help "
 "you across so that you may put down this rebellion."
 msgstr ""
+"Ich denke, dabei können wir helfen. Wir sind der sehr dankbar für alles, das "
+"du für uns getan hast, Kaleh, und selbst da wir dir versichern, dass wir "
+"euch keinen Schaden zufügen wollen, sagen Taten mehr als Worte. Wir sind "
+"vertrauter mit diesen Gewässern als ihr, und wir haben zwei seichte Stellen "
+"gesehen, die zu der Insel führen, auf der die Elfen sein müssen. Wir können "
+"euch diese Stellen zeigen und euch hinüber helfen, damit ihr dieser "
+"Rebellion ein Ende bereiten könnt."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1274
 msgid ""
@@ -7051,6 +7237,12 @@ msgid ""
 "been spilled already. Knock 'em out, wound them, kill them only if you must. "
 "But we must stop Tanstafaal in his lunacy before he destroys us entirely."
 msgstr ""
+"Vielen Dank, ich bin mit sicher, dass ihr uns im seichten Wasser sehr "
+"nützlich sein werdet. Also gut, Leute, ich will, das nur so viele getötet "
+"werden, wie unbedingt notwendig. Zu viel Blut wurde bereits vergossen. "
+"Schlagt sie bewusstlos, verwundet sie, aber tötet nur wenn nötig. Aber wie "
+"müssen Tanstafaal und seinem Irrsin ein Ende bereiten, bevor es unseren "
+"völligen Untergang bedeutet."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1280
 msgid ""
@@ -7058,32 +7250,42 @@ msgid ""
 "of our people are fleeing and joining Tanstafaal. I'm afraid that while you "
 "can recall past warriors, you won't be able to recruit any new ones."
 msgstr ""
+"Wir die wir immer an deiner Seite gekämpft haben stehen zu dir, Kaleh - aber "
+"viele unserer Leute fliehen und schließen sich Tanstafaal an. Ich befürchte, "
+"dass du zwar Krieger aus bisherigen Schlachte einberufen kannst, nicht aber "
+"neue rekrutieren."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1286
 msgid "Then we will make do with those few that we have."
-msgstr ""
+msgstr "Dann werden die paar ausreichen, die wir haben."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1295
 msgid "Defeat Tanstafaal and Eloh"
-msgstr ""
+msgstr "Besiegt Tanstafaal und Eloh"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1436
 msgid ""
 "Wonderful! We have rescued all of my band from the humans. I cannot thank "
 "you enough."
 msgstr ""
+"Wunderbar! Wir haben alle aus meiner Gruppe vor den Menschen gerettet. Ich "
+"kann euch gar nicht genug danken."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1441
 msgid ""
 "Indeed, we owe you a great debt. You have done well Esanoo, better than I "
 "could have hoped."
 msgstr ""
+"In der Tat, wir stehen tief in eurer Schuld. Du hast das gut gemacht, "
+"Esanoo, besser als ich hoffen konnte."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1451
 msgid ""
 "Esanoo said there were five merfolk left in his band. I think we have "
 "rescued them all."
 msgstr ""
+"Esanoo hat gesagt, fünf Meeresbewohner waren in seiner Gruppe. Ich denke, "
+"wir haben sie alle befreit."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1456
 msgid ""
@@ -7092,19 +7294,27 @@ msgid ""
 "the story of his great deeds. Glad are we that he found you and brought you "
 "to us. Even the smallest fish can change the course of the sea."
 msgstr ""
+"In der Tat, ich denke, ihr habt alle von uns befreit. Wir stehen tief in "
+"eurer Schuld. Wir sind bestürzt über den Tod von Esanoo, aber wir werden "
+"seinen Namen in Ehren halten und jeder wird die Geschichte seiner "
+"großartigen Heldentaten vernehmen. Wie glücklich können wir uns schätzen, "
+"dass er euch gefunden hat und zu uns gebracht hat. Sogar der kleinste Fisch "
+"im Meer kann das Schicksal des Meeres beeinflussen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1479
 msgid ""
 "Curse them! The elves have freed the merfolk. We will be have our veneance. "
 "Keep fighting, and execute plan C!"
 msgstr ""
+"Verflucht seinen sie! Die Elfen haben die Meeresbewohner befreit. Aber wir "
+"werden unsere Rache bekommen. Kämpft weiter, und geht über zu Plan C!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1484
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1627
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2919
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3062
 msgid "I must go report to the Iron Council. Keep fighting!"
-msgstr ""
+msgstr "Ich muss dem Eisernen Rat Bericht erstatten. Kämpft weiter!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1507
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1601
@@ -7114,11 +7324,13 @@ msgid ""
 "I go to marshall reinforcements. Do not lose heart, we will crush these puny "
 "elves."
 msgstr ""
+"Ich werde Verstärkung holen. Verliert nicht den Mut, wir werden diese "
+"bemitleidenswerten Elfen zerstampfen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1533
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2968
 msgid "I must leave for now, fight on in my stead."
-msgstr ""
+msgstr "Ich muss jetzt gehen, kämpft weiter an meiner Statt."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1570
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3005
@@ -7126,11 +7338,14 @@ msgid ""
 "Curse them! The elves have stolen our offering to the Lady. We will be have "
 "our vengeance. Keep fighting and execute plan C!"
 msgstr ""
+"Verflucht seien sie! Diese Elfen haben unser Geschenk an die Herrscherin "
+"gestohlen. Aber wir werden bald unsere Rache haben. Kämpft weiter, und geht "
+"über zu Plan C!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1582
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3017
 msgid "Who was that?"
-msgstr ""
+msgstr "Wer war das?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1587
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3022
@@ -7138,11 +7353,15 @@ msgid ""
 "That was one of the Iron Triad. Rarely do they leave their sanctuary. They "
 "prefer to let their minions do the dirty work."
 msgstr ""
+"Das war ein Angehöriger des Eisernen Rates. Sie verlassen nur selten ihre "
+"Zufluchtsstätte."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1737
 msgid ""
 "Free at last. Thanks be to the Sea God. But wait a minute, you're elves!?! "
 msgstr ""
+"Endlich frei! Dank sei dem Meeresgott. Aber, einen Augenblick - ihr seid ja "
+"Elfen!?!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1742
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1861
@@ -7152,6 +7371,9 @@ msgid ""
 "I have returned with the elves we sought. They have agree to help me rescue "
 "the rest of our group from the foul humans."
 msgstr ""
+"Ich bin mit den Elfen zurückgekehrt, die wir gesucht haben. Sie haben "
+"zugestimmt, mir zu helfen, den Rest meiner Gruppe aus den Händen der "
+"schändlichen Menschen zu befreien."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1747
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1866
@@ -7161,6 +7383,9 @@ msgid ""
 "Indeed you have done well, far better than I could have hoped. We shall talk "
 "more later, but for now we have to free the rest of our brethren."
 msgstr ""
+"In der Tat, das hat du gut gemacht. Viel besser als ich hätte hoffen können. "
+"Wir müssen später mehr sprechen, aber im Moment sollten wir den Rest unserer "
+"Brüder und Schwestern befreien."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1757
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1876
@@ -7171,6 +7396,9 @@ msgid ""
 "us here. Though he has fallen in combat, we have come to rescue the rest of "
 "your kind."
 msgstr ""
+"Seid gegrüßt. Esanoo hat uns erzählt, dass ihr nach uns sucht, und hat uns "
+"tapfer hierher geführt. Wenngleich er im Kampf gefallen ist, so sind wir "
+"doch gekommen, den Rest von euch zu befreien."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1762
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1881
@@ -7181,6 +7409,10 @@ msgid ""
 "But for now we must rescue the rest of my brethren before they too are slain "
 "by the foul humans."
 msgstr ""
+"Ja, ich erkenne dein Gesicht, junger Elfe. Wir werden Esanoos Verlust "
+"gedenken. Aber im Moment müssen wir den Rest unserer Brüder uns Schwestern "
+"befreien, bevor sie ebenfalls von den schändlichen Menschen erschlagen "
+"werden."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1768
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1887
@@ -7188,35 +7420,43 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2130
 msgid "How could he recognize your face? We've never seem him before."
 msgstr ""
+"Wie konnte er dein Gesicht erkennen? Wir haben ihn noch nie zuvor getroffen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1774
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1893
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2017
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2136
 msgid "We'll ask later, for now we've got to keep fighting."
-msgstr ""
+msgstr "Wir werden später ragen, im Moment müssen wir kämpfen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1786
 msgid ""
 "Thank you for rescuing me. We'll show those humans the true fury of the "
 "merfolk!"
 msgstr ""
+"Habt Dank für meine Befreiung. Jetzt sollen diese Menschen den Zorn des "
+"Meervolkes zu spüren bekommen!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1905
 msgid ""
 "Thank you for rescuing me. You elves are very skilled at fighting on the dry "
 "land. I envy you."
 msgstr ""
+"Danke, dass ihr mich befreit habt. Ihr Elfen seid sehr geschickte Kämpfer "
+"auf dem trockenen Land. Ich beneide euch."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1910
 msgid "As I envy your kind's prowess when fighting in in the water."
-msgstr ""
+msgstr "Und wir beneiden euch für eure Kühnheit  wenn ihr im Wasser kämpft."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2029
 msgid ""
 "Thank you for rescuing me. I never imagined that we would actually be able "
 "to find you elves. Our master was right after all. But more of that later..."
 msgstr ""
+"Vielen Dank für mein Errettung. Ich hätte nie gedacht, dass wir euch Elfen "
+"überhaupt finden würden. Unser Meister hat also recht gehabt. Aber mehr dazu "
+"später..."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2148
 msgid ""
@@ -7224,14 +7464,18 @@ msgid ""
 "you. If you have any wounded I can help heal them, the blades of the vile "
 "humans."
 msgstr ""
+"Danke, dass ihr mich befreit habt. Möget ihr gesegnet sein mit dem Lohn des "
+"Meeresgottes, und, und möge sie euch beschützen. Wenn ihr Verwundete habt, "
+"kann ich helfen, sie zu heilen. Wunden der abscheulichen Klingen der "
+"Menschen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2196
 msgid "What a dark nasty place. Something smells horrible."
-msgstr ""
+msgstr "Welch grauenvoller dunkler Ort. Es stinkt hier ganz entsetzlich."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2241
 msgid "Thanks you for rescuing me. How did you manage to escape?"
-msgstr ""
+msgstr "Habt Dank für meine Befreiung. Wir konntet ihr entkommen?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2246
 msgid ""
@@ -7240,6 +7484,11 @@ msgid ""
 "horrible place. To be stuck in the darkness with those undead. We will make "
 "them pay for what they have done!"
 msgstr ""
+"Esanoo hat die Elfen gefunden, nach denen wir gesucht haben. Er brachte sie "
+"zurück, und sie halfen, uns zu befreien. Ich kann es nicht glauben, dass die "
+"Menschen dich an einem so abscheulichen Ort gefangen gehalten haben. In der "
+"Dunkelheit eingeschlossen, inmitten von all diesen Untoten. Sie sollen für "
+"alles bezahlen, was sie getan haben!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2251
 msgid ""
@@ -7248,10 +7497,14 @@ msgid ""
 "elves is most important, we must bring them to our master. All else is "
 "secondary."
 msgstr ""
+"Mach die keine Sorgen, jetzt wo ich frei bin, wird alles gut werden. Es ist "
+"nicht unsere Aufgabe, alles Böse in der Welt zu besiegen. Am wichtigsten ist "
+"es jetzt, die Elfen zu beschützen, und zu unserem Meister zu bringen. Alles "
+"andere muss warten."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2256
 msgid "Yes, you are right, of course. Pardon me."
-msgstr ""
+msgstr "Ja, du hast recht. Verzeih mir."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2332
 msgid ""
@@ -7259,6 +7512,10 @@ msgid ""
 "the location of their master. We should have protected the merfolk more "
 "carefully. Now our search is hopeless."
 msgstr ""
+"Nein, zu viele Meeresbewohner sind gestorben. Es sind nicht mehr genug "
+"übrig, um den Aufenthaltsort unseres Meisters preiszugeben. Wir hätten "
+"besser auf die Meeresbewohner aufpassen sollen. Jetzt ist alle Hoffnung "
+"verloren."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2404
 msgid ""
@@ -7266,24 +7523,36 @@ msgid ""
 "enough for them to divine the location of their master. We should have "
 "protected the merfolk more carefully. Now our search is hopeless."
 msgstr ""
+"Zu viele Meeresbewohner sind gestorben. Sogar wenn wir alle restlichen "
+"befreien, werden es nicht mehr genug sein, um der Aufenthaltsort ihres "
+"Meisters preiszugeben. Wir hätten besser auf die Meeresbewohner aufpassen "
+"sollen. Jetzt ist alle Hoffnung verloren."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2557
 msgid ""
 "You trespass upon our land at your own peril. All who oppose the will of the "
 "Iron Council shall be crushed!"
 msgstr ""
+"Das Eindringen in unsere Ländereien wird zu eurem eigenen Verderben sein. "
+"Alle, die sich dem Willen des Eisernen Rates widersetzten, müssen sterben."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2583
 msgid ""
 "Foolish elves. We have heard of your pitiful kind. You are but worms "
 "compared to the might of the Dark Lady. Coming here shall be your undoing."
 msgstr ""
+"Törichte Elfen. Wir haben von eurer bemitleidenswerten Art gehört. Ihr seid "
+"nichts als Würmer im Vergleich zur Macht der Dunklen Herrscherin. Hierher zu "
+"kommen wird euer Untergang sein."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2609
 msgid ""
 "She said you would come. You may be able to defeat us, but none can defy "
 "her. You will bow down in the end. It is your destiny."
 msgstr ""
+"Sie hat gesagt, dass ihr kommen würdet. Ihr mögt uns vielleicht besiegen, "
+"aber niemand kann sie besiegen. Am Ende werdet ihr euch ihr doch "
+"unterwerfen. Es ist euch so vorbestimmt."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2684
 msgid ""
@@ -7291,6 +7560,9 @@ msgid ""
 "unto The Dark Lady. Their suffering shall be a testament to her power and "
 "glory!"
 msgstr ""
+"Die Zeit ist gekommen. Lasset uns an diesem heiligen Tage die Ungläubigen "
+"der Dunklen Herrscherin opfern. Deren Qualen sollen ein Beweis für ihre "
+"Macht und ihren Ruhm sein."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2707
 msgid ""
@@ -7298,24 +7570,35 @@ msgid ""
 "these infidels unto The Dark Lady. Their suffering shall be a testament to "
 "her power and glory!"
 msgstr ""
+"Die Zeit ist gekommen, meine Brüder. Lasset uns an diesem heiligen Tage die "
+"Ungläubigen der Dunklen Herrscherin opfern. Deren Qualen sollen ein Beweis "
+"für ihre Macht und ihren Ruhm sein."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2755
 msgid ""
 "Oh no! Our enchantress, We-jial. Where did they hide her? What horrible fate "
 "has befallen her? If only we could have saved her in time. "
 msgstr ""
+"Oh nein. Unsere Zauberin We-jial! Wo haben sie sie versteckt? Welch "
+"schreckliches Schicksal hat sie ereilt? Hätten wir sie nur rechtzeitig "
+"gerettet."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2760
 msgid ""
 "The Sea God will carry her soul out to sea and bear it to the deeps. May he "
 "will watch over her until the day we are all together again."
 msgstr ""
+"Der Meeresgott wird ihre Seele hinaus in das Meer tragen und in seinen "
+"Tiefen aufnehmen. Möge er sie behüten, bis zu dem Tag, an dem wir alle "
+"wieder vereint sein werden."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2770
 msgid ""
 "Esanoo said there were five merfolk captured. We only found four. Where did "
 "they hide the last one? What horrible fate has befallen her?"
 msgstr ""
+"Esanoo hat gesagt, dass fünf Meeresbewohner gefangen genommen wurden. Wo "
+"haben sie die letzte Gefangene? Welches grauenhafte Schicksal hat sie ereilt?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2775
 msgid ""
@@ -7323,16 +7606,22 @@ msgid ""
 "The Sea God will carry her soul out to sea and bear it to the deeps. May he "
 "will watch over her until the day we are all together again."
 msgstr ""
+"Sie haben We-jial, unsere Zauberin, von uns genommen. Aber jetzt hat sie "
+"Frieden gefunden. Der Meeresgott wird ihre Seele hinaus in das Meer tragen "
+"und in seinen Tiefen aufnehmen. Möge er sie behüten, bis zu dem Tag, an dem "
+"wir alle wieder vereint sein werden."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2788
 msgid "The bars of the cages are smoking and glowing red hot!"
-msgstr ""
+msgstr "Die Gitterstäbe der Käfige rauchen und sind glühend rot!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2800
 msgid ""
 "May the Sea God protect us. They are being burnt alive! It's terrible, I "
 "can't bear to watch."
 msgstr ""
+"Möge uns der Seegott beschützen. Sie werden bei lebendigem Leib verbrannt. "
+"Wie furchtbar! Ich kann es nicht mitansehen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2805
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2820
@@ -7340,48 +7629,62 @@ msgid ""
 "The Sea God will carry their souls out to sea and bear them to the deeps. "
 "May he will watch over them until the day we are all together again."
 msgstr ""
+"Der Meeresgott wird ihre Seelen hinaus in das Meer tragen und in seinen "
+"Tiefen aufnehmen. Möge er sie behüten, bis zu dem Tag, an dem wir alle "
+"wieder vereint sein werden."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2815
 msgid ""
 "Eloh protect us. They are being burnt alive! I do not know what the purpose "
 "of the unholy sacrifice is, but it is sickening to watch."
 msgstr ""
+"Eloh sei mit uns, sie werden bei lebendigem Leibe verbrannt! Ich kann mit "
+"nicht vorstellen, welchen Zweck ein so satanisches Opfer haben kann, aber es "
+"macht einen krank, es mitansehen zu müssen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2866
 msgid "They are all dead. We were too late. Forgive me master."
-msgstr ""
+msgstr "Sie sind alle tot. Wir waren zu spät. Vergib mir, oh Meister."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2872
 msgid ""
 "We couldn't save enough of the merfolk. We have failed. Now we shall never "
 "be able to meet the merfolks' leader!"
 msgstr ""
+"Wir konnten nicht genügend Meeresbewohner retten. Wir haben versagt. Jetzt "
+"werden wir niemals in der Lage sein, den Anführer des Meevolkes zu finden!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2890
 msgid ""
 "Oh Master, forgive me. I could not save them all in time. Vile humans, you "
 "shall pay twice over for what you have done!"
 msgstr ""
+"Oh Meister, vergib mir. Ich konnte sie nicht all rechtzeitig befreien. Ihr "
+"grausame Menschen, ihr sollt doppelt bezahlen für was ihr getan habt!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2914
 msgid ""
 "The stinkin' elves have freed some of the merfolk. And still they fight on. "
 "Execute plan B. And kill those merfolk!"
 msgstr ""
+"Die stinkenden Elfen haben einige der Meeresbewohner befreit. Und sie "
+"kämpfen noch immer. Führt Plan B aus, und tötet alle Meeresbewohner!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3149
 msgid ""
 "I'm sorry Kaleh, I cannot let our people slaughter each other. There must be "
 "a way to stop this."
 msgstr ""
+"Es tut mit leid, Kaleh, ich kann es nicht zulassen, dass unser Volk sich "
+"gegenseitig niedermetzelt. Es muss einen weg geben, dem EInhalt zu gebieten."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3155
 msgid "No, don't..."
-msgstr ""
+msgstr "Nein, tu es nicht..."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3161
 msgid "I have no choice, goodbye."
-msgstr ""
+msgstr "Ich habe keine Wahl. Leb wohl."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3174
 msgid ""
@@ -7389,12 +7692,20 @@ msgid ""
 "boon in return. Do not kill the boy Kaleh, he is just doing what his heart "
 "tells him to do. Did you not say: 'to err is elven, but the forgive divine'? "
 msgstr ""
+"Oh Eloh, du weißt wie lange ich die true ergeben war. Und jetzt bitte ich "
+"dich um eine kleine Gunst als Gegenleistung. Töte nich den Jungen, Kaleh. Er "
+"tut nur, was sein Herz im sagt. Hast du nicht immer gesagt: 'Irren ist "
+"elfisch, aber vergeben ist göttlich'?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3179
 msgid ""
 "You dare to lecture me? I am a god and you are but a mortal. You of all "
 "people should know that your position is to enforce my will, not question it!"
 msgstr ""
+"Du wagst es, mich zu belehren? Ich bin dein Gott, und du bist nichts als "
+"eine Sterbliche. Du von allen Elfen solltest es am besten wissen, dass es "
+"deine Aufgabe ist, meinen Willen zu erfüllen, anstatt ihn in Frage zu "
+"stellen!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3185
 msgid ""
@@ -7403,6 +7714,11 @@ msgid ""
 "merciful and kind, as you have always been, and there may be no need for "
 "this self-annihilating conflict."
 msgstr ""
+"Aber du sieht doch selbst, wie das Vertrauen von vielen aus unserem Volk ins "
+"Schwanken geraten ist. Du kannst ihre Loyalität nicht zurück gewinnen, in "
+"dem du den Jungen und seine Freunde abschlachten lässt. Sei gütig und "
+"vergebend, wie du es immer gewesen bist, und es gäbe keinen Anlass mehr für "
+"diesen selbstzerstörerischen Konflikt."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3190
 msgid ""
@@ -7412,10 +7728,17 @@ msgid ""
 "guard and create a new empire of strength, fealty and glory! I shall grant "
 "those who are loyal eternal life and we will triumph over all enemies!"
 msgstr ""
+"Die Zeiten haben sich geändert, und Vergebung ist ein Zeichen von Schwäche. "
+"Lasst auch alle diese eine Lehre dafür sein, dass nur absoluter Gehorsam "
+"absolute Stärke bedeutet. Es ist klar, dass du diese Konzept nicht "
+"verstehst, Zhul. Mein Volk, es ist jetzt an der Zeit, den alten Wachposten "
+"niederzureißen, und eine neues Reich aus Stärke, Treue und Ruhm zu "
+"errichten. Ich werden all denen die mir treu ergeben sind ewiges Leben "
+"gewähren, und wir werden über all unsere Feinde triumphieren!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3196
 msgid "No, I..."
-msgstr ""
+msgstr "Nein, ich..."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3201
 msgid ""
@@ -7424,34 +7747,44 @@ msgid ""
 "will be an appropriate punishment. Then perhaps you will learn not to "
 "question my divine will."
 msgstr ""
+"Nein, ich denke wahrlich, du sollst mich nicht länger belästigen. Du sollst "
+"fortan eine Statue sein, gezwungen, mitanzusehen wie sich die Ereignisse "
+"entwickeln, aber unfähig, sie zu beinflussen. Ja, ich denke, das ist eine "
+"angemessene Bestrafung. Vielleicht wirst du so lernen, meinen göttlichen "
+"Willen nicht in Frage zu stellen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3336
 msgid "Aaaargh! Fresh Meat!"
-msgstr ""
+msgstr "Arrrrrgh! Frischfleisch!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3341
 msgid "Where'd those things come from? They look dangerous."
-msgstr ""
+msgstr "Wo sind den diese Kreaturen hergekommen? Sie sehen gefährlich aus."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3361
 msgid "Gaaaggghhh! Kill!"
-msgstr ""
+msgstr "Gaaggghhh! Tötet!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3366
 msgid "What are those things? They looked like ticked off giant crabs."
-msgstr ""
+msgstr "Was ist das? Sie sehen wie verstümmelte Riesenkrabben aus."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3379
 msgid ""
 "It is finished. See, my people, Tanstafaal has been killed by his own hand, "
 "and the thing pretending to be our god is gone."
 msgstr ""
+"Es ist vorüber. Sieh, mein Volk, Tanstafaal ist durch seine eigene Hand "
+"gefallen, und das Ding, das vortäuscht unsere Göttin zu sein, ist "
+"verschwunden."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3385
 msgid ""
 "You who call yourself Eloh, I challenge you, if you are truly our god, then "
 "show yourself, and strike me down where I stand!"
 msgstr ""
+"Du die du dich Eloh nennst, ich fordere dich heraus! Wenn du tatsächlich "
+"unsere Göttin bist, dann zeige dich, und strecke mich auf der Stelle nieder!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3395
 msgid ""
@@ -7462,6 +7795,14 @@ msgid ""
 "a general amnesty and unite again, going forward hand in hand, for god or no "
 "god, I will help us find a better land, or die trying."
 msgstr ""
+"Nichts. Eloh mag noch immer über uns wachen, aber dieses Ding war nicht sie. "
+"Und doch, ich hege keinen Groll gegen jene, die gegen mich rebelliert haben. "
+"Ich hatte mich zuerst auch täuschen lasen, und anders als die Schwindlerin, "
+"bin ich vergebend. Vor allem, es sind zu wenige von uns übrig, als dass wir "
+"es uns leisten könnten, und gegenseitig wegen kleineren Missständen zu "
+"töten. Lasst uns eine allgemeine Amnestie erklären, und uns wieder vereinen, "
+"um gemeinsam weiterzugehen. Mit Gott oder ohne Gott, ich werde uns helfen, "
+"ein besseres Land zu finden, oder beim Versuch sterben."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3436
 msgid ""
@@ -7469,19 +7810,22 @@ msgid ""
 "friends. If it is possible I would like to meet with your master. Your "
 "conduct is a testament to your people, and I, at least, trust you."
 msgstr ""
+"Danke. Und ich habe auch das Versprechen nicht vergessen, dass ich unseren "
+"Meeresfreunden gemacht habe. Wenn es möglich ist, würde ich gerne euren "
+"Meister treffen. "
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3441
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4043
 msgid "Thank you."
-msgstr ""
+msgstr "Danke."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3492
 msgid "And what about us, little elf, did you forget about us?"
-msgstr ""
+msgstr "Und was ist mit uns, kleiner Elfe? Hast du uns vergessen?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3498
 msgid "I could never forget what you did to those merfolk."
-msgstr ""
+msgstr "Ich werde nie vergessen, was ihr dem Meervolk angetan habt."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3503
 msgid ""
@@ -7492,22 +7836,36 @@ msgid ""
 "shall rise up out of the water to aid our crossing. Like a plague we shall "
 "pour forth and drive the non-believers before us!"
 msgstr ""
+"Gut, denn das war erst ein Vorgeschmack. Ihr seid Narren, wenn ihr glaubt, "
+"ihr könnt euch in unsere Angelegenheiten einmischen. Aber der Eiserne Rat "
+"toleriert keine Narren. Die Dunkle Herrscherin wird eure Seelen verzehren, "
+"und ihr werdet euch in ewiger Qual vor Schmerzen krümmen . Erwachet, meine "
+"Brüder, durch ihre Macht erwachet, alle jene, die ihr gestorben seid! Steht "
+"auf, und vereint euch mit uns! Die Felsen selbst sollen erwachen und "
+"aufsteigen und uns eine Brücke bauen, damit wir das Wasser leichter "
+"überqueren können. Wie eine Seuche werden wir hereinfallen und die "
+"Ungläubigen vor uns hertreiben!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3565
 msgid "Gosh, just when things were starting to calm down."
-msgstr ""
+msgstr "Ach nein! Wo es gerade angefangen hat, ruhiger zu werden."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3571
 msgid ""
 "Our people are scattered and exhausted, where will we go now Kaleh? Shall we "
 "retreat back into the dunes?"
 msgstr ""
+"Unsere Leute sind verstreut und erschöpft. Wohin sollen wir gehen, Kaleh? "
+"Sollen wir uns in die Dünen zurückziehen?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3577
 msgid ""
 "Before I decide, I have just one question: How did you merfolk plan on "
 "bringing us to meet your master, if he dwells far beneath the sea?"
 msgstr ""
+"Bevor ich das entscheide, muss ich die Antwort auf eine Frage haben: Was "
+"habt ihr Meeresbewohner geplant, wie ihr uns zu eurem Meister bringt, der "
+"sich ja tief unter der Meeresoberfläche befindet?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3582
 msgid ""
@@ -7515,6 +7873,10 @@ msgid ""
 "the great coral reefs under the sun and moon. But I digress, we realize that "
 "you people cannot swim like us, and I believe I may have a solution."
 msgstr ""
+"Eigentlich bevorzugen wir seichte Gewässer, wo wir bei Sonne und Mond in den "
+"großen Korallenriffen herumtollen können. Aber ich schweife ab, wir  "
+"verstehen natürlich, dass ihr nicht schwimmen könnt wie wir, aber ich denke "
+"ich habe eine Lösung."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3587
 msgid ""
@@ -7524,6 +7886,12 @@ msgid ""
 "lagoon, I saw several ships anchored, which we might be able to use to "
 "transport your people across the waves."
 msgstr ""
+"Die Menschen des Eisernen Rates leben auf einer großen Insel im Nordwesten; "
+"ich wurde einige Male für Verhöre dorthin gebracht. Es ist ein "
+"furchteinflößender Ort, voll von schwarzem Geröll und hohen Gipfeln, aber im "
+"Zentrum gibt es eine Lagune. In der Lagune habe ich einige Schiffe vor Anker "
+"gesehen, die wir möglicher Weise nutzen könnten, um eure Leute sicher über "
+"die Wellen zu bringen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3593
 msgid ""
@@ -7531,6 +7899,9 @@ msgid ""
 "piloting such vessels. And I do not like the idea of putting my life at the "
 "mercy of some human built ship."
 msgstr ""
+"Über die Wellen!?! Wir sind Elfen der Wüste, wir wissen nichts darüber, wie "
+"man solche Fahrzeuge steuert. Und die Idee, mein Leben einem von Menschen "
+"gebauten Schiff anzuvertrauen, gefällt mir gar nicht."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3598
 msgid ""
@@ -7541,6 +7912,13 @@ msgid ""
 "far out in the waters, trying to find him and bearing him back here would "
 "take too long and there is no other way to get you to him."
 msgstr ""
+"Wir haben die Menschen oft ausspioniert, und uns einiges an Kenntnis über "
+"das Steuern von Schiffen angeeignet. Wir besitzen außerdem magische Kräfte, "
+"die es uns erlauben, die Winde zu beeinflussen. Damit könnten wir die "
+"Schiffe in die richtige Richtung treiben. Einmal auf hoher See wären wir "
+"außer Gefahr. Außerdem lebt mein Meister weit draußen im Meer, ihn zu finden "
+"und dann hierher zurück zu bringen würde viel zu lange dauern, und eine "
+"andere Möglichkeit, wie ihr zu ihm kommt, gibt es nicht."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3604
 msgid ""
@@ -7548,21 +7926,28 @@ msgid ""
 "merfolk, if they believe that they can transport use safely across the "
 "waters, then I will put my life in their hands."
 msgstr ""
+"Wir haben bereits viele seltsame Orte aufgesucht, und überlebt. Ich vertraue "
+"dem Meervolk. Wenn sie glauben, dass sie uns sicher über das Wasser "
+"transportieren können, dann vertraue ich ihnen mein Leben an."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3610
 msgid "Wherever you go Kaleh, I will follow."
-msgstr ""
+msgstr "Wo auch immer du hingehst, Kaleh, ich werde dir folgen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3616
 msgid ""
 "Very well. You have not lead us astray so far, I will not leave you now."
 msgstr ""
+"Na dann gut, du bist bisher nie vom Weg abgekommen, also werde ich dich "
+"jetzt nicht verlassen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3630
 msgid ""
 "Ach, being stuck between the water and the sun is a terrible place to be, "
 "but where you go I will follow."
 msgstr ""
+"Ach oje, zwischen Wasser und Sonne gefangen, an welch furchtbaren Ort bin "
+"ich nur geraten, aber wohin du auch gehst, ich werde dir folgen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3640
 msgid ""
@@ -7570,6 +7955,9 @@ msgid ""
 "dishonor Great Leader. Great Leader say follow Kaleh, and $ally_name will do "
 "so."
 msgstr ""
+" $ally_name fürchtet sich vor Wasser und vor heller Sonne. Aber $ally_name "
+"Großen Führer nicht enttäuschen. Großer Führer sagt, folge Kaleh, und "
+"$ally_name tut es."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3648
 msgid ""
@@ -7580,6 +7968,14 @@ msgid ""
 "you hold off the humans, Later, once we escape, with your help I think we "
 "can dispel the protections, but for now you must seize them yourselves."
 msgstr ""
+"Wir haben dir Menschen in der Vergangenheit angegriffen, wenn ihre Boote in "
+"unsere Gebiete eingedrungen sind, und deshalb haben sie große Angst vor uns. "
+"Sie haben mit ihrer dunklen Magie die Boote mit Schutzzaubern belegt, die es "
+"verhindern, dass wir uns ihnen nähern können. Ich fürchte deshalb, dass wir "
+"die Boote nicht für euch erobern können. Wir werden auch aber natürlich "
+"helfen, mit den Menschen fertig zu werden. Später, wenn wir erst einmal "
+"entkommen sind, können wir die Schutzzauber mit eurer Hilfe vermutlich "
+"aufheben, aber vorerst müsst ihr die Schiffe selbst in Besitz nehmen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3653
 msgid ""
@@ -7589,51 +7985,72 @@ msgid ""
 "of your people onboard. But we will need all four boats to fit those all of "
 "your remaining people. "
 msgstr ""
+"In der Lagune liegen vier große Schiffe. Sobald ihr sie alle erobert habt, "
+"können wir euch helfen, sie ins Meer hinaus zu steuern, hinaus in die "
+"Freiheit. Danach können wir sie an den Strand steuern, in sichere Entfernung "
+"von den Menschen, und den Rest eurer Leute an Bord nehmen. Aber wir "
+"benötigen alle vier Boote, um Platz für all eure restlichen Leute zu haben."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3659
 msgid "Truly, there are not as many of us as there once were."
 msgstr ""
+"In der Tat, es sind nicht mehr so viele von uns übrig, wie es einmal waren."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3665
 msgid ""
 "Though the cost be high, we do what we must. Come let us go capture those "
 "boats."
 msgstr ""
+"Auch wenn es uns teuer zu stehen kommt, wir tun was wir tun müssen. Kommt, "
+"lass uns diese Schiffe erobern."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3673
 msgid "Capture all 4 human ships"
-msgstr ""
+msgstr "Erobert alle 4 Schiffe der Menschen!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3954
 msgid ""
 "You think you can strike me down. This is just a small part of my true power."
 msgstr ""
+"Du denkst du kannst mich niederschmettern? Das hier ist nur ein kleiner Teil "
+"meiner wahren Macht."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3960
 msgid ""
 "Small part or no, if it is mortally possible to destroy you, I shall. Your "
 "hands our stained in our blood, you are not our god."
 msgstr ""
+"Kleiner Teil oder nicht, wenn es einem Sterblichen möglich ist, dich zu "
+"töten, dann werde ich es tun. Deine Hände sind mit dem Blut unseres Volkes "
+"befleckt, und du bist nicht unsere Göttin."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3981
 msgid "Don't worry Kaleh, we will see each other again...I promise."
 msgstr ""
+"Mach dir keine Sorgen, Kaleh, wir werden und wieder sehen...ich verspreche "
+"es."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3992
 msgid "She freaks me out, but at least it seems that she can be destroyed."
 msgstr ""
+"Sie macht mich verrückt, aber zumindest hat es den Anschein, als könne sie "
+"vernichtet werden."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3998
 msgid ""
 "That was just an apparition, but if we meet again I will make her pay for "
 "all that she has done."
 msgstr ""
+"Das war nur eine Erscheinung, aber wenn wir sie wieder treffen, dann werde "
+"ich sie für alles bezahlen lassen, was sie getan hat."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4013
 msgid ""
 "I'm sorry, Kaleh. My faith clouded my reason. But I wanted so very much to "
 "believe."
 msgstr ""
+"Es tut mir leid, Kaleh. Mein Glaube hat meinen Verstand vernebelt. Aber ich "
+"wollte ihr so sehr glauben."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4019
 msgid ""
@@ -7642,12 +8059,20 @@ msgid ""
 "But I could not let half my people be co-opted by that thing. As horrible as "
 "it sounds, even death is a better fate."
 msgstr ""
+"Du brauchst dich nicht zu entschuldigen. Was du getan hast, war sehr mutig. "
+"Ich wünschte bei...bei welcher Gottheit auch immer über uns wacht, dass "
+"diese Blutvergießen vermieden werden können hätte. Aber ich konnte es nicht "
+"zulassen, dass die Hälfte meiner Leute zu diesem Ding überläuft. So "
+"schrecklich das auch klingen mag, aber der Tod ist da ein besseres Schicksal."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4025
 msgid ""
 "So when you had the strange encounter with the Human Captain just after we "
 "escaped the caves, you were talking to Eloh, or whatever she is?"
 msgstr ""
+"Als du also dieses seltsame Zusammentreffen mit dem Menschenhauptmann "
+"hattest, als wir aus den Höhlen entkamen, hast du zu Eloh, oder was auch "
+"immer sie ist, gesprochen?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4031
 msgid ""
@@ -7655,6 +8080,10 @@ msgid ""
 "When I refused she threatened me, saying she would kill me if I refused. "
 "That's when I really started to get suspicious."
 msgstr ""
+"Ja, sie erschien nur mir und forderte, dass ich mich den Menschen ergeben "
+"solle. Als ich mich weigerte, drohte sie mir, und sagte, sie würde mich "
+"töten, wenn ich mich weigern würde. Das ist der Zeitpunkt, wo ich wirklich "
+"misstrauisch wurde."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4037
 msgid ""
@@ -7663,49 +8092,66 @@ msgid ""
 "you have proved your leadership qualities today, Kaleh. You have really "
 "grown a lot in the last few weeks."
 msgstr ""
+"Es ist klar, dass dieses Ding nicht unsere Göttin war. Ich weiß nicht, was "
+"es gewesen ist, aber ich muss einfach weiterhin daran glauben, dass Eloh "
+"irgendwo da draußen ist. Aber auf jeden Fall hast du heute deine "
+"Führungsqualität bewiesen, Kaleh. Du bist in den letzten Wochen wirklich "
+"gewachsen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4074
 msgid ""
 "You cannot defeat me, I am protected by the goddess now. Finally, Kaleh, I "
 "will show everyone who is stronger!"
 msgstr ""
+"Du kannst mich nicht besiegen, die Göttin beschützt mich jetzt. Jetzt werde "
+"ich endlich allen zeigen, wer von uns stärker ist, Kaleh!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4080
 msgid "Oh Tanstafaal, I pity you. This battle was never about you."
 msgstr ""
+"Oh Tanstafaal, ich bemitleide dich. In dieser Schlacht ging es überhaupt nie "
+"um dich."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4100
 msgid ""
 "No, do not kill him. He may deserve it, but he will not die at my hands."
 msgstr ""
+"Nein, töte ihn nicht. Er mag es verdienen, aber er soll nicht durch meine "
+"Hand sterben."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4105
 msgid "Never Kaleh. I will not be your lacky again!"
-msgstr ""
+msgstr "Niemals, Kaleh. Ich werde nicht mehr dein Lakai sein!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4116
 msgid ""
 "Why did he have to kill himself? Oh poor misguided Tanstafaal. We have lost "
 "too many elves today."
 msgstr ""
+"Warum hat er nur Selbstmord begangen? Oh, armer, in die Irre geleiteter "
+"Tanstafaal. Zuviele Elfen mussen heute sterben."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4122
 msgid "Do not blame yourself too much, it is Eloh who persuaded him to rebel."
 msgstr ""
+"Mach dir nicht zu viele Vorwürfe, es ist Eloh, die ihn zur Rebellion "
+"veranlasst hat."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4128
 msgid "Yes, she too will pay for her part in all of this."
-msgstr ""
+msgstr "Ja, und auch sie wird für ihre Rolle hierin bezahlen müssen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4229
 msgid ""
 "We've run out of time. The humans are gaining strength and will surely "
 "overwhelm us now."
 msgstr ""
+"Wie haben keine Zeit mehr. Die Menschen werden stärker, und werden uns bald "
+"überrennen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4245
 msgid "We've captured all four boats!"
-msgstr ""
+msgstr "Wir haben alle vier Boote erobert!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4251
 msgid ""
@@ -7716,12 +8162,22 @@ msgid ""
 "in contact. Once we've escaped and are out of range of any counterattacks by "
 "the humans, we can load the rest of our people onto the ships."
 msgstr ""
+"Gut, dann nichts wie raus hier. Die Meeresbewohner werden uns helfen, die "
+"Schiffe zu steuern. Ich werde den Rest unserer Leute sammeln, und dann "
+"werden wir uns von diesem blutigen Schlachtfeld zurückziehen. Wir treffen "
+"euch an der Küste im Westen von hier. Macht euch keine Sorgen um uns, wir "
+"werden immer an der Küste bleiben, und die Meeresbewohner werden uns dabei "
+"helfen, in Kontakt zu bleiben. Sobald wir entkommen sind und außerhalb der "
+"Reichweite von Gegenangriffen der Menschen, können wir den Rest unserer "
+"Leute aufnehmen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4256
 msgid ""
 "Then by the Sea God's hand I call forth the winds. May they confound our "
 "enemies and blow these ships to safety!"
 msgstr ""
+"Im Namen des Meeresgottes rufe ich sodann die Winde an. Mögen sie Chaos "
+"unter unseren Feinden verursachen, und unsere Schiffe in Sicherheit bringen."
 
 #: Under_the_Burning_Suns/scenarios/EndMessage.cfg:20
 msgid ""
