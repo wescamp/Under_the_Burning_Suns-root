@@ -16,7 +16,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns.cfg:15
 msgid "Under the Burning Suns"
-msgstr ""
+msgstr "Unter den brennenden Sonnen"
 
 #: Under_the_Burning_Suns.cfg:20
 msgid ""
@@ -24,6 +24,10 @@ msgid ""
 "amidst the ruins of fallen empires, lead your people out of the desert on an "
 "epic journey to find a new home. (Version 0.5.1 7/20/05)"
 msgstr ""
+"In einer entfernten Zukunft, wo eine kleine Bande von Elfen ringen  sich "
+"halten Mitten der Ruinen vom gefallen Reich, Führung euer Leute aus der "
+"Wüste hinaus Eine epische Reise um ein neues Zuhause zu finden. (Version "
+"0.5.1 7/20/05)"
 
 #: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Hunter5.cfg:4
@@ -35,55 +39,56 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:4
 #: Under_the_Burning_Suns.cfg:23
 msgid "Desert Hunter"
-msgstr ""
+msgstr "Wüsten Jäger"
 
 #: Under_the_Burning_Suns.cfg:23
 msgid "(Normal)"
-msgstr ""
+msgstr "(Normal)"
 
 #: Under_the_Burning_Suns.cfg:24
 msgid "(Challenging)"
-msgstr ""
+msgstr "(Herausfordernd)"
 
 #: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:4
 #: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:4
 #: Under_the_Burning_Suns.cfg:24
 msgid "Desert Sentinel"
-msgstr ""
+msgstr "Wüsten Wache"
 
 #: Under_the_Burning_Suns.cfg:25
 msgid "(Hard)"
-msgstr ""
+msgstr "(Hard)"
 
 #: Under_the_Burning_Suns/units/Desert_Prowler.cfg:4
 #: Under_the_Burning_Suns/units/Nym_Prowler.cfg:4
 #: Under_the_Burning_Suns.cfg:25
 msgid "Desert Prowler"
-msgstr ""
+msgstr "Wüsten Herumtreiber"
 
 #: Under_the_Burning_Suns/misc/deaths2.cfg:13
 #: Under_the_Burning_Suns/misc/deaths.cfg:13
 msgid "I'm too young to die. What will happen to my people?"
 msgstr ""
+"Ich bin zu jung zum sterben. Was soll jetzt passieren mit meinen Leuten?"
 
 #: Under_the_Burning_Suns/misc/deaths2.cfg:31
 #: Under_the_Burning_Suns/misc/deaths.cfg:49
 msgid "Save me Kaleh, I'm dying..."
-msgstr ""
+msgstr "Außer mir Kaleh, ich bin sterbend..."
 
 #: Under_the_Burning_Suns/misc/deaths2.cfg:49
 #: Under_the_Burning_Suns/misc/deaths.cfg:88
 msgid "Eloh protect us, I have fallen."
-msgstr ""
+msgstr "Eloh beschützt uns, ich bin gefallen."
 
 #: Under_the_Burning_Suns/misc/deaths.cfg:127
 msgid "Aaaargh! Curse you!"
-msgstr ""
+msgstr "Aaaargh! Verfluch dich!"
 
 #: Under_the_Burning_Suns/misc/deaths2.cfg:68
 #: Under_the_Burning_Suns/misc/deaths.cfg:166
 msgid "This can't be the end, I have too much left to see."
-msgstr ""
+msgstr "Dieses kann das Ende sein , Ich habe schon zu viel gesehen."
 
 #: Under_the_Burning_Suns/misc/deaths2.cfg:73
 #: Under_the_Burning_Suns/misc/deaths.cfg:171
@@ -91,60 +96,62 @@ msgid ""
 "How could we have let her die? I've never seen fire magic like that before. "
 "She will be sorely missed."
 msgstr ""
+"Wie konnten wir sie nur sterben lassen? Ich habe niemals vorher so eine "
+"Feuer Magie gesehen. Sie wird das Testament betragen leidgeprüft vermissen."
 
 #: Under_the_Burning_Suns/misc/macros.cfg:11
 msgid "TEST: We won!"
-msgstr ""
+msgstr "Wir haben gewonnen!"
 
 #: Under_the_Burning_Suns/misc/time.cfg:17
 msgid "First Dawn"
-msgstr ""
+msgstr "Erster Anbruch"
 
 #: Under_the_Burning_Suns/misc/time.cfg:24
 #: Under_the_Burning_Suns/misc/time.cfg:53
 #: Under_the_Burning_Suns/misc/time.cfg:59
 msgid "First Morning"
-msgstr ""
+msgstr "Erster Morgen"
 
 #: Under_the_Burning_Suns/misc/time.cfg:35
 msgid "Second Dawn"
-msgstr ""
+msgstr "Zweiter Anbruch"
 
 #: Under_the_Burning_Suns/misc/time.cfg:42
 #: Under_the_Burning_Suns/misc/time.cfg:68
 #: Under_the_Burning_Suns/misc/time.cfg:74
 msgid "Second Morning"
-msgstr ""
+msgstr "Zweiter Morgen"
 
 #: Under_the_Burning_Suns/misc/time.cfg:83
 msgid "First Mid-Day"
-msgstr ""
+msgstr "Erster Mittag"
 
 #: Under_the_Burning_Suns/misc/time.cfg:89
 #: Under_the_Burning_Suns/misc/time.cfg:104
 msgid "Mid-Day"
-msgstr ""
+msgstr "Mittag"
 
 #: Under_the_Burning_Suns/misc/time.cfg:98
 msgid "Second Mid-Day"
-msgstr ""
+msgstr "Zweiter Mittag"
 
 #: Under_the_Burning_Suns/misc/time.cfg:113
 #: Under_the_Burning_Suns/misc/time.cfg:119
 #: Under_the_Burning_Suns/misc/time.cfg:150
 msgid "First Afternoon"
-msgstr ""
+msgstr "Erster Nachmittag"
 
 #: Under_the_Burning_Suns/misc/time.cfg:128
 #: Under_the_Burning_Suns/misc/time.cfg:134
 #: Under_the_Burning_Suns/misc/time.cfg:168
 msgid "Second Afternoon"
-msgstr ""
+msgstr "Zweiter Nachmittag"
 
 #: Under_the_Burning_Suns/misc/time.cfg:143
 #: Under_the_Burning_Suns/misc/time.cfg:190
 msgid "First Dusk"
-msgstr ""
+msgstr "Erste Abenddämmerung"
 
 #: Under_the_Burning_Suns/misc/time.cfg:161
 #: Under_the_Burning_Suns/misc/time.cfg:210
@@ -152,32 +159,32 @@ msgstr ""
 #: Under_the_Burning_Suns/misc/time.cfg:254
 #: Under_the_Burning_Suns/misc/time.cfg:274
 msgid "Second Dusk"
-msgstr ""
+msgstr "Zweite Abenddämmerung"
 
 #: Under_the_Burning_Suns/misc/time.cfg:181
 msgid "The Short Dark"
-msgstr ""
+msgstr "Die Kurze Nacht"
 
 #: Under_the_Burning_Suns/misc/time.cfg:201
 msgid "The Long Dark (1)"
-msgstr ""
+msgstr "Die Lange Nacht (1)"
 
 #: Under_the_Burning_Suns/misc/time.cfg:223
 msgid "The Long Dark (2)"
-msgstr ""
+msgstr "Die Lange Nacht (2)"
 
 #: Under_the_Burning_Suns/misc/time.cfg:245
 msgid "The Long Dark (3)"
-msgstr ""
+msgstr "Die Lange Nacht (3)"
 
 #: Under_the_Burning_Suns/misc/time.cfg:265
 msgid "The Long Dark (4)"
-msgstr ""
+msgstr "Die Lange Nacht (4)"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:9
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:10
 msgid "The Morning After"
-msgstr ""
+msgstr "Der Morgen danach"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:44
 msgid ""
@@ -188,6 +195,13 @@ msgid ""
 "that you occasionally save your game mid-scenario, so you won't lose all "
 "your progress if you get stuck and have to start over."
 msgstr ""
+"Hinweis: Diese Kampagne ist vermutlich nicht das beste für einen Anfänger. "
+"Es ist eine Abwechslung bestimmt Wesnoth die Anforderung, such as the elfen' "
+"stats and the Tag/Nacht Ablauf. This campaign emphasizes role-playing "
+"elements and tends to have longer scenarios with changing objectives. For "
+"these reasons I strongly suggest that you occasionally save your game mid-"
+"scenario, so you won't lose all your progress if you get stuck and have to "
+"start over."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:48
 msgid ""
@@ -195,6 +209,10 @@ msgid ""
 "homeland in the Great Southern Desert. I write this story so that our "
 "descendants may know of our travels, and remember the sacrifices we made."
 msgstr ""
+"Diese ist eine Chronik von der Reise von den Quenoth Elfen von ihr "
+"Heimmatland in den Grossen Südlichen Wüste. Ich schreibe diese Geschichte so "
+"das es unsere ist die Nachkommenschaft mag unserer Reise, und denken den "
+"opfer bringen "
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:52
 msgid ""
@@ -209,6 +227,18 @@ msgid ""
 "A people struggling in an ocean of sand, we thought we were ready for "
 "anything. All that changed one fateful night, when the sky rained fire..."
 msgstr ""
+"Kapitel 1: Ich, Kaleh, wachsen auf amidst dem veränderlichen sand, unter "
+"unseren zwei SonnenSela and Naia. Es war ein Land von trocken-warmen Tagen "
+"und kalten Nächten,die Erreichbarkeitder Gräuel, wo Wasser mehr Wert hat als "
+"Gold.Wir haben gelebt unter demSand immer seit den die Wälder gewaltig gross "
+"wurden.Es war ein hartes wildes Land,aber wir waren Willensstärke dennoch, "
+"und wir behalfen sich zu halten abgemachte herum ein rareOase. Wir haben "
+"schwerlich befestigte im unseren Dorf gegen etwas marauders und wirwaren das "
+"grösste Lager, wir wussten es. Mein Onkel Tanuil, führte uns für vieleJahre, "
+"und trainiete uns zu unabhängige und stärkes gegen alle Gegner. Ein paar "
+"Leute kämpfend in einem Ozean aus Sand, wir dachten wir wären füretwas. "
+"Alles das hätte sich geändert eine schicksalhafte Nacht, wenn der Himmel "
+"Feuer regnete"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:56
 msgid ""
@@ -225,6 +255,22 @@ msgid ""
 "somehow, eventually the thin yellow tendrils of a sickly dawn stole over the "
 "horizon, as if Naia herself were shocked by the devastation she saw."
 msgstr ""
+"Ich erinnere mich das Nacht wie wenn es war Gestern. Ich war nicht anfällig "
+"zu träumen, aber als ich geschlafen habe, hatte ich seltsame Traumbilder. "
+"Ich habe nicht zu lange  Nachdenken brauchen obwohl, weil  ich war erwacht "
+"in der Dunkelheit von  dem Schall von Ungeheuer  Abstürze, splitternd Holz "
+"und schreiten Dorfbewohner . Das in der  Nacht der Himmel flammen regnet  "
+"Steine,größere Brocken   als du  könntes glauben. Sie quälte das die "
+"Landschaft mit Blitz Bolzen,  Aufspannung Feuer zu was für eine könnte   "
+"Zündung und erdrückend  Häuser, Wände, und Elfen. Dort war  nirgendwo auf "
+"verstecken, nirgendwo  zu gehen für Schutz. I war also ängstlich, Ich "
+"dachtedas  wenn ich erprobt zu  fliehen Ich würde sein kaputtgeschlagen,"
+"also  ich versteckte und  betete zu Eloh. Ich werde niemals beten bevor wie "
+"heftig als ich tat welche Nacht. Ich hörte schreit und draussen, aber ich "
+"kann keine Macht mir selber zu bewegen. Und irgendwie, letzten Endes  das  "
+"dünne gelbe Ranken von einen kränklichen Morgenrot entwendete über den  "
+"Horizont, als wenn Naia er selbst waren  erschüttert von der Verwüstung sie "
+"sah  ."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:89
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:948
@@ -239,12 +285,12 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:816
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:705
 msgid "Starting Objectives:"
-msgstr ""
+msgstr "Starte Kampfziele"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:182
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1067
 msgid "Rescue Surviving Elves"
-msgstr ""
+msgstr "Rette überlebendene Elfen"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:291
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2757
@@ -253,31 +299,35 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:270
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:833
 msgid "Death of Kaleh, Nym, Garak or Zhul"
-msgstr ""
+msgstr "Tot von Kaleh, Nym, Garak oder Zhul"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:285
 msgid "Hey Kaleh, are you in there?"
-msgstr ""
+msgstr "Hey Kaleh,sind sie dort? "
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:290
 msgid "Nym, is that you?"
-msgstr ""
+msgstr "Nym, ist Sie das?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:295
 msgid ""
 "Yes, come on out already. The storm has passed. With the morning light Naia "
 "has ended the terrible night."
 msgstr ""
+"Ja,komm an aus schon. Der Sturm ist geschehen. Mit dem Morgen Licht Naiaist "
+"die Schreckliche Nacht beendet."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:300
 msgid "Has the sky really stopped falling?"
-msgstr ""
+msgstr "Hat der abstürzende Himmel wirklich gestoppt"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:305
 msgid ""
 "I already told you, the sky is clear and empty. Now come quickly, silly, "
 "others may need our help."
 msgstr ""
+"Ich habe schon davon berichtet, der Himmel ist klar und frei. Jetzt kommt "
+"ein schneller, unklugeranderer benötigt unsere Hilfe."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:310
 msgid ""
@@ -285,6 +335,9 @@ msgid ""
 "ruined. I can hardly recognize our village. I didn't think it could be this "
 "bad."
 msgstr ""
+"Was ist passiert? Oh Eloh, die Krater sind überall,alles ist verlorenund "
+"zerstört. Ich kann schwerlich begreifen mit userem Dorf. Ich kann es nicht "
+"glauben dasist übel."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:315
 msgid ""
@@ -294,6 +347,12 @@ msgid ""
 "to call of duty. Perhaps in the light of day things won't be as bad as you "
 "think. Let's explore the village and see who else has survived the night."
 msgstr ""
+"C'mon Kaleh, wir müssen gehen und sehen ob einer Hilfe benötigt. Ich denke  "
+"ich höre gerade Leute aus dem Süden. Jetzt ist nicht die Zeit zum fürchten, "
+"wir müssen stark sein. Schließlich bist du der Neffe von Tanuil, unser "
+"Führer, und ihr müsst euren  Verpflichtungen nachkommen. Etwa im Licht des "
+"Tages wird nicht an das Böse geglaubt. Lass uns das Dord erkunden und sehen "
+"wer in der Nacht überlebt hat."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:320
 msgid ""
@@ -301,12 +360,18 @@ msgid ""
 "recruiting others to help deal with the devastation. Perhaps we should go to "
 "the keep, before we explore the rest of the village."
 msgstr ""
+"Warte, unsere Burg ist gerade im Osten. Unser Führer Tanuil ist sicher "
+"dabei, andere zu rekrutieren, damit sie uns helfen, mit der Verwüstung "
+"fertig zu werden. Vielleicht sollte man zu dem Burgfried gehen, bevor wir "
+"den Rest des Dorfes erkunden."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:340
 msgid ""
 "Tanuil's keep, our beautiful fortress, it is destroyed. How will we summon "
 "our people to battle?"
 msgstr ""
+"Tanuil's Burgfried, ist unsere schönste Festung. es ist zerstört. Wie will "
+"man unserenLeuten auffordern zu kämpfen?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:344
 msgid ""
@@ -314,25 +379,31 @@ msgid ""
 "look like anyone survived, at least we can thank Eloh it was a quick death. "
 "But come on, we can't dwell on dead, we must help the living."
 msgstr ""
+"Also wir müssen diese Überlebenden finden in amidst den Bruchstein. Es ist "
+"nix zugucken nach irgend welchen Überlebenden, zu gering ist der Dank von "
+"Eloh er will nur den schnellen tot.Aber kommt schon, wir können nicht die "
+"Haltezeit des totes, wir müssen zun den lebenen."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:348
 msgid "But if Tanuil is dead, who will lead us?"
-msgstr ""
+msgstr "Aber wenn Tanuil tot ist, wer will uns dann befehligen."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:352
 msgid "That's a question for another time. Let's keep exploring the wreckage."
 msgstr ""
+"Es ist eine Frage für eine andere Zeit. Lass uns weiterhin das Wrack "
+"untersuchen"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:437
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:523
 msgid "Kaleh, Nym, help us!"
-msgstr ""
+msgstr "Kaleh,Nym, hilf uns"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:441
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:527
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:792
 msgid "What in Zardia's name is that?"
-msgstr ""
+msgstr "Was in Zadia's Namen ist das?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:445
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:531
@@ -341,35 +412,43 @@ msgid ""
 "more seem to be emerging from the craters. If we don't stop them there will "
 "be nothing left of our village or our people."
 msgstr ""
+"Es ist gekommen, es fielen Steine vom Himmel. Ich könnte nicht what it is, "
+"but mehr Anschein ein auftauchend aus dem Krater. Wenn wir Sie nicht stoppen "
+"werden Sieunser Dorf oder unsere Leute übernehmen."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:449
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:535
 msgid "To battle my friends! There are still those left who can fight."
 msgstr ""
+"Zum Kampf meine Freunde! Da sind ein paar Überlebene, wer kann Kämpfen.   "
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:458
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:544
 msgid "There are more of our people fighting the mud monsters!"
-msgstr ""
+msgstr "Unsere Leute bekämpfen die Schlamm-Monster."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:462
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:548
 msgid "Then let's join the battle!"
-msgstr ""
+msgstr "Dann kommt mit in den Kampf"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:612
 msgid ""
 "This is our training ground. And look, there is Garak, the captain of the "
 "guard. He and his fighters have survived the night!"
 msgstr ""
+"Dies ist unser Trainings-Gebiet. Und guck hier ist Garak, der Kaptiän von "
+"der Wache. Er und seine Kämpfer haben die Nacht überlebt! "
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:617
 msgid "But they are fighting many mud creatures. Quick, we must help them!"
 msgstr ""
+"Aber sie kämpfen gegen viele Schlamm-Kreaturen. Schnell, wir müssen ihnen "
+"helfen "
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:645
 msgid "Ha! They're destroyed at last."
-msgstr ""
+msgstr "Ha! Sie zerstörten es als letztes."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:649
 msgid ""
@@ -377,40 +456,49 @@ msgid ""
 "But there's no time to talk, we must save the rest of our people and crush "
 "any other of these earthen abominations back into the earth."
 msgstr ""
+"Danke für eure Hilfe. Ich bin so froh zu sehen das soviele die Nacht "
+"überlebt haben. Aber jetzt ist keine Zeit zum reden, wir müssen den Rest "
+"unserer Leute finden  und das ganze Gewimmel der Erde aufhalten.   "
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:670
 msgid "This bridge leads to the holy island at the center of our lake."
-msgstr ""
+msgstr "Die Brücke führt zu der heiligen Insel zum Mittelpunkt unseres Sees."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:674
 msgid ""
 "Hmmmm. Some of the druids that worship on the island may still be alive. We "
 "should go check."
 msgstr ""
+"Hmmmm. Einige von den Druiden verehren die Insel mal gucken ob da noch einer "
+"lebt. Wir überpüfen das mal."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:678
 msgid ""
 "Be careful. The bridge is broken, so we'll have to wade through the shallow "
 "water."
 msgstr ""
+"Wie sorgfältig. Die Brücke ist zerstört, Wir müssen uns durcharbeiteren bis "
+"zum Flachen See"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:704
 msgid ""
 "The great tree! It has been buried under the rocks. Our most holy sanctuary, "
 "defiled. Oh, Eloh, what shall we do?"
 msgstr ""
+"Der große Baum! Er ist ist vergraben unter den Steinen. Unser heiliges "
+"Heiligtum muß. Oh, Eloh,was sollen wir tun?  "
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:709
 msgid "Is anyone still alive?"
-msgstr ""
+msgstr "Lebt ihr noch?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:730
 msgid "Finally! We were worried that no one else had survived."
-msgstr ""
+msgstr "Endgültig! Wir sind besorgt das keiner überlebt hat.  "
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:735
 msgid "Mother priestess, are you all right?"
-msgstr ""
+msgstr "Mutter Priesterin bist du die richtige? "
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:740
 msgid ""
@@ -418,10 +506,14 @@ msgid ""
 "survived, but we will lend you what skills we have. Show me to those who "
 "need healing."
 msgstr ""
+"Dafür ist jetzt keine Zeit zum Feier. Ich bin gut. Ich bin aber  nur ein "
+"wenig ängstlich über unsere Überlebenene, aber wir sollten  unsere "
+"Fähigkeiten verleihen die wir haben. Schau her dieser hier müsste geheilt "
+"werden. "
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:745
 msgid "But the great tree, it has been destroyed!"
-msgstr ""
+msgstr "Der große Baum, er ist zerstört!"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:750
 msgid ""
@@ -429,45 +521,53 @@ msgid ""
 "new one shall grow in its place. Come now, let us see to the needs of our "
 "people."
 msgstr ""
+"Alle Dinge auf dieser Welt kommen bis zum ende, aber die Kraft des Eloh "
+"erträgt. Ein neuer sollte anbauen auf dieses Platz. Komm jetzt, wir gucken "
+"mal wer was braucht von unseren Leuten. "
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:787
 msgid "Raaaar!"
-msgstr ""
+msgstr "Raaaar!"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:797
 msgid ""
 "I felt a great darkness in this lake, but I knew not what it was. The "
 "falling rocks must have woken it from its sleep."
 msgstr ""
+"Ich taste die große Dunkelheit in diesem Seen, aber Ich hätte es nicht "
+"gewusst. Der Stein muss gefallen  sein ist wir schliefen.  "
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:802
 msgid ""
 "Protect the priestesses, we shall send this monstrosity back to the depths "
 "it came from!"
 msgstr ""
+"Schütze die Priesterinnen , wir sollen diese Ungeheuerlichkeit senden zurück "
+"zu den Tiefen es kommt davon.  "
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:831
 msgid "These fields seem strangely vacant. Where are the horses?"
-msgstr ""
+msgstr "Auf dieses Felder erscheint seltsame leere. Wo sind unsere Pferde?  "
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:835
 msgid "Maybe they're hiding in the stables. Let go check."
 msgstr ""
+"Vielleicht sind sie versteckt in den  Stallungen. Lass es uns überprüfen."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:867
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:940
 msgid "I think I see movement in the stables. Is anyone there?"
-msgstr ""
+msgstr "Ich konnte eine Bewegung sehen in den Stallungen."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:874
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:947
 msgid "Is it safe to come out? I was so scared."
-msgstr ""
+msgstr "Ist alles sicher zum rauskommen? Ich war so aufgeschreckt. "
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:879
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:952
 msgid "Where are all the other horses?"
-msgstr ""
+msgstr "Wo sind die anderen Pferde?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:884
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:957
@@ -477,6 +577,8 @@ msgid ""
 "were scared by the falling rocks and fled into the night. It took all my "
 "skill to calm Yasi and keep him from running."
 msgstr ""
+"Eine Jagd Party fiel übriggelassen über den Land,einige der Pferde haben "
+"vermutlich überlebt. Ein wenig geblieben"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:889
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:962
@@ -486,24 +588,29 @@ msgid ""
 "of the people out in the desert have been able to round up some of the loose "
 "horses."
 msgstr ""
+"wir brauchen eure Hilfe, überprüft doch mal ob draußen unsere Siedlungen in "
+"Ordnung sind. Wer kennt die Art der Zerstörung die wir in der Nacht erlitten "
+"haben? Und vielleicht ein paar Leute aus der Wüste und sammeln ein paar "
+"verlorene Pferde ein."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:894
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:967
 msgid "Well, let's hope that hunting party comes back soon."
-msgstr ""
+msgstr "Gut, kommt her Jagd Gruppe kommt zurück."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:903
 msgid "Hey Naru, the rocks have stopped falling. You can come out now!"
 msgstr ""
+"Hey Naru, die Steine fallen nicht weiter runter. Du kannst jetzt kommen. "
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:910
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:981
 msgid "Oh, thank Eloh, I thought they would never stop."
-msgstr ""
+msgstr "Oh, danke Eloh, Ich dachte das würde nie stoppen."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:974
 msgid "Hey Nisa, the rocks have stopped falling. You can come out now!"
-msgstr ""
+msgstr "Hey Nisa, die Steine fallen nicht weiter runter. "
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1034
 msgid ""
@@ -512,6 +619,11 @@ msgid ""
 "over life. Puny elves, I shall use the corpses of your families to create an "
 "army of undead! All shall bow down to me!"
 msgstr ""
+"Der Platz stinkt  nach Toten. Ich  kann dieses Geruch kilometerweit riechen. "
+"Oh wie Ich liebe der Geruch der Macht, die unabwendbare Siegeszug des Todes. "
+"Diese kümmerlichen Elfen, Ich sollte Gebrauch von Leichenschändung von "
+"meiner Familie und erschaffe eine Armee von Zombies !  Alle sollen meinen "
+"Bogen spüren und ich werde sich alle umbringen!"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1039
 msgid ""
@@ -519,12 +631,16 @@ msgid ""
 "small targets, but they haven't had the guts to attack us for years. Why has "
 "Eloh heaped so much misfortune upon us?"
 msgstr ""
+"Es ist für uns gerade eine schlechte Zeit. Ich bin ein Zombie "
+"Kultbegeisterter"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1044
 msgid ""
 "Have some more faith girl, the goddess does not give us more than we can "
 "handle. With Eloh's grace we shall yet triumph over this pretender."
 msgstr ""
+"Habe ein paar glaubige Mädchen, die Göttin krieg uns nicht  mehr in Griff. "
+"Mit Eloh Anmut werden wir erfolgreich sein gegen unsere Gegner. "
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1049
 msgid ""
@@ -532,6 +648,8 @@ msgid ""
 "anyone else, and our elvish hunters can easily decimate their skeleton "
 "armies."
 msgstr ""
+"Bah, Ich hatte schon vorher Dunkle Kultbegeisterte gehabt. Sie können uns "
+"töten irgendwann, unsere Elfen Jäger als Skelette Armee "
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1054
 msgid ""
@@ -552,19 +670,19 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4123
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4178
 msgid "New Objectives:"
-msgstr ""
+msgstr "Neue Kampfziele"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1071
 msgid "Defeat Xanthos"
-msgstr ""
+msgstr "Töte Xanthos"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1121
 msgid "The necromancer is finally vanquished."
-msgstr ""
+msgstr "Der Geisterbeschwörer ist endgültig besiegt."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1126
 msgid "And at last the dead shall have their rest."
-msgstr ""
+msgstr "Und der letze Tote ist Ruhig."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1137
 msgid ""
