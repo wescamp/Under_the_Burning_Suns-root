@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-07-21 17:12+0200\n"
-"PO-Revision-Date: 2005-08-12 23:52+0100\n"
+"POT-Creation-Date: 2005-08-13 13:15+0200\n"
+"PO-Revision-Date: 2005-08-13 12:59+0100\n"
 "Last-Translator: David Philippi <david@torangan.de>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -57,7 +57,7 @@ msgstr "Wüsten Wache"
 
 #: Under_the_Burning_Suns.cfg:25
 msgid "(Hard)"
-msgstr "(Hard)"
+msgstr "(Schwer)"
 
 #: Under_the_Burning_Suns/units/Desert_Prowler.cfg:4
 #: Under_the_Burning_Suns/units/Nym_Prowler.cfg:4
@@ -83,7 +83,7 @@ msgstr "Eloh beschützt uns, ich bin gefallen."
 
 #: Under_the_Burning_Suns/misc/deaths.cfg:127
 msgid "Aaaargh! Curse you!"
-msgstr "Aaaargh! Verfluch dich!"
+msgstr "Aaaargh! Sei verflucht!"
 
 #: Under_the_Burning_Suns/misc/deaths2.cfg:68
 #: Under_the_Burning_Suns/misc/deaths.cfg:166
@@ -196,12 +196,12 @@ msgid ""
 "your progress if you get stuck and have to start over."
 msgstr ""
 "Hinweis: Diese Kampagne ist vermutlich nicht das beste für einen Anfänger. "
-"Es ist eine Abwechslung bestimmt Wesnoth die Anforderung, such as the elfen' "
-"stats and the Tag/Nacht Ablauf. This campaign emphasizes role-playing "
-"elements and tends to have longer scenarios with changing objectives. For "
-"these reasons I strongly suggest that you occasionally save your game mid-"
-"scenario, so you won't lose all your progress if you get stuck and have to "
-"start over."
+"Es werden verschiedene Standards in Wesnoth verändert, wie die Werte der "
+"Elfen und der Tag/Nacht Zyklus. Diese Kampagne betont Rollenspiel Elemente "
+"und tendiert zu längeren Szenarien mit wechselnden Zielen. Aus diesen "
+"Gründen empfehle ich unbedingt, gelegentlich das Spiel inmitten eines "
+"Szenarios zu speichern, damit nicht der ganze Fortschritt verloren ist, wenn "
+"ein Szenario nicht mehr zu gewinnen ist und neu begonnen werden muss."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:48
 msgid ""
@@ -209,8 +209,8 @@ msgid ""
 "homeland in the Great Southern Desert. I write this story so that our "
 "descendants may know of our travels, and remember the sacrifices we made."
 msgstr ""
-"Diese ist eine Chronik von der Reise von den Quenoth Elfen von ihr "
-"Heimmatland in den Grossen Südlichen Wüste. Ich schreibe diese Geschichte so "
+"Diese ist eine Chronik von der Reise von den Quenoth Elfen aus ihrem "
+"Heimatland in der Großen Südlichen Wüste. Ich schreibe diese Geschichte so "
 "das es unsere ist die Nachkommenschaft mag unserer Reise, und denken den "
 "opfer bringen "
 
@@ -4552,8 +4552,8 @@ msgstr ""
 "Stadt aus Stein erbaut hatten. Geschützt von steinernen Wänden und von "
 "Pforten, die größer waren als alle die ich je zuvor gesehen hatte, erschien "
 "dieser Ort praktisch uneinnehmbar. Während wir hinein gingen, bewunderte ich "
-"ihre Steinhauerkunst,  und ich stellte fest, dass es nur so wimmelte von "
-"Zwergen. Diese Stadt war größer als alle Siedlungen die ich je gesehen hatte."
+"ihre Baukunst,  und ich stellte fest, dass es nur so wimmelte von Zwergen. "
+"Diese Stadt war größer als alle Siedlungen die ich je gesehen hatte."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:66
 msgid ""
@@ -4633,9 +4633,9 @@ msgstr ""
 "Die Trolle waren uns schon seit längerem ein Dorn im Auge. Früher haben sie "
 "uns nur gelegentlich heimgesucht, aber inzwischen hat sich der Trollbefall "
 "ausgeweitet, wohin wir auch gehen, jeder Ort ist mit Trollen verseucht. Ihre "
-"Taktiken sind listiger geworden, und wir haben bereits mehrere unserer "
-"außenliegenden Siedlungen in den Angriffen verloren. Die Kämpfe haben aber "
-"noch lange kein Ende, und mit eurem kürzlichen Sieg wendet sich das "
+"Taktiken sind listiger geworden, und wir haben bereits mehrere unserer außen "
+"liegenden Siedlungen in den Angriffen verloren. Die Kämpfe haben aber noch "
+"lange kein Ende, und mit eurem kürzlichen Sieg wendet sich das "
 "Schlachtenglück vielleicht zu unseren Gunsten. Aber berichtet mir, was "
 "suchen so viele der Elfen so tief unter der Erde?"
 
@@ -4727,7 +4727,7 @@ msgid ""
 "and help you get to the surface."
 msgstr ""
 "Ihr habt meinen Bruder befreit, und auch wenn er im Kampf gefallen ist, so "
-"starb er den Tod eines Kriegers anstatt den eines Feiglings. Dafür habt ihe "
+"starb er den Tod eines Kriegers anstatt den eines Feiglings. Dafür habt ihr "
 "meinen Dank. Ich werde seinen Platz einnehmen und euch helfen, zur "
 "Oberfläche zu gelangen."
 
@@ -4811,8 +4811,8 @@ msgstr ""
 "Sie haben auch einige interessante Ideen, wie ihre Schmiedekunst mit meinem "
 "magischen Feuer kombiniert werden könnte. Und hast du ihre Aufzeichnungen "
 "gesehen? Ihre Aufzeichnungen reichen viele Generationen zurück. Sie wissen "
-"sogar über den Zwergenstamm Bescheid, der dabei geholfen hat, das "
-"Feuerzepter anzufertigen. Stell dir nur vor, ich könnte die Zwerge ausfindig "
+"sogar über den Zwergenstamm Bescheid, der dabei geholfen hat, das Zepter des "
+"Feuers anzufertigen. Stell dir nur vor, ich könnte die Zwerge ausfindig "
 "machen, die daran beteiligt waren, ein solches Artefakt zu bauen?"
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:674
@@ -4936,7 +4936,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:818
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:820
 msgid "No, I think someone else should wield it."
-msgstr "Nein, ich denke, jemand anderer sollte es tragen."
+msgstr "Nein, ich denke, jemand anderes sollte es tragen."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:7
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:8
@@ -4970,10 +4970,10 @@ msgid ""
 "of space for us to bed down and stay out of the way, and the dwarves had "
 "left behind plenty of provisions. "
 msgstr ""
-"Ich weiß nicht, wie lange wir durch diese winzigen Passagen stapften. "
-"DieZeit schien hier unten anders zu vergehen, so tief unter der Erde. "
+"Ich weiß nicht, wie lange wir durch diese winzigen Passagen stapften. Die "
+"Zeit schien hier unten anders zu vergehen, so tief unter der Erde. "
 "Schließlich erreichten wir eine große Höhle, die von den Überresten einer "
-"einstigen Zwergenstadt überragt wurde. Die goßen Steinwände waren übersäht "
+"einstigen Zwergenstadt überragt wurde. Die großen Steinwände waren übersät "
 "mit riesigen Löchern, und die Eisengatter waren auseinander gesprengt. Als "
 "wir die Tore passierten, sahen wir tote Zwerge, und andere grauenhafte "
 "Zeichen eines kürzlichen Kampfes. Überall um uns herum waren viele Trolle, "
@@ -8729,14 +8729,10 @@ msgstr ""
 msgid "fangs"
 msgstr "Klauen"
 
-#: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:23
-#: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:45
 #: Under_the_Burning_Suns/units/Desert_Scout3.cfg:39
 #: Under_the_Burning_Suns/units/Desert_Prowler.cfg:36
 #: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:36
 #: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:35
-#: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:22
-#: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:44
 #: Under_the_Burning_Suns/units/Kaleh_Fighter.cfg:37
 #: Under_the_Burning_Suns/units/Garak_Captain.cfg:38
 #: Under_the_Burning_Suns/units/Garak_Marshal.cfg:38
@@ -8786,8 +8782,6 @@ msgstr "Klauen"
 #: Under_the_Burning_Suns/units/Desert_Archer6.cfg:127
 #: Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:31
 #: Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:65
-#: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:25
-#: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:47
 #: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:33
 #: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:137
 #: Under_the_Burning_Suns/units/Desert_Scout2.cfg:39
@@ -8800,8 +8794,6 @@ msgstr "Klauen"
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:138
 #: Under_the_Burning_Suns/units/Desert_Champion.cfg:35
 #: Under_the_Burning_Suns/units/Dread_Bat.cfg:21
-#: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:22
-#: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:44
 #: Under_the_Burning_Suns/units/Desert_Hunter2.cfg:35
 #: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:35
 #: Under_the_Burning_Suns/units/Desert_Fighter5.cfg:36
@@ -8922,19 +8914,9 @@ msgstr ""
 msgid "cold"
 msgstr ""
 
-#: Under_the_Burning_Suns/units/Desert_Star.cfg:50
-#: Under_the_Burning_Suns/units/Desert_Star.cfg:96
-#: Under_the_Burning_Suns/units/Zhul_Star.cfg:51
-#: Under_the_Burning_Suns/units/Zhul_Star.cfg:97
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:30
 #: Under_the_Burning_Suns/units/Troll_Shaman.cfg:46
 #: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:50
-#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:78
-#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:44
-#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:90
-#: Under_the_Burning_Suns/units/Desert_Druid.cfg:77
-#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:45
-#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:91
 msgid "magical"
 msgstr ""
 
@@ -8972,13 +8954,9 @@ msgstr ""
 msgid "fist"
 msgstr ""
 
-#: Under_the_Burning_Suns/units/Desert_Star.cfg:49
-#: Under_the_Burning_Suns/units/Desert_Star.cfg:75
 #: Under_the_Burning_Suns/units/Desert_Prowler.cfg:54
 #: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:54
 #: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:53
-#: Under_the_Burning_Suns/units/Zhul_Star.cfg:50
-#: Under_the_Burning_Suns/units/Zhul_Star.cfg:76
 #: Under_the_Burning_Suns/units/Grog_Troll.cfg:28
 #: Under_the_Burning_Suns/units/Giant_Tentacle.cfg:23
 #: Under_the_Burning_Suns/units/Desert_Hunter5.cfg:53
@@ -8986,39 +8964,17 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Troll_Zombie.cfg:27
 #: Under_the_Burning_Suns/units/Grog_Troll_Warrior.cfg:28
 #: Under_the_Burning_Suns/units/Desert_Hunter.cfg:53
-#: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:38
-#: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:57
 #: Under_the_Burning_Suns/units/Desert_Hunter6.cfg:53
-#: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:38
-#: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:57
-#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:38
-#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:57
 #: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:46
 #: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:64
 #: Under_the_Burning_Suns/units/Troll_Shaman.cfg:32
-#: Under_the_Burning_Suns/units/Desert_Shaman4.cfg:38
-#: Under_the_Burning_Suns/units/Desert_Shaman4.cfg:57
 #: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:55
-#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:38
-#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:57
 #: Under_the_Burning_Suns/units/Desert_Hunter4.cfg:53
 #: Under_the_Burning_Suns/units/Nym_Prowler.cfg:55
 #: Under_the_Burning_Suns/units/Nym_Hunter.cfg:54
-#: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:38
-#: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:57
-#: Under_the_Burning_Suns/units/Desert_Shaman.cfg:38
-#: Under_the_Burning_Suns/units/Desert_Shaman.cfg:57
 #: Under_the_Burning_Suns/units/Darawf.cfg:21
-#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:38
-#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:57
-#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:43
-#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:69
-#: Under_the_Burning_Suns/units/Desert_Druid.cfg:37
-#: Under_the_Burning_Suns/units/Desert_Druid.cfg:56
 #: Under_the_Burning_Suns/units/Desert_Hunter2.cfg:53
 #: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:53
-#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:44
-#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:70
 #: Under_the_Burning_Suns/units/Deep_One.cfg:24
 msgid "impact"
 msgstr "Aufprall"
@@ -9039,28 +8995,6 @@ msgid ""
 "where he came from or why he acts the way he does, but the the trail of "
 "death he leaves in his wake is unmistakeable."
 msgstr ""
-
-#: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:22
-#: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:21
-#: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:24
-#: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:21
-msgid "dagger"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:44
-#: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:43
-#: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:46
-#: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:43
-msgid "darts"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:49
-#: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:48
-#: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:51
-#: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:48
-#: Under_the_Burning_Suns/units/Deep_One.cfg:71
-msgid "poison"
-msgstr "Gift"
 
 #: Under_the_Burning_Suns/units/Deep_One.cfg:4
 msgid "Deep One"
@@ -9084,11 +9018,9 @@ msgstr ""
 msgid "ink"
 msgstr ""
 
-#: Under_the_Burning_Suns/units/Desert_Star.cfg:95
 #: Under_the_Burning_Suns/units/Desert_Scout3.cfg:60
 #: Under_the_Burning_Suns/units/Kaleh_Fighter.cfg:54
 #: Under_the_Burning_Suns/units/Garak_Captain.cfg:54
-#: Under_the_Burning_Suns/units/Zhul_Star.cfg:96
 #: Under_the_Burning_Suns/units/Garak_Marshal.cfg:54
 #: Under_the_Burning_Suns/units/Desert_Scout4.cfg:60
 #: Under_the_Burning_Suns/units/Kaleh_Champion.cfg:55
@@ -9133,11 +9065,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Archer7.cfg:145
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:50
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:154
-#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:77
 #: Under_the_Burning_Suns/units/Desert_Champion.cfg:54
-#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:89
-#: Under_the_Burning_Suns/units/Desert_Druid.cfg:76
-#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:90
 #: Under_the_Burning_Suns/units/Desert_Fighter5.cfg:53
 #: Under_the_Burning_Suns/units/Desert_Fighter4.cfg:53
 #: Under_the_Burning_Suns/units/Deep_One.cfg:62
@@ -9148,6 +9076,10 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:157
 msgid "pierce"
 msgstr ""
+
+#: Under_the_Burning_Suns/units/Deep_One.cfg:71
+msgid "poison"
+msgstr "Gift"
 
 #: Under_the_Burning_Suns/units/Desert_Archer.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Archer2.cfg:4
@@ -9317,64 +9249,6 @@ msgid ""
 "Druids are excellent supporting units in any Elvish army."
 msgstr ""
 
-#: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:37
-#: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:37
-#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:37
-#: Under_the_Burning_Suns/units/Desert_Shaman4.cfg:37
-#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:37
-#: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:37
-#: Under_the_Burning_Suns/units/Desert_Shaman.cfg:37
-#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:37
-#: Under_the_Burning_Suns/units/Desert_Druid.cfg:36
-msgid "staff"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Desert_Star.cfg:74
-#: Under_the_Burning_Suns/units/Zhul_Star.cfg:75
-#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:56
-#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:68
-#: Under_the_Burning_Suns/units/Desert_Druid.cfg:55
-#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:69
-msgid "ensnare"
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Desert_Star.cfg:76
-#: Under_the_Burning_Suns/units/Desert_Prowler.cfg:58
-#: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:58
-#: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:57
-#: Under_the_Burning_Suns/units/Zhul_Star.cfg:77
-#: Under_the_Burning_Suns/units/Desert_Hunter5.cfg:57
-#: Under_the_Burning_Suns/units/Desert_Hunter.cfg:57
-#: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:58
-#: Under_the_Burning_Suns/units/Desert_Hunter6.cfg:57
-#: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:58
-#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:58
-#: Under_the_Burning_Suns/units/Desert_Shaman4.cfg:58
-#: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:59
-#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:58
-#: Under_the_Burning_Suns/units/Desert_Hunter4.cfg:57
-#: Under_the_Burning_Suns/units/Nym_Prowler.cfg:59
-#: Under_the_Burning_Suns/units/Nym_Hunter.cfg:58
-#: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:58
-#: Under_the_Burning_Suns/units/Desert_Shaman.cfg:58
-#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:58
-#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:70
-#: Under_the_Burning_Suns/units/Desert_Druid.cfg:57
-#: Under_the_Burning_Suns/units/Desert_Hunter2.cfg:57
-#: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:57
-#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:71
-msgid "slow"
-msgstr "verlangsamt"
-
-#: Under_the_Burning_Suns/units/Desert_Star.cfg:94
-#: Under_the_Burning_Suns/units/Zhul_Star.cfg:95
-#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:76
-#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:88
-#: Under_the_Burning_Suns/units/Desert_Druid.cfg:75
-#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:89
-msgid "thorns"
-msgstr ""
-
 #: Under_the_Burning_Suns/units/Kaleh_Fighter.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Fighter6.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Fighter7.cfg:4
@@ -9456,6 +9330,21 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:52
 msgid "bola"
 msgstr ""
+
+#: Under_the_Burning_Suns/units/Desert_Prowler.cfg:58
+#: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:58
+#: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:57
+#: Under_the_Burning_Suns/units/Desert_Hunter5.cfg:57
+#: Under_the_Burning_Suns/units/Desert_Hunter.cfg:57
+#: Under_the_Burning_Suns/units/Desert_Hunter6.cfg:57
+#: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:59
+#: Under_the_Burning_Suns/units/Desert_Hunter4.cfg:57
+#: Under_the_Burning_Suns/units/Nym_Prowler.cfg:59
+#: Under_the_Burning_Suns/units/Nym_Hunter.cfg:58
+#: Under_the_Burning_Suns/units/Desert_Hunter2.cfg:57
+#: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:57
+msgid "slow"
+msgstr "verlangsamt"
 
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:4
 msgid "Desert Marksman"
@@ -9626,16 +9515,6 @@ msgid ""
 "they may attack. Shamans also possess basic healing abilities."
 msgstr ""
 
-#: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:56
-#: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:56
-#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:56
-#: Under_the_Burning_Suns/units/Desert_Shaman4.cfg:56
-#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:56
-#: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:56
-#: Under_the_Burning_Suns/units/Desert_Shaman.cfg:56
-msgid "entangle"
-msgstr ""
-
 #: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:4
 msgid "Desert Sharpshooter"
 msgstr ""
@@ -9667,13 +9546,6 @@ msgid ""
 "exception is deep water, a terrain which the desert elves rarely encounter. "
 "Their magical powers have been adapted to a life among the sands, and so it "
 "does not work over deep water."
-msgstr ""
-
-#: Under_the_Burning_Suns/units/Desert_Star.cfg:48
-#: Under_the_Burning_Suns/units/Zhul_Star.cfg:49
-#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:42
-#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:43
-msgid "faerie touch"
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:4
@@ -10035,6 +9907,9 @@ msgid ""
 "Serpents can swim through water quite quickly and prey on all manner of "
 "creatures both large and small."
 msgstr ""
+
+#~ msgid "grumba"
+#~ msgstr "Kartoffel"
 
 #~ msgid "Blood Bat"
 #~ msgstr "Blutfledermaus"
