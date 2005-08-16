@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-08-13 13:15+0200\n"
-"PO-Revision-Date: 2005-08-02 17:46+0200\n"
+"PO-Revision-Date: 2005-08-16 22:51+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -60,7 +60,7 @@ msgstr "(Svårt)"
 #: Under_the_Burning_Suns/units/Nym_Prowler.cfg:4
 #: Under_the_Burning_Suns.cfg:25
 msgid "Desert Prowler"
-msgstr "Ökenströvare"
+msgstr "Ökensmygare"
 
 #: Under_the_Burning_Suns/misc/deaths2.cfg:13
 #: Under_the_Burning_Suns/misc/deaths.cfg:13
@@ -1209,11 +1209,11 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1420
 msgid "Ambush! Ogres!"
-msgstr "Bakhåll! Jättar!"
+msgstr "Bakhåll! Resar!"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1427
 msgid "Ogre Ambush!"
-msgstr "Jättar i bakhåll!"
+msgstr "Resar i bakhåll!"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1435
 msgid "Fresh Meat!"
@@ -1344,7 +1344,7 @@ msgid ""
 "This ruined castle must be where the ogres make their home. Well, if it's a "
 "fight they want, it's a fight they'll get. "
 msgstr ""
-"Borgruinen här måste vara jättarnas tillhåll. Nå, om de önskar strid, så är "
+"Borgruinen här måste vara resarnas tillhåll. Nå, om de önskar strid, så är "
 "det strid de skall få!"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2409
@@ -7731,7 +7731,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:4
 msgid "Desert Ranger"
-msgstr "Ökenvaktare"
+msgstr "Ökenvandrare"
 
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:31
 msgid ""
@@ -7743,7 +7743,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:107
 msgid "female^Desert Ranger"
-msgstr "Ökenvaktare"
+msgstr "Ökenvandrare"
 
 #: Under_the_Burning_Suns/units/Desert_Rider.cfg:4
 msgid "Desert Rider"
@@ -8105,7 +8105,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Sentinel.cfg:4
 msgid "Dwarvish Sentinel"
-msgstr "Dvärgarnas vaktpost"
+msgstr "Dvärgvaktpost"
 
 #: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Sentinel.cfg:23
 #: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Stalwart.cfg:23
@@ -8129,7 +8129,7 @@ msgstr "spjut"
 
 #: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Stalwart.cfg:4
 msgid "Dwarvish Stalwart"
-msgstr "Dvärgarnas pansarnäve"
+msgstr "Pansarnäve"
 
 #: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Stalwart.cfg:29
 msgid ""
@@ -8227,24 +8227,3 @@ msgstr ""
 "Vattenormarna är mindre släktingar till de mer kända sjöormarna. Vattenormar "
 "simmar snabbt genom vattnet och väljer sina byten bland både små och stora "
 "varelser."
-
-#~ msgid "ensnare"
-#~ msgstr "snärja"
-
-#~ msgid "thorns"
-#~ msgstr "törnen"
-
-#~ msgid "dagger"
-#~ msgstr "dolk"
-
-#~ msgid "darts"
-#~ msgstr "kastpilar"
-
-#~ msgid "faerie touch"
-#~ msgstr "älvaberöring"
-
-#~ msgid "staff"
-#~ msgstr "stav"
-
-#~ msgid "entangle"
-#~ msgstr "snärja"
