@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-08-13 13:15+0200\n"
-"PO-Revision-Date: 2005-08-18 21:49+0200\n"
+"PO-Revision-Date: 2005-08-24 22:24+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -7840,7 +7840,7 @@ msgstr "Ökenskarpskytt"
 #: Under_the_Burning_Suns/units/Desert_Shyde.cfg:4
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:4
 msgid "Desert Shyde"
-msgstr "Ökendryad"
+msgstr "Ökenälva"
 
 #: Under_the_Burning_Suns/units/Desert_Shyde.cfg:38
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:39
