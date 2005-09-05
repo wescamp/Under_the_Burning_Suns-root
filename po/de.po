@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-09-05 21:32+0200\n"
+"POT-Creation-Date: 2005-09-05 22:15+0200\n"
 "PO-Revision-Date: 2005-09-05 19:04+0200\n"
 "Last-Translator: Allefant <allefant@gmail.com>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
@@ -1234,8 +1234,8 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/13Credits.cfg:32
 msgid ""
-"Artists: Sangel, Jetryl, Pickslide (James Woo), Scott Klempner, Emdot, "
-"Shadow, Frame"
+"Artists: Sangel, Jetryl, Pickslide (James Woo), Scott Klempner, Emdot, Shadow"
+"(Peter Geinitz), Frame (Hogne Håskjold)"
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/13Credits.cfg:38
@@ -11233,7 +11233,6 @@ msgstr "Faust"
 msgid "impact"
 msgstr "Aufprall"
 
-#: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:4
 #: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:4
 #: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:4
 #: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:4
@@ -11273,6 +11272,15 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Deep_One.cfg:71
 msgid "poison"
 msgstr "Gift"
+
+#: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:4
+#, fuzzy
+msgid "Uncloaked Assassin"
+msgstr "Dunkler Mörder"
+
+#: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:20
+msgid "Sometimes those closest to you can be your bitterest foes."
+msgstr ""
 
 #: Under_the_Burning_Suns/units/Deep_One.cfg:4
 msgid "Deep One"
