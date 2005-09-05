@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-09-05 22:15+0200\n"
+"POT-Creation-Date: 2005-09-05 23:00+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -154,7 +154,7 @@ msgstr ""
 msgid "This battle is greater than just us. These lands were once places of beauty and hope. The great empires may be gone, but still people struggle to survive. As bad as it all seems, there is still some beauty and light left, hidden away. I will not let it all be swallowed by a second darkness. Could these islands possible be a home for my people? It is a thing too wonderful to even hope for. I cannot think of such things until afterwards. I must concentrate on the task ahead. I do not care what happens to me, but I pray to Eloh (if she is even listening) that if I die, then I die making these lands a better place. Please may this not all be in vain..."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/6aDwarf.cfg:88 ./Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:948 ./Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:964 ./Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:281 ./Under_the_Burning_Suns/scenarios/8Water.cfg:661 ./Under_the_Burning_Suns/scenarios/6bTroll.cfg:88 ./Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:284 ./Under_the_Burning_Suns/scenarios/1Morning_After.cfg:180 ./Under_the_Burning_Suns/scenarios/3Night.cfg:813 ./Under_the_Burning_Suns/scenarios/10Island.cfg:631 ./Under_the_Burning_Suns/scenarios/11Final.cfg:291 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:705
+#: ./Under_the_Burning_Suns/scenarios/6aDwarf.cfg:88 ./Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:948 ./Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:964 ./Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:281 ./Under_the_Burning_Suns/scenarios/8Water.cfg:661 ./Under_the_Burning_Suns/scenarios/6bTroll.cfg:88 ./Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:284 ./Under_the_Burning_Suns/scenarios/1Morning_After.cfg:180 ./Under_the_Burning_Suns/scenarios/3Night.cfg:813 ./Under_the_Burning_Suns/scenarios/10Island.cfg:631 ./Under_the_Burning_Suns/scenarios/11Final.cfg:288 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:705
 msgid "Starting Objectives:"
 msgstr ""
 
@@ -250,7 +250,7 @@ msgstr ""
 msgid "Thank you. I'm sure the reinforcements will be very useful."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4007 ./Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4608 ./Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4724 ./Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2746 ./Under_the_Burning_Suns/scenarios/8Water.cfg:1292 ./Under_the_Burning_Suns/scenarios/8Water.cfg:3650 ./Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1064 ./Under_the_Burning_Suns/scenarios/3Night.cfg:254 ./Under_the_Burning_Suns/scenarios/10Island.cfg:1112 ./Under_the_Burning_Suns/scenarios/10Island.cfg:1249 ./Under_the_Burning_Suns/scenarios/10Island.cfg:1343 ./Under_the_Burning_Suns/scenarios/10Island.cfg:1378 ./Under_the_Burning_Suns/scenarios/11Final.cfg:1404 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:2154 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:2196 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:4122 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:4177
+#: ./Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4007 ./Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4608 ./Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4724 ./Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2746 ./Under_the_Burning_Suns/scenarios/8Water.cfg:1292 ./Under_the_Burning_Suns/scenarios/8Water.cfg:3650 ./Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1064 ./Under_the_Burning_Suns/scenarios/3Night.cfg:254 ./Under_the_Burning_Suns/scenarios/10Island.cfg:1112 ./Under_the_Burning_Suns/scenarios/10Island.cfg:1249 ./Under_the_Burning_Suns/scenarios/10Island.cfg:1343 ./Under_the_Burning_Suns/scenarios/10Island.cfg:1378 ./Under_the_Burning_Suns/scenarios/11Final.cfg:1401 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:2154 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:2196 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:4122 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:4177
 msgid "New Objectives:"
 msgstr ""
 
@@ -418,179 +418,179 @@ msgstr ""
 msgid "They must be nocturnal."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:31 ./Under_the_Burning_Suns/scenarios/11Final.cfg:32
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:28 ./Under_the_Burning_Suns/scenarios/11Final.cfg:29
 msgid "The Final Confrontation"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:117
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:114
 msgid "Chapter 11: True strength is not measured in might or knowledge, but in how much you will sacrifice for those you love."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:293
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:290
 msgid "Defeat Eloh"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:297 ./Under_the_Burning_Suns/scenarios/11Final.cfg:1410
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:294 ./Under_the_Burning_Suns/scenarios/11Final.cfg:1407
 msgid "Death of Kaleh"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:331
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:328
 msgid "Kaleh! No!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:413
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:410
 msgid "He's still breathing. Eloh, what grace I have, give unto him."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:464
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:461
 msgid "He's stirring."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:478
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:475
 msgid "There's still life in the boy. But where is the foul creature that did this to him?"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:488
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:485
 msgid "The little one is not dead yet. But where is bad lady that did this to him?"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:520
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:517
 msgid "So, the elf's puny friends think they can save him. But you are too late. He is already mine!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:564
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:561
 msgid "Nym, Zhul, Rogrimir, you shouldn't have."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:574
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:571
 msgid "Nym, Zhul, Grog, you shouldn't have."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:583
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:580
 msgid "Your struggles were mildly entertaining, but futile in the end. For I am powerful beyond your imagining, and this is the seat of my power!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:589
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:586
 msgid "Look out upon your people and despair!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:639
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:636
 msgid "All hail Eloh!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:644
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:641
 msgid "Death to the heretics!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:650
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:647
 msgid "They worship their true god."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:656
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:653
 msgid "Come and bow down before your true master, boy."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:662
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:659
 msgid "Your wish is my command."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:929
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:926
 msgid "Argh, you stabbed me!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:935
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:932
 msgid "I have fought crossed deserts, mountains, and oceans and watched my people bleed every step of the way. I did not come all this way to give up now. I am tired of being called boy, I am Kalehssar, the leader of my people and I will fight you until my dying breath!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:941
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:938
 msgid "I command you to stop this foolishness!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:947 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:5014 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:5133
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:944 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:5014 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:5133
 msgid "Never!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:953
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:950
 msgid "The shell necklaces, they're glowing!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:959
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:956
 msgid "You will never dominate us, not while hope survives!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:965
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:962
 msgid "So be it. You choose death? Then you shall receive it from those you hold most dear. Kill them all, let none survive!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:970
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:967
 msgid "Yes mistress."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:976
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:973
 msgid "Ignore our brethren, attack her!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1161
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1158
 msgid "Ow, I'm stuck!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1179
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1176
 msgid "You think you killed me? You have no idea what you are facing."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1218 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8987
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1215 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8987
 msgid "Huh? What happened?"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1224
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1221
 msgid "Her spell has been broken. But I do not think we have won yet. Come aid us!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1229
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1226
 msgid "Yes priestess."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1356
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1353
 msgid "What is that thing!?!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1362
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1359
 msgid "Eloh protect us!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1367
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1364
 msgid "Raaauurrrggghhh!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1388
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1385
 msgid "Curse Uria, more abominations!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1394
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1391
 msgid "That creature looks pretty tough."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1400
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1397
 msgid "It must have some sort of weak point. Look at those pulsing columns, I thought they were stone, but they seem to be alive. Maybe if we destroy them it will weaken the creature. No matter what horrors appear, we must keep attacking it. We can't stop now!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1406
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1403
 msgid "Defeat alien creature"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1535
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1532
 msgid "That central body is healing faster than we can damage it. It's almost as if our attacks are doing no damage at all. We got to try another tactic, and fast!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1627
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1624
 msgid "Aaaauuurrrggghhhh!!!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1646
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1643
 msgid "I think we're finally doing some damage. We must attack the central body, while it remains vulnerable!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1685
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1682
 msgid "At last, it is dead."
 msgstr ""
 
@@ -5442,7 +5442,7 @@ msgstr ""
 msgid "fangs"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/units/Dark_Assassin4.cfg:24 ./Under_the_Burning_Suns/units/Dark_Assassin4.cfg:46 ./Under_the_Burning_Suns/units/Desert_Scout3.cfg:39 ./Under_the_Burning_Suns/units/Desert_Prowler.cfg:37 ./Under_the_Burning_Suns/units/Desert_Sentinel.cfg:36 ./Under_the_Burning_Suns/units/Desert_Hunter7.cfg:35 ./Under_the_Burning_Suns/units/Dark_Assassin2.cfg:23 ./Under_the_Burning_Suns/units/Dark_Assassin2.cfg:45 ./Under_the_Burning_Suns/units/Kaleh_Fighter.cfg:37 ./Under_the_Burning_Suns/units/Garak_Captain.cfg:38 ./Under_the_Burning_Suns/units/Garak_Marshal.cfg:39 ./Under_the_Burning_Suns/units/Desert_Hunter5.cfg:35 ./Under_the_Burning_Suns/units/Desert_Scout4.cfg:39 ./Under_the_Burning_Suns/units/Kaleh_Champion.cfg:37 ./Under_the_Burning_Suns/units/Kaleh_Marshal.cfg:39 ./Under_the_Burning_Suns/units/Desert_Captain.cfg:37 ./Under_the_Burning_Suns/units/Desert_Scout7.cfg:39 ./Under_the_Burning_Suns/units/Desert_Fighter9.cfg:36 ./Under_the_Burning_Suns/units/Desert_Hunter.cfg:35 ./Under_the_Burning_Suns/units/Desert_Hunter6.cfg:35 ./Under_the_Burning_Suns/units/Desert_Outrider.cfg:40 ./Under_the_Burning_Suns/units/Desert_Scout.cfg:39 ./Under_the_Burning_Suns/units/Desert_Fighter6.cfg:36 ./Under_the_Burning_Suns/units/Desert_Fighter7.cfg:36 ./Under_the_Burning_Suns/units/Desert_Marshal.cfg:39 ./Under_the_Burning_Suns/units/Desert_Archer.cfg:37 ./Under_the_Burning_Suns/units/Desert_Archer.cfg:127 ./Under_the_Burning_Suns/units/Desert_Rider.cfg:42 ./Under_the_Burning_Suns/units/Desert_Scout5.cfg:39 ./Under_the_Burning_Suns/units/Crab_Man.cfg:21 ./Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:26 ./Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:55 ./Under_the_Burning_Suns/units/Desert_Fighter3.cfg:36 ./Under_the_Burning_Suns/units/Desert_Avenger.cfg:40 ./Under_the_Burning_Suns/units/Desert_Avenger.cfg:144 ./Under_the_Burning_Suns/units/Desert_Fighter10.cfg:36 ./Under_the_Burning_Suns/units/Corrupted_Elf.cfg:30 ./Under_the_Burning_Suns/units/Undead_Horseman.cfg:21 ./Under_the_Burning_Suns/units/Confused_Ant.cfg:21 ./Under_the_Burning_Suns/units/Desert_Scout6.cfg:39 ./Under_the_Burning_Suns/units/Kaleh_Hero.cfg:36 ./Under_the_Burning_Suns/units/Desert_Fighter.cfg:36 ./Under_the_Burning_Suns/units/Nym_Sentinel.cfg:37 ./Under_the_Burning_Suns/units/Kaleh_Captain.cfg:38 ./Under_the_Burning_Suns/units/Ant.cfg:21 ./Under_the_Burning_Suns/units/Desert_Hunter4.cfg:35 ./Under_the_Burning_Suns/units/Desert_Archer2.cfg:37 ./Under_the_Burning_Suns/units/Desert_Archer2.cfg:127 ./Under_the_Burning_Suns/units/Nym_Prowler.cfg:38 ./Under_the_Burning_Suns/units/Nym_Hunter.cfg:36 ./Under_the_Burning_Suns/units/Desert_Fighter2.cfg:36 ./Under_the_Burning_Suns/units/Desert_Archer5.cfg:37 ./Under_the_Burning_Suns/units/Desert_Archer5.cfg:127 ./Under_the_Burning_Suns/units/Desert_Archer4.cfg:37 ./Under_the_Burning_Suns/units/Desert_Archer4.cfg:127 ./Under_the_Burning_Suns/units/Desert_Archer6.cfg:37 ./Under_the_Burning_Suns/units/Desert_Archer6.cfg:127 ./Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:32 ./Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:66 ./Under_the_Burning_Suns/units/Dark_Assassin3.cfg:26 ./Under_the_Burning_Suns/units/Dark_Assassin3.cfg:48 ./Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:34 ./Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:140 ./Under_the_Burning_Suns/units/Desert_Scout2.cfg:39 ./Under_the_Burning_Suns/units/Desert_Hero.cfg:35 ./Under_the_Burning_Suns/units/Desert_Hunter9.cfg:35 ./Under_the_Burning_Suns/units/Desert_Archer7.cfg:37 ./Under_the_Burning_Suns/units/Desert_Archer7.cfg:127 ./Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:26 ./Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:50 ./Under_the_Burning_Suns/units/Desert_Marksman.cfg:34 ./Under_the_Burning_Suns/units/Desert_Marksman.cfg:138 ./Under_the_Burning_Suns/units/Desert_Scout10.cfg:39 ./Under_the_Burning_Suns/units/Desert_Champion.cfg:36 ./Under_the_Burning_Suns/units/Desert_Scout9.cfg:39 ./Under_the_Burning_Suns/units/Desert_Archer10.cfg:37 ./Under_the_Burning_Suns/units/Desert_Archer10.cfg:127 ./Under_the_Burning_Suns/units/Dread_Bat.cfg:21 ./Under_the_Burning_Suns/units/Dark_Assassin1.cfg:23 ./Under_the_Burning_Suns/units/Dark_Assassin1.cfg:45 ./Under_the_Burning_Suns/units/Desert_Hunter2.cfg:35 ./Under_the_Burning_Suns/units/Desert_Hunter3.cfg:35 ./Under_the_Burning_Suns/units/Desert_Hunter10.cfg:35 ./Under_the_Burning_Suns/units/Desert_Fighter5.cfg:36 ./Under_the_Burning_Suns/units/Desert_Fighter4.cfg:36 ./Under_the_Burning_Suns/units/Desert_Archer9.cfg:37 ./Under_the_Burning_Suns/units/Desert_Archer9.cfg:127 ./Under_the_Burning_Suns/units/Desert_Archer3.cfg:37 ./Under_the_Burning_Suns/units/Desert_Archer3.cfg:127 ./Under_the_Burning_Suns/units/Desert_Horseman.cfg:40 ./Under_the_Burning_Suns/units/Desert_Ranger.cfg:38 ./Under_the_Burning_Suns/units/Desert_Ranger.cfg:139
+#: ./Under_the_Burning_Suns/units/Dark_Assassin4.cfg:24 ./Under_the_Burning_Suns/units/Dark_Assassin4.cfg:46 ./Under_the_Burning_Suns/units/Desert_Scout3.cfg:39 ./Under_the_Burning_Suns/units/Desert_Prowler.cfg:37 ./Under_the_Burning_Suns/units/Desert_Sentinel.cfg:36 ./Under_the_Burning_Suns/units/Desert_Hunter7.cfg:35 ./Under_the_Burning_Suns/units/Dark_Assassin2.cfg:23 ./Under_the_Burning_Suns/units/Dark_Assassin2.cfg:45 ./Under_the_Burning_Suns/units/Kaleh_Fighter.cfg:37 ./Under_the_Burning_Suns/units/Garak_Captain.cfg:38 ./Under_the_Burning_Suns/units/Garak_Marshal.cfg:39 ./Under_the_Burning_Suns/units/Desert_Hunter5.cfg:35 ./Under_the_Burning_Suns/units/Desert_Scout4.cfg:39 ./Under_the_Burning_Suns/units/Kaleh_Champion.cfg:37 ./Under_the_Burning_Suns/units/Kaleh_Marshal.cfg:39 ./Under_the_Burning_Suns/units/Desert_Captain.cfg:37 ./Under_the_Burning_Suns/units/Desert_Scout7.cfg:39 ./Under_the_Burning_Suns/units/Desert_Fighter9.cfg:36 ./Under_the_Burning_Suns/units/Desert_Hunter.cfg:35 ./Under_the_Burning_Suns/units/Desert_Hunter6.cfg:35 ./Under_the_Burning_Suns/units/Desert_Outrider.cfg:40 ./Under_the_Burning_Suns/units/Desert_Scout.cfg:39 ./Under_the_Burning_Suns/units/Desert_Fighter6.cfg:36 ./Under_the_Burning_Suns/units/Desert_Fighter7.cfg:36 ./Under_the_Burning_Suns/units/Desert_Marshal.cfg:39 ./Under_the_Burning_Suns/units/Desert_Archer.cfg:37 ./Under_the_Burning_Suns/units/Desert_Archer.cfg:127 ./Under_the_Burning_Suns/units/Desert_Rider.cfg:42 ./Under_the_Burning_Suns/units/Desert_Scout5.cfg:39 ./Under_the_Burning_Suns/units/Crab_Man.cfg:21 ./Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:26 ./Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:55 ./Under_the_Burning_Suns/units/Desert_Fighter3.cfg:36 ./Under_the_Burning_Suns/units/Desert_Avenger.cfg:40 ./Under_the_Burning_Suns/units/Desert_Avenger.cfg:144 ./Under_the_Burning_Suns/units/Desert_Fighter10.cfg:36 ./Under_the_Burning_Suns/units/Corrupted_Elf.cfg:30 ./Under_the_Burning_Suns/units/Undead_Horseman.cfg:31 ./Under_the_Burning_Suns/units/Confused_Ant.cfg:21 ./Under_the_Burning_Suns/units/Desert_Scout6.cfg:39 ./Under_the_Burning_Suns/units/Kaleh_Hero.cfg:36 ./Under_the_Burning_Suns/units/Desert_Fighter.cfg:36 ./Under_the_Burning_Suns/units/Nym_Sentinel.cfg:37 ./Under_the_Burning_Suns/units/Kaleh_Captain.cfg:38 ./Under_the_Burning_Suns/units/Ant.cfg:21 ./Under_the_Burning_Suns/units/Desert_Hunter4.cfg:35 ./Under_the_Burning_Suns/units/Desert_Archer2.cfg:37 ./Under_the_Burning_Suns/units/Desert_Archer2.cfg:127 ./Under_the_Burning_Suns/units/Nym_Prowler.cfg:38 ./Under_the_Burning_Suns/units/Nym_Hunter.cfg:36 ./Under_the_Burning_Suns/units/Desert_Fighter2.cfg:36 ./Under_the_Burning_Suns/units/Desert_Archer5.cfg:37 ./Under_the_Burning_Suns/units/Desert_Archer5.cfg:127 ./Under_the_Burning_Suns/units/Desert_Archer4.cfg:37 ./Under_the_Burning_Suns/units/Desert_Archer4.cfg:127 ./Under_the_Burning_Suns/units/Desert_Archer6.cfg:37 ./Under_the_Burning_Suns/units/Desert_Archer6.cfg:127 ./Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:32 ./Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:66 ./Under_the_Burning_Suns/units/Dark_Assassin3.cfg:26 ./Under_the_Burning_Suns/units/Dark_Assassin3.cfg:48 ./Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:34 ./Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:140 ./Under_the_Burning_Suns/units/Desert_Scout2.cfg:39 ./Under_the_Burning_Suns/units/Desert_Hero.cfg:35 ./Under_the_Burning_Suns/units/Desert_Hunter9.cfg:35 ./Under_the_Burning_Suns/units/Desert_Archer7.cfg:37 ./Under_the_Burning_Suns/units/Desert_Archer7.cfg:127 ./Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:26 ./Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:50 ./Under_the_Burning_Suns/units/Desert_Marksman.cfg:34 ./Under_the_Burning_Suns/units/Desert_Marksman.cfg:138 ./Under_the_Burning_Suns/units/Desert_Scout10.cfg:39 ./Under_the_Burning_Suns/units/Desert_Champion.cfg:36 ./Under_the_Burning_Suns/units/Desert_Scout9.cfg:39 ./Under_the_Burning_Suns/units/Desert_Archer10.cfg:37 ./Under_the_Burning_Suns/units/Desert_Archer10.cfg:127 ./Under_the_Burning_Suns/units/Dread_Bat.cfg:21 ./Under_the_Burning_Suns/units/Dark_Assassin1.cfg:23 ./Under_the_Burning_Suns/units/Dark_Assassin1.cfg:45 ./Under_the_Burning_Suns/units/Desert_Hunter2.cfg:35 ./Under_the_Burning_Suns/units/Desert_Hunter3.cfg:35 ./Under_the_Burning_Suns/units/Desert_Hunter10.cfg:35 ./Under_the_Burning_Suns/units/Desert_Fighter5.cfg:36 ./Under_the_Burning_Suns/units/Desert_Fighter4.cfg:36 ./Under_the_Burning_Suns/units/Desert_Archer9.cfg:37 ./Under_the_Burning_Suns/units/Desert_Archer9.cfg:127 ./Under_the_Burning_Suns/units/Desert_Archer3.cfg:37 ./Under_the_Burning_Suns/units/Desert_Archer3.cfg:127 ./Under_the_Burning_Suns/units/Desert_Horseman.cfg:40 ./Under_the_Burning_Suns/units/Desert_Ranger.cfg:38 ./Under_the_Burning_Suns/units/Desert_Ranger.cfg:139
 msgid "blade"
 msgstr ""
 
@@ -5814,7 +5814,7 @@ msgstr ""
 msgid "Dwarven Explorers often travel alone through unknown lands, slaying enemies and scouting out new deposits of ore and other precious minerals. They are strong enough to wear thicker armor, giving them added protection against physical attacks. They are the powerful fighters, second only to the Dwarven lords, and their amazing maneuverability makes them dangerous indeed."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:25 ./Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:54 ./Under_the_Burning_Suns/units/Undead_Horseman.cfg:20 ./Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:31 ./Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:65 ./Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:25 ./Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:49
+#: ./Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:25 ./Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:54 ./Under_the_Burning_Suns/units/Undead_Horseman.cfg:30 ./Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:31 ./Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:65 ./Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:25 ./Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:49
 msgid "axe"
 msgstr ""
 
@@ -6002,7 +6002,7 @@ msgstr ""
 msgid "Skeleton Rider"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/units/Undead_Horseman.cfg:17
+#: ./Under_the_Burning_Suns/units/Undead_Horseman.cfg:27
 msgid "Once great warriors across the plains, these mounted riders atop their skeletal horses were raised from the ground by unholy magic to spread fear and destruction."
 msgstr ""
 
