@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-09-05 23:00+0200\n"
-"PO-Revision-Date: 2005-09-05 19:04+0200\n"
+"PO-Revision-Date: 2005-09-05 23:22+0200\n"
 "Last-Translator: Allefant <allefant@gmail.com>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,6 @@ msgid "Under the Burning Suns"
 msgstr "Unter brennenden Sonnen"
 
 #: Under_the_Burning_Suns.cfg:20
-#, fuzzy
 msgid ""
 "In the distant future, where a small band of elves struggle to survive "
 "amidst the ruins of fallen empires, lead your people out of the desert on an "
@@ -29,7 +28,7 @@ msgstr ""
 "In ferner Zukunft kämpft eine kleine Gruppe von Elfen um das Überleben "
 "inmitten der Ruinen eines zerfallenen Reiches. Führt euer Volk aus der Wüste "
 "hinaus und begebt euch auf eine epische Suche nach einer neuen Heimat. "
-"(Version 0.5.1 7/20/05)"
+"(Version 0.6-beta 9/5/05)"
 
 #: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Hunter5.cfg:4
@@ -250,9 +249,8 @@ msgid "Starting Objectives:"
 msgstr "Anfangsziele:"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:633
-#, fuzzy
 msgid "Kaleh must capture a keep"
-msgstr "Kaleh muss das nördliche Ende"
+msgstr "Kaleh muss einen Burgfried erreichen"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:671
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1302
@@ -266,11 +264,9 @@ msgid "Death of Kaleh, Nym, Zhul"
 msgstr "Tod von Kaleh, Nym, oder Zhul"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:709
-#, fuzzy
 msgid "Where did this fog come from? I can't see a thing!"
 msgstr ""
-"Woher sind sie gekommen? Ich könnte schwören, diese Burgen waren bei "
-"Sonnenuntergang noch nicht hier."
+"Woher ist dieser Nebel gekommen? Ich kann die Hand vor Augen nicht sehen!"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:714
 msgid ""
@@ -493,9 +489,8 @@ msgid "Any unit must reach the black citadel"
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1405
-#, fuzzy
 msgid "Aaaargh!"
-msgstr "Raaaar!"
+msgstr "Aaaargh!"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1424
 msgid ""
@@ -510,9 +505,8 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1469
-#, fuzzy
 msgid "Nooooo!!!"
-msgstr "Nein!!!"
+msgstr "Neiiiiiin!!!"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1488
 msgid ""
@@ -527,13 +521,13 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1560
-#, fuzzy
 msgid ""
 "We've run out of time. The forces that the merfolk helped distract have "
 "returned and will surely kill us all."
 msgstr ""
-"Wie haben keine Zeit mehr. Die Menschen werden stärker, und werden uns bald "
-"überrennen."
+"Wie haben keine Zeit mehr. Die Truppen, die wir mit Hilfe der Meeresbewohner "
+"abgehalten haben, sind zurückgekehrt und werden uns jetzt mit Sicherheit "
+"töten."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1596
 msgid ""
@@ -553,9 +547,8 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1613
-#, fuzzy
 msgid "Sigh, you elves are so predictable."
-msgstr "Kobolde sind so vorhersagbar."
+msgstr "Seufz, ihr Elfen seid so vorhersagbar."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1619
 msgid "Talk all you want, we will have our vengeance!"
@@ -593,9 +586,8 @@ msgid "May Eloh protect you."
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1659
-#, fuzzy
 msgid "Her will be done. "
-msgstr "Andere mich rächen..."
+msgstr "Ihr Wille geschehe."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1675
 msgid "Well, now we just have to wait... "
@@ -670,15 +662,13 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:290
-#, fuzzy
 msgid "Defeat Eloh"
-msgstr "Besiegt Xanthos"
+msgstr "Besiegt Eloh"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:294
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1407
-#, fuzzy
 msgid "Death of Kaleh"
-msgstr "Tod von Kaleh, Nym, oder Zhul"
+msgstr "Tod von Kaleh"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:328
 msgid "Kaleh! No!"
@@ -784,9 +774,8 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:967
-#, fuzzy
 msgid "Yes mistress."
-msgstr "Jawohl, Sir."
+msgstr "Jawohl, Herrin."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:973
 msgid "Ignore our brethren, attack her!"
@@ -819,14 +808,12 @@ msgid "What is that thing!?!"
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1359
-#, fuzzy
 msgid "Eloh protect us!"
-msgstr "Eloh beschütze uns, denn ich bin gefallen."
+msgstr "Eloh beschütze uns!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1364
-#, fuzzy
 msgid "Raaauurrrggghhh!"
-msgstr "Aaaauuugggghhhh!"
+msgstr "Raaauurrrggghhh!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1385
 msgid "Curse Uria, more abominations!"
@@ -845,9 +832,8 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1403
-#, fuzzy
 msgid "Defeat alien creature"
-msgstr "Besiegt all Eure Feinde"
+msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1532
 msgid ""
@@ -857,9 +843,8 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1624
-#, fuzzy
 msgid "Aaaauuurrrggghhhh!!!"
-msgstr "Aaaauuugggghhhh!"
+msgstr "Aaaauuurrrggghhhh!!!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1643
 msgid ""
@@ -868,20 +853,17 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1682
-#, fuzzy
 msgid "At last, it is dead."
-msgstr "Und so endet es zu guter Letzt."
+msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:9
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:10
-#, fuzzy
 msgid "Epilogue"
-msgstr "untote Plage"
+msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:41
-#, fuzzy
 msgid "Epilogue:"
-msgstr "untote Plage"
+msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:96
 msgid ""
@@ -1461,9 +1443,8 @@ msgstr "Kaleh, Nym, helft uns!"
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:441
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:527
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:792
-#, fuzzy
 msgid "What in Uria's name is that?"
-msgstr "Was in Zardias Namen ist das?"
+msgstr "Was in Urias Namen ist das?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:445
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:531
@@ -3009,7 +2990,6 @@ msgstr ""
 "bis einer von uns siegreich ist."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:209
-#, fuzzy
 msgid ""
 "Maybe I spoke too soon. Curse Uria, they have even blotted out even the "
 "stars, all is darkness. Kaleh, our course is clear, we must destroy one of "
@@ -3017,12 +2997,12 @@ msgid ""
 "the spectral evil that remains, one of them must die for this battle to end. "
 "We have no choice."
 msgstr ""
-"Vielleicht habe ich zu früh gesprochen. Verdammt sei Zardia, sie haben "
-"selbst das Licht der Sterne verdunkelt, alles ist in Finsternis gehüllt. "
-"Kaleh, unsere einzige Chance ist es, eine dieser Ausgeburten zu zerstören. "
-"Sei es das Ding, dass unseren Freund befallen hat, oder das andere böse "
-"Gespenst, einer der beiden muss sterben, damit dieser Kampf ein Ende hat. "
-"Wir haben keine Wahl."
+"Vielleicht habe ich zu früh gesprochen. Verdammt sei Uria, sie haben selbst "
+"das Licht der Sterne verdunkelt, alles ist in Finsternis gehüllt. Kaleh, "
+"unsere einzige Chance ist es, eine dieser Ausgeburten zu zerstören. Sei es "
+"das Ding, dass unseren Freund befallen hat, oder das andere böse Gespenst, "
+"einer der beiden muss sterben, damit dieser Kampf ein Ende hat. Wir haben "
+"keine Wahl."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:214
 msgid "But to kill Garak? How can we?"
@@ -3134,10 +3114,9 @@ msgid "He's...He's still breathing!"
 msgstr "Er...er atmet noch!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:402
-#, fuzzy
 msgid "Protect the boy for me Zhul, (cough) I go to a better place."
 msgstr ""
-"Pass für mich auf den Jungen auf, Zhul (hust). Ich gehe an einen besseren "
+"Pass für mich auf den Jungen auf, Zhul (hust)! Ich gehe an einen besseren "
 "Ort."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:413
@@ -3464,7 +3443,6 @@ msgstr ""
 "die Geschichte, die man mir als Kind so oft erzählt hatte:"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:46
-#, fuzzy
 msgid ""
 "A long, long time ago was the golden age among elves. Our people lived in "
 "harmony with nature in lands filled with trees, trees as far as the eye "
@@ -3479,14 +3457,13 @@ msgstr ""
 "Volk lebte im Einklang mit der Natur, in Ländern, die mit Bäumen bewachsen "
 "waren - Bäumen, so weit das Auge reichte. Es herrschte Frieden zwischen den "
 "Elfen und anderen Rassen, wie den Menschen und den Zwergen. Alle bösartigen "
-"Geschöpfe wurden tief unter die Erde verbannt. Die dunklen Kräfte von Zardia "
+"Geschöpfe wurden tief unter die Erde verbannt. Die dunklen Kräfte von Uria "
 "waren beinahe vergessen - und in dieser Zeit beschenkte uns Eloh mit einer "
 "zweiten Sonne, die die Tage länger machte, und die dunklen Stunden "
 "verringerte. Und in der Tat, wie glücklich waren die Elfen in all den langen "
 "Jahren. Aber es sollte nicht für immer währen."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:50
-#, fuzzy
 msgid ""
 "Though Uria had been forgotten by most of our people, she had not faded "
 "away. She bade her time, and slowly stretched her black hands out across the "
@@ -3503,7 +3480,7 @@ msgid ""
 "friends fought over what few resources remained, and chaos threatened to "
 "overwhelm us all."
 msgstr ""
-"Obwohl Zardia von den meisten unserer Leute vergessen worden war, war sie "
+"Obwohl Uria von den meisten unserer Leute vergessen worden war, war sie "
 "dennoch nicht einfach verschwunden. Sie wartete auf den richtigen Moment und "
 "streckte dann langsam ihre schwarzen Hände über die Welt aus. Zuerst waren "
 "es nur kleinere Streitigkeiten zwischen Menschen, Elfen und Zwergen, die "
@@ -3518,7 +3495,7 @@ msgstr ""
 "und die Wälder begannen zu sterben. Am schlimmsten war, dass sich die Nächte "
 "verlängerten. Seit damals gibt es die Lange Dunkelheit, wie wir sie heute "
 "kennen. Viele der unsrigen verzweifelten, und einige wenige hießen die "
-"kommende Dunkelheit sogar willkommen und beteten Zardia an, in der Hoffnung, "
+"kommende Dunkelheit sogar willkommen und beteten Uria an, in der Hoffnung, "
 "es würde sie retten. Ehemalige Freunde kämpften um das wenige, das noch "
 "geblieben war, und Chaos drohte uns zu übermannen."
 
@@ -3738,9 +3715,8 @@ msgstr ""
 "berittene Kobold, den ich je gesehen habe. Es ist fast übernatürlich."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1079
-#, fuzzy
 msgid "Gaagghhh!!!"
-msgstr "Gaggghhh!"
+msgstr "Gaagghhh!!!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1101
 msgid ""
@@ -4077,7 +4053,6 @@ msgstr ""
 "der Zerstörung unserer Siedlung."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:606
-#, fuzzy
 msgid ""
 "What lurked in the darkness? Who were the unbelievers that Eloh so "
 "cryptically referred to? My heart beat loudly in my chest, everything seemed "
@@ -4091,7 +4066,7 @@ msgstr ""
 "hier unten schien jedes Geräusch verstärkt. Ich hatte den starken Verdacht, "
 "dass dies kein Ort war, an dem meine Leute sich aufhalten sollten. Ich "
 "schritt grimmig voran; wenn ich daran dachte, was wir bereits alles "
-"durchgemacht hatten, dann verdammt sei Zardia wenn ich jetzt Angst bekäme."
+"durchgemacht hatten, dann verdammt sei Uria wenn ich jetzt Angst bekäme."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:707
 msgid "Explore Underground"
@@ -5640,14 +5615,13 @@ msgstr ""
 "mich, Kaleh! Tanze! Tanze!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8966
-#, fuzzy
 msgid ""
 "Where did he go? How does he disappear like that?  And what in Uria's name "
 "was he ranting about? Whoever that is is starting to make me get edgy."
 msgstr ""
-"Wo ist er hin? Wie kann er einfach so erscheinen? Und was in Zardias Namen "
-"hat er daher geredet? Wer auch immer das ist fängt langsam an mir auf die "
-"Nerven zu gehen."
+"Wo ist er hin? Wie kann er einfach so erscheinen? Und was in Urias Namen hat "
+"er daher geredet? Wer auch immer das ist fängt langsam an mir auf die Nerven "
+"zu gehen."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8992
 msgid "Where did you go? Do you remember anything?"
@@ -6897,13 +6871,12 @@ msgstr ""
 "alles brauchbare mitgenommen."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2296
-#, fuzzy
 msgid ""
 "Curse Uria! The water is rising over here as well. Already the western end "
 "of this chamber is flooded. And I think I see some movement in the water. "
 "Whatever it is, it can't be good."
 msgstr ""
-"Verdammt sei Zardia! Das Wasser steigt auch hier. Das westliche Ende dieser "
+"Verdammt sei Uria! Das Wasser steigt auch hier. Das westliche Ende dieser "
 "Kammer ist bereits überflutet. Und ich denke, ich sehe dass sich etwas im "
 "Wasser bewegt. Und was es auch ist, es kann nichts gutes sein."
 
@@ -7088,9 +7061,8 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2984
-#, fuzzy
 msgid "Grawww!"
-msgstr "Grrraaawwwkkk!"
+msgstr "Grawww!"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2989
 msgid "Make it end!"
@@ -7126,9 +7098,8 @@ msgid "Master, what is your command?"
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3053
-#, fuzzy
 msgid "What?!?"
-msgstr "Was?!"
+msgstr "Was?!?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3058
 msgid "Kromph need command. Command me!"
@@ -8075,10 +8046,9 @@ msgstr ""
 "das beste halte."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4532
-#, fuzzy
 msgid "Kaleh, would you mind telling me what in Uria's name is going on."
 msgstr ""
-"Kaleh, könntest du mir erklären was bitte in Zardias Namen vor sich geht?"
+"Kaleh, könntest du mir erklären was in Urias Namen bitte vor sich geht?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4537
 msgid ""
@@ -8306,9 +8276,8 @@ msgid "He killed himself rather then surrender to us!"
 msgstr "Er hat lieber Selbstmord begangen als sich uns zu ergeben!"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5197
-#, fuzzy
 msgid "They killed Durstrag! Run for your lives!"
-msgstr "Der große Troll ist tot. Lauft um euer Leben!"
+msgstr "Sie haben Durstrag getötet! Lauft um euer Leben!"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5214
 msgid "The rest of the humans are fleeing."
@@ -8520,14 +8489,12 @@ msgid "He looks like a half man half fish."
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6240
-#, fuzzy
 msgid "Indeed. I come from the ocean, and long have I been looking for you."
-msgstr "Transtafaal, wo bist du gewesen? Wir haben dich gesucht."
+msgstr "In der Tat. Ich komme vom Ozean, und habe lange nach euch gesucht."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6245
-#, fuzzy
 msgid "The Ocean? What are you talking about?"
-msgstr "Kaleh, mit wem sprichst du?"
+msgstr "Der Ozean? Wovon sprichst du?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6250
 msgid "Don't try to explain Esanoo. We'll have to show them instead."
@@ -8541,9 +8508,8 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6260
-#, fuzzy
 msgid "There are more of you? Where are the others?"
-msgstr "Das sind noch mehr unserer Leute im Kampf gegen die Schlammmonster!"
+msgstr "Es gibt noch mehr von euch? Wo sind die anderen?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6265
 msgid ""
@@ -8574,9 +8540,8 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6294
-#, fuzzy
 msgid "You don't know where to find your master?"
-msgstr "Ich weiß nicht, aber ich fürchte, wir werden es herausfinden."
+msgstr "Du weißt nicht, wo sich dein Meister aufhält?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6299
 msgid ""
@@ -8599,11 +8564,8 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6309
-#, fuzzy
 msgid "Thank you. I am not very good at fighting on the dry ground."
-msgstr ""
-"Danke, dass ihr mich befreit habt. Ihr Elfen seid sehr geschickte Kämpfer "
-"auf dem trockenen Land. Ich beneide euch."
+msgstr "Danke. Auf dem trockenen Land bin ich nicht zum Kämpfen zu gebrauchen."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6314
 msgid ""
@@ -8630,7 +8592,6 @@ msgid "Blood is Thicker than Water"
 msgstr "Blut ist dicker als Wasser"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:346
-#, fuzzy
 msgid ""
 "Chapter 8: Nym and Esanoo led us north, across the sands and through the "
 "dunes, towards the human encampment where the merfolk were being held. I "
@@ -8638,10 +8599,10 @@ msgid ""
 "that I had to see it for myself."
 msgstr ""
 "Kapitel 8: Nym und Esanoo führten uns über den Sand und durch die Dünen nach "
-"Norden, in die Richtung, wo sich die menschlichen Befestigungen befanden, in "
-"denen die Meeresbewohner gefangen gehalten wurden. Ich fragte Nym, woher "
-"Esanoo gekommen sei, aber sie gab mir keine Antwort und sagte nur, ich müsse "
-"es mit eigenen Augen sehen."
+"Norden, in die Richtung der menschlichen Befestigungen befanden, in denen "
+"die Meeresbewohner gefangen gehalten wurden. Ich fragte Nym, woher Esanoo "
+"gekommen sei, aber sie gab mir keine Antwort und sagte nur, ich müsse es mit "
+"eigenen Augen sehen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:350
 msgid ""
@@ -9599,13 +9560,12 @@ msgstr ""
 "gerettet."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2740
-#, fuzzy
 msgid ""
 "The Sea God will carry her soul out to sea and bear it to the deeps. May he "
 "watch over her until the day we are all together again."
 msgstr ""
 "Der Meeresgott wird ihre Seele hinaus in das Meer tragen und in seinen "
-"Tiefen aufnehmen. Möge er sie behüten, bis zu dem Tag, an dem wir alle "
+"Tiefen aufnehmen. Möge er sie behüten, bis zu dem Tage, an dem wir alle "
 "wieder vereint sein werden."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2750
@@ -9618,7 +9578,6 @@ msgstr ""
 "ereilt?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2755
-#, fuzzy
 msgid ""
 "They took We-jial, our enchantress, away from us. But she is at peace now. "
 "The Sea God will carry her soul out to sea and bear it to the deeps. May he "
@@ -9626,7 +9585,7 @@ msgid ""
 msgstr ""
 "Sie haben We-jial, unsere Zauberin, von uns genommen. Aber jetzt hat sie "
 "Frieden gefunden. Der Meeresgott wird ihre Seele hinaus in das Meer tragen "
-"und in seinen Tiefen aufnehmen. Möge er sie behüten, bis zu dem Tag, an dem "
+"und in seinen Tiefen aufnehmen. Möge er sie behüten, bis zu dem Tage, an dem "
 "wir alle wieder vereint sein werden."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2768
@@ -9643,13 +9602,12 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2785
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2800
-#, fuzzy
 msgid ""
 "The Sea God will carry their souls out to sea and bear them to the deeps. "
 "May he watch over them until the day we are all together again."
 msgstr ""
 "Der Meeresgott wird ihre Seelen hinaus in das Meer tragen und in seinen "
-"Tiefen aufnehmen. Möge er sie behüten, bis zu dem Tag, an dem wir alle "
+"Tiefen aufnehmen. Möge er sie behüten, bis zu dem Tage, an dem wir alle "
 "wieder vereint sein werden."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2795
@@ -9777,9 +9735,8 @@ msgid "Aaarrrgggh! Voices in my head, make them stop!"
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3241
-#, fuzzy
 msgid "What? What do you hear?"
-msgstr "Warte, hast du das gehört?"
+msgstr "Was? Was hast du gehört?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3246
 msgid "Must...Can't...Must...Help me!"
@@ -9827,7 +9784,6 @@ msgstr ""
 "unsere Göttin bist, dann zeige dich, und strecke mich auf der Stelle nieder!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3375
-#, fuzzy
 msgid ""
 "Nothing. Eloh may still watch over us, but that thing was not her. And yet, "
 "I do not hold a grudge against all of you who rebelled. I too was deceived "
@@ -9837,13 +9793,14 @@ msgid ""
 "god, I will help us find a better land, or die trying."
 msgstr ""
 "Nichts. Eloh mag noch immer über uns wachen, aber dieses Ding war nicht sie. "
-"Und doch, ich hege keinen Groll gegen jene, die gegen mich rebelliert haben. "
-"Ich hatte mich zuerst auch täuschen lasen, und anders als die Schwindlerin, "
-"bin ich vergebend. Vor allem, es sind zu wenige von uns übrig, als dass wir "
-"es uns leisten könnten, und gegenseitig wegen kleinerer Missstände zu töten. "
-"Lasst uns eine allgemeine Amnestie erklären, und uns wieder vereinen, um "
-"gemeinsam weiterzugehen. Mit Gott oder ohne Gott, ich werde uns helfen, ein "
-"besseres Land zu finden, oder beim Versuch sterben."
+"Und doch hege ich keinen Groll gegen all jene von euch, die gegen mich "
+"rebelliert haben. Ich hatte mich zuerst auch täuschen lasen, und anders als "
+"die Schwindlerin, bin ich vergebend. Vor allem da viel zu wenige von uns "
+"übrig sind, als dass wir es uns leisten könnten, und gegenseitig wegen "
+"kleinerer Missstände zu töten. Lasst uns eine allgemeine Amnestie erklären, "
+"und uns wieder vereinen, um gemeinsam Hand in Hand weiter zu gehen. Mit Gott "
+"oder ohne Gott, ich werde uns helfen, ein besseres Land zu finden, oder beim "
+"Versuch sterben."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3382
 msgid ""
@@ -9984,7 +9941,6 @@ msgid "Wherever you go Kaleh, I will follow."
 msgstr "Wo auch immer du hingehst, Kaleh, ich werde dir folgen."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3595
-#, fuzzy
 msgid "Very well. You have not led us astray so far, I will not leave you now."
 msgstr ""
 "So sei es denn. Du bist bisher nie vom Weg abgekommen, also werde ich dich "
@@ -10065,14 +10021,13 @@ msgstr ""
 "meiner wahren Macht."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3939
-#, fuzzy
 msgid ""
 "Small part or no, if it is mortally possible to destroy you, I shall. Your "
 "hands are stained in our blood, you are not our god."
 msgstr ""
-"Kleiner Teil oder nicht, wenn es einem Sterblichen möglich ist, dich zu "
-"töten, dann werde ich es tun. Deine Hände sind mit dem Blut unseres Volkes "
-"befleckt, und du bist nicht unsere Göttin."
+"Kleiner Teil oder nicht, wenn es einem Sterblichen möglich ist, dich zur "
+"Strecke zu bringen, dann werde ich es tun. Deine Hände sind mit dem Blut "
+"unseres Volkes befleckt, und du bist nicht unsere Göttin."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3960
 msgid "Don't worry Kaleh, we will see each other again...I promise."
@@ -10170,9 +10125,8 @@ msgstr ""
 "Hand sterben."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4084
-#, fuzzy
 msgid "Never Kaleh. I will not be your lackey again!"
-msgstr "Niemals, Kaleh. Ich werde nicht mehr dein Lakai sein!"
+msgstr "Niemals, Kaleh. Ich werde nicht länger dein Lakai sein!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4095
 msgid ""
@@ -10816,7 +10770,6 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/EndMessage.cfg:20
-#, fuzzy
 msgid ""
 "This campaign is still under development, and so this is the end of the "
 "completed scenarios. Check the forums at forum.wesnoth.org and the campaign "
@@ -11274,9 +11227,8 @@ msgid "poison"
 msgstr "Gift"
 
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:4
-#, fuzzy
 msgid "Uncloaked Assassin"
-msgstr "Dunkler Mörder"
+msgstr "Enttarnter Mörder"
 
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:20
 msgid "Sometimes those closest to you can be your bitterest foes."
@@ -11983,9 +11935,8 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:56
 #: Under_the_Burning_Suns/units/Desert_Shaman9.cfg:56
 #: Under_the_Burning_Suns/units/Desert_Shaman.cfg:56
-#, fuzzy
 msgid "entangle"
-msgstr "Tentakel"
+msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:4
 msgid "Desert Sharpshooter"
