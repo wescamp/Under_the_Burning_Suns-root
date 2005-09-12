@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-09-12 15:16+0200\n"
-"PO-Revision-Date: 2005-08-24 22:24+0200\n"
+"PO-Revision-Date: 2005-09-10 15:53+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgid ""
 msgstr ""
 "I en avlägsen framtid kämpar en liten grupp alver för sin överlevnad bland "
 "ruinerna av fallna stater. Led ditt folk på en episk resa ut ur öknen i "
-"jakten på ett nytt hem. (Version 0.5.1, 2005-07-20)"
+"jakten på ett nytt hem. (Version 0.6-beta, 2005-09-05)"
 
 #: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Hunter5.cfg:4
@@ -262,9 +262,8 @@ msgid "Starting Objectives:"
 msgstr "Inledande scenariomål:"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:703
-#, fuzzy
 msgid "Kaleh must capture a keep"
-msgstr "Kaleh måste nå"
+msgstr "Kaleh måste erövra ett kärntorn"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:674
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1315
@@ -286,11 +285,8 @@ msgid "Alusan"
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:781
-#, fuzzy
 msgid "Where did this fog come from? I can't see a thing!"
-msgstr ""
-"Men varifrån kom de? Jag kan svära på att de där borgarna inte fanns där när "
-"solen gick ner."
+msgstr "Men varifrån kom den här dimman? Jag kan inte se någonting!"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:786
 msgid ""
@@ -523,9 +519,8 @@ msgid "Any unit must reach the black citadel"
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1498
-#, fuzzy
 msgid "Aaaargh!"
-msgstr "Raaaar!"
+msgstr "Aaaargh!"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1517
 msgid ""
@@ -540,9 +535,8 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1562
-#, fuzzy
 msgid "Nooooo!!!"
-msgstr "Nej!!!"
+msgstr "Neeeeej!!!"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1581
 msgid ""
@@ -646,9 +640,8 @@ msgid "May Eloh protect you."
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1862
-#, fuzzy
 msgid "Her will be done. "
-msgstr "Jag skall bli hämnad..."
+msgstr "Ske hennes vilja."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1878
 msgid "Well, now we just have to wait... "
@@ -730,15 +723,13 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:299
-#, fuzzy
 msgid "Defeat Eloh"
-msgstr "Besegra Xanthos"
+msgstr "Besegra Eloh"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:303
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1462
-#, fuzzy
 msgid "Death of Kaleh"
-msgstr "Kaleh, Nym eller Zhul dör"
+msgstr "Kaleh dör"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:337
 msgid "Kaleh! No!"
@@ -907,14 +898,12 @@ msgid "What is that thing!?!"
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1414
-#, fuzzy
 msgid "Eloh protect us!"
-msgstr "Må Eloh beskydda oss. Jag är dödligt sårad..."
+msgstr "Må Eloh beskydda oss!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1419
-#, fuzzy
 msgid "Raaauurrrggghhh!"
-msgstr "Aaaauuugggghhhh!"
+msgstr "Raaauurrrggghhh!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1440
 msgid "Curse Uria, more abominations!"
@@ -933,9 +922,8 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1458
-#, fuzzy
 msgid "Defeat alien creature"
-msgstr "Besegra alla fiender"
+msgstr "Besegra den främmande varelsen"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1587
 msgid ""
@@ -945,7 +933,6 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1679
-#, fuzzy
 msgid "Aaaauuurrrggghhhh!!!"
 msgstr "Aaaauuugggghhhh!"
 
@@ -958,18 +945,16 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1738
 #, fuzzy
 msgid "At last. It is dead."
-msgstr "Och, till sist, så är det över."
+msgstr "Äntligen, den är död."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:13
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:14
-#, fuzzy
 msgid "Epilogue"
-msgstr "pest"
+msgstr "Epilog"
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:45
-#, fuzzy
 msgid "Epilogue:"
-msgstr "pest"
+msgstr "Epilog:"
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:100
 msgid ""
@@ -1566,9 +1551,8 @@ msgstr "Kaleh, Nym, hjälp oss!"
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:443
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:529
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:796
-#, fuzzy
 msgid "What in Uria's name is that?"
-msgstr "Vad i Zardias namn är det där?"
+msgstr "Vad i Urias namn är det där?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:447
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:533
@@ -2030,7 +2014,7 @@ msgstr ""
 "hon sade: 'Du måste vara stark, unge alv, ty ni träder in i en tid av fara. "
 "Hemmet du känner kommer att läggas i ruiner, och du måste leda ditt folk "
 "till ett nytt land. I norden finner ni frälsning och fred. Genomkorsa öknen "
-"och färdas mot bergen. Frukta icke, ty jag skall visa er på vägen och skydda "
+"och färdas mot bergen. Frukta icke, ty jag skall visa er vägen och skydda "
 "er'. Jag vet inte varför hon valde att visa sig för mig, men om detta är "
 "hennes vilja, så skall jag se till att det blir gjort. Vårt hem är borta och "
 "öknen är en svår plats. Om Eloh har berett ett nytt hem för oss, så skall "
@@ -2058,7 +2042,7 @@ msgid ""
 "or desecrated by other necromancers."
 msgstr ""
 "Vad skall vi göra med de döda? Vi kan inte lämna dem till kråkorna eller "
-"låta dem komma i nekromantikers händer."
+"låta dem komma i händerna på nekromantiker"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1728
 msgid ""
@@ -2092,7 +2076,7 @@ msgid ""
 msgstr ""
 "Och så skedde. De döda lades med stor vördnad ovanpå den lilla ved vi kunde "
 "finna. Men elden blev stor nog för att bränna kropparna till aska och skicka "
-"deras själar till efterlivet. Jag minns att vi tänkte att så många "
+"deras själar till livet härefter. Jag minns att vi tänkte att så många "
 "förolyckade inte bådade gott inför vår resa. De var de första av vårt folk "
 "att gå under i vår resa, men de skulle bli långt ifrån de sista."
 
@@ -2297,7 +2281,7 @@ msgid ""
 "more sources of water. As it is, between the heat of the day and the cold of "
 "the night, this journey will be hard on our people."
 msgstr ""
-"Eftersom vi var tvungna att ge oss av så brådstörtad, så fick vi inte med "
+"Eftersom vi var tvungna att ge oss av så brådstörtat, så fick vi inte med "
 "oss tillräckligt med vattenskinn och proviant. Om vi skyndar oss och äter så "
 "lite som möjligt, så bör det räcka, men vi kommer inte att överleva länge i "
 "ödemarken om vi inte hittar mer vatten. Som det nu är så kommer vårt folk "
@@ -2365,7 +2349,7 @@ msgid ""
 "from thirst or hunger, nor cold nor heat. I've heard tales of such magical "
 "items, we can certainly use it now."
 msgstr ""
-"Skorpioner åt på någon stackares lik. Det verkar inte som att det finns "
+"Skorpionerna åt på någon stackares lik. Det verkar inte som att det finns "
 "mycket kvar av honom eller henne... Men vänta... Vad är det här? Det ser ut "
 "som en liten guldring. Det finns alvrunor på insidan, men jag kan knappt "
 "läsa dem. Det verkar vara en färdring... Den som bär den kommer inte att "
@@ -2468,7 +2452,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2118
 msgid "You have defied our master for the last time. Now you shall die!"
-msgstr "Det var sista gången som ni trotsade vår mästare. Nu skall ni dö!"
+msgstr "Det var sista gången som du trotsade vår mästare. Nu skall du dö!"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2125
 msgid "Stupid undead, they never listen. Then have a taste of my flame!"
@@ -3086,7 +3070,6 @@ msgstr ""
 "förrän en av oss går segrande ur striden."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:209
-#, fuzzy
 msgid ""
 "Maybe I spoke too soon. Curse Uria, they have even blotted out even the "
 "stars, all is darkness. Kaleh, our course is clear, we must destroy one of "
@@ -3094,7 +3077,7 @@ msgid ""
 "the spectral evil that remains, one of them must die for this battle to end. "
 "We have no choice."
 msgstr ""
-"Jag var visst förhastad. Förbannad vare Zardia, de har till och med täckt "
+"Jag var visst förhastad. Förbannad vare Uria, de har till och med täckt "
 "stjärnorna, allt är mörker. Kaleh, vi måste förgöra åtminstone en av dessa "
 "vidriga varelser. Om det blir den som har besatt vår vän, eller den andra "
 "onda skepnaden spelar inte någon roll. Någon av dem måste dö, så att striden "
@@ -3207,7 +3190,6 @@ msgid "He's...He's still breathing!"
 msgstr "Han...han andas fortfarande!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:402
-#, fuzzy
 msgid "Protect the boy for me Zhul, (cough) I go to a better place."
 msgstr "Zhul, skydda pojken åt mig (host). Jag går till ett bättre ställe."
 
@@ -3532,7 +3514,6 @@ msgstr ""
 "berättas för mig många gånger."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:46
-#, fuzzy
 msgid ""
 "A long, long time ago was the golden age among elves. Our people lived in "
 "harmony with nature in lands filled with trees, trees as far as the eye "
@@ -3546,14 +3527,13 @@ msgstr ""
 "För länge, länge sedan var alvernas gyllene ålder. Vårt folk levde i harmoni "
 "med naturen i länder fyllda med träd, träd så långt man kunde se. Det var "
 "fred mellan alverna och de andra raserna, såsom människor och dvärgar, och "
-"de onda varelserna hade fördrivits långt ner under jorden. Zardias mörka "
+"de onda varelserna hade fördrivits långt ner under jorden. Urias mörka "
 "krafter var nästa bortglömda, och under den här tiden välsignade Eloh oss "
 "genom att höja ännu en sol i skyn, så att dagarna förlängdes och de mörka "
 "timmarna var få. Sannerligen var vårt folk lyckligt under dessa långa år, "
 "men det skulle inte vara för evigt."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:50
-#, fuzzy
 msgid ""
 "Though Uria had been forgotten by most of our people, she had not faded "
 "away. She bade her time, and slowly stretched her black hands out across the "
@@ -3570,20 +3550,20 @@ msgid ""
 "friends fought over what few resources remained, and chaos threatened to "
 "overwhelm us all."
 msgstr ""
-"Zardia var bortglömd av de flesta av vårt folk, men hon hade inte "
-"försvunnit. Hon bidade sin tid och sträckte långsamt ut sina svarta händer "
-"över världen. Först började smågräl mellan människor, alver och dvärgar "
-"utvecklas till konflikter, vilket kastade våra folk i de första krigen på "
-"mycket länge. Sedan kom orcher och annat otyg tillbaka in i världen och "
-"överföll våra bosättningar, de förstörde våra byar och massakrerade "
-"hundratals av vårt folk. Vi hade blivit veka under den långa tiden av fred "
-"och överflöd, och kunde inte bemöta dessa nya prövningar. Även naturen själv "
-"verkade rygga tillbaka under striderna; det blev missväxt, träden blev sjuka "
-"och våra skogar började dö. Under stor oro märkte vi att nätterna blev "
-"längre, vilket sedan gav upphov till de långa mörker vi lever i idag. Många "
-"av vårt folk förtvivlade, och det fanns till och med de som tog emot mörkret "
-"med glädje, och tillbad Zardia i hopp om att bli skonade. Gamla vänner slogs "
-"om de få tillgångar som fanns kvar, och kaos hotade att sluka oss alla."
+"Uria var bortglömd av de flesta av vårt folk, men hon hade inte försvunnit. "
+"Hon bidade sin tid och sträckte långsamt ut sina svarta händer över världen. "
+"Först började smågräl mellan människor, alver och dvärgar utvecklas till "
+"konflikter, vilket kastade våra folk i de första krigen på mycket länge. "
+"Sedan kom orcher och annat otyg tillbaka in i världen och överföll våra "
+"bosättningar, de förstörde våra byar och massakrerade hundratals av vårt "
+"folk. Vi hade blivit veka under den långa tiden av fred och överflöd, och "
+"kunde inte bemöta dessa nya prövningar. Även naturen själv verkade rygga "
+"tillbaka under striderna; det blev missväxt, träden blev sjuka och våra "
+"skogar började dö. Under stor oro märkte vi att nätterna blev längre, vilket "
+"sedan gav upphov till de långa mörker vi lever i idag. Många av vårt folk "
+"förtvivlade, och det fanns till och med de som tog emot mörkret med glädje, "
+"och tillbad Uria i hopp om att bli skonade. Gamla vänner slogs om de få "
+"tillgångar som fanns kvar, och kaos hotade att sluka oss alla."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:54
 msgid ""
@@ -3659,6 +3639,8 @@ msgid ""
 "Those mountains are huge, I never thought they would be so big. And what's "
 "that white stuff on the tops of the peaks?"
 msgstr ""
+"De där bergen är ju gigantiska. Aldrig kunde jag tro att de skulle vara så "
+"stora. Och vad är det där för något vitt på deras toppar?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:654
 msgid ""
@@ -3669,6 +3651,12 @@ msgid ""
 "they are filled with orcs and goblins. It may look peaceful now, but they "
 "hide in the many caves and tunnels beneath the surface."
 msgstr ""
+"Jag önskar att Garak var här, han skulle veta mer om landet här omkring än "
+"vad jag gör. Jag har aldrig varit så här långt norrut, men jag har hört "
+"berättelser från de få som har gjort resan hit och återvänt. Det vita kallas "
+"för snö, Nym, och bergen är mycket kalla. Dessa mindre kullar är inte lika "
+"svåra att ta sig över, men de är fyllda av orcher och vättar. Det ser kanske "
+"fredligt ut nu, men de gömmer sig i många grottor och tunnlar under ytan."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:659
 msgid ""
@@ -3676,10 +3664,13 @@ msgid ""
 "but instead of trying to go over the mountains, she said that we had to go "
 "underneath them."
 msgstr ""
+"Jag hade ännu en vision i natt. Eloh berättade för mig att vi måste "
+"fortsätta norrut, men att vi inte skulle försöka ta oss över bergen, utan vi "
+"måste gå under dem."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:664
 msgid "Underneath them? But how?"
-msgstr ""
+msgstr "Under dem? Hur då?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:669
 msgid ""
@@ -3689,6 +3680,12 @@ msgid ""
 "those frozen peaks. As much as I dislike those pitch-black caves, if we want "
 "to cross these mountains we may have no choice."
 msgstr ""
+"Orcher och vättar har bott här i hundratals år och deras tunnlar och grottor "
+"bildar ett nätverk, som är mycket mer vidsträckt än man kan tänka sig. Vem "
+"vet hur långt de sträcker sig under ytan. Vi är inte förberedda för en "
+"marsch över de där frusna topparna. Så, hur mycket jag än avskyr de "
+"kolsvarta grottorna, så har vi nog inte något val om vill ta oss till andra "
+"sidan bergen."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:674
 msgid ""
@@ -3699,12 +3696,20 @@ msgid ""
 "mountains. I fear no darkness, and you won't be lacking a source of fire or "
 "light."
 msgstr ""
+"Det är inte bara orcher som gräver tunnlar i marken. För länge sedan grävde "
+"dvärgarna efter malm i berg som de här, och jättestora troll brukade gömma "
+"sig in djupa mörka hålor i marken. Om din gud är så allvetande som du tycks "
+"tro Kaleh, så skulle jag inte bli förvånad om det finns mer än en väg till "
+"andra sidan dessa berg. Jag fruktar inte mörkret, och du kommer inte att "
+"sakna vare sig eld eller ljus."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:679
 msgid ""
 "Well if we are going to go under these mountains, we're certainly going to "
 "have our hands full fighting all those orcs and goblins."
 msgstr ""
+"Ja, om vi nu går under bergen så kommer vi i alla fall inte gå sysslolösa, "
+"med alla dessa dessa orcher och vättar att slåss emot."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:684
 msgid ""
@@ -3716,11 +3721,21 @@ msgid ""
 "people into the tunnels. And hopefully underground it will be easier to "
 "protect them than out in the open."
 msgstr ""
+"Sannerligen. Än en gång vill jag be dig, Kaleh, att betänka att detta inte "
+"är öknen. Orcherna älskar att slåss i kullar och grottor, och vi kommer inte "
+"att ha fördelen av att slåss på den öppna sanden. Vi har också lidit så "
+"stora förluster på sistone, så vi kommer heller inte att ha fördelen av att "
+"vara flera. Så vi måste vara extra försiktiga. Men om vi kan röja en väg in "
+"i kullarna framför oss, så bör vi kunna leda vårt folk tryggt ner i "
+"tunnlarna. Och förhoppningsvis så kommer det att vara lättare att försvara "
+"dem under marken än ute i det fria."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:689
 msgid ""
 "Strike hard and fast and also be careful--right, this is going to be fun."
 msgstr ""
+"Slå till hårt och snabbt, och var försiktig - ok, det här kommer att bli "
+"skoj."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:908
 msgid "Attack!"
@@ -3732,44 +3747,50 @@ msgstr "Fly!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:919
 msgid "Goblins are so predictable."
-msgstr ""
+msgstr "Vättar är så förutsägbara."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1029
 msgid ""
 "Come forth, creatures of the lake! Fulfill the oaths you have made and help "
 "us drive these hated creatures from our lands."
 msgstr ""
+"Kom fram, ni sjöns varelser! Uppfyll den ed ni svurit och hjälp oss att "
+"driva dessa förhatliga varelser från vårt land."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1034
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1173
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1234
 msgid "Sssslay them all! In the name of the ssscaled one!"
-msgstr ""
+msgstr "Sssslakta dem allihop! I den ssslingrandes namn!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1060
 msgid "These elves are stronger than we thought. Send for more reinforcements!"
-msgstr ""
+msgstr "Alverna är starkare än vi trodde. Skicka efter fler trupper!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1065
 msgid ""
 "How can he move that fast? He is faster than any goblin rider I have ever "
 "seen. It's almost unnatural."
 msgstr ""
+"Hur kan han röra sig så fort? Han är snabbare än någon vätteryttare jag "
+"någonsin har sett. Det är nästan onaturligt."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1082
-#, fuzzy
 msgid "Gaagghhh!!!"
-msgstr "Gaggghhh!"
+msgstr "Gaagghhh!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1104
 msgid ""
 "Wait a minute. He was wearing a silver ring on one of his fingers. I think "
 "the ring might be magical. Maybe that's why he was moving so fast."
 msgstr ""
+"Vänta lite. Han bar en silverring på en av sina fingrar. Jag tror att ringen "
+"kan vara magisk. Kanske det är på grund av den som han kunde röra sig så "
+"fort."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1109
 msgid "I think, Kaleh, that you should take the ring."
-msgstr ""
+msgstr "Jag tror att du borde ta ringen, Kaleh."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1114
 msgid "Why me?"
@@ -7439,9 +7460,8 @@ msgid "He killed himself rather then surrender to us!"
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5205
-#, fuzzy
 msgid "They killed Durstrag! Run for your lives!"
-msgstr "Hövdingen har fallit! Fly för livet!"
+msgstr "De har dödat Durstrag! Spring för livet!"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5222
 msgid "The rest of the humans are fleeing."
@@ -7629,9 +7649,8 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6269
-#, fuzzy
 msgid "There are more of you? Where are the others?"
-msgstr "Där är det fler av vårt folk som slåss mot lermonsterna!"
+msgstr "Finns det fler av er? Var är de andra?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6274
 msgid ""
@@ -9495,7 +9514,6 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/EndMessage.cfg:20
-#, fuzzy
 msgid ""
 "This campaign is still under development, and so this is the end of the "
 "completed scenarios. Check the forums at forum.wesnoth.org and the campaign "
@@ -9505,9 +9523,9 @@ msgid ""
 msgstr ""
 "Denna kampanj är fortfarande under utveckling, och detta är det sista av de "
 "färdiga scenarierna. Se efter i vårt forum (forum.wesnoth.org) och på "
-"kampanjservern om det finns fler färdiga scenarier och andra uppdateringar. "
-"(Versionen för den här kampanjen anges i kampanjbeskrivningen under Kampanj "
-"i huvudmenyn.) Tack för att du spelade Solarnas Rike!"
+"kampanjservern om det finns fler färdiga scenarier eller andra "
+"uppdateringar. (Versionen för den här kampanjen anges i kampanjbeskrivningen "
+"under Kampanj i huvudmenyn.) Tack för att du spelade De Brännande Solarna."
 
 #: Under_the_Burning_Suns/units/Alien_Body.cfg:4
 msgid "Alien Body"
@@ -10613,9 +10631,8 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:56
 #: Under_the_Burning_Suns/units/Desert_Shaman9.cfg:56
 #: Under_the_Burning_Suns/units/Desert_Shaman.cfg:56
-#, fuzzy
 msgid "entangle"
-msgstr "tentakel"
+msgstr "snärja"
 
 #: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:4
 msgid "Desert Sharpshooter"
