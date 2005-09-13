@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-09-12 15:16+0200\n"
-"PO-Revision-Date: 2005-09-10 15:53+0200\n"
+"PO-Revision-Date: 2005-09-13 17:28+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,6 @@ msgid "Under the Burning Suns"
 msgstr "De Brännande Solarna"
 
 #: Under_the_Burning_Suns.cfg:20
-#, fuzzy
 msgid ""
 "In the distant future, where a small band of elves struggle to survive "
 "amidst the ruins of fallen empires, lead your people out of the desert on an "
@@ -25,7 +24,7 @@ msgid ""
 msgstr ""
 "I en avlägsen framtid kämpar en liten grupp alver för sin överlevnad bland "
 "ruinerna av fallna stater. Led ditt folk på en episk resa ut ur öknen i "
-"jakten på ett nytt hem. (Version 0.6-beta, 2005-09-05)"
+"jakten på ett nytt hem. (Version 0.6-beta, 2005-09-07)"
 
 #: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Hunter5.cfg:4
@@ -183,20 +182,19 @@ msgstr "Det långa mörkret (4)"
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:17
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:18
 msgid "The Battle for Nemsoth Isle"
-msgstr ""
+msgstr "Striden om Nemsothön"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:75
 msgid "Boyicht"
-msgstr ""
+msgstr "Boyicht"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:121
 msgid "Kelur"
-msgstr ""
+msgstr "Kelur"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:165
-#, fuzzy
 msgid "Graghht"
-msgstr "Gaggghhh!"
+msgstr "Graghht"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:319
 msgid ""
@@ -205,6 +203,10 @@ msgid ""
 "diversion, but the fact that we had not encountered any resistance was still "
 "eerily disturbing. Ahead of us, the large island loomed, dark and menacing."
 msgstr ""
+"Kapitel 10: Våra båtar gled tyst genom vattnet, dolda av mörkret just före "
+"gryningen. Just nu påbörjade sjöfolket sin avledande manöver, men det var "
+"nästan otäckt att vi ännu inte stött på något motstånd. Den stora ön låg "
+"framför oss, mörk och hotfull."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:323
 msgid ""
@@ -217,6 +219,14 @@ msgid ""
 "but in truth it was all me. For better or for worse I have no one to blame "
 "but myself. "
 msgstr ""
+"Till slut hade nästan alla valt att följa med oss. Jag var förvånad. Efter "
+"allt som vårt folk hade genomlidit, så litade de fortfarande på mig. När jag "
+"såg mig omkring bland dem, så gick det inte att undvika att se hur många "
+"välkända ansikten som saknades. Knappt en fjärdedel av de som givit sig av "
+"på resan tillsammans med oss var kvar. Skulle jag givit mig av om jag hade "
+"vetat hur illa det skulle bli? Jag trodde att Eloh beskyddade och vägledde "
+"oss, men sanningen var att det var jag, och bara jag. Jag kunde inte lasta "
+"någon annan för vare sig det bra eller det dåliga."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:327
 msgid ""
@@ -228,6 +238,14 @@ msgid ""
 "those poor souls we left behind in our village and the many who have marked "
 "our path with their blood, they all shall be avenged."
 msgstr ""
+"Men Zhul har rätt, om vi har kommit så här långt bara för en chans att "
+"hjälpa sjöfolket att besegra Vechnagoth, så har vår resa inte varit "
+"förgäves. Vi har kommit ända hit i hoppet om att finna ett nytt hem, där vi "
+"kan vara säkra för alla öknens fasor och all öknens död. Men i slutänden är "
+"det inte det som får mig att fortsätta. Allt jag önskar är hämnd på henne, "
+"hon som gjorde oss detta. Garak, Keratur, Tanstafaal, alla de vi fick lämna "
+"kvar i vår by, och alla de vars blod markerar vår väg, alla skall de bli "
+"hämnade."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:331
 msgid ""
@@ -241,10 +259,21 @@ msgid ""
 "to Eloh (if she is even listening) that if I die, then I die making these "
 "lands a better place. Please may this not all be in vain..."
 msgstr ""
+"Den här striden är handlar om mer än bara oss. Detta land var en gång fyllt "
+"av skönhet och hopp. De stora rikena är kanske borta nu, men folket försöker "
+"ännu överleva här. Hur förfärligt allt ändå verkar, så finns det likväl "
+"någon skönhet och något ljus kvar, undangömt. Och jag tänker inte låta det "
+"slukas av ett andra mörker. Skulle dessa öar kunna bli ett hem för mitt "
+"folk? Det vore alltför underbart för att ens hoppas på. Jag kan inte tänka "
+"på sådant nu, först efter striden. Nu måste jag fokusera på vad som ligger "
+"framför oss. Jag bryr mig inte om vad som händer med mig, men jag ber Eloh "
+"(om hon nu ens lyssnar) att om jag dör, så skall min död åtminstone betyda "
+"att denna plats blir något bättre. Snälla, låt inte allt detta ha varit "
+"förgäves..."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:550
 msgid "Trapped Merman"
-msgstr ""
+msgstr "Tillfångataget sjöfolk"
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:89
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:948
@@ -278,11 +307,11 @@ msgstr "Kaleh, Nym eller Zhul dör"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:724
 msgid "Eagath"
-msgstr ""
+msgstr "Eagath"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:738
 msgid "Alusan"
-msgstr ""
+msgstr "Alusan"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:781
 msgid "Where did this fog come from? I can't see a thing!"
@@ -293,6 +322,9 @@ msgid ""
 "Fog and darkness cloud this place, but we can use it to our advantage. The "
 "other ships will be safe hidden out in the deep water."
 msgstr ""
+"Den här platsen döljs av dimma och mörker, men vi kan vända det till vår "
+"fördel. De andra skeppen kommer att vara säkra och osynliga ute på djupt "
+"vatten"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:792
 msgid ""
@@ -301,6 +333,10 @@ msgid ""
 "fog, they will be safe for the moment. Once we find a place to rally our "
 "people, we can bring the rest of them in and start fighting in earnest."
 msgstr ""
+"Vi borde leta reda på ett fort innan vi landsätter resten av vårt folk. Jag "
+"tycker inte om tanken på att låta alla gå i land innan vi kan skydda dem i "
+"ett fort. Dimman ger dem skydd nu. Så fort som vi har funnit en plats att "
+"samla dem på, så kan vi låta resten komma i land och anfalla på riktigt."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:797
 msgid ""
@@ -308,12 +344,17 @@ msgid ""
 "If you explore the land to the west, then we will swim through the shallows "
 "and see what we can find."
 msgstr ""
+"Jag tror att det finns några ruiner av mänsklig bebyggelse på den sydvästra "
+"delen av ön. Om ni utforskar landet västerut, så simmar vi längs "
+"strandkanten och ser vad vi kan finna."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:803
 msgid ""
 "That is a good plan. First find a fort, then we can explore the rest of the "
 "island."
 msgstr ""
+"Det låter som en bra plan. Först ser vi till att hitta ett fort, och sedan "
+"kan vi utforska resten av ön."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:856
 msgid ""
@@ -321,6 +362,10 @@ msgid ""
 "things staring at us from the depths of the jungle, but I can't tell what "
 "they are. As much as I love plants and trees, I don't like the look of it."
 msgstr ""
+"Usch. Djungeln verkar mörk och hotande. Ser du de där ögonen? Det finns "
+"saker som stirrar på oss inifrån djungeln, men jag kan inte se vad de är. "
+"Det kvittar hur mycket jag älskar växter och träd, men det där tycker jag "
+"inte om."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:862
 msgid ""
@@ -329,6 +374,10 @@ msgid ""
 "first. I don't think I want to hack through the jungle until we have more "
 "elves at our side."
 msgstr ""
+"Sannerligen. Det verkar som om den södra delen av ön har ett mycket öppnare "
+"landskap. Sjöfolket sa att det fanns ruiner av mänsklig bebyggelse i "
+"sydväst. Kanske vi borde gå dit först. Jag vill nog inte hacka mig genom "
+"djungeln utan fler alver vid min sida."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:892
 msgid ""
@@ -336,6 +385,9 @@ msgid ""
 "I thought we would be attacked the moment we set foot on this island. Where "
 "is everybody?"
 msgstr ""
+"Jag fattar det inte. Allt vi kan se är ruiner, ben, lite sand och "
+"gräsplättar. Jag trodde vi skulle bli anfallna så fort vi satte en fot på "
+"ön. Var är alla?"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:898
 msgid ""
@@ -343,39 +395,50 @@ msgid ""
 "from behind the next rock or stone wall and attack, but everything is "
 "silent. Too silent."
 msgstr ""
+"Det är det som oroar mig. Jag kan inte låta bli att tänka att någonting "
+"kommer att hoppa fram bakom nästa buske eller mur och anfalla oss. Men allt "
+"är tyst. För tyst."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:948
 msgid "You trespass on holy ground, The One says you must die!"
-msgstr ""
+msgstr "Ni inkräktar på helig mark. Den Enda säger att ni måste dö!"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:954
 msgid ""
 "Paugh! Little one, you are not worth our time. We are the Quenoth Elves! "
 "Flee and trouble us no longer or we will squash you like a bug."
 msgstr ""
+"Tsk! Du lille, du är inte värd att slösa någon tid på. Vi är Quenoth-"
+"alverna! Fly och stör oss inte mer, annars så krossar vi dig som en insekt."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:959
 msgid "No, you are not The One. You no command Boyicht. Attack!"
-msgstr ""
+msgstr "Nej, du är inte Den Enda. Du inte befalla Boyicht. Anfall!"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1020
 msgid "My death matters not. The one will kill you all. None can resist her."
 msgstr ""
+"Min död betydelselös. Den Enda kommer att döda er alla. Ingen kan motstå "
+"henne."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1031
 msgid "I say good riddance. He creeped me out."
 msgstr ""
+"Skönt att bli av med honom. Han fick det att gå kalla kårar längs ryggraden "
+"på mig."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1044
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1074
 msgid "Naga Leader"
-msgstr ""
+msgstr "Nagaledaren"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1116
 msgid ""
 "I have captured the keep. This castle is somewhat ruined, but will it serve "
 "our purposes. Now, I wonder where the merfolk are?"
 msgstr ""
+"Jag har erövrat kärntornet. Borgen är delvis i ruiner, men den fyller ändå "
+"sin funktion. Var håller sjöfolket hus nu då?"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1133
 msgid ""
@@ -383,16 +446,22 @@ msgid ""
 "except for those lizards you found, and some abandoned villages, it seem to "
 "be empty. We captured those villages for you, to help support your troops."
 msgstr ""
+"Oroa dig inte, här är vi! Vi har utforskat den södra delen av ön. Och med "
+"undantag för de där ödlorna ni fann och några övergivna byar, så verkar allt "
+"vara öde. Vi erövrade de där byarna för er räkning, så att ni kan underhålla "
+"era trupper."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1145
 msgid "Thanks, I think we're going all the support we can get."
-msgstr ""
+msgstr "Tack. Jag tror att vi kommer att behöva allt stöd vi kan få."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1156
 msgid ""
 "Now that you have found a fortress to protect your people, we can bring in "
 "the other ships."
 msgstr ""
+"Nu när ni har hittat en fästning för att skydda vårt folk, så kan vi låta "
+"resten av skeppen landstiga."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1174
 msgid ""
@@ -401,6 +470,9 @@ msgid ""
 "expensive. Of course if we lose this battle, then what use will gold be to "
 "us?"
 msgstr ""
+"Bra, nu kan vi börja rekrytera och återkalla våra soldater. Det kommer "
+"naturligtvis att vara svårt att och dyrt att utbilda nya trupper när vi är "
+"så få kvar. Men om vi förlorar den här striden, vad nytta har vi då av guld?"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1180
 msgid ""
@@ -408,6 +480,9 @@ msgid ""
 "citadel in the mountains at the center of the island. It should be somewhere "
 "in the middle of that dark jungle."
 msgstr ""
+"Nu när vi har en bas att utgå ifrån så måste vi ta oss till det svarta "
+"citadellet i bergen på öns mitt. Det bör ligga någonstans mitt i den mörka "
+"djungeln."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1185
 msgid ""
@@ -416,10 +491,16 @@ msgid ""
 "may not be much use to you on land, but we will protect you against any "
 "threats from the water."
 msgstr ""
+"Under vår expedition så stötte vi på några av Melusands trupper. De kan "
+"förstärka era styrkor. Om ni så önskar så kan ni leja dem i ert basläger. Vi "
+"kan kanske inte vara till så stor nytta på land, men vi kan skydda er mot "
+"hot från vattnet."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1191
 msgid "Thank you. I'm sure the reinforcements will be very useful."
 msgstr ""
+"Tack, jag är säker på att dessa förstärkningar kommer att komma till stor "
+"nytta."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4008
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4610
@@ -443,15 +524,15 @@ msgstr "Nya scenariomål:"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1207
 msgid "Reach the black citadel in the center of the island."
-msgstr ""
+msgstr "Nå det svarta citadellet på öns mitt"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1233
 msgid "Feel the cold touch of death!"
-msgstr ""
+msgstr "Känn dödens kalla hand!"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1253
 msgid "I will slaughter you all and bathe in your blood!"
-msgstr ""
+msgstr "Jag skall slakta er alla och bada i ert blod!"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1285
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1316
@@ -461,6 +542,8 @@ msgid ""
 "We've reached what looks like the citadel, but it is surrounded by a huge "
 "smooth obsidian dome. I can't find any extrances or exits."
 msgstr ""
+"Vi har nått fram till vad som ser ut att vara citadellet, men det är omgivet "
+"av en slät kupol av obsidian. Jag kan inte hitta några ingångar."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1291
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1322
@@ -468,6 +551,8 @@ msgid ""
 "Are you sure, search carefully. They orc and skeleton must have been "
 "guarding some sort of entrance."
 msgstr ""
+"Är du säker? Leta noga. Nog måste orchen och skelettet ha vaktat någon sorts "
+"ingång."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1296
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1327
@@ -478,6 +563,9 @@ msgid ""
 "way to open it. All I see are what look like two tiny keyholes in the stone. "
 "Now I wonder where we might find the right keys?"
 msgstr ""
+"Vänta. Det finns en tunn kant av en dörr i stenen. Men det finns inte något "
+"sätt att öppna den. Allt jag kan se är vad som ser ut som två små nyckelhål "
+"i stenen. Var kan vi finna de rätta nycklarna, månne?"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1302
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1396
@@ -485,6 +573,8 @@ msgid ""
 "Hey, what about the two keys that we found on the bodies of the undead and "
 "orc leaders?"
 msgstr ""
+"Vad med de två nycklarna som vi fann på liken av ledarna för de vandöda och "
+"orcherna?"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1333
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1427
@@ -494,11 +584,15 @@ msgid ""
 "one of each faction. I bet the leaders would be in charge of such valuable "
 "objects."
 msgstr ""
+"Vad tror ni om det här? Jag kan slå vad om att Eloh har gett dem till de som "
+"hon litar allra mest på. Och det var en orch och en vandöd som vaktade "
+"dörren. Nycklarna måste vara en hos var och en av dessa grupper. Visst måste "
+"det vara deras ledare som fick ansvaret för så värdefulla saker."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1344
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1438
 msgid "Defeat enemy leaders, find both keys"
-msgstr ""
+msgstr "Besegra fiendeledarna, och finn båda nycklarna"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1385
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1416
@@ -506,6 +600,8 @@ msgid ""
 "There's got to be something here. They orc and skeleton must have been "
 "guarding some sort of entrance."
 msgstr ""
+"Det måste finnas någonting här. Orchen och skelettet måste ha vaktat någon "
+"sorts ingång."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1467
 msgid ""
@@ -513,10 +609,13 @@ msgid ""
 "the black citadel. I tire of all this bloodshed. Wherever she hides, we will "
 "find her and make her pay for all she has done."
 msgstr ""
+"Vi har hittat båda nycklarna. Nu måste vi bara ta dem och öppna dörren till "
+"det svarta citadellet. Jag är trött på all denna blodspillan. Var hon än "
+"gömmer sig så skall vi finna henne och låta henne betala för allt hon gjort."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1473
 msgid "Any unit must reach the black citadel"
-msgstr ""
+msgstr "En trupp måste nå det svarta citadellet"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1498
 msgid "Aaaargh!"
@@ -552,7 +651,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1726
 msgid "Grateful Merman"
-msgstr ""
+msgstr "Tacksamt sjöfolk"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1738
 msgid ""
@@ -581,7 +680,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1784
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:510
 msgid "Eloh"
-msgstr ""
+msgstr "Eloh"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1799
 msgid ""
@@ -637,7 +736,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1856
 msgid "May Eloh protect you."
-msgstr ""
+msgstr "Må Eloh beskydda dig."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1862
 msgid "Her will be done. "
@@ -733,7 +832,7 @@ msgstr "Kaleh dör"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:337
 msgid "Kaleh! No!"
-msgstr ""
+msgstr "Kaleh! Nej!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:419
 msgid "He's still breathing. Eloh, what grace I have, give unto him."
@@ -780,11 +879,11 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:608
 msgid "Anarion"
-msgstr ""
+msgstr "Anarion"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:635
 msgid "Zylea"
-msgstr ""
+msgstr "Zylea"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:648
 msgid "All hail Eloh!"
@@ -881,7 +980,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1277
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1691
 msgid "Yechnagoth"
-msgstr ""
+msgstr "Yechnagoth"
 
 #: Under_the_Burning_Suns/units/Alien_Spire.cfg:4
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1307
@@ -895,7 +994,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1408
 msgid "What is that thing!?!"
-msgstr ""
+msgstr "Vad är det där för något?!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1414
 msgid "Eloh protect us!"
@@ -943,7 +1042,6 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1738
-#, fuzzy
 msgid "At last. It is dead."
 msgstr "Äntligen, den är död."
 
@@ -1312,7 +1410,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:652
 msgid "THE END"
-msgstr ""
+msgstr "SLUT"
 
 #: Under_the_Burning_Suns/scenarios/13Credits.cfg:20
 msgid "CAMPAIGN CREDITS:"
@@ -1430,11 +1528,11 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:65
 msgid "Kaleh"
-msgstr ""
+msgstr "Kaleh"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:88
 msgid "Nym"
-msgstr ""
+msgstr "Nym"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:184
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1072
@@ -1583,9 +1681,8 @@ msgid "Then let's join the battle!"
 msgstr "Låt oss hjälpa dem!"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:599
-#, fuzzy
 msgid "Garak"
-msgstr "Garak?"
+msgstr "Garak"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:615
 msgid ""
@@ -1646,7 +1743,7 @@ msgstr "Finns det några överlevande?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:718
 msgid "Zhul"
-msgstr ""
+msgstr "Zhul"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:734
 msgid "Finally! We were worried that no one else had survived."
@@ -1765,9 +1862,8 @@ msgid "Hey Nisa, the rocks have stopped falling. You can come out now!"
 msgstr "Hej Nisa, det faller inte några stenar längre. Du kan komma ut nu!"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1000
-#, fuzzy
 msgid "Xanthos"
-msgstr "Besegra Xanthos"
+msgstr "Xanthos"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1039
 msgid ""
@@ -2196,7 +2292,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:95
 msgid "Thorn"
-msgstr ""
+msgstr "Thorn"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:284
 msgid "Kaleh Must Reach the"
@@ -2364,11 +2460,11 @@ msgstr "Bäraren av denna ring tar inte skada av hettan under dagen i öknen."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1072
 msgid "Traveller's Ring"
-msgstr ""
+msgstr "Färdring"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1074
 msgid "At the end of each turn, this unit takes no damage from the desert."
-msgstr ""
+msgstr "Denna trupp tar inte någon skada av att vara ute i öknen."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1124
 msgid ""
@@ -2430,11 +2526,11 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1846
 msgid "Elyssa"
-msgstr ""
+msgstr "Elyssa"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1919
 msgid "Go-hag"
-msgstr ""
+msgstr "Go-hag"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2104
 msgid "Back you fiends! Or I'll kill you a second time!"
@@ -2546,7 +2642,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2565
 msgid "Vengeful Lord"
-msgstr ""
+msgstr "Hämndlysten furste"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2584
 msgid ""
@@ -2681,13 +2777,15 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3008
 msgid "Pure Water"
-msgstr ""
+msgstr "Rent vatten"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3010
 msgid ""
 "This water will make your melee weapons holy, and thus especially powerful "
 "against the undead."
 msgstr ""
+"Detta vatten kommer att göra dina närstridsvapen heliga, och på så sätt "
+"särskilt effektiva mot vandöda."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3058
 msgid ""
@@ -3333,11 +3431,11 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:607
 msgid "Azkotep"
-msgstr ""
+msgstr "Azkotep"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:672
 msgid "Ystara"
-msgstr ""
+msgstr "Ystara"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:817
 msgid "Survive Until Dawn (or)"
@@ -3364,7 +3462,7 @@ msgstr "Neeeeeej! Jag skall få min hämnd!"
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1106
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1117
 msgid "Ganthos"
-msgstr ""
+msgstr "Ganthos"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1187
 msgid ""
@@ -3604,18 +3702,25 @@ msgid ""
 "Was there anywhere left in this world that I could take my people which "
 "would be any better than the land we were born into?"
 msgstr ""
+"Var denna guldålder bara en saga? Vilken sorts värld skulle jag kunna skapa "
+"för framtida generationer? Det enda som jag kände till från det förflutna "
+"var några ruiner av stora borgar, och sagor om en tid då det fanns mer i "
+"livet än bara överlevnad för dagen. Livet verkade inte ha blivit enklare för "
+"mitt folk under de senaste generationerna. Det verkade snarare som om landet "
+"blivit ännu mer ogästvänligt. Fanns det ännu någonstans i denna värld dit "
+"jag kunde leda mitt folk, där det var bättre än där vi fötts?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:86
 msgid "Panok"
-msgstr ""
+msgstr "Panok"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:141
 msgid "Turg"
-msgstr ""
+msgstr "Turg"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:195
 msgid "Ug'lok"
-msgstr ""
+msgstr "Ug'lok"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:289
 msgid "Kaleh Must Reach the Exit Tunnel"
@@ -3803,6 +3908,10 @@ msgid ""
 "you never know when being able to run a bit faster might be the difference "
 "between life and death."
 msgstr ""
+"Därför att rör dig långsamt, och om vi skall ge oss ner i grottorna, så kan "
+"du behöva all snabbhet du kan få. Och dessutom så klarar vi oss inte utan "
+"dig; man kan aldrig veta när det kan vara skillnaden mellan liv och död att "
+"kunna springa lite fortare."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1168
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1229
@@ -3815,11 +3924,11 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1262
 msgid "Ring of Speed"
-msgstr ""
+msgstr "Snabbhetsring"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1264
 msgid "This ring will increase your maximum speed by 1."
-msgstr ""
+msgstr "Denna ring ökar din maxhastighet med 1."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1302
 msgid ""
@@ -3882,12 +3991,12 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1466
 msgid "Cold Blade"
-msgstr ""
+msgstr "Kallt stål"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1467
 msgid ""
 "The unit who wields this blade will deal cold damage with its melee attack."
-msgstr ""
+msgstr "Den trupp som svingar detta svärd kommer att vålla frostskador."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1485
 msgid "I am an abomination, please kill me."
@@ -4069,28 +4178,26 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1167
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1183
-#, fuzzy
 msgid "Dwarf Sergeant"
-msgstr "Vattenorm"
+msgstr "Dvärgsergeant"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1202
 msgid "Vengeful Dwarf"
-msgstr ""
+msgstr "Hämndlysten dvärg"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1219
-#, fuzzy
 msgid "Troll Interrogator"
-msgstr "Trollkrigare"
+msgstr "Trollutfrågare"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1233
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1262
 msgid "Troll Assistant"
-msgstr ""
+msgstr "Trollassistent"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1247
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1280
 msgid "Ulg"
-msgstr ""
+msgstr "Ulg"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1389
 msgid ""
@@ -4518,24 +4625,23 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3480
 msgid "Thu'lok"
-msgstr ""
+msgstr "Thu'lok"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3493
 msgid "Harpo"
-msgstr ""
+msgstr "Harpo"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3506
-#, fuzzy
 msgid "Groucho"
-msgstr "beröring"
+msgstr "Groucho"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3520
 msgid "Chico"
-msgstr ""
+msgstr "Chico"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3534
 msgid "Groo"
-msgstr ""
+msgstr "Groo"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3562
 msgid ""
@@ -4544,27 +4650,24 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3580
-#, fuzzy
 msgid "Dwalim"
-msgstr "tjut"
+msgstr "Dwalim"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3593
-#, fuzzy
 msgid "Moin"
-msgstr "gift"
+msgstr "Moin"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3606
-#, fuzzy
 msgid "Nordi"
-msgstr "svärd"
+msgstr "Nordi"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3619
 msgid "Byorn"
-msgstr ""
+msgstr "Byorn"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3635
 msgid "Runin"
-msgstr ""
+msgstr "Runin"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3673
 msgid ""
@@ -4930,11 +5033,11 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5827
 msgid "Extra Hairy Bat"
-msgstr ""
+msgstr "Speciellt hårig fladdermus"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5872
 msgid "Dwarf Hermit"
-msgstr ""
+msgstr "Dvärgeremit"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5903
 msgid ""
@@ -4943,7 +5046,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5917
 msgid "Grrraaawwwkkk!"
-msgstr ""
+msgstr "Grrraaawwwkkk!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5922
 msgid "Good Riddance."
@@ -4958,7 +5061,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6131
 msgid "What are those?!?"
-msgstr ""
+msgstr "Vad är de där för några?!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6141
 msgid "Here come more of them!"
@@ -4971,9 +5074,8 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6239
-#, fuzzy
 msgid "Dwarf Chieftain"
-msgstr "Besegra dvärgarnas hövding"
+msgstr "Dvärghövding"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6323
 msgid "So you've come at last. Let it end, here and now!"
@@ -5058,7 +5160,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6483
 msgid "Rrrraaaarrrr!"
-msgstr ""
+msgstr "Rrrraaaarrrr!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6488
 msgid "Not again! I really really hate things that live underwater!"
@@ -5123,9 +5225,8 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6669
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6767
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6866
-#, fuzzy
 msgid "Dwarven Belt"
-msgstr "Dvärgvaktpost"
+msgstr "Dvärgbälte"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6670
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6768
@@ -5183,9 +5284,8 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7221
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7624
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7661
-#, fuzzy
 msgid "Troll High Shaman"
-msgstr "Trollschaman"
+msgstr "Trollöverschaman"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7303
 msgid "Arise! Arise and engulf the intruders in your holy fire!"
@@ -5232,13 +5332,12 @@ msgid "May Griknagh protect you. I'll be back soon!"
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7695
-#, fuzzy
 msgid "Troll Chieftain"
-msgstr "Besegra trollhövdingen"
+msgstr "Trollhövding"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7784
 msgid "High Advisor"
-msgstr ""
+msgstr "Förste rådgivare"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7798
 msgid ""
@@ -5423,7 +5522,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:38
 msgid "King Thurongar"
-msgstr ""
+msgstr "Kung Thurongar"
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:58
 msgid ""
@@ -5487,7 +5586,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:514
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:528
 msgid "Dwarf Guard"
-msgstr ""
+msgstr "Dvärgvakt"
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:547
 msgid ""
@@ -5501,11 +5600,11 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:552
 msgid "Hail Kaleh, I am Thurongar, King of the Dwarves."
-msgstr ""
+msgstr "Var hälsad Kaleh, jag är Thurongar, dvärgarnas konung."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:557
 msgid "I am Kaleh, leader of the Quenoth Elves."
-msgstr ""
+msgstr "Jag är Kaleh, Quenoth-alvernas ledare."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:562
 msgid ""
@@ -5619,7 +5718,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:664
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:666
 msgid "What?!"
-msgstr ""
+msgstr "Vad?!"
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:669
 msgid ""
@@ -5716,14 +5815,13 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:775
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:777
-#, fuzzy
 msgid "Flaming Sword"
-msgstr "eldsvärd"
+msgstr "Eldsvärd"
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:776
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:778
 msgid "This sword will make all your melee attack do fire damage."
-msgstr ""
+msgstr "Med detta svärd gör vållar dina närstridsattacker eldskada."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:791
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:793
@@ -5740,11 +5838,11 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:7
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:8
 msgid "Talking with Trolls"
-msgstr ""
+msgstr "I samtal med troll"
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:38
 msgid "Great Leader Darmog"
-msgstr ""
+msgstr "Storledare Darmog"
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:58
 msgid ""
@@ -5792,9 +5890,8 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:366
-#, fuzzy
 msgid "Nog"
-msgstr "Nej!"
+msgstr "Nog"
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:409
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:423
@@ -5804,14 +5901,13 @@ msgstr "Nej!"
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:507
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:521
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:535
-#, fuzzy
 msgid "Troll Guard"
-msgstr "Trollkrigare"
+msgstr "Trollvakt"
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:437
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:451
 msgid "Spiritual Advisor"
-msgstr ""
+msgstr "Andlig rådgivare"
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:554
 msgid ""
@@ -5828,11 +5924,12 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:559
 msgid "I, Great Leader Darmog, greet you, Kaleh."
-msgstr ""
+msgstr "Jag, storledare Darmog, hälsar dig, Kaleh."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:564
 msgid "I Kaleh, leader of the Quenoth Elves, thank you for meeting with me."
 msgstr ""
+"Jag Kaleh, Quenoth-alvernas ledare, tackar dig för att du ville möta mig."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:569
 msgid ""
@@ -5970,7 +6067,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:17
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:18
 msgid "Out of the Frying Pan"
-msgstr ""
+msgstr "Ur elden"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:339
 msgid ""
@@ -6078,16 +6175,14 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1189
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1210
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1231
-#, fuzzy
 msgid "Troll Avenger"
-msgstr "Ökenhämnare"
+msgstr "Trollhämnare"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1256
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1277
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1298
-#, fuzzy
 msgid "Dwarf Avenger"
-msgstr "Ökenhämnare"
+msgstr "Dvärghämnare"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1325
 msgid ""
@@ -7241,7 +7336,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4503
 msgid "Durstrag"
-msgstr ""
+msgstr "Durstrag"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4518
 msgid ""
@@ -7288,7 +7383,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4613
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4729
 msgid "Defeat Durstrag"
-msgstr ""
+msgstr "Besegra Durstrag"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4692
 msgid "I'm back, Kaleh."
@@ -7364,9 +7459,8 @@ msgid "Great. So now we're fighting in a haunted valley."
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4896
-#, fuzzy
 msgid "Undead Leader"
-msgstr "Besegra alla vandöda fiendeledare"
+msgstr "Vandödas ledare"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4939
 msgid ""
@@ -7414,14 +7508,14 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5152
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5157
 msgid "Human Messenger"
-msgstr ""
+msgstr "Mänsklig budbärare"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5050
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5069
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5088
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5107
 msgid "Human Escort"
-msgstr ""
+msgstr "Mänsklig eskort"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5117
 msgid ""
@@ -7730,22 +7824,22 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:14
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:15
 msgid "Blood is Thicker than Water"
-msgstr ""
+msgstr "Blod är tjockare än vatten"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:72
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3878
 msgid "Darius"
-msgstr ""
+msgstr "Darius"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:216
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3854
 msgid "Zelgant"
-msgstr ""
+msgstr "Zelgant"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:272
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3830
 msgid "Alastra"
-msgstr ""
+msgstr "Alastra"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:349
 msgid ""
@@ -7784,21 +7878,21 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:666
 msgid "Rescue at least two merfolk by turn 16"
-msgstr ""
+msgstr "Rädda minst två av sjöfolket före drag 16"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:670
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1311
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3627
 msgid "Three merfolk must survive"
-msgstr ""
+msgstr "Tre av sjöfolket måste överleva"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:695
 msgid "Ulothanir"
-msgstr ""
+msgstr "Ulothanir"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:709
 msgid "Elonea"
-msgstr ""
+msgstr "Elonea"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:738
 msgid ""
@@ -7949,7 +8043,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1012
 msgid "Tanstafaal"
-msgstr ""
+msgstr "Tanstafaal"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1027
 msgid "Hail, my brothers, I have returned!"
@@ -8005,7 +8099,7 @@ msgstr "Nej!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1110
 msgid "Who?"
-msgstr ""
+msgstr "Vem?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1116
 msgid ""
@@ -8180,7 +8274,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1307
 msgid "Defeat Tanstafaal and Eloh"
-msgstr ""
+msgstr "Besegra Tanstafaal och Eloh"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1439
 msgid ""
@@ -8646,19 +8740,19 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3389
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3996
 msgid "Thank you."
-msgstr ""
+msgstr "Tack."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3404
 msgid "Hekuba"
-msgstr ""
+msgstr "Hekuba"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3418
 msgid "Zilchis"
-msgstr ""
+msgstr "Zilchis"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3431
 msgid "Sultaria"
-msgstr ""
+msgstr "Sultaria"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3442
 msgid "And what about us, little elf, did you forget about us?"
@@ -8916,7 +9010,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:470
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:807
 msgid "Melusand"
-msgstr ""
+msgstr "Melusand"
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:65
 msgid ""
@@ -8962,7 +9056,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:577
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:598
 msgid "Merfolk Guard"
-msgstr ""
+msgstr "Sjöfolksvakt"
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:225
 msgid "Hail Kaleh, long have I waited to see you in person."
@@ -9545,7 +9639,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Alien_Body2.cfg:31
 #: Under_the_Burning_Suns/units/Alien_Body2.cfg:41
 msgid "energy ray"
-msgstr ""
+msgstr "kraftstråle"
 
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:21
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:35
@@ -9935,7 +10029,7 @@ msgstr "kross"
 #: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:4
 #: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:4
 msgid "Dark Assassin"
-msgstr ""
+msgstr "Mörk lönnmördare"
 
 #: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:19
 #: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:22
@@ -9945,20 +10039,23 @@ msgid ""
 "where he came from or why he acts the way he does, but the the trail of "
 "death he leaves in his wake is unmistakeable."
 msgstr ""
+"Den mörka lönnmördaren kommer och försvinner på ett ögonblick. Ingen vet "
+"varifrån han kommer och varför han gör som han gör, men spåret av död han "
+"lämnar efter sig är omisskännligt."
 
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:23
 #: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:22
 #: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:25
 #: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:22
 msgid "dagger"
-msgstr ""
+msgstr "dolk"
 
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:45
 #: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:44
 #: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:47
 #: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:44
 msgid "darts"
-msgstr ""
+msgstr "kastpilar"
 
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:50
 #: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:49
@@ -9970,11 +10067,11 @@ msgstr "gift"
 
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:4
 msgid "Uncloaked Assassin"
-msgstr ""
+msgstr "Avtäckt lönnmördare"
 
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:20
 msgid "Sometimes those closest to you can be your bitterest foes."
-msgstr ""
+msgstr "Ibland är det den närmast dig som är din bittraste fiende."
 
 #: Under_the_Burning_Suns/units/Deep_One.cfg:4
 msgid "Deep One"
@@ -10285,7 +10382,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Zhul_Druid.cfg:38
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:37
 msgid "staff"
-msgstr ""
+msgstr "stav"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:75
 #: Under_the_Burning_Suns/units/Zhul_Star.cfg:76
@@ -10294,7 +10391,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:56
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:69
 msgid "ensnare"
-msgstr ""
+msgstr "snärja"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:77
 #: Under_the_Burning_Suns/units/Desert_Prowler.cfg:59
@@ -10335,7 +10432,7 @@ msgstr "sakta ner"
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:76
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:89
 msgid "thorns"
-msgstr ""
+msgstr "törnen"
 
 #: Under_the_Burning_Suns/units/Kaleh_Fighter.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Fighter9.cfg:4
@@ -10672,7 +10769,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Shyde.cfg:42
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:43
 msgid "faerie touch"
-msgstr ""
+msgstr "feberöring"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:4
 #: Under_the_Burning_Suns/units/Zhul_Star.cfg:4
@@ -10699,7 +10796,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Dread_Bat.cfg:4
 msgid "Dread Bat"
-msgstr ""
+msgstr "Fasans fladdermus"
 
 #: Under_the_Burning_Suns/units/Dread_Bat.cfg:17
 msgid ""
@@ -10716,7 +10813,7 @@ msgstr "suga livskraft"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:4
 msgid "Dwarvish Explorer"
-msgstr ""
+msgstr "Dvärgutforskare"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:27
 msgid ""
@@ -10739,7 +10836,7 @@ msgstr "yxa"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:4
 msgid "Dwarvish Pathfinder"
-msgstr ""
+msgstr "Dvärgstigfinnare"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:21
 msgid ""
@@ -10750,7 +10847,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:4
 msgid "Dwarvish Scout"
-msgstr ""
+msgstr "Dvärgspejare"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:21
 msgid ""
@@ -10774,7 +10871,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Flesh_Golem.cfg:26
 msgid "smashing frenzy"
-msgstr ""
+msgstr "förstörelselusta"
 
 #: Under_the_Burning_Suns/units/Flesh_Golem.cfg:29
 msgid "berserk"
@@ -10848,7 +10945,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Ixthala_Demon.cfg:4
 msgid "Ixthala Demon"
-msgstr ""
+msgstr "Ixthala-demon"
 
 #: Under_the_Burning_Suns/units/Ixthala_Demon.cfg:17
 msgid ""
@@ -10877,7 +10974,7 @@ msgstr "eld"
 #: Under_the_Burning_Suns/units/Lava_Monster.cfg:4
 #: Under_the_Burning_Suns/units/Lava_Monster3.cfg:4
 msgid "Fire Guardian"
-msgstr ""
+msgstr "Eldväktare"
 
 #: Under_the_Burning_Suns/units/Lava_Monster.cfg:20
 msgid ""
@@ -10891,13 +10988,13 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Lava_Monster.cfg:23
 #: Under_the_Burning_Suns/units/Lava_Monster3.cfg:24
 msgid "fire claws"
-msgstr ""
+msgstr "eldklor"
 
 #: Under_the_Burning_Suns/units/Lava_Monster2.cfg:47
 #: Under_the_Burning_Suns/units/Lava_Monster.cfg:46
 #: Under_the_Burning_Suns/units/Lava_Monster3.cfg:47
 msgid "fire breath"
-msgstr ""
+msgstr "spruta eld"
 
 #: Under_the_Burning_Suns/units/Lava_Monster2.cfg:20
 #: Under_the_Burning_Suns/units/Lava_Monster3.cfg:20
