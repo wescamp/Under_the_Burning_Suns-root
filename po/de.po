@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-10-03 19:18+0200\n"
-"PO-Revision-Date: 2005-10-11 17:29+0200\n"
+"PO-Revision-Date: 2005-10-12 18:34+0200\n"
 "Last-Translator: Allefant <allefant@gmail.com>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -226,6 +226,16 @@ msgid ""
 "but in truth it was all me. For better or for worse I have no one to blame "
 "but myself. "
 msgstr ""
+"Letztendlich entschieden sich fast alle, und auf unserer Mission "
+"zubegleiten. Ich war überrascht. Mein Volk hatte so viel durchgemacht, "
+"unddennoch hatten sie immer noch Vertrauen in mich. Wenn ich mir ihre "
+"Reihenansah, konnte ich nicht anders als festzustellen, dass viele "
+"bekannteGesichter fehlten. Nur knapp ein Viertel jener, die mit uns "
+"aufgebrochenwaren, waren noch am Leben. Hätte ich gewusst wie schlimm es "
+"werden würde,wäre ich dann jemals aufgebrochen? Ich dachte immer, Eloh würde "
+"unsbeschützen und über uns Wachen, aber in Wahrheit war es nur ich "
+"alleingewesen. Ob es die Sache nun besser macht oder nicht, ich kann einzig "
+"undallein mich selbst für alles verantwortlich machen."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:321
 msgid ""
@@ -237,6 +247,15 @@ msgid ""
 "those poor souls we left behind in our village and the many who have marked "
 "our path with their blood, they all shall be avenged."
 msgstr ""
+"Aber Zhul hatte recht. Wenn wir diese ganze Reise unternommen hatten, nurum "
+"eine Gelegenheit zu erhalten, Yechnagoth zu besiegen,  dann war sie nicht "
+"umsonst.Wir waren so weit gekommen in der Hoffnung, ein neues Zuhause zu "
+"finden. EinZuhause, das sicher war von all dem Tod und Schrecken der Wüste. "
+"Aberletztendlich war es nicht das, was mich vorantrieb. Alles was ich "
+"wirklichwollte war Rache an ihr, die uns das alles angetan hatte. Garak, "
+"Keratur,Transtafaal, all die armen Seelen, die wir in unserer "
+"Siedlungzurückgelassen hatten, und all jene, deren Blut unseren Weg säumte. "
+"Sie allesollten gerächt werden."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:325
 msgid ""
@@ -252,7 +271,7 @@ msgid ""
 msgstr ""
 "In dieser Schlacht geht es um mehr als nur uns. Diese Länder waren einst "
 "Orte von Schönheit und Hoffnung. Die großen Reiche mögen vergangen sein, "
-"dennoch kämpfen Leute um das überleben. Und so schlecht es auch aussehen "
+"dennoch kämpfen die Leute um das Überleben. Und so schlecht es auch aussehen "
 "mag, es ist immer noch etwas von der Schönheit und dem Glanz übrig, nur ganz "
 "tief versteckt. Ich werde nicht alles in einer zweiten Finsternis untergehen "
 "lassen. Könnten diese Inseln möglicherweise eine neue Heimat für mein Volk "
@@ -260,8 +279,8 @@ msgstr ""
 "nicht an solche Dinge denken, bevor alles vorbei ist. Ich muss mich auf die "
 "Aufgabe konzentrieren, die vor uns liegt. Es ist mir gleich, was mit mir "
 "geschieht, aber ich bete zu Eloh (sofern sie überhaupt zuhört), dass wenn "
-"ich sterbe, ich dafür sterben, dass diese Land ein besserer Ort wird. Bitte, "
-"lass dass nicht alles um sonst gewesen sein..."
+"ich sterbe, ich dafür sterben, dass dieses Land ein besserer Ort wird. "
+"Bitte, lass dass nicht alles um sonst gewesen sein..."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:544
 msgid "Trapped Merman"
@@ -316,8 +335,8 @@ msgid ""
 "other ships will be safe hidden out in the deep water."
 msgstr ""
 "Nebel und Dunkelheit umhüllen diesen Ort, aber wir können das zu unserem "
-"Vorteil nutzen. Die anderen Schiffe sind so draußen im tiefen Wasser sicher "
-"versteckt."
+"Vorteil nutzen. Die anderen Schiffe sind dadurch draußen im tiefen Wasser "
+"sicher versteckt."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:786
 msgid ""
@@ -357,10 +376,10 @@ msgid ""
 "things staring at us from the depths of the jungle, but I can't tell what "
 "they are. As much as I love plants and trees, I don't like the look of it."
 msgstr ""
-"Ack. Dieser Dschungel schein unheilverkündend. Seht ihr diese Augen? Dort "
-"sind Wesen, die uns aus den Tiefen des Dschungels anstarren - aber ich kann "
-"nicht sagen, was sie sind. So sehr ich auch Pflanzen und Bäume liebe, dieser "
-"Anblick gefällt mir ganz und gar nicht."
+"Ojeoje. Dieser Dschungel scheint Unheil verkündend. Seht ihr diese Augen? "
+"Dort sind Wesen, die uns aus den Tiefen des Dschungels anstarren - aber ich "
+"kann nicht sagen, was sie sind. So sehr ich auch Pflanzen und Bäume liebe, "
+"dieser Anblick gefällt mir ganz und gar nicht."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:855
 msgid ""
@@ -906,13 +925,15 @@ msgstr "Sie müssen nachtaktiv sein."
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:9
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:10
 msgid "The Final Confrontation"
-msgstr ""
+msgstr "Der Endkampf"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:95
 msgid ""
 "Chapter 11: True strength is not measured in might or knowledge, but in how "
 "much you will sacrifice for those you love."
 msgstr ""
+"Kapitel 11: Wahre Stärke kann man nicht in Macht oder Wissen messen, sonder "
+"darin, was man bereit ist für jene zu opfern, die man liebt."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:276
 msgid "Defeat the false Eloh"
@@ -925,92 +946,105 @@ msgstr "Tod von Kaleh"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:318
 msgid "Kaleh! No!"
-msgstr ""
+msgstr "Kaleh! Nein!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:400
 msgid "He's still breathing. Eloh, what grace I have, give unto him."
-msgstr ""
+msgstr "Er atmet noch. Eloh, die Gabe die mir zuteil ist gehe auf ihn über."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:413
 msgid "He's stirring."
-msgstr ""
+msgstr "Er bewegt sich."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:465
 msgid ""
 "Aye, there's still life in the boy. But where is the foul creature that did "
 "this to him?"
 msgstr ""
+"Gut, es steckt noch Leben in dem Jungen. Aber welches schändliche Biest hat "
+"ihm das angetan?"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:475
 msgid ""
 "The little one is not dead yet. But where is evil lady that did this to him?"
 msgstr ""
+"Kleiner Elfe noch nicht tot. Aber wo ist böse Herrscherin, die ihm das "
+"angetan hat?"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:508
 msgid ""
 "So, the elf's puny friends think they can save him. But you are too late. He "
 "is already mine!"
 msgstr ""
+"Aha, die kleinen Freunde des Elfen denken, sie könnten ihn retten. Aber es "
+"ist zu spät. Er gehört bereits mir!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:560
 msgid "Nym, Zhul, Rogrimir, you shouldn't have."
-msgstr ""
+msgstr "Nym, Zhul, Rogrimir - ihr hättet nicht kommen sollen."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:570
 msgid "Nym, Zhul, Grog, you shouldn't have."
-msgstr ""
+msgstr "Nym, Zhul, Grog - ihr hättet nicht kommen sollen."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:582
 msgid "Nym, Zhul, you shouldn't have."
-msgstr ""
+msgstr "Nym, Zhul - ihr hättet nicht kommen sollen."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:590
 msgid ""
 "Your struggles were mildly entertaining, but futile in the end. For I am "
 "powerful beyond your imagining, and this is the seat of my power!"
 msgstr ""
+"Euere Bemühungen waren einigermaßen unterhaltsam, aber letztendlich "
+"vergeblich. Denn ich bin mächtiger als ihr es euch vorstellen könnt, und das "
+"hier ist die Quelle meiner Macht!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:596
 msgid "You are not Eloh. You are but a pitiful mockery of her power and glory!"
 msgstr ""
+"Du bist nicht Eloh. Du bist nur ein bemitleidenswertes Abbild ihrer Macht "
+"und ihres Ruhms!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:602
 msgid ""
 "Is that what you think? I shall prove you wrong. Look out upon your people "
 "and despair!"
 msgstr ""
+"Glaubst du das wirklich? Ich werde dir beweisen, dass du unrecht hast. Sieh "
+"auf dein Volk, und verzweifle!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:614
 msgid "Anarion"
-msgstr ""
+msgstr "Anarion"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:641
 msgid "Zylea"
-msgstr ""
+msgstr "Zylea"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:654
 msgid "All hail Eloh!"
-msgstr ""
+msgstr "Gepriesen sei Eloh!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:659
 msgid "Death to the heretics!"
-msgstr ""
+msgstr "Tod den Ketzern!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:665
 msgid "They worship their true god."
-msgstr ""
+msgstr "Sie beten ihre wahre Gottheit an."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:671
 msgid "Come and bow down before your true master, boy."
-msgstr ""
+msgstr "Komm, und verneige dich vor deiner wahren Meisterin, Junge."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:677
 msgid "Your wish is my command."
-msgstr ""
+msgstr "Dein Wunsch ist mir Befehl."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:944
 msgid "Argh, you stabbed me!"
-msgstr ""
+msgstr "Grrr, du hast mich erstochen!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:950
 msgid ""
@@ -1019,10 +1053,15 @@ msgid ""
 "tired of being called boy; I am Kalehssar, the leader of my people and I "
 "will fight you until my dying breath!"
 msgstr ""
+"Ich habe Wüsten, Gebirge und Ozeane durchquert, und habe mitansehen müssen, "
+"wie mein Volk bei jedem Schritt des Weges blutete. Ich bin nicht diesen "
+"ganzen Weg gegangen, um jetzt aufzugeben. Ich habe es satt, Junge genannt zu "
+"werden. Ich bin Kalehssar, der Anführer meines Volkes, und ich werde dich "
+"bis zu meinem letzten Atemzug bekämpfen!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:956
 msgid "I command you to stop this foolishness!"
-msgstr ""
+msgstr "Ich befehle dir, mit dieser Narrheit aufzuhören!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:962
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5040
@@ -1032,17 +1071,22 @@ msgstr "Niemals!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:968
 msgid "The shell necklaces Melusand gave us, they're glowing!"
-msgstr ""
+msgstr "Die Muschel-Halsketten, die Melusand uns gegeben hat - sie leuchten!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:974
 msgid "You will never dominate us, not while hope survives!"
 msgstr ""
+"Du wirst niemals die Herrschaft über uns erlangen, nicht solange es noch "
+"Hoffnung gibt!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:980
 msgid ""
 "So be it. You choose death? Then you shall receive it from those you hold "
 "most dear. Kill the unbelievers, let none survive!"
 msgstr ""
+"So sei es denn. Ihr entscheidet euch für den Tod? Dann sollt ihr ihn von "
+"jenen erhalten, die euch am teuersten sind. Tötet die Ungläubigen, lass "
+"niemanden am Leben!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:985
 msgid "Yes mistress."
@@ -1050,21 +1094,25 @@ msgstr "Jawohl, Herrin."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:991
 msgid "Ignore our brethren, we must destroy her!"
-msgstr ""
+msgstr "Kümmert euch nicht um die Unseren, wir müssen sie vernichten!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1192
 msgid ""
 "What the heck? That central creature just hit me with some sort of slime. It "
 "hurts and I, I'm stuck!"
 msgstr ""
+"Was zum Teufel? Die Zentralkreatur hat mich mit irgendeinem Schleim "
+"getroffen. Es tut weh, und ich kann mich nicht bewegen!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1201
 msgid "Ow, I'm stuck!"
-msgstr ""
+msgstr "Oje, ich stecke fest!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1221
 msgid "You think you killed me? You have no idea what you are facing."
 msgstr ""
+"Ihr denkt, ihr habt mich getötet? Ihr wisst nicht im Geringsten, womit ihr "
+"es zu tun habt."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1260
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9150
@@ -1075,20 +1123,22 @@ msgstr "Huch? Was ist passiert?"
 msgid ""
 "Her spell has been broken. But I do not think we have won yet. Come aid us!"
 msgstr ""
+"Ihr Zauber ist gebrochen. Aber ich glaube nicht, dass wir bereits gewonnen "
+"haben. Kommt und helft uns!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1271
 msgid "Yes priestess."
-msgstr ""
+msgstr "Jawohl, Priesterin."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1330
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1779
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1817
 msgid "Yechnagoth"
-msgstr ""
+msgstr "Yechnagoth"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1449
 msgid "What is that thing!?!"
-msgstr ""
+msgstr "Was ist das für ein Ding!?!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1455
 msgid "Eloh protect us!"
@@ -1096,11 +1146,11 @@ msgstr "Eloh beschütze uns!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1494
 msgid "Curse Uria, more abominations!"
-msgstr ""
+msgstr "Verdammt sei Uria, noch mehr Ausgeburten!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1500
 msgid "Is it even possible to kill this thing? It's huge!"
-msgstr ""
+msgstr "Ist es überhaupt möglich, dieses Ding zu töten? Es ist riesig!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1506
 msgid ""
@@ -1109,6 +1159,11 @@ msgid ""
 "it will weaken the creature. No matter what horrors appear, we must keep "
 "attacking it. We can't stop now!"
 msgstr ""
+"Es muss eine Art Schwachstelle haben. Seht euch all diese pulsierenden "
+"Pyramiden an, ich habe zuerst gedacht, sie sind aus Stein, aber sie scheinen "
+"lebendig zu sein. Vielleicht schwächt es die Kreatur, wen wir sie alle "
+"zerstören. Welch schreckliche Gestalten auch erscheinen mögen, wir dürfen "
+"nicht aufhören, anzugreifen. Wir können jetzt nicht aufhören!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1512
 msgid "Defeat Yechnagoth"
@@ -1120,6 +1175,9 @@ msgid ""
 "our attacks are doing no damage at all. We got to try another tactic, and "
 "fast!"
 msgstr ""
+"Der Zentralkörper heilt sich schneller, als wir ihm Schaden zufügen können. "
+"Es scheint fast so, als könnten unsere Angriffe keinerlei Schaden anrichten. "
+"Wir müssen zu einer anderen Taktik übergehen, und das schnell!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1767
 msgid "Aaaauuurrrggghhhh!!!"
@@ -1130,30 +1188,33 @@ msgid ""
 "I think we're finally doing some damage. We must attack the central body, "
 "while it remains vulnerable!"
 msgstr ""
+"Ich denke, wir können ihm jetzt endlich Verletzungen zufügen. Wir müssen den "
+"Zentralkörper angreifen, solange er verwundbar bleibt!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1927
 msgid "Aiiieeee!!!"
-msgstr ""
+msgstr "Aiiieeee!!!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1954
 msgid "At last. It is finished."
-msgstr ""
+msgstr "Endlich. Es ist getan."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1968
 msgid "Is Yechnagoth really dead?"
-msgstr ""
+msgstr "Ist Yechnagoth wirklich tot?"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1974
 msgid "Yes, she's dead Nym."
-msgstr ""
+msgstr "Ja, sie ist tot, Nym."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1980
 msgid "I almost can't believe it."
-msgstr ""
+msgstr "Ich kann es kaum glauben."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1989
 msgid "Behold, the pretender has been defeated. Eloh's might has prevailed."
 msgstr ""
+"Seht nur, die falsche Göttin ist besiegt. Eloh's Macht wird weiterbestehen."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:2003
 msgid ""
@@ -1161,25 +1222,30 @@ msgid ""
 "what in the nine hells we were fighting, but she doesn't smell any better "
 "dead than she did alive."
 msgstr ""
+"Igitt. Ich bin voller Blut und Gedärme, und diesem grauenhaften blauen Zeug. "
+"Ich weiß nicht was in drei Teufels Namen wir bekämpft haben, aber sie riecht "
+"tot um nichts besser als lebendig."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:2013
 msgid ""
 "Ugh. Grog is covered in blood and guts and nasty blue goo. Whatever creature "
 "was, she doesn't smell any better dead than she did alive."
 msgstr ""
+"Igitt. Grog voller Blut, Gedärme, grässlicher blauer Schleim. Und was auch "
+"immer für Kreatur war, riecht tot nicht besser als lebendig."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:2043
 msgid "Let's get out of here."
-msgstr ""
+msgstr "Lasst uns hier verschwinden."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:8
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:9
 msgid "Epilogue"
-msgstr ""
+msgstr "Epilog"
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:40
 msgid "Epilogue:"
-msgstr ""
+msgstr "Epilog:"
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:103
 msgid ""
@@ -1192,6 +1258,16 @@ msgid ""
 "I was overjoyed to discover that they were no longer the mindless slaves I "
 "had seen before. They too had broken free from their enchantment."
 msgstr ""
+"Ich taumelte hinaus ins Tageslicht, und konnte noch gar nicht glauben, dass "
+"wir gesiegt hatten. Als ich über die Insel blickte, dauerte es einen Moment "
+"bis ich merkte, was sich verändert hatte. Die grauenhafte Dunkelheit war von "
+"der Insel gewichen, und ich sah eine hell strahlende Sonne - mir kam es vor "
+"was das erste Mal seit einer Ewigkeit. Als ich über die hellen grünen Bäume "
+"hinweg zu dem glitzernden Ozean sah, erkannte ich, wie schön dieser Ort "
+"einst gewesen sein musste. Einige unserer Gefährten warteten auf mich, und "
+"ich war überglücklich, dass sie nicht länger die willenlosen Sklaven waren, "
+"die ich zuvor gesehen hatte. Auch sie hatten sich aus der Verzauberung "
+"befreien können."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:109
 msgid ""
@@ -1210,6 +1286,24 @@ msgid ""
 "amazing. Coming here almost does seem like a miracle, if only I could forget "
 "the price we paid..."
 msgstr ""
+"Und in der Tat, es sah so aus, als ob mit Yechnagoths Tod alle ihre "
+"Untertanen wieder zu ihrem ursprünglichen chaotischen Verhalten "
+"zurückgekehrt waren. Zum Glück hatten wir bereits die Meisten der "
+"grässlichen Bewohner dieser Insel getötet, und jetzt, ohne die Organisation, "
+"die sie vorher besaßen, stellte es kein Problem mehr dar, die übrigen Orks "
+"und Untoten auf der Insel zu vernichten. Auch die Naga flohen vor uns, und "
+"haben uns seitdem nicht mehr belästigt. Melusand selbst erschien ein paar "
+"Tage später, und erklärte die Säuberung der Insel für ein Wunder. Wir "
+"schlossen einen Pakt zwischen Elfen und Meeresbewohnern, von nun an "
+"gemeinsam in Frieden und Wohlstand miteinander zu leben. Die Meeresbewohner "
+"waren sehr hilfreich dabei uns zu zeigen, wie wir uns schnell an dieses "
+"seltsame Land anpassen konnten. Ich kann mich noch immer nicht daran "
+"gewöhnen, ständig von Wasser umgeben zu sein. Es war immer so kostbar, und "
+"jetzt war es etwas gewöhnliches, wie Sand. Und im Vergleich zum Ödland waren "
+"die Gewässer hier voller Fische, und die Insel war von allen möglichen "
+"Pflanzen und Tieren überzogen. Es war alles so erstaunlich. Hierher zu "
+"kommen erscheint mir wie ein Wunder, wenn ich nur vergessen könnte, welchen "
+"Preis wir bezahlt haben..."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:125
 msgid ""
@@ -1221,6 +1315,15 @@ msgid ""
 "that I grew up with were not so lucky. Why did so many of us have to die? I "
 "wish I could go back and do it all over again."
 msgstr ""
+"Hätte ich den Preis vor Anbeginn unserer Reise gekannt, den wir mit unserem "
+"Blut bezahlen mussten, ich weiß nicht, ob ich die Kraft aufgebracht hätte, "
+"den ersten Schritt zu machen. Und ich denke, ich hätte wissen müssen, dass "
+"meine Freunde mich nicht alleine gegen Yechnagoth antreten lassen würden. "
+"Nur Elohs Fügung und einer ganzen Portion Glück ist es zu verdanken, dass "
+"keiner von ihnen in dieser blutigen Schlacht ums Leben gekommen ist. Aber so "
+"viele andere, mit denen ich aufgewachsen bin, hatten weniger Glück. Warum "
+"nur mussten so viele von uns sterben? Ich wünschte, ich könnte die Zeit "
+"zurückdrehen, und alles noch einmal versuchen."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:152
 msgid ""
@@ -1232,6 +1335,14 @@ msgid ""
 "so long, to lose her at the end... I wish I could go back and do it all over "
 "again."
 msgstr ""
+"Hätte ich den Preis vor Anbeginn unserer Reise gekannt, den wir mit unserem "
+"Blut bezahlen mussten, ich weiß nicht, ob ich die Kraft aufgebracht hätte, "
+"den ersten Schritt zu machen. Und ich denke, ich hätte wissen müssen, dass "
+"meine Freunde mich nicht alleine gegen Yechnagoth antreten lassen würden. "
+"Ich würde gerne mein eigenes Leben geben, wenn ich Nym dadurch zurückbringen "
+"könnte. Sie folgte mir immer treu und kämpfte so lange an meiner Seite, nur, "
+"um sie am Ende zu verlieren... ich wünschte, ich könnte die Zeit "
+"zurückdrehen, und alles noch einmal versuchen."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:169
 msgid ""
@@ -1243,6 +1354,14 @@ msgid ""
 "so long, to lose her at the end... I wish I could go back and do it all over "
 "again."
 msgstr ""
+"Hätte ich den Preis vor Anbeginn unserer Reise gekannt, den wir mit unserem "
+"Blut bezahlen mussten, ich weiß nicht, ob ich die Kraft aufgebracht hätte, "
+"den ersten Schritt zu machen. Und ich denke, ich hätte wissen müssen, dass "
+"meine Freunde mich nicht alleine gegen Yechnagoth antreten lassen würden. "
+"Ich würde gerne mein eigenes Leben geben, wenn ich Zhul dadurch "
+"zurückbringen könnte. Sie folgte mir immer treu und kämpfte so lange an "
+"meiner Seite, nur, um sie am Ende zu verlieren... ich wünschte, ich könnte "
+"die Zeit zurückdrehen, und alles noch einmal versuchen."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:186
 msgid ""
@@ -1254,6 +1373,14 @@ msgid ""
 "side, and then to lose him at the end... I wish I could go back and do it "
 "all over again."
 msgstr ""
+"Hätte ich den Preis vor Anbeginn unserer Reise gekannt, den wir mit unserem "
+"Blut bezahlen mussten, ich weiß nicht, ob ich die Kraft aufgebracht hätte, "
+"den ersten Schritt zu machen. Und ich denke, ich hätte wissen müssen, dass "
+"meine Freunde mich nicht alleine gegen Yechnagoth antreten lassen würden. "
+"Ich würde gerne mein eigenes Leben geben, wenn ich $ally_name dadurch "
+"zurückbringen könnte. Er verließ seine Heimat, um treu an meiner Seite zu "
+"kämpfen, nur, um ihn am Ende zu verlieren... ich wünschte, ich könnte die "
+"Zeit zurückdrehen, und alles noch einmal versuchen."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:207
 msgid ""
@@ -1265,6 +1392,14 @@ msgid ""
 "my side for so long, to lose them at the end... I wish I could go back and "
 "do it all over again."
 msgstr ""
+"Hätte ich den Preis vor Anbeginn unserer Reise gekannt, den wir mit unserem "
+"Blut bezahlen mussten, ich weiß nicht, ob ich die Kraft aufgebracht hätte, "
+"den ersten Schritt zu machen. Und ich denke, ich hätte wissen müssen, dass "
+"meine Freunde mich nicht alleine gegen Yechnagoth antreten lassen würden. "
+"Ich würde gerne mein eigenes Leben geben, wenn ich nur einen von ihnen "
+"dadurch zurückbringen könnte. Sie folgten mir so lange, um kämpften treu an "
+"meiner Seite, nur, um sie am Ende zu verlieren... ich wünschte, ich könnte "
+"die Zeit zurückdrehen, und alles noch einmal versuchen."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:217
 msgid ""
@@ -1277,6 +1412,16 @@ msgid ""
 "peace and I hope that in the coming years we may prosper and grow to "
 "possibly even exceed our former size."
 msgstr ""
+"Ich muss zugeben, dass ich keinen besseren Ort aussuchen können hätte als "
+"diesen, als wir auf der Suche nach einer neuen Heimat waren. So fremdartig "
+"mir diese Umgebung auch vorkommt, die Insel sind reich an Früchten und "
+"Pflanzen, und das Wasser ist voller Fische und anderer seltsamer Lebewesen. "
+"Es ist auch ein großer Vorteil, dass unsere Heimat isoliert ist, und wir die "
+"Meeresbewohner als Verbündete haben. Ich weiß nicht, wie viel mehr "
+"Schlachten wir überlebt hätten, so wenige wie von uns übrig waren. Doch "
+"Melusand sagt, es ist jetzt eine Zeit des Friedens, und ich hoffe, dass wir "
+"in den nächsten Jahren gedeihen, und möglicher Weise über unsere "
+"ursprüngliche Zahl hinaus wachsen."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:239
 msgid ""
@@ -1290,6 +1435,18 @@ msgid ""
 "Looking out over the waters, and back upon the prosperity of my people, I "
 "tell myself it was worth it. But sometimes that seems a small consolation."
 msgstr ""
+"Auch wenn ich der Überzeugung bin, dass die Schlacht in der schwarzen "
+"Zitadelle unsere größte Stunde war, so verfolgt mich dennoch bis heute der "
+"Gedanke an Nym's Tod an diesem dunklen Ort. Und so gehe ich jeden Tag bei "
+"Sonnenaufgang zum südöstlichen Ende der Insel und schaue über das Wasser auf "
+"diese Welt, für deren Fortbestand wir ein so großes Opfer erbringen mussten. "
+"Ich erinnere mich daran, was Zhul gesagt hat, und woran sie alle glaubten - "
+"dass trotz all der Verzweiflung und all dem Töten und Kämpfen, das wir auf "
+"unserer Reise erlebt hatten, diese Welt eine Welt war, die schön genug und "
+"gut genug war, dass Nym ihr Leben dafür gab, sie zu retten. Und wenn ich "
+"über das Wasser blicke, und zurück auf den Wohlstand meines Volkes, dann "
+"sage ich mir selbst, dass es das wert gewesen ist. Doch manchmal ist das nur "
+"ein kleine Trost."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:256
 msgid ""
@@ -1303,6 +1460,18 @@ msgid ""
 "Looking out over the waters, and back upon the prosperity of my people, I "
 "tell myself it was worth it. But sometimes that seems a small consolation."
 msgstr ""
+"Auch wenn ich der Überzeugung bin, dass die Schlacht in der schwarzen "
+"Zitadelle unsere größte Stunde war, so verfolgt mich dennoch bis heute der "
+"Gedanke an Zhul's Tod an diesem dunklen Ort. Und so gehe ich jeden Tag bei "
+"Sonnenaufgang zum südöstlichen Ende der Insel und schaue über das Wasser auf "
+"diese Welt, für deren Fortbestand wir ein so großes Opfer erbringen mussten. "
+"Ich erinnere mich daran, was Zhul gesagt hat, und woran sie alle glaubten - "
+"dass trotz all der Verzweiflung und all dem Töten und Kämpfen, das wir auf "
+"unserer Reise erlebt hatten, diese Welt eine Welt war, die schön genug und "
+"gut genug war, dass Zhul ihr Leben dafür gab, sie zu retten. Und wenn ich "
+"über das Wasser blicke, und zurück auf den Wohlstand meines Volkes, dann "
+"sage ich mir selbst, dass es das wert gewesen ist. Doch manchmal ist das nur "
+"ein kleine Trost."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:273
 msgid ""
@@ -1318,6 +1487,18 @@ msgid ""
 "desperate war that his people are probably still fighting underground, it "
 "seems a small consolation."
 msgstr ""
+"Auch wenn ich der Überzeugung bin, dass die Schlacht in der schwarzen "
+"Zitadelle unsere größte Stunde war, so verfolgt mich dennoch bis heute der "
+"Gedanke an den Tod von $ally_name an diesem dunklen Ort. Und so gehe ich "
+"jeden Tag bei Sonnenaufgang zum südöstlichen Ende der Insel und schaue über "
+"das Wasser auf diese Welt, für deren Fortbestand wir ein so großes Opfer "
+"erbringen mussten. Ich erinnere mich daran, was Zhul gesagt hat, und woran "
+"sie alle glaubten - dass trotz all der Verzweiflung und all dem Töten und "
+"Kämpfen, das wir auf unserer Reise erlebt hatten, diese Welt eine Welt war, "
+"die schön genug und gut genug war, dass $ally_name sein Leben dafür gab, sie "
+"zu retten. Und wenn ich über das Wasser blicke, und zurück auf den Wohlstand "
+"meines Volkes, dann sage ich mir selbst, dass es das wert gewesen ist. Doch "
+"manchmal ist das nur ein kleine Trost."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:293
 msgid ""
@@ -1331,6 +1512,18 @@ msgid ""
 "it. Looking out over the waters, and back upon the prosperity of my people, "
 "I tell myself it was worth it. But I still miss each one of them horribly."
 msgstr ""
+"Auch wenn ich der Überzeugung bin, dass die Schlacht in der schwarzen "
+"Zitadelle unsere größte Stunde war, so verfolgt mich dennoch bis heute der "
+"Gedanke an den Tod meiner Freunde an diesem dunklen Ort. Und so gehe ich "
+"jeden Tag bei Sonnenaufgang zum südöstlichen Ende der Insel und schaue über "
+"das Wasser auf diese Welt, für deren Fortbestand wir ein so großes Opfer "
+"erbringen mussten. Ich erinnere mich daran, was Zhul gesagt hat, und woran "
+"sie alle glaubten - dass trotz all der Verzweiflung und all dem Töten und "
+"Kämpfen, das wir auf unserer Reise erlebt hatten, diese Welt eine Welt war, "
+"die schön genug und gut genug war, dass meine Freunde ihr Leben dafür gaben, "
+"sie zu retten. Und wenn ich über das Wasser blicke, und zurück auf den "
+"Wohlstand meines Volkes, dann sage ich mir selbst, dass es das wert gewesen "
+"ist. Dennoch vermisse ich jeden einzelnen von ihnen schmerzlich."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:311
 msgid ""
@@ -1345,6 +1538,19 @@ msgid ""
 "hesitated to speak her mind, who managed to crack a joke no matter how grim "
 "the situation. How I miss her laugh, her smile, her..."
 msgstr ""
+"Wir brachten Nym auf eine kleine Insel im Norden, mit einem einzelnen "
+"Gipfel, von dem man einen großartigen Ausblick auf die umliegenden Inseln "
+"hatte. Es schien mir ein Ausblick zu sein, der Nym sehr gefallen hätte. Und "
+"so kletterten ich und ein paar andere auf den Gipfel, und gruben ein Grab "
+"für Nym, so dass sie immer auf uns herab blicken konnte, und all das sah, "
+"was wir dank ihres Opfers erreicht hatten. Denn sie opferte für uns ihr "
+"Leben und schenkte es uns, und jeden Tag versuche ich, das beste daraus zu "
+"machen. Und ich werde mich immer an sie erinnern. Nym, die immer über mich "
+"gewacht hat, seit ich ein kleines Kind war, auf jedem Schritt unserer langen "
+"Reise, und die mir immer treu ergeben war, aber niemals zögerte, ihre "
+"Meinung zu sagen. Sie konnte mich jederzeit mit einem Scherz aufheitern, "
+"egal in welch schlimmer Lage wir uns befanden. Wie sehr vermisse ich ihr "
+"Lachen, ihr Lächeln, ihr..."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:329
 msgid ""
@@ -1358,6 +1564,18 @@ msgid ""
 "the past. I am sorry that she did not live to see the fruits of her labors, "
 "but I am confident that she is now with Eloh, in a better place."
 msgstr ""
+"Zhul's Begräbnis war eine große Zeremonie, genau wie jene aus vergangenen "
+"Zeiten, von denen sie uns erzählt hatte. Ich führte die Prozession aus den "
+"wenigen Priesterinnen, die uns geblieben waren, und all den Gläubigen über "
+"die ganze Insel, so dass sie alles sehen konnte, dass sie uns ermöglicht "
+"hatte. Da sie eine Priesterin des Wüstensandes war, begruben wir sie auf dem "
+"großen Strand im Nordwesten der Insel. Zur Zeit der Endschlacht war sie "
+"bereits ein der ältesten lebenden Elfen, und ich danke Eloh dafür, dass sie "
+"nicht auf unserer Reise gestorben ist. Sie war die ganze Zeit meine Führerin "
+"und mein Glaube, und meine Verbindung zur Vergangenheit. Es schmerzt mich, "
+"dass sie nicht mehr mitansehen durfte, wie wir die Früchte ihrer harten "
+"Arbeit ernten konnten - aber ich bin zuversichtlich, dass sie jetzt bei Eloh "
+"ist, an einem besseren Ort."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:360
 msgid ""
@@ -1372,6 +1590,18 @@ msgid ""
 "solid rock. And so we buried him with much honor and will long remember the "
 "service that his kind has done for our people."
 msgstr ""
+"Ich bin bestürzt über den Tod von Rogrimir, aber indem er mein Leben "
+"rettete, hat er nun am Ende seine Schuld an mich beglichen. Ich denke, er "
+"wäre auch glücklich darüber gewesen, in eine Schlacht zu sterben. Ich dachte "
+"darüber nach, eine Expedition anzuführen, um seinen Körper zurück zu seinem "
+"Volk zu bringen, aber meine Mitelfen sind noch durch die lange Reise "
+"geschwächt, und ich will es nicht riskieren, noch mehr Verluste zu erleiden. "
+"Stattdessen suchte ich die ganze Insel ab, und fand schließlich in den "
+"steinigen Hügeln im Nordwesten eine Reihe von Höhlen. Sie waren nicht so "
+"tief wie seine Heimat, aber ich dachte mir, Rogrimir würde es zu schätzen "
+"gewusst haben, dass er unter massivem Stein begraben wird. Und so begruben "
+"wir ihn in großer Ehre, und werden uns noch lange an den Dienst erinnern, "
+"den sein Volk unserem Volk erwiesen hat."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:370
 msgid ""
@@ -1386,6 +1616,18 @@ msgid ""
 "we buried him with much honor and will long remember the service that his "
 "kind has done for our people."
 msgstr ""
+"Ich bin bestürzt über den Tod von Grog, aber indem er mein Leben rettete, "
+"hat er nun am Ende seine Schuld an mich beglichen. Ich denke, er wäre auch "
+"glücklich darüber gewesen, in eine Schlacht zu sterben. Ich dachte darüber "
+"nach, eine Expedition anzuführen, um seinen Körper zurück zu seinem Volk zu "
+"bringen, aber meine Mitelfen sind noch durch die lange Reise geschwächt, und "
+"ich will es nicht riskieren, noch mehr Verluste zu erleiden. Stattdessen "
+"suchte ich die ganze Insel ab, und fand schließlich in den steinigen Hügeln "
+"im Nordwesten eine Reihe von Höhlen. Sie waren nicht so tief wie seine "
+"Heimat, aber ich dachte mir, Grog würde es zu schätzen gewusst haben, dass "
+"er unter massivem Stein begraben wird. Und so begruben wir ihn in großer "
+"Ehre, und werden uns noch lange an den Dienst erinnern, den sein Volk "
+"unserem Volk erwiesen hat."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:391
 msgid ""
@@ -1401,6 +1643,19 @@ msgid ""
 "a living testament to the fact that even though we were born among the sands "
 "we can thrive anywhere we have the will to live."
 msgstr ""
+"Auch wenn ich nicht so religiös bin wie Zhul, do danke ich Eloh dafür, dass "
+"Nym diese schreckliche Schlacht in der Schwarzen Zitadelle überlebt hat. "
+"Niemand war enthusiastischer als Nym, als es darum ging, sich an das Leben "
+"zwischen den Inseln zu gewöhnen. Sie liebt das Wasser so sehr, dass ich "
+"manchmal denke, sie ist in Wirklichkeit eine Nixe. Sie liebt es, zu "
+"schwimmen, und zwischen den Sandbänken zu segeln, und sie scheint mehr Zeit "
+"im Wasser zu verbringen als an Land. Ihr helles Lachen und ihre schnelle "
+"Auffassungsgabe sind ein tägliches Geschenk für uns. Sie unterhält die "
+"Kinder mit fesselnden (wenn auch oft etwas ausgeschmückten) Erzählungen "
+"unserer großen Reise, und ab und zu, wenn ich etwas mürrisch bin, erinnert "
+"sie mich daran, welches Glück es ist, in diesem großartigen Land zu leben. "
+"Sie ist der lebende Beweis dafür, dass obwohl wir im Sand geboren wurden, "
+"überall fortbestehen können, solange wir nur den Willen zum Überleben haben."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:408
 msgid ""
@@ -1415,6 +1670,19 @@ msgid ""
 "times. I am still not quite used to seeing so many trees, perhaps as some "
 "people say, it is a sign that the peace and prosperity of old has come again."
 msgstr ""
+"Die älteste der überlebenden Elfen, Zhul, bewegt sich heute langsamer als "
+"damals, aber sie hat noch immer dieses Funkeln in ihren Augen. Und sie ist "
+"noch genau so schnell damit wie immer, alle zu korrigieren, die je "
+"Ungläubigkeit an die Macht Elohs anklingen lassen. Trotz der der Prüfungen "
+"auf unserer Reise, und der Täuschung durch Yechnagoth, hat unser Sieg ihren "
+"Glauben nur noch mehr verstärkt. Sie verbringt ihre Zeit jetzt damit, eine "
+"neue Generation von Priesterinnen zu unterrichten, und damit, all die alten "
+"Geschichten den Kindern zu erzählen, so dass sie nicht vergessen werden. Sie "
+"hat auch damit begonnen, im Dschungel einen Hain für Eloh anzulegen, wie es "
+"unser Volk in den alten Tagen gemacht hat. Ich bin es noch immer nicht "
+"gewohnt, so viele Bäume zu sehen, doch vielleicht ist es so, wie einige "
+"sagen, und es ist ein Zeichen dafür, dass der Friede und Wohlstand aus der "
+"alten Zeit nun wiedergekehrt ist."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:435
 msgid ""
@@ -1432,6 +1700,23 @@ msgid ""
 "treasure the memory of him and his kind, and I will long remember his "
 "steadfast loyalty and all that he did to aid us in our struggle."
 msgstr ""
+"Indem er mein Leben rettete, hat Rogrimir seine Schuld an mich beglichen. "
+"Wir konnten ihn jedoch dazu überreden, noch eine Weile bei uns zu bleiben, "
+"und an den Feierlichkeiten teilzunehmen, die wir anlässlich unseres "
+"großartigen Siegs abhielten. Wir feierten mehrere Tage hindurch, und dankten "
+"Eloh und dem Gott der Meeresbewohner, und erfreuten uns an der reichen Beute "
+"und der Schönheit in unserer neuen Heimat. Danach machten wir uns daran, "
+"neue Behausungen für unsere Leute zu bauen. Rogrimir half uns bei der "
+"Konstruktion, und er war auch derjenige von uns, der am härtesten arbeitete. "
+"Doch nach einiger Zeit kam er und sagte uns, er müsse zu seinem eigenen Volk "
+"zurückkehren. Rogrimir sagte, seine Zeit bei uns sei wie ein wundervoller "
+"Traum gewesen, und er versprach uns, er würde immer an uns denken, aber sein "
+"Volk brauche ihn jetzt, und er müsse nach Hause gehen. Er sagte, er wolle "
+"eines Tages zurückkehren und uns besuchen, aber ich bezweifle, dass ich ihn "
+"in diesem Leben noch einmal sehen werde. Umso mehr halte ich die Erinnerung "
+"an ihn und sein Volk in Ehren, und werde noch lange seiner standhaften "
+"Ergebenheit gedenken, und all dessen, das er getan hat, um uns in diesem "
+"Kampf zu helfen."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:445
 msgid ""
@@ -1449,6 +1734,23 @@ msgid ""
 "memory of him and his kind, and I will long remember his steadfast loyalty "
 "and all that he did to aid us in our struggle. "
 msgstr ""
+"Indem er mein Leben rettete, hat Grog seine Schuld an mich beglichen. Wir "
+"konnten ihn jedoch dazu überreden, noch eine Weile bei uns zu bleiben, und "
+"an den Feierlichkeiten teilzunehmen, die wir anlässlich unseres großartigen "
+"Siegs abhielten. Wir feierten mehrere Tage hindurch, und dankten Eloh und "
+"dem Gott der Meeresbewohner, und erfreuten uns an der reichen Beute und der "
+"Schönheit in unserer neuen Heimat. Danach machten wir uns daran, neue "
+"Behausungen für unsere Leute zu bauen. Grog half uns bei der Konstruktion, "
+"und er war auch derjenige von uns, der am härtesten arbeitete. Doch nach "
+"einiger Zeit kam er und sagte uns, er müsse zu seinem eigenen Volk "
+"zurückkehren. Grog sagte, seine Zeit bei uns sei wie ein wundervoller Traum "
+"gewesen, und er versprach uns, er würde immer an uns denken, aber sein Volk "
+"brauche ihn jetzt, und er müsse nach Hause gehen. Er sagte, er wolle eines "
+"Tages zurückkehren und uns besuchen, aber ich bezweifle, dass ich ihn in "
+"diesem Leben noch einmal sehen werde. Umso mehr halte ich die Erinnerung an "
+"ihn und sein Volk in Ehren, und werde noch lange seiner standhaften "
+"Ergebenheit gedenken, und all dessen, das er getan hat, um uns in diesem "
+"Kampf zu helfen."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:480
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:490
@@ -1457,6 +1759,10 @@ msgid ""
 "warrior I have never seen, and though he was taken from us too soon, I am "
 "glad for the short time that I knew him."
 msgstr ""
+"Und ich werde immer $ally_name gedenken, der auf unserer Reise gestorben "
+"ist. Nie hatte ich einen Krieger gesehen, der so tapfer war wie er, und auch "
+"wenn er uns so früh verließ, schätze ich mich glücklich, dass ich ihn für "
+"diese kurze Zeit gekannt habe."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:503
 msgid ""
@@ -1469,6 +1775,15 @@ msgid ""
 "would have been proud of us. He was both a great warrior and a great "
 "teacher. He will be remembered."
 msgstr ""
+"So viel ist geschehen, seit wir die Wüste verließen, und wenn ich auf unsere "
+"Reise zurück blicke, will ich Garak und sein Opfer nicht vergessen. Ich "
+"bezweifle, dass wir es aus der Wüste heraus geschafft hätten, wenn wir nicht "
+"seine Stärle und Führung gehabt hätten. Ich erinnere mich daran, wie er "
+"immer lächelte, wenn er in den Kampf stürmte, und wie er danach über den "
+"Körpern seiner gefallenen Freunde betete. Ich denke manchmal an ihn - "
+"begraben im Sand, gemeinsam mit den anderen Kriegern. Ich denke, er wäre "
+"sehr stolz auf uns gewesen. Er war ein großartiger Kämpfer und Lehrmeister. "
+"Man wird sich lange an ihn erinnern."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:509
 msgid ""
@@ -1485,6 +1800,20 @@ msgid ""
 "as a reminder of the evil that once dwelt here and all those who gave their "
 "lives to destroy it."
 msgstr ""
+"Zur Schwarzen Zitadelle ist zu sagen, nach vielen Diskussionen beschlossen "
+"wir, die alten Rituale zur Reinigung von unreinem Land mit Feuer anzuwenden. "
+"Wir füllten die komplette Struktur mit Hold und Öl, und entzündeten alles. "
+"So wollten wir sicher gehen, das alle Überreste des Befalls von Yechnagoth "
+"durch das heilige Feuer gereinigt wurden. Danach rissen wir die Zitadelle "
+"ab, Stein für Stein. Ich war versucht, die Steine für andere Bauwerke zu "
+"verwenden - aber ich wusste nicht, welche schändliche Magie noch immer darin "
+"verborgen war, und wir wollten kein Risiko eingehen. Deshalb transportierten "
+"wir die Steine mit Hilfe der Meeresbewohner hinaus auf das Meer, und "
+"beförderten sie auf den Meeresgrund. Als der letzte Stein weggebracht war, "
+"beschlossen wir, dass egal was wir in der Umgebung bauen würden, diese "
+"Stelle unbebaut gelassen werden sollte, als eine Erinnerung an das Böse, das "
+"hier einst hauste, und an alle jene, die ihr Leben gaben, um es zu "
+"vernichten."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:515
 msgid ""
@@ -1500,70 +1829,91 @@ msgid ""
 "mistakes so you will not repeat them. And most of all, treasure every day, "
 "for it is a gift, from us to you."
 msgstr ""
+"Es ist nun einige Jahre her seit den Ereignissen, die ich hier aufschreibe, "
+"und ich bin nicht mehr so flink und beweglich, wie ich es einst war. Deshalb "
+"denke ich, es ist an der Zeit, dies alles aufzuschreiben, bevor mir etwas "
+"zustößt. Mein einziger Wille ist es, dass unsere Nachfahren alle jene nicht "
+"vergessen sollen, die dieses Opfer erbracht haben, um eine Zukunft für unser "
+"Volk zu ermöglichen. Wenn ich mir die Ruinen längst vergangener Reiche "
+"ansehe, so weiß ich, dass die Zeit alles auslöscht. Wir haben so viel über "
+"das Goldene Zeitalter vergessen. Unsere Geschichte soll nicht das selbe "
+"Schicksal erleiden. Denn solange die Geschichten derer, die jetzt tot sind, "
+"noch erzählt werden, bleiben sie auf eine gewisse Weise lebendig, und sind "
+"noch immer bei uns. Erweist jenen Ehre, die gestorben sind. Gedenkt unserer "
+"Fehler, so dass ihr sie nicht wiederholt. Und am wichtigsten, schätzt jeden "
+"einzelnen Tag, denn er ist ein Geschenk, von uns an euch."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:575
 msgid "Hey Kaleh, how's the writing going?"
-msgstr ""
+msgstr "Hey, Kaleh - wie geht's voran mit dem Schreiben?"
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:581
 msgid "Actually I just finished."
-msgstr ""
+msgstr "Eigentlich bin ich gerade fertig geworden."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:587
 msgid "You've been working on that thing for months. I'm impressed."
-msgstr ""
+msgstr "Du hast mehrere Monate lang daran gearbeitet, ich bin beeindruckt."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:593
 msgid "Yes, it feels good to finally be done."
-msgstr ""
+msgstr "Ja, es ist ein gutes Gefühl, endlich fertig zu sein."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:599
 msgid ""
 "Well, your timing was perfect. Zhul is dedicating the new grove to Eloh, and "
 "you know they'll be one heck of a celebration afterwards."
 msgstr ""
+"Nun, dein Timing war perfekt. Zhul widmet Eloh gerade den neuen Hain, und du "
+"kannst die denken, dass es danach eine große Feier geben wird."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:605
 msgid ""
 "I suppose we wouldn't want to miss that. I wonder if they will still have "
 "any of that wine left from last year?"
 msgstr ""
+"Ich denke, das wollen wir nicht vermissen. Ich frage mich, ob wir noch etwas "
+"von dem Wein vom letzten Jahr übrig haben?"
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:611
 msgid "We'll just have to find out. Come on!"
-msgstr ""
+msgstr "Lass es uns heraus finden. Komm jetzt!"
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:615
 msgid "THE END"
-msgstr ""
+msgstr "ENDE"
 
 #: Under_the_Burning_Suns/scenarios/13Credits.cfg:20
 msgid "CAMPAIGN CREDITS:"
-msgstr ""
+msgstr "MITWIRKENDE AN DIESER KAMPAGNE:"
 
 #: Under_the_Burning_Suns/scenarios/13Credits.cfg:26
 msgid "Campaign Writer and Programmer: Asa Swain"
-msgstr ""
+msgstr "Kampagnen Schreiber und Programmierer: Asa Swain"
 
 #: Under_the_Burning_Suns/scenarios/13Credits.cfg:32
 msgid ""
 "Artists: Sangel, Jetryl, Pickslide (James Woo), Scott Klempner, Emdot, Shadow"
 "(Peter Geinitz), Frame (Hogne Håskjold)"
 msgstr ""
+"Artisten: Sangel, Jetryl, Pickslide (James Woo), Scott Klempner, Emdot, "
+"Shadow(Peter Geinitz), Frame (Hogne Håskjold)"
 
 #: Under_the_Burning_Suns/scenarios/13Credits.cfg:38
 msgid "Translators: Allefant [German], Sanna [Swedish]"
-msgstr ""
+msgstr "Übersetzer: Allefant [German], Sanna [Swedish]"
 
 #: Under_the_Burning_Suns/scenarios/13Credits.cfg:44
 msgid "Testers: Mark Polo, Isaac, Ringcaat"
-msgstr ""
+msgstr "Tester: Mark Polo, Isaac, Ringcaat"
 
 #: Under_the_Burning_Suns/scenarios/13Credits.cfg:50
 msgid ""
 "And thanks to everyone else I have forgotten to mention. I could not have "
 "done this without the support of the Wesnoth Community."
 msgstr ""
+"Und vielen Dank an alle, die ich vergessen habe zu erwähnen. Ich hätte es "
+"nicht ohne die Unterstützung der Wesnoth Community verwirklichen können."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:7
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:8
