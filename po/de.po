@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-10-03 19:18+0200\n"
+"POT-Creation-Date: 2005-10-13 12:00+0200\n"
 "PO-Revision-Date: 2005-10-12 21:49+0200\n"
 "Last-Translator: Allefant <allefant@gmail.com>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
@@ -216,15 +216,16 @@ msgstr ""
 "bedrohlich."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:317
+#, fuzzy
 msgid ""
 "In the end, almost everyone decided to join us on our quest. I was "
 "surprised. My people had gone through so much and they still had faith in "
-"me. Look around at them, I could not help noticing how many familiar faces "
-"were missing. Barely a fourth of those who set out with us on our journey "
-"have survived. If I had known it would be this bad would I have every left "
-"in the first place? I thought Eloh was protecting us and guiding out steps, "
-"but in truth it was all me. For better or for worse I have no one to blame "
-"but myself. "
+"me. Looking around at them, I could not help noticing how many familiar "
+"faces were missing. Barely a fourth of those who set out with us on our "
+"journey have survived. If I had known it would be this bad would I have ever "
+"left in the first place? I thought Eloh was protecting us and guiding out "
+"steps, but in truth it was all me. For better or for worse I have no one to "
+"blame but myself. "
 msgstr ""
 "Letztendlich entschieden sich fast alle, uns auf unserer Mission zu "
 "begleiten. Ich war überrascht. Mein Volk hatte so viel durchgemacht, und "
@@ -566,10 +567,10 @@ msgstr ""
 "hinein zu geben."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1361
-#: Under_the_Burning_Suns/scenarios/10Island.cfg:1392
+#, fuzzy
 msgid ""
-"Are you sure? Search carefully. They orc and skeleton must have been "
-"guarding some sort of entrance."
+"Are you sure? Search carefully. The orc and skeleton must have been guarding "
+"some sort of entrance."
 msgstr ""
 "Seid ihr euch sicher? Sucht gründlich. Die Orks und Skelette müssen eine Art "
 "Eingang bewacht haben."
@@ -596,6 +597,14 @@ msgid ""
 msgstr ""
 "Was ist mit den beiden Schlüsseln, die wir bei den Leichen des Untoten und "
 "des Ork-Anführers gefunden haben?"
+
+#: Under_the_Burning_Suns/scenarios/10Island.cfg:1392
+msgid ""
+"Are you sure? Search carefully. They orc and skeleton must have been "
+"guarding some sort of entrance."
+msgstr ""
+"Seid ihr euch sicher? Sucht gründlich. Die Orks und Skelette müssen eine Art "
+"Eingang bewacht haben."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1403
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1510
@@ -850,10 +859,11 @@ msgstr ""
 "jetzt nicht gehen lassen, damit er sich töten lässt."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:2035
+#, fuzzy
 msgid ""
 "Nymphtessa, my darling, you have always been a rebel. But eventually you "
 "must learn to respect your leaders decisions. Kaleh has made his choice, and "
-"if Eloh wills it he will prevail. You see how all our loses weigh upon him. "
+"if Eloh wills it he will prevail. You see how all our losses weigh upon him. "
 "He would not want us to disobey him and sacrifice our lives too."
 msgstr ""
 "Nymphtessa, mein Liebe, du warst immer schon rebellisch. Aber irgendwann "
@@ -1070,7 +1080,8 @@ msgid "Never!"
 msgstr "Niemals!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:968
-msgid "The shell necklaces Melusand gave us, they're glowing!"
+#, fuzzy
+msgid "The shell brooches Melusand gave us, they're glowing!"
 msgstr "Die Muschel-Halsketten, die Melusand uns gegeben hat - sie leuchten!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:974
@@ -1424,8 +1435,9 @@ msgstr ""
 "ursprüngliche Zahl hinaus wachsen."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:239
+#, fuzzy
 msgid ""
-"Although I believe that our battle in the black citadel was out finest hour, "
+"Although I believe that our battle in the black citadel was our finest hour, "
 "I am still haunted by Nym's death in that dark place. And so every morning "
 "at sunrise I come out to the southeastern tip of the island and look out "
 "upon the waters, upon the world that we sacrificed so much to preserve. I "
@@ -1630,18 +1642,19 @@ msgstr ""
 "unserem Volk erwiesen hat."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:391
+#, fuzzy
 msgid ""
 "Although I am not as devout as Zhul is, I do thank Eloh daily that Nym "
 "survived that horrible battle in the Black Citadel. No one has been more "
 "enthusiastic than Nym in embracing our life among the islands. She loves the "
 "water so much that sometimes I think she is half mermaid herself. She loves "
-"to swim and said and drive among the shallows and seems to spend more of her "
-"time in the water than on land. Her sparkling laugh and quick wit are a "
-"daily gift to us. She entertains the children with thrilling (though often "
-"slightly embellished) tales of our great journey, and at times when I get "
-"moody, she reminds me what a joy it is to be alive in the great land. She is "
-"a living testament to the fact that even though we were born among the sands "
-"we can thrive anywhere we have the will to live."
+"to swim and sail among the shallows and seems to spend more of her time in "
+"the water than on land. Her sparkling laugh and quick wit are a daily gift "
+"to us. She entertains the children with thrilling (though often slightly "
+"embellished) tales of our great journey, and at times when I get moody, she "
+"reminds me what a joy it is to be alive in the great land. She is a living "
+"testament to the fact that even though we were born among the sands we can "
+"thrive anywhere we have the will to live."
 msgstr ""
 "Auch wenn ich nicht so religiös bin wie Zhul, do danke ich Eloh dafür, dass "
 "Nym diese schreckliche Schlacht in der Schwarzen Zitadelle überlebt hat. "
@@ -8140,12 +8153,13 @@ msgstr ""
 "bin mir nicht sicher ob es eine gute Idee wäre, sie zu überqueren."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2980
+#, fuzzy
 msgid ""
 "This chamber seems to have been some sort of laboratory. The floor is "
-"littered with broken bottles and other strange equipment. What most striking "
-"are the growing runes and the creatures that just appeared on them. Some "
-"sort of clawed creature and a tortured young ogre. And behind them is some "
-"huge beast floating in the middle of a magic circle. The huge beast seems "
+"littered with broken bottles and other strange equipment. What is more "
+"striking are the glowing runes and the creatures that just appeared on them. "
+"Some sort of clawed creature and a tortured young ogre. And behind them is "
+"some huge beast floating in the middle of a magic circle. The beast seems "
 "asleep, but the front two are very much awake. And boy do they seem angry. "
 msgstr ""
 "Diese Kammer scheint eine Art Labor gewesen zu sein. Auf dem Boden sind "
@@ -10800,8 +10814,9 @@ msgstr ""
 "ein hartes Leben."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2547
+#, fuzzy
 msgid ""
-"If I was a an landwalker, I might think the view from this sandbar to be "
+"If I was a landwalker, I might think the view from this sandbar to be "
 "amazing. But I am a creature of the sea and I see views like this every day."
 msgstr ""
 "Wenn ich ein Landwesen wäre, dann würde ich die Aussicht von diese Sandbank "
@@ -11678,11 +11693,12 @@ msgid "Patience, young lady. All will be revealed in good time."
 msgstr "Geduld, junge Frau. Alles wird sich bald klären."
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:314
+#, fuzzy
 msgid ""
 "I have been watching your progress with great interest, but I could not "
 "contact your directly. That is why I sent out my most trusted followers to "
 "find you. I apologize for the difficulty of arranging a meeting. Oh, and I "
-"hope you do not mind my guards. But her spies are everyone and I had to be "
+"hope you do not mind my guards. But her spies are everywhere and I had to be "
 "certain that we could converse without being overheard. Besides, it never "
 "hurts to be too careful. "
 msgstr ""
@@ -12015,9 +12031,10 @@ msgstr ""
 "dieser zu widersetzen. Wenn nicht wir es tun, wer sonst soll es?"
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:430
+#, fuzzy
 msgid ""
-"How can trust you? How do we know you aren't servants of Eloh, sent to trick "
-"us?"
+"How can we trust you? How do we know you aren't servants of Eloh, sent to "
+"trick us?"
 msgstr ""
 "Wie können wir euch vertrauen? Wie können wir wissen, dass ihr nicht selbst "
 "Diener von Eloh seid, die uns täuschen wollen?"
@@ -12123,12 +12140,13 @@ msgstr ""
 "Elfen ihren Krieg für sie kämpfen?"
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:656
+#, fuzzy
 msgid ""
 "The point is, it's not her fight, it our fight too. I for one believe her "
-"tale. With all the power than he says Yechnagoth has, how do we know that "
-"she wasn't the one who rained those rocks down upon our village all those "
-"weeks ago. What if this is all just a plot to turn our people into a group "
-"of mindless followers?"
+"tale. With all the power that Melusand says Yechnagoth has, how do we know "
+"that Yechnagoth wasn't the one who rained those rocks down upon our village "
+"all those weeks ago. What if this is all just part of a plot to turn our "
+"people into a group of mindless followers?"
 msgstr ""
 "Aber der Punkt ist doch, dass es nicht ihr Kampf ist, sondern auch der "
 "unsere. Ich für meinen Teil glaube ihrer Erzählung. Bei all der Macht, die "
@@ -12235,11 +12253,12 @@ msgstr ""
 "kämpfen."
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:737
+#, fuzzy
 msgid ""
 "You are right. I believe Melusand, strange as her tale sounds. From all I "
-"seen Yechnagoth truly is a scourge on this earth, and I would gladly give up "
-"my life for a chance to destroy her once and for all. But this is not a "
-"choice that I can make for all of our people."
+"have seen Yechnagoth truly is a scourge on this earth, and I would gladly "
+"give up my life for a chance to destroy her once and for all. But this is "
+"not a choice that I can make for all of our people."
 msgstr ""
 "Ihr habt recht. Ich glaube Melusand, so seltsam ihre Geschichte auch klingen "
 "mag. Allem nach was ich gesehen habe, ist Yechnagoth tatsächlich eine Plage "
@@ -12406,10 +12425,11 @@ msgstr ""
 "anzupassen. Aber darüber können wir uns zu einer anderen Zeit unterhalten."
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:847
+#, fuzzy
 msgid ""
 "Before you go I have one thing to give you. I'm afraid that where you are "
 "going my magical power will be of little help. However I want you to have "
-"these broaches. They are made from the rarest shells that are found in our "
+"these brooches. They are made from the rarest shells that are found in our "
 "waters and I have blessed them with the power of the Sea God. As long as you "
 "wear them I will be able to track your progress. You may find that they "
 "protect you in other ways as well."
@@ -12461,8 +12481,9 @@ msgstr ""
 "Schlacht verlieren."
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:882
+#, fuzzy
 msgid ""
-"Before we leave, there's one thing I don't understand. When he first me "
+"Before we leave, there's one thing I don't understand. When he first met "
 "Kaleh, Esanoo said this all concerned Yechnagoth and Yanqui. We know about "
 "Yechnagoth, but who is Yanqui?"
 msgstr ""
