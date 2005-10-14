@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-10-13 12:00+0200\n"
-"PO-Revision-Date: 2005-10-12 21:49+0200\n"
+"PO-Revision-Date: 2005-10-14 17:01+0200\n"
 "Last-Translator: Allefant <allefant@gmail.com>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -216,7 +216,6 @@ msgstr ""
 "bedrohlich."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:317
-#, fuzzy
 msgid ""
 "In the end, almost everyone decided to join us on our quest. I was "
 "surprised. My people had gone through so much and they still had faith in "
@@ -234,9 +233,9 @@ msgstr ""
 "Gesichter fehlten. Nur knapp ein Viertel jener, die mit uns aufgebrochen "
 "waren, waren noch am Leben. Hätte ich gewusst wie schlimm es werden würde,"
 "wäre ich dann jemals aufgebrochen? Ich dachte immer, Eloh würde uns "
-"beschützen und über uns Wachen, aber in Wahrheit war es nur ich allein "
+"beschützen und über uns wachen, aber in Wahrheit war es nur ich allein "
 "gewesen. Ob es die Sache nun besser macht oder nicht, ich kann einzig und "
-"allein mich selbst für alles verantwortlich machen."
+"alleine mich selbst für alles verantwortlich machen."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:321
 msgid ""
@@ -567,7 +566,6 @@ msgstr ""
 "hinein zu geben."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1361
-#, fuzzy
 msgid ""
 "Are you sure? Search carefully. The orc and skeleton must have been guarding "
 "some sort of entrance."
@@ -859,7 +857,6 @@ msgstr ""
 "jetzt nicht gehen lassen, damit er sich töten lässt."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:2035
-#, fuzzy
 msgid ""
 "Nymphtessa, my darling, you have always been a rebel. But eventually you "
 "must learn to respect your leaders decisions. Kaleh has made his choice, and "
@@ -1080,9 +1077,8 @@ msgid "Never!"
 msgstr "Niemals!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:968
-#, fuzzy
 msgid "The shell brooches Melusand gave us, they're glowing!"
-msgstr "Die Muschel-Halsketten, die Melusand uns gegeben hat - sie leuchten!"
+msgstr "Die Muschel-Broschen, die Melusand uns gegeben hat - sie leuchten!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:974
 msgid "You will never dominate us, not while hope survives!"
@@ -1435,7 +1431,6 @@ msgstr ""
 "ursprüngliche Zahl hinaus wachsen."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:239
-#, fuzzy
 msgid ""
 "Although I believe that our battle in the black citadel was our finest hour, "
 "I am still haunted by Nym's death in that dark place. And so every morning "
@@ -1458,7 +1453,7 @@ msgstr ""
 "gut genug war, dass Nym ihr Leben dafür gab, sie zu retten. Und wenn ich "
 "über das Wasser blicke, und zurück auf den Wohlstand meines Volkes, dann "
 "sage ich mir selbst, dass es das wert gewesen ist. Doch manchmal ist das nur "
-"ein kleine Trost."
+"ein kleiner Trost."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:256
 msgid ""
@@ -1642,7 +1637,6 @@ msgstr ""
 "unserem Volk erwiesen hat."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:391
-#, fuzzy
 msgid ""
 "Although I am not as devout as Zhul is, I do thank Eloh daily that Nym "
 "survived that horrible battle in the Black Citadel. No one has been more "
@@ -1656,7 +1650,7 @@ msgid ""
 "testament to the fact that even though we were born among the sands we can "
 "thrive anywhere we have the will to live."
 msgstr ""
-"Auch wenn ich nicht so religiös bin wie Zhul, do danke ich Eloh dafür, dass "
+"Auch wenn ich nicht so religiös bin wie Zhul, so danke ich Eloh dafür, dass "
 "Nym diese schreckliche Schlacht in der Schwarzen Zitadelle überlebt hat. "
 "Niemand war enthusiastischer als Nym, als es darum ging, sich an das Leben "
 "zwischen den Inseln zu gewöhnen. Sie liebt das Wasser so sehr, dass ich "
@@ -1667,8 +1661,9 @@ msgstr ""
 "Kinder mit fesselnden (wenn auch oft etwas ausgeschmückten) Erzählungen "
 "unserer großen Reise, und ab und zu, wenn ich etwas mürrisch bin, erinnert "
 "sie mich daran, welches Glück es ist, in diesem großartigen Land zu leben. "
-"Sie ist der lebende Beweis dafür, dass obwohl wir im Sand geboren wurden, "
-"überall fortbestehen können, solange wir nur den Willen zum Überleben haben."
+"Sie ist der lebende Beweis dafür, dass wir, obwohl wir im Sand geboren "
+"wurden, überall fortbestehen können, solange wir nur den Willen zum "
+"Überleben haben."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:408
 msgid ""
@@ -8153,7 +8148,6 @@ msgstr ""
 "bin mir nicht sicher ob es eine gute Idee wäre, sie zu überqueren."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2980
-#, fuzzy
 msgid ""
 "This chamber seems to have been some sort of laboratory. The floor is "
 "littered with broken bottles and other strange equipment. What is more "
@@ -8168,7 +8162,7 @@ msgstr ""
 "dort gerade erschienen sind. Eine Kreatur mit Klauen, und ein gequälter "
 "junger Oger. Und hinter ihnen eine riesige Bestie, die in einem magischen "
 "Kreis schwebt. Die riesige Bestie scheint zu schlafen, aber die beiden "
-"anderen sehen wach aus. Und auch sehr wütend."
+"anderen sehen wach aus. Und sie sehen sehr wütend aus."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2985
 msgid "Grawww!"
@@ -10814,12 +10808,11 @@ msgstr ""
 "ein hartes Leben."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2547
-#, fuzzy
 msgid ""
 "If I was a landwalker, I might think the view from this sandbar to be "
 "amazing. But I am a creature of the sea and I see views like this every day."
 msgstr ""
-"Wenn ich ein Landwesen wäre, dann würde ich die Aussicht von diese Sandbank "
+"Wenn ich ein Landwesen wäre, dann würde ich die Aussicht von dieser Sandbank "
 "aus vielleicht großartig finden. Aber ich bin ein Wesen des Wassers, und ich "
 "erblicke Ansichten wie diese hier jeden Tag."
 
@@ -11693,7 +11686,6 @@ msgid "Patience, young lady. All will be revealed in good time."
 msgstr "Geduld, junge Frau. Alles wird sich bald klären."
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:314
-#, fuzzy
 msgid ""
 "I have been watching your progress with great interest, but I could not "
 "contact your directly. That is why I sent out my most trusted followers to "
@@ -11706,9 +11698,9 @@ msgstr ""
 "keinen direkten Kontakt mit euch aufnehmen. Aus diesem Grund sandte ich "
 "meine am treusten ergebenen Gefolgsleute aus, um euch zu finden. Verzeiht "
 "die Schwierigkeiten, unter denen dieses Treffen arrangiert wurde. Oh, und "
-"ich hoffe, meine Wächter stören euch nicht. Aber die Spione von Ihr sind "
-"überall, und ich wollte sicher gehen, dass wir nicht belauscht werden. "
-"Außerdem kann man nie vorsichtig genug sein."
+"ich hoffe, meine Wächter stören euch nicht. Aber ihre Spione sind überall, "
+"und ich wollte sicher gehen, dass wir nicht belauscht werden. Außerdem kann "
+"man nie vorsichtig genug sein."
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:320
 msgid "Who's spies?"
@@ -12031,7 +12023,6 @@ msgstr ""
 "dieser zu widersetzen. Wenn nicht wir es tun, wer sonst soll es?"
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:430
-#, fuzzy
 msgid ""
 "How can we trust you? How do we know you aren't servants of Eloh, sent to "
 "trick us?"
@@ -12140,7 +12131,6 @@ msgstr ""
 "Elfen ihren Krieg für sie kämpfen?"
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:656
-#, fuzzy
 msgid ""
 "The point is, it's not her fight, it our fight too. I for one believe her "
 "tale. With all the power that Melusand says Yechnagoth has, how do we know "
@@ -12253,7 +12243,6 @@ msgstr ""
 "kämpfen."
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:737
-#, fuzzy
 msgid ""
 "You are right. I believe Melusand, strange as her tale sounds. From all I "
 "have seen Yechnagoth truly is a scourge on this earth, and I would gladly "
@@ -12262,8 +12251,8 @@ msgid ""
 msgstr ""
 "Ihr habt recht. Ich glaube Melusand, so seltsam ihre Geschichte auch klingen "
 "mag. Allem nach was ich gesehen habe, ist Yechnagoth tatsächlich eine Plage "
-"für diese Welt, und ich würde gerne mein Leben geben für eine Chance, sie en "
-"für alle Mal zu vernichten. Aber das ist keine Entscheidung, die ich für "
+"für diese Welt, und ich würde gerne mein Leben geben für eine Chance, sie "
+"ein für alle Mal zu vernichten. Aber das ist keine Entscheidung, die ich für "
 "alle unseres Volkes treffen kann."
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:743
@@ -12425,7 +12414,6 @@ msgstr ""
 "anzupassen. Aber darüber können wir uns zu einer anderen Zeit unterhalten."
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:847
-#, fuzzy
 msgid ""
 "Before you go I have one thing to give you. I'm afraid that where you are "
 "going my magical power will be of little help. However I want you to have "
@@ -12436,8 +12424,8 @@ msgid ""
 msgstr ""
 "Bevor ihr geht, noch eine letzte Sache. Ich fürchte, dass meine magischen "
 "Kräfte von wenig Nutzen sein werden, dort wohin ihr euch begebt. Doch nehmt "
-"diese Anstecknadeln. Sie wurden aus sehr seltenen Muscheln angefertigt, und "
-"ich habe sie mit der Macht des Meeresgottes gesegnet. So lange ihr sie "
+"diese Anstecknadeln mit. Sie wurden aus sehr seltenen Muscheln angefertigt, "
+"und ich habe sie mit der Macht des Meeresgottes gesegnet. So lange ihr sie "
 "tragt, wird es mir möglich sein, euren Fortschritt zu erkennen. Und "
 "vielleicht werden sie euch auch vor anderen Dingen beschützen."
 
@@ -12481,7 +12469,6 @@ msgstr ""
 "Schlacht verlieren."
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:882
-#, fuzzy
 msgid ""
 "Before we leave, there's one thing I don't understand. When he first met "
 "Kaleh, Esanoo said this all concerned Yechnagoth and Yanqui. We know about "
