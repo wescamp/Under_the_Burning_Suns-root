@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-10-13 12:00+0200\n"
-"PO-Revision-Date: 2005-10-04 17:31+0200\n"
+"PO-Revision-Date: 2005-10-16 16:18+0200\n"
 "Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -209,7 +209,6 @@ msgstr ""
 "framför oss, mörk och hotfull."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:317
-#, fuzzy
 msgid ""
 "In the end, almost everyone decided to join us on our quest. I was "
 "surprised. My people had gone through so much and they still had faith in "
@@ -226,8 +225,8 @@ msgstr ""
 "välkända ansikten som saknades. Knappt en fjärdedel av de som givit sig av "
 "på resan tillsammans med oss var kvar. Skulle jag givit mig av om jag hade "
 "vetat hur illa det skulle bli? Jag trodde att Eloh beskyddade och vägledde "
-"oss, men sanningen var att det var jag, och bara jag. Jag kunde inte lasta "
-"någon annan för vare sig det bra eller det dåliga."
+"oss, men sanningen var att det var jag, och bara jag. Vare sig det gick bra "
+"eller dåligt så låg det hela på mitt ansvar."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:321
 msgid ""
@@ -545,7 +544,6 @@ msgstr ""
 "av en gigantisk, slät kupol av obsidian. Jag kan inte hitta några ingångar."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1361
-#, fuzzy
 msgid ""
 "Are you sure? Search carefully. The orc and skeleton must have been guarding "
 "some sort of entrance."
@@ -11196,7 +11194,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Lava_Monster3.cfg:31
 msgid "slash"
-msgstr "hugg"
+msgstr ""
 
 #: Under_the_Burning_Suns/units/Nym_Hunter.cfg:32
 msgid ""
