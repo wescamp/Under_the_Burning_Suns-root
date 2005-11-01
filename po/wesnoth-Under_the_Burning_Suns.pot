@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-10-13 12:00+0200\n"
+"POT-Creation-Date: 2005-11-01 18:50+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,7 +15,7 @@ msgid "Under the Burning Suns"
 msgstr ""
 
 #: ./Under_the_Burning_Suns.cfg:21
-msgid "In the distant future a small band of elves struggles to survive amidst the ruins of fallen empires. Lead your people out of the desert on an epic journey to find a new home. (Version 1.0.2 9/29/05)"
+msgid "In the distant future a small band of elves struggles to survive amidst the ruins of fallen empires. Lead your people out of the desert on an epic journey to find a new home. (Version 1.0.4 10/27/05)"
 msgstr ""
 
 #: ./Under_the_Burning_Suns/units/Desert_Hunter7.cfg:4 ./Under_the_Burning_Suns/units/Desert_Hunter5.cfg:4 ./Under_the_Burning_Suns/units/Desert_Hunter.cfg:4 ./Under_the_Burning_Suns/units/Desert_Hunter6.cfg:4 ./Under_the_Burning_Suns/units/Desert_Hunter4.cfg:4 ./Under_the_Burning_Suns/units/Nym_Hunter.cfg:4 ./Under_the_Burning_Suns/units/Desert_Hunter9.cfg:4 ./Under_the_Burning_Suns/units/Desert_Hunter2.cfg:4 ./Under_the_Burning_Suns/units/Desert_Hunter3.cfg:4 ./Under_the_Burning_Suns/units/Desert_Hunter10.cfg:4 ./Under_the_Burning_Suns.cfg:24
@@ -628,7 +628,7 @@ msgstr ""
 msgid "You think you killed me? You have no idea what you are facing."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1260 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:9150
+#: ./Under_the_Burning_Suns/scenarios/11Final.cfg:1260 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:9122
 msgid "Huh? What happened?"
 msgstr ""
 
@@ -1916,11 +1916,11 @@ msgstr ""
 msgid "If those raiders capture any of our encampments, I fear our people's fates will be just as bad as if it was captured by the undead."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/3Night.cfg:1292 ./Under_the_Burning_Suns/scenarios/3Night.cfg:1901
+#: ./Under_the_Burning_Suns/scenarios/3Night.cfg:1292 ./Under_the_Burning_Suns/scenarios/3Night.cfg:1899
 msgid "They're raising the corpses of our slain people! What a horrible fate!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/3Night.cfg:1297 ./Under_the_Burning_Suns/scenarios/3Night.cfg:1906
+#: ./Under_the_Burning_Suns/scenarios/3Night.cfg:1297 ./Under_the_Burning_Suns/scenarios/3Night.cfg:1904
 msgid "Then we shall have to give them a proper cremation."
 msgstr ""
 
@@ -1964,11 +1964,11 @@ msgstr ""
 msgid "See I told you I was more powerful. This game is over, now I can leave this shell of a body."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/3Night.cfg:1956
+#: ./Under_the_Burning_Suns/scenarios/3Night.cfg:1954
 msgid "Too many of our people have been killed. We will surely be overwhelmed by the undead now. All is lost!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/3Night.cfg:1981
+#: ./Under_the_Burning_Suns/scenarios/3Night.cfg:1979
 msgid "This darkness will never end, and the undead will soon overwhelm us. I'm sorry Garak, we couldn't save you."
 msgstr ""
 
@@ -2180,7 +2180,7 @@ msgstr ""
 msgid "This is the end of the line. The water is too deep for me to continue any further. I'm freezing cold, wet, and I can't see a thing. I'm not exactly sure what I'm doing up here. Some strange influence made me want to come up here, but I don't know what made me think it could be of any good."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3367 ./Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1586 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8427
+#: ./Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3367 ./Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1586 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8399
 msgid "Cloaked Figure"
 msgstr ""
 
@@ -3044,7 +3044,7 @@ msgstr ""
 msgid "Then again, maybe I spoke too soon."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:6696 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:6794 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:6893 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8376
+#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:6696 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:6794 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:6893 ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8348
 msgid "On second thought, it's better to leave the dead in peace."
 msgstr ""
 
@@ -3184,79 +3184,79 @@ msgstr ""
 msgid "You are full of surprises. But I feel better knowing a few of your kind we watching out for the rest of my people. All right everyone, no celebrating yet, we still have work left to do!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8174
+#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8146
 msgid "It's cooler here, there seems to be a draft to the west."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8185
+#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8157
 msgid "Hail, friend elf. Ages ago, I too fought the trolls and came to this place. But by ill luck I was burned to the death by the lava and died nearby unblessed and unhonored. Find my body and grant me the peace I so dearly wish for. Do this and I will let you pass."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8197
+#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8169
 msgid "Thank you. You have done for me what all my dwarven kin never did. May Moradin bless you and watch over you. I leave now for the halls of my ancestors..."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8233
+#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8205
 msgid "Look, a crumbling skeleton. I think this might be the body of the dwarven ghost. It shouldn't take long to dig a shallow grave."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8245
+#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8217
 msgid "May Eloh, or whatever god you worship, grant you peace and safe passage to the afterlife. We will avenge your death."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8277
+#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8249
 msgid "This looks like a troll crypt. Whoever it was must have been very important, because they have their own undead guardian."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8295
+#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8267
 msgid "There is a chasm here cutting off the end of the crypt. It must be rather recent, it cuts off the path leading to a rather ornate stone coffin."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8324
+#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8296
 msgid "For a troll this is quite an ornate tomb. The coffin itself is quite impressive. Inside the skeleton has crumbled to dust, and there are a few colored stones and trinkets, but what really sticks out is this emerald wand. I don't have much experience with magical items, but the asp with emerald eyes and large fangs carved around it's shaft leave little doubt as to its power. We don't normally tolerate using poison, but extreme circumstances call for extreme measures and I have feeling we may find this useful before our journey is over."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8326
+#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8298
 msgid "It might be useful, I'll take it."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8336
+#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8308
 msgid "The wand fit comfortably in my hand. It doesn't seem to have much of a range, but in close combat it could be quite useful."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8351
+#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8323
 msgid "Emerald Wand of Poison"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8352
+#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8324
 msgid "This wand make this unit's melee attacks deal poison damage."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8444
+#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8416
 msgid "Did you think you escaped me Kaleh? I am your shadow, I will always be there until you pay for what you have done."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8537
+#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8509
 msgid "Ow!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8543
+#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:8515
 msgid "You want to flee, don't you? But you cannot. They couldn't escape her either. Even death could not save them. She will devour us all. But first I shall have my revenge. Do the dance of death for me Kaleh! Dance! Dance!"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:9129
+#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:9101
 msgid "Where did he go? How does he disappear like that?  And what in Uria's name was he ranting about? Whoever that is is starting to make me get edgy."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:9155
+#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:9127
 msgid "Where did you go? Do you remember anything?"
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:9160
+#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:9132
 msgid "No, someone grabbed me and knocked me out. I have no idea who it was."
 msgstr ""
 
-#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:9228
+#: ./Under_the_Burning_Suns/scenarios/5Struggle.cfg:9200
 msgid "Oh no, we took too long and enemy reinforcements have arrived. We'll surely be overwhelmed now!"
 msgstr ""
 
@@ -3973,11 +3973,11 @@ msgid "Yes, mistress. Kromph follow you. Kill enemies."
 msgstr ""
 
 #: ./Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3074
-msgid "Quick thinking Zhul. It seems to be some sort of magical creation. Lucky that it thought we were it's master."
+msgid "Quick thinking Nym. It seems to be some sort of magical creation. Lucky that it thought we were its master."
 msgstr ""
 
 #: ./Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3079
-msgid "Looks like you have your own rather large pet, Nym"
+msgid "Looks like you have your own rather large pet Nym. "
 msgstr ""
 
 #: ./Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3084
