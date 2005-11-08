@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-11-01 18:50+0100\n"
-"PO-Revision-Date: 2005-10-14 17:01+0200\n"
+"PO-Revision-Date: 2005-11-08 16:55+0100\n"
 "Last-Translator: Allefant <allefant@gmail.com>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,6 @@ msgid "Under the Burning Suns"
 msgstr "Unter brennenden Sonnen"
 
 #: Under_the_Burning_Suns.cfg:21
-#, fuzzy
 msgid ""
 "In the distant future a small band of elves struggles to survive amidst the "
 "ruins of fallen empires. Lead your people out of the desert on an epic "
@@ -29,7 +28,7 @@ msgstr ""
 "In ferner Zukunft kämpft eine kleine Gruppe von Elfen um das Überleben "
 "inmitten der Ruinen eines zerfallenen Reiches. Führt euer Volk aus der Wüste "
 "hinaus und begebt euch auf eine epische Suche nach einer neuen Heimat. "
-"(Version 1.0.2 9/29/05)"
+"(Version 1.0.4 10/27/05)"
 
 #: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Hunter5.cfg:4
@@ -8219,16 +8218,14 @@ msgid "Yes, mistress. Kromph follow you. Kill enemies."
 msgstr "Ja, Meisterin. Kromph folgt Euch. Tötet Feinde."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3074
-#, fuzzy
 msgid ""
 "Quick thinking Nym. It seems to be some sort of magical creation. Lucky that "
 "it thought we were its master."
 msgstr ""
-"Schnell gedacht, Zhul. Es scheint eine Art magische Kreatur zu sein. Was für "
-"ein Glück, dass sie gedacht hat, wir seien ihre Meister."
+"Schnell gedacht, Nym. Es scheint eine Art magische Kreatur zu sein. Was für "
+"ein Glück, dass sie uns für ihre Meister gehalten hat."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3079
-#, fuzzy
 msgid "Looks like you have your own rather large pet Nym. "
 msgstr ""
 "Sieht so aus als hättest du jetzt dein eigenes, ziemlich großes Haustier, "
