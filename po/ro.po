@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-11-01 18:50+0100\n"
+"POT-Creation-Date: 2005-11-19 16:32+0100\n"
 "PO-Revision-Date: 2005-11-01 18:50+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -18,7 +18,7 @@ msgstr ""
 msgid ""
 "In the distant future a small band of elves struggles to survive amidst the "
 "ruins of fallen empires. Lead your people out of the desert on an epic "
-"journey to find a new home. (Version 1.0.4 10/27/05)"
+"journey to find a new home. (Version 1.0.5 11/22/05)"
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:4
@@ -238,8 +238,8 @@ msgid "Trapped Merman"
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:89
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:950
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:966
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:973
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:989
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:280
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:661
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:89
@@ -412,9 +412,9 @@ msgstr ""
 msgid "Thank you. I'm sure the reinforcements will be very useful."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4010
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4612
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4728
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4033
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4635
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4751
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2748
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1302
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3685
@@ -424,7 +424,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1412
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1519
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1558
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1510
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1522
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2163
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2205
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4145
@@ -734,7 +734,7 @@ msgid "Defeat the false Eloh"
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:280
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1516
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1528
 msgid "Death of Kaleh"
 msgstr ""
 
@@ -881,43 +881,53 @@ msgstr ""
 msgid "You think you killed me? You have no idea what you are facing."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1260
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9122
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1227
+msgid "Could it be Yanqui? Back to avenge his imprisonment?"
+msgstr ""
+
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1233
+msgid ""
+"Nonsense. Unlike that fool, I am above such petty emotions as revenge. Nor "
+"do I depend on mortals to do my dirty work. I shall destroy you myself!"
+msgstr ""
+
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1272
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9155
 msgid "Huh? What happened?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1266
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1278
 msgid ""
-"Her spell has been broken. But I do not think we have won yet. Come aid us!"
+"Her spell has been broken. But I don't think we have won yet. Come aid us!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1271
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1283
 msgid "Yes priestess."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1330
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1779
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1817
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1342
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1791
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1829
 msgid "Yechnagoth"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1449
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1461
 msgid "What is that thing!?!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1455
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1467
 msgid "Eloh protect us!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1494
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1506
 msgid "Curse Uria, more abominations!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1500
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1512
 msgid "Is it even possible to kill this thing? It's huge!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1506
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1518
 msgid ""
 "It must have some sort of weak point. Look at those pulsing spires, I "
 "thought they were stone, but they seem to be alive. Maybe if we destroy them "
@@ -925,65 +935,65 @@ msgid ""
 "attacking it. We can't stop now!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1512
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1524
 msgid "Defeat Yechnagoth"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1657
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1669
 msgid ""
 "That central body is healing faster than we can damage it. It's almost as if "
 "our attacks are doing no damage at all. We got to try another tactic, and "
 "fast!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1767
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1779
 msgid "Aaaauuurrrggghhhh!!!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1790
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1802
 msgid ""
 "I think we're finally doing some damage. We must attack the central body, "
 "while it remains vulnerable!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1927
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1939
 msgid "Aiiieeee!!!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1954
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1966
 msgid "At last. It is finished."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1968
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1980
 msgid "Is Yechnagoth really dead?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1974
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1986
 msgid "Yes, she's dead Nym."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1980
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1992
 msgid "I almost can't believe it."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1989
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:2001
 msgid "Behold, the pretender has been defeated. Eloh's might has prevailed."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:2003
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:2015
 msgid ""
 "Ugh. I'm covered in blood and guts, and this nasty blue stuff. I don't know "
 "what in the nine hells we were fighting, but she doesn't smell any better "
 "dead than she did alive."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:2013
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:2025
 msgid ""
 "Ugh. Grog is covered in blood and guts and nasty blue goo. Whatever creature "
 "was, she doesn't smell any better dead than she did alive."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:2043
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:2055
 msgid "Let's get out of here."
 msgstr ""
 
@@ -1527,7 +1537,7 @@ msgstr ""
 msgid "Kaleh, Nym, help us!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6227
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6283
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:441
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:527
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:794
@@ -3349,9 +3359,9 @@ msgid ""
 "here, but I don't know what made me think it could be of any good."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3367
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3390
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1586
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8399
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8432
 msgid "Cloaked Figure"
 msgstr ""
 
@@ -4380,43 +4390,43 @@ msgid ""
 "Maybe it's just fish, but I don't like the looks of it."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6129
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6162
 msgid "What are those?!?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6139
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6172
 msgid "Here come more of them!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6203
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6236
 msgid ""
 "The movement under the water has stopped. I think we killed the last of "
 "them. Whatever 'them' was."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6237
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6270
 msgid "Dwarf Chieftain"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6321
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6354
 msgid "So you've come at last. Let it end, here and now!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6335
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6368
 msgid ""
 "Paugh! Even in death I curse you! You will never escape these tunnels alive!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6340
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8027
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6373
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8060
 msgid "And so, at last, it ends."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6345
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6378
 msgid "The chieftain has fallen! Flee for your lives!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6379
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6412
 msgid ""
 "You did good. With dwarf leader dead, cowardly dwarves flee before us. This "
 "war not over, still much more fighting, but elf and troll have won first "
@@ -4425,21 +4435,21 @@ msgid ""
 "presence. But he wishes to talk with you and reward you. Please come with us."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6384
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6417
 msgid ""
 "You think they could have told us about all these secret tunnels beforehand. "
 "It would have saved us a lot of unnecessary fighting in actually getting to "
 "the dwarf chieftain."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6389
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8076
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6422
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8109
 msgid ""
 "I think they wanted to further test our prowess in battle. And perhaps they "
 "didn't entirely trust us with all their secrets."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6394
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6427
 msgid ""
 "Shhhh, you two. Yes, of course, we would be honored to come and meet your "
 "leader. But we left many of our people back up the passageway and I fear "
@@ -4447,7 +4457,7 @@ msgid ""
 "safety?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6399
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6432
 msgid ""
 "Hmmmm, yes, yes we can help. We have a few big caves your people can stay "
 "in, and I get some troll warriors to help escort you there. Great leader "
@@ -4455,23 +4465,23 @@ msgid ""
 "and we will help you move them to our caves."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6404
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6437
 msgid ""
 "I thank you. Come on people, no celebrating yet, we still have work left to "
 "do!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6433
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6466
 msgid ""
 "They've come for my precious. It's mine, yes it is. They shant have it, no "
 "they shant. We will kill the nasty elfses, yes we will."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6447
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6480
 msgid "Curse them! We hates them!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6452
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6485
 msgid ""
 "What's this? His clothes were in rags, and yet he had this ancient jeweled "
 "amulet hanging from around his neck. It contains a huge amethyst that seems "
@@ -4479,34 +4489,34 @@ msgid ""
 "trinket?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6481
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6514
 msgid "Rrrraaaarrrr!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6486
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6519
 msgid "Not again! I really really hate things that live underwater!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6514
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6547
 msgid ""
 "Hey wait a minute, that amulet glows the same color as theis rune. Maybe if "
 "I put the amulet on and step into the rune..."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6551
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6584
 msgid ""
 "Woah. That was pretty impressive. The rune just disappeared and the amulet "
 "stopped glowing, but what have they revealed? "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6579
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6612
 msgid ""
 "The rune is still there, glowing mysteriously. I still have no idea why it "
 "was put here, but it's obviously powerful and magical, a combination of "
 "things which I am hesitant to mess with."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6597
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6630
 msgid ""
 "What in Eloh's name is this? Someone has carved a glowing purple rune in the "
 "floor at the end of this passage. It must be magical. And this passage ends "
@@ -4514,7 +4524,7 @@ msgid ""
 "seems quite solid. I wonder who carved that rune and why?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6639
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6672
 msgid ""
 "Based on the runes covering the walls this must be the tomb of some ancient "
 "dwarf. The tomb seems empty except for this ornate stone coffin. The "
@@ -4525,51 +4535,51 @@ msgid ""
 "but this belt looks magical and it's former owner certainly won't miss it."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6642
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6734
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6833
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6675
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6767
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6866
 msgid "I fear no ghosts, I'll take it."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6652
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6685
 msgid ""
 "The belt fits perfectly! Somehow I feel stronger and tougher. This is too "
 "easy, there seem to have been no traps set upon the coffin. Today's my lucky "
 "day."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6667
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6759
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6858
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6700
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6792
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6891
 msgid "Dwarven Belt"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6668
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6701
 msgid ""
 "The maximum hit points of the unit who wears this belt will increase by 12."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6684
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6782
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6881
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6717
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6815
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6914
 msgid "You who disturb my rest, come and join me in death!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6689
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6787
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6886
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6722
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6820
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6919
 msgid "Then again, maybe I spoke too soon."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6696
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6794
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6893
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8348
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6729
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6827
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6926
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8381
 msgid "On second thought, it's better to leave the dead in peace."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6731
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6830
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6764
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6863
 msgid ""
 "Based on the runes covering the walls this must be the tomb of some ancient "
 "dwarf. The tomb seems empty except for this ornate stone coffin. The "
@@ -4581,26 +4591,26 @@ msgid ""
 "certainly won't miss it."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6744
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6843
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6777
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6876
 msgid ""
 "The belt fits perfectly! Somehow I feel tougher and quicker. This is too "
 "easy, there seem to have been no traps set upon the coffin. Today's my lucky "
 "day."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6760
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6859
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6793
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6892
 msgid ""
 "The unit who wears this belt will gain 7 hit points and the first strike "
 "ability for his melee attack."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7208
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7241
 msgid "Woah. This place is hot."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7213
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7246
 msgid ""
 "This cavern is so hot it's stifling, I can already feel my armor heating up, "
 "if we tarry here too long we'll roast alive. And I don't even want to think "
@@ -4609,13 +4619,13 @@ msgid ""
 "be a bridge across the lava, but most of it has collapsed."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7218
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7251
 msgid ""
 "I think I can see several trolls on the other side of the cavern. I wonder "
 "why they aren't rushing up to attack us?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7223
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7256
 msgid ""
 "Any unit that ends it's turn on a lava hex, except the Desert Shyde and Star "
 "who can fly over the lava, will take 25 damage at the beginning of the next "
@@ -4627,114 +4637,114 @@ msgid ""
 "it can't kill it. "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7231
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7245
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7746
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7783
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7264
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7278
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7779
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7816
 msgid "Troll High Shaman"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7294
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7327
 msgid ""
 "There is a small pool of water here. It must come from some spring deep "
 "underground. The water is cool and refreshing. Let me bathe in it a while "
 "and recover from the heat of that blasted cavern."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7299
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7332
 msgid ""
 "Any unit that spends a turn in this pool will heal 10 hitpoints. The unit "
 "will also not be affected by the heat in the cavern."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7376
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7409
 msgid "Arise! Arise and engulf the intruders in your holy fire!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7420
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7453
 msgid ""
 "What the heck is that? I sure doesn't look good. The last thing we need in "
 "here is even more fire."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7499
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7532
 msgid "That thing just won't stay dead!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7570
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7603
 msgid "Arise, hallowed guardians, and destroy them!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7595
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7628
 msgid "Look, more fire guardians!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7622
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7655
 msgid "Arise and attack them now, while they are vulnerable!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7647
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7680
 msgid ""
 "Oh great, even more fire guardians. When I get through this inferno I'm "
 "going to kill those trolls."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7674
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7707
 msgid "They must not be allowed to cross to the other side! Kill them!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7699
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7732
 msgid ""
 "How surprising, more fire guardians. I'm going to be really glad to get out "
 "of this cavern."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7724
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7757
 msgid "Despite the fire guardians, the elves has almost crossed the lava!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7729
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7762
 msgid ""
 "They obviously weren't enough. You go alert the others and summon "
 "reinforcements. I will hold them off for as long as I can."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7734
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7767
 msgid "May Griknagh protect you. I'll be back soon!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7817
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7850
 msgid "Troll Chieftain"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7906
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7939
 msgid "High Advisor"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7920
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7953
 msgid ""
 "Invade our most holy cavern at your peril. Long have we protected our sacred "
 "burial grounds from your foul kind, and we shall scatter your bones next to "
 "those of our ancestors."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7925
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7958
 msgid "Destroy the invaders; make them pay for their slaughter!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7936
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7969
 msgid "Arise our brothers of ages past, arise and destroy the intruders!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8022
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8055
 msgid "Argh! Curse you! May you never live to see daylight again!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8032
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8065
 msgid "Da big troll is dead. Run for your lives!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8066
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8099
 msgid ""
 "With the death of their leader the foul trolls have retreated. This war is "
 "far from over, but with your help we won the first battle. You have our "
@@ -4745,14 +4755,14 @@ msgid ""
 "will tell this story for years."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8071
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8104
 msgid ""
 "You think they could have told us about all these secret tunnels beforehand. "
 "It would have saved us a lot of unnecessary fighting in actually getting to "
 "the great troll."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8081
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8114
 msgid ""
 "Shhhh, you two. Yes, of course, we would be honored to come and meet your "
 "chieftain. But we left many of our people back up the passageway and I fear "
@@ -4760,7 +4770,7 @@ msgid ""
 "safety?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8086
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8119
 msgid ""
 "Hmmmm, yes, after what you have done, I think I could arrange something. We "
 "have a few larger caves that should hold your people, a bit cramped, but "
@@ -4770,18 +4780,18 @@ msgid ""
 "any surprises."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8091
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8124
 msgid ""
 "You are full of surprises. But I feel better knowing a few of your kind we "
 "watching out for the rest of my people. All right everyone, no celebrating "
 "yet, we still have work left to do!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8146
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8179
 msgid "It's cooler here, there seems to be a draft to the west."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8157
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8190
 msgid ""
 "Hail, friend elf. Ages ago, I too fought the trolls and came to this place. "
 "But by ill luck I was burned to the death by the lava and died nearby "
@@ -4789,38 +4799,38 @@ msgid ""
 "wish for. Do this and I will let you pass."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8169
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8202
 msgid ""
 "Thank you. You have done for me what all my dwarven kin never did. May "
 "Moradin bless you and watch over you. I leave now for the halls of my "
 "ancestors..."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8205
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8238
 msgid ""
 "Look, a crumbling skeleton. I think this might be the body of the dwarven "
 "ghost. It shouldn't take long to dig a shallow grave."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8217
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8250
 msgid ""
 "May Eloh, or whatever god you worship, grant you peace and safe passage to "
 "the afterlife. We will avenge your death."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8249
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8282
 msgid ""
 "This looks like a troll crypt. Whoever it was must have been very important, "
 "because they have their own undead guardian."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8267
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8300
 msgid ""
 "There is a chasm here cutting off the end of the crypt. It must be rather "
 "recent, it cuts off the path leading to a rather ornate stone coffin."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8296
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8329
 msgid ""
 "For a troll this is quite an ornate tomb. The coffin itself is quite "
 "impressive. Inside the skeleton has crumbled to dust, and there are a few "
@@ -4832,56 +4842,56 @@ msgid ""
 "useful before our journey is over."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8298
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8331
 msgid "It might be useful, I'll take it."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8308
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8341
 msgid ""
 "The wand fit comfortably in my hand. It doesn't seem to have much of a "
 "range, but in close combat it could be quite useful."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8323
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8356
 msgid "Emerald Wand of Poison"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8324
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8357
 msgid "This wand make this unit's melee attacks deal poison damage."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8416
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8449
 msgid ""
 "Did you think you escaped me Kaleh? I am your shadow, I will always be there "
 "until you pay for what you have done."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8509
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8542
 msgid "Ow!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8515
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8548
 msgid ""
 "You want to flee, don't you? But you cannot. They couldn't escape her "
 "either. Even death could not save them. She will devour us all. But first I "
 "shall have my revenge. Do the dance of death for me Kaleh! Dance! Dance!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9101
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9134
 msgid ""
 "Where did he go? How does he disappear like that?  And what in Uria's name "
 "was he ranting about? Whoever that is is starting to make me get edgy."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9127
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9160
 msgid "Where did you go? Do you remember anything?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9132
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9165
 msgid "No, someone grabbed me and knocked me out. I have no idea who it was."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9200
+#: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9233
 msgid ""
 "Oh no, we took too long and enemy reinforcements have arrived. We'll surely "
 "be overwhelmed now!"
@@ -5440,7 +5450,7 @@ msgstr ""
 msgid "Out of the Frying Pan"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:341
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:364
 msgid ""
 "Chapter 7: I set out with a lightened heart and quickened step, we were "
 "going back up and I was sure that soon this underground guantlet would be "
@@ -5450,7 +5460,7 @@ msgid ""
 "mind wander to bigger matters."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:345
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:368
 msgid ""
 "What kind of home had Eloh prepared for us on the other side of the "
 "mountains? Was there anywhere in the world that hadn't been wracked with war "
@@ -5461,7 +5471,7 @@ msgid ""
 "haunted the sands, feeding on the few survivors."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:349
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:372
 msgid ""
 "At first I thought that if we could just leave the desert, we could find a "
 "peaceful place away from all the bloodshed and death. But even underground "
@@ -5470,7 +5480,7 @@ msgid ""
 "tell me to "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:353
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:376
 msgid ""
 "And yet, here in the dark, Eloh says she is powerless. Here she cannot help "
 "us, we must fend for ourselves. Though she is our god, I cannot just lie "
@@ -5482,232 +5492,232 @@ msgid ""
 "people during our journey."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:357
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:380
 msgid ""
 "And so, bolstered with a new resolve, I continued the march up out of the "
 "darkness and towards a new land."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:952
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:968
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:975
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:991
 msgid "Escape the Caves"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:956
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:979
 msgid "Death of Kaleh, Nym, Zhul, or Dwarf Ally"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:972
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:995
 msgid "Death of Kaleh, Nym, Zhul, or Troll Ally"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1103
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1126
 msgid ""
 "We've come far and we're almost to the surface. But first we should stop and "
 "rest here for a while."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1108
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1131
 msgid "That's a big river; the water is really moving fast."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1121
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1144
 msgid ""
 "Yes, this time of year the snow melts from the mountains, and rivers like "
 "this often go deep underground. Sometimes the rivers break through and flood "
 "caverns, a deadly accident that has occasionally befallen my kind."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1130
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1153
 msgid ""
 "Deep and dark are the waters that flow in our caves. Sometimes raging waters "
 "flood tunnels without warning. A stream can sustain a village, a sudden "
 "flood can destroy it."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1138
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1161
 msgid "Well the faster we get out of here, the happier I'll be."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1156
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1179
 msgid "Wait, did you feel that?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1161
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3729
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1184
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3752
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1095
 msgid "What?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1166
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1189
 msgid "It felt like a distant rumbling. And what's that roaring sound?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1191
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1212
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1233
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1214
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1235
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1256
 msgid "Troll Avenger"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1258
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1279
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1300
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1281
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1302
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1323
 msgid "Dwarf Avenger"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1327
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1350
 msgid ""
 "Foul elves, you not escaped us yet. The Great Leader shall be avenged! We "
 "have damned the river and soon all shall drown its dark waters. Come join us "
 "in death!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1336
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1359
 msgid ""
 "Foul elves, you have not escaped yet. Our chieftain shall be avenged! We "
 "have damned the river and soon all shall drown its dark waters. Come join us "
 "in death!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1344
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1367
 msgid ""
 "That sound must be the rushing water. We have to get our people out of here, "
 "and fast!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1349
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1372
 msgid "Quick, the southern passage!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1354
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1377
 msgid "We haven't a moment to lose!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1452
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1475
 msgid "Hey look, more ants!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1457
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1480
 msgid "Are you sure there aren't any spiders?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1462
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1485
 msgid ""
 "No, but the water is rising to the southeast as well. The river must have "
 "lead to more tunnels than we first thought."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1467
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1490
 msgid "The ants must be fleeing from the flood too."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1472
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1495
 msgid ""
 "They seem confused, leaderless. I guess it's every ant for itself. Uh, oh. "
 "Some of them seem to have noticed us."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1477
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1500
 msgid ""
 "Well we have get out of here too. Looks like we don't have any choice but to "
 "fight out way through the chaos."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1598
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1621
 msgid ""
 "Huff, huff. First the boss tells us to patrol these caves, and then these "
 "durn caves start flooding, what next?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1603
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1626
 msgid "Shut up and keep running, or we'll be fishbait for sure!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1608
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1631
 msgid "Hey look! Those must be Elves!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1613
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1636
 msgid "Huh? Elves?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1618
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1641
 msgid ""
 "Yeah, just like my old grandmam used to tell us, pointy ears, pale hair, "
 "those shifty eyes, hearts a hard as a hermit crab's shell. It must be an "
 "invasion, they must have started the flood."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1623
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1646
 msgid "Then let's kill them!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1628
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1651
 msgid "Yeah!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1633
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1656
 msgid "They're definitely of the 'attack first, ask questions later' variety."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1676
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1699
 msgid ""
 "Fish bait? Hermit Crabs? Who are the humans and what were they talking about?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1681
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1704
 msgid ""
 "No time for questions now, the water shows no signs of stopping. We've got "
 "to get out of here while we still can!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1686
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1709
 msgid ""
 "Curses, the water is rising too fast. That tunnel those humans were fleeing "
 "down was the fastest way out of here, but it's already flooding."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1691
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1714
 msgid "There must be another way out. There must!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1696
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1719
 msgid "There is, but I don't--"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1701
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1724
 msgid "Then show us the way already! We're running out of time. "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1706
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1729
 msgid "Fine. Just keep going west, but be careful."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1733
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1756
 msgid "Woah, what is this place? It sure seems well protected."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1738
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1761
 msgid ""
 "This is an ancient fortress, who lived here I do not know, but it has been "
 "long since abandoned."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1743
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1766
 msgid "You've been this way before?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1748
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1771
 msgid ""
 "Yes, but I didn't explore very far. This foul place is still protected by "
 "wards and guards, it reeks of dark magic."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1753
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1776
 msgid "I wish there was another path, but it seems we have no choice."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1758
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1781
 msgid ""
 "Wait. The chamber in front of us is probably trapped and well guarded. There "
 "is another way. When I explored here before, I found a secret passage that "
@@ -5717,52 +5727,52 @@ msgid ""
 "don't have to spend. I leave the final decision up to you, Kaleh."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1792
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1815
 msgid "I think I see a door-shaped crack in this wall."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1797
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1820
 msgid ""
 "Good, that should be the entrance to the secret tunnel. Now just push hard "
 "inwards."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1802
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1816
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1825
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1839
 msgid "Got it!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1811
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1834
 msgid ""
 "Hmmm, the entrance to the secret tunnel should be right around here "
 "somewhere."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1860
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1883
 msgid "The passage just halts at a dead end."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1865
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1888
 msgid ""
 "You didn't expect the other end to be left wide open did you? There should "
 "be another secret door hidden right in from of you."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1870
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1893
 msgid "Oh, right. Hold on, I think I've found it."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1879
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1902
 msgid ""
 "Okay, this is the end of the tunnel. Which means the other secret door "
 "should be right here."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1884
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1907
 msgid "Hold on, I think I've found it."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2050
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2073
 msgid ""
 "This cave seems pretty empty, except for those two glowing runes in the "
 "center. This fort must have once been heavily occupied becuase countless "
@@ -5770,17 +5780,17 @@ msgid ""
 "which way should we go?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2055
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2078
 msgid ""
 "I don't know. When I last came this way I got scared by all the runes and "
 "things moving in the shadows, and I explored no further."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2060
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2083
 msgid "Well, we can't spend all day thinking about it. Pick a direction Kaleh."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2065
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2088
 msgid ""
 "Wait, those runes are giving off a cool blue light and for some reason they "
 "don't seem as threatening as the burning red ones we saw before. Perhaps "
@@ -5788,87 +5798,87 @@ msgid ""
 "enough to step into them."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2131
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2224
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2154
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2247
 msgid "I feel refreshed and rejuvenated!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2153
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2176
 msgid "The rune is gone. I guess the magic only had limited uses."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2213
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2236
 msgid "The user feel much better."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2246
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2269
 msgid "The rune is gone. I guess the magic only had limited uses"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2299
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2322
 msgid ""
 "There isn't much left of the furnishings of this room. I think it was some "
 "sort of storeroom, but it looks like scavengers have taken anything useful."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2304
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2327
 msgid ""
 "Curse Uria! The water is rising over here as well. Already the western end "
 "of this chamber is flooded. And I think I see some movement in the water. "
 "Whatever it is, it can't be good."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2358
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2381
 msgid ""
 "This looks like a training hall. There are still a few old swords and spears "
 "lying in the corners. But otherwise it seems quite abandoned."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2399
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2422
 msgid ""
 "All right you runts, lets try this again. Pior remember to swing your sword "
 "with your whole body, not just your arms."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2404
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2427
 msgid "Yes Sir."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2409
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2432
 msgid "Jarl, keep your feet moving. If you stand still you're a dead man."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2414
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2437
 msgid "Right, Sir."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2419
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2442
 msgid "Iona, try to vary your attacks more, you're becoming too predictable."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2424
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2447
 msgid "I'll try, Sir."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2429
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2452
 msgid ""
 "And remember everyone, we're going to keep practicing until I'm satisfied. "
 "So, ready...attack!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2435
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2458
 msgid ""
 "Wait a minute, I don't see any targets or practice dummies. Who are they "
 "supposed to be attacking?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2440
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2463
 msgid ""
 "I believe that would be us. But perhaps we can give them a few lessons in "
 "proper fighting style."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2546
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2569
 msgid ""
 "Come on! I ain't going anywhere for the rest of the day, and unless you can "
 "fight better than that, neither are you.  Now get your sorry behinds up off "
@@ -5876,79 +5886,79 @@ msgid ""
 "easy treatment on my watch, no sir!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2719
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2742
 msgid "Finally, we get to take a break. I am so sick of fighting practice."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2724
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2747
 msgid ""
 "Kali's just a hardass because he's bitter that he never became a high priest."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2729
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2752
 msgid ""
 "Hey, c'mon, maybe we can grab some food from the kitchen before we have to "
 "go to prayers."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2734
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2757
 msgid "Good idea! I hope they let us go outside tomorrow, I so miss the sun."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2757
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2780
 msgid ""
 "Still lambasting those novices after all these years, that guy definitely "
 "had too much of a work ethic."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2762
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2785
 msgid ""
 "Sniff, who were those children? Why did they die, in the dark, so many years "
 "ago? May Eloh shine her eternal light upon their souls."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2767
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2790
 msgid ""
 "The past is the past, and there's nothing we can do about it. Right now we "
 "have our own people to worry about."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2805
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2828
 msgid ""
 "This must have been the barracks. Remains of cots and beds litter the floor. "
 "Whatever happened here, it must have been sudden. Several skeletons still "
 "lie in their beds, sleeping for eternity."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2827
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2850
 msgid "Revenge!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2832
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2855
 msgid "Well, so much sleeping for eternity."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2850
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2873
 msgid ""
 "Hey, what's this? There seems to be an outline of a door in this wall. Maybe "
 "if I give it a push..."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2860
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2883
 msgid "What do you know? A secret door!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2865
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2888
 msgid "Well, what's behind the door?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2870
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2893
 msgid ""
 "Uh oh. The path is blocked by another of those red glowing runes. I'm not "
 "sure crossing it would be a good idea."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2980
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3003
 msgid ""
 "This chamber seems to have been some sort of laboratory. The floor is "
 "littered with broken bottles and other strange equipment. What is more "
@@ -5958,15 +5968,15 @@ msgid ""
 "asleep, but the front two are very much awake. And boy do they seem angry. "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2985
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3008
 msgid "Grawww!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2990
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3013
 msgid "Make it end!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3018
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3041
 msgid ""
 "In the center of this circle is a huge creature, with surging muscles and "
 "bloodshot eyes. I would think it was just a very big man, except that the "
@@ -5978,51 +5988,51 @@ msgid ""
 "strength attacking me."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3021
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3044
 msgid "Break the circle"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3049
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3072
 msgid "Master, what is your command?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3054
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3077
 msgid "What?!?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3059
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3082
 msgid "Kromph need command. Command me!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3064
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3087
 msgid "Follow Us. Attack our enemies."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3069
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3092
 msgid "Yes, mistress. Kromph follow you. Kill enemies."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3074
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3097
 msgid ""
 "Quick thinking Nym. It seems to be some sort of magical creation. Lucky that "
 "it thought we were its master."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3079
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3102
 msgid "Looks like you have your own rather large pet Nym. "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3084
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3107
 msgid ""
 "It wouldn't have been my first choice. But it could prove useful. I wonder "
 "what it likes to eat?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3091
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3114
 msgid "Leave that thing alone."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3122
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3145
 msgid ""
 "All the paths lead to this chamber. Is this just a dead end? It seems to be "
 "some sort of temple, but it obviously been abandoned for a long time. All "
@@ -6030,208 +6040,208 @@ msgid ""
 "idea, but the dried blood and cracked bones on the altar do not bode well."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3127
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3150
 msgid "I don't like the smell of this place."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3132
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3155
 msgid "I feel some sort of presence...ugh...it make my skin crawl."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3137
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3160
 msgid ""
 "I though you said $ally_name that you'd been here before? Where are we "
 "supposed to go from here?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3142
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3165
 msgid ""
 "I never explored this deep into the complex. But every lair has to have a "
 "back door somewhere."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3147
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3170
 msgid ""
 "Well I refuse to give up. There must be some way out. Search everywhere, "
 "people."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3197
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3220
 msgid "Zantoff tharqan yur glit zarf!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3202
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3225
 msgid "Uqtor dunil olgluck vara nir!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3207
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3230
 msgid "It seems that the temple had some power left in it after all."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3212
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3235
 msgid "I have no idea what they just said, but their meaning is quite clear."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3217
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3240
 msgid ""
 "Actions speak louder than words, and I intend to send them back whatever "
 "stygian pits they came from!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3248
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3271
 msgid ""
 "What's this? Hidden underneath the edge of the altar is an iron lever. It "
 "looks slightly rusted, but with some effort I could pull it. I have no idea "
 "what it will do, but we're running out of options."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3250
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3273
 msgid "Push the lever."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3281
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3304
 msgid ""
 "Who would have guessed? It looks like a secret passage. I have no idea where "
 "it goes, but with the water rising, soon anywhere will be better than here."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3288
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3311
 msgid "Leave it alone."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3318
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3341
 msgid "This looks like some kind of burial chamber."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3323
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3346
 msgid ""
 "Crypts like these are often heavily guarded, we would do well not to disturb "
 "the sarcophagi."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3332
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3355
 msgid ""
 "I have long waited for fools such as yourselves to dare to disturb our rest, "
 "elf. Pay the price of all such defilers!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3337
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3360
 msgid "Got any other timely advice, Zhul?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3342
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3365
 msgid ""
 "We're in luck, a fissure has opened up a crack in the northern wall. We may "
 "be able to escape that way."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3380
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3403
 msgid "You run, but you shall not escape death!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3385
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3408
 msgid "In Eloh's name, not you again. Must I fight you a third time?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3391
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3414
 msgid ""
 "You abandoned them Kaleh, to eternal suffering and torment. And now you "
 "shall pay the price! You too shall watch the black waters consume those you "
 "love. Embrace the darkness Kaleh, it is coming for you too."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3396
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3419
 msgid ""
 "Even you shall not stop me. You shall taste the might of the Quenoth elves!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3402
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3425
 msgid "Ha! Foolish boy, you know nothing."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3419
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3442
 msgid "Quick, grab him! Don't let him escape again."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3425
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3448
 msgid "No, no, no more escaping. Please kill me, just make the pain end."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3430
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3453
 msgid ""
 "No your have hounded me with your riddles for too long. I want some answers. "
 "Who are you? What's behind that black mask?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3436
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3459
 msgid "Behold, Kaleh, you own worst enemy. Do you now see the irony?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3441
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3464
 msgid "Oh Eloh save us, it's....it's an elf."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3446
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3469
 msgid ""
 "Keratur, son of Tanuil. What is Eloh's name are you doing here? How could "
 "you do this? We thought you were dead."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3451
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3474
 msgid ""
 "Kaleh, we don't have time for questions. The water is still rising and we "
 "must get our people to safety."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3456
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3479
 msgid ""
 "No matter what you have done, you are one of us Keratur, and I will not "
 "leave you here to die in the darkness. I will carry you in my own arm if I "
 "have to."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3462
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3485
 msgid "So be it. I care not."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3478
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3501
 msgid ""
 "Look the tunnel slopes sharply downwards to the left. And it's big enough "
 "that it should divert most of the rising water."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3483
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3506
 msgid "And I think I see a faint light off to the right."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3488
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3511
 msgid ""
 "Could it be? Could we actually be almost out of this seemingly neverending "
 "darkness?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3534
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3557
 msgid ""
 " $ally_name I want to thank you so much for guiding us out of the caves. We "
 "never would have found our way without your help. But with the tunnels "
 "flooded, how are you going to find your way back to your people?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3539
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3562
 msgid ""
 "Ach, it is I who should be congratulating you, laddie. I showed you the way, "
 "but it was you and your people who defeated the many perils and obstacles to "
 "your escape. In all my years such bravery and courage I have rarely seen."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3544
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3567
 msgid ""
 "But truely I can not return the way I came and even if there are other "
 "tunnels which lead back down to my homeland, I do not know where to search "
 "for them. I know as little about the land above ground as you do."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3549
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3572
 msgid ""
 "But my king told me to protect you from all dangers, and I plan to keep that "
 "oath. I do not like the above ground, is to too open and exposed, I feel "
@@ -6242,27 +6252,27 @@ msgid ""
 "for now I am yours to command."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3554
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3583
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3577
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3606
 msgid ""
 " Your loyalty is a credit to your people. I am glad indeed to have you "
 "fighting by my side."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3563
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3586
 msgid ""
 " $ally_name thank you so much for leading us out of the caves. We never "
 "would have found our way without your help. But with the tunnels flooded, "
 "how are you going to find your way back to your people?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3568
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3591
 msgid ""
 " $ally_name proud of little elves too. He would not have made it this far "
 "without all your help. $ally_name is surprised by your bravery and strength."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3573
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3596
 msgid ""
 "Truth is that $ally_name not know much of sunlight lands. Sun and stars are "
 "scary, everything is open, exposed, no safe places to hide. But $ally_name "
@@ -6270,7 +6280,7 @@ msgid ""
 "find other tunnels back to his home. He is as lost as elves are."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3578
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3601
 msgid ""
 "But $ally_name not afraid. Great leader told $ally_name to guide and protect "
 "elves, and $ally_name will keep his oath. $ally_name will follow elves "
@@ -6279,51 +6289,51 @@ msgid ""
 "people. But for now, $ally_name will continue to serve and protect you."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3614
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3637
 msgid "Look, daylight! I think we finally made it out of the caves!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3619
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3642
 msgid ""
 "What's this? Someone has built an outpost at the end of the cave. Where are "
 "it's occupants?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3640
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3663
 msgid "Kaleh, I think you should come up and see this."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3685
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3708
 msgid ""
 "Oh, Eloh. They're all dead. Butchered. Quick we have to clean this up, we "
 "don't want the rest of our people to have to see such horror."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3690
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3713
 msgid "Now, Keratur I will have my answers. Did you have a hand in this?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3698
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3721
 msgid "Keratur"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3708
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3731
 msgid ""
 "They heard me and...and they got in the way. But they aren't even elves, "
 "what do they matter?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3713
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3736
 msgid "You idiot--"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3718
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3741
 msgid ""
 "Quiet Nym. But I still don't understand how you got here. We were sure you "
 "were dead. We searched and searched, but never found your body."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3724
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3747
 msgid ""
 "Heh, heh, no you didn't find me. I awoke trapped under the rubble, and when "
 "I finally escaped the village was deserted. Just the stink of death and "
@@ -6332,7 +6342,7 @@ msgid ""
 "made me watch it all! "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3735
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3758
 msgid ""
 "They brought some humans, bound up tight. So beautiful...she had flaming red "
 "hair...they cut her...I can still her screaming. But that was only the "
@@ -6340,21 +6350,21 @@ msgid ""
 "sand and then I heard their screams of agony and pain..."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3740
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3763
 msgid "From the humans?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3746
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3769
 msgid ""
 "Paugh. No, I heard the screams of the dead, torn from their rest, their "
 "souls rose into the air howling in agony."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3751
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3774
 msgid "But, but we burned the bodies so they couldn't be raised."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3757
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3780
 msgid ""
 "Fool. That did not stop their dark power. Nothing could stop them. I felt "
 "the rush of flying spirits, and the unbearable cold, so cold. For a moment I "
@@ -6362,18 +6372,18 @@ msgid ""
 "witness and laughed as I scrambled over the dunes."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3763
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3786
 msgid ""
 "I was able to follow your trail, and I slipped among your people, no one "
 "noticed me, no I was too sneaky. And you wondered how I managed to follow "
 "you through the tunnels, hah, you escorted me."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3768
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3791
 msgid "But why, why did you want to kill us?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3774
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3797
 msgid ""
 "You abandoned them! The pain, the agony, I still see their ghostly faces and "
 "hear their wails. And the necromancers kept chanting one name over and over: "
@@ -6383,60 +6393,60 @@ msgid ""
 "pain stop."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3779
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3802
 msgid "I...I forgive you."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3785
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3808
 msgid "I do not fear death anymore."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3798
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3821
 msgid ""
 "He's dead. Rest in peace. Oh, what have I done? All our dead kin, desecrated "
 "and tormented for eternity."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3803
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3826
 msgid ""
 "As you said yourself, the past is the past, there is nothing you can do now."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3808
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3831
 msgid ""
 "Don't blame yourself. You didn't know. If we had stayed behind we too would "
 "have been killed by the undead, we could not have defended our village "
 "against so many. We had no choice."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3813
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3836
 msgid ""
 "That is small consolation. My deeds have turned to ashes in my mouth. Eloh "
 "forgive me. I did not know."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3824
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3847
 msgid ""
 "With your permission Kaleh, I think I should go scout around a bit outside. "
 "We have no idea what lies out there. And I can sneak around unseen many "
 "places you can't."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3829
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3852
 msgid "Okay Nym, just be careful."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3834
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3857
 msgid "I'm always careful. I'll be back soon."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3854
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3877
 msgid ""
 "Well, at least we can use this outpost to rally our surviving troops. How "
 "many of our people made it out of the caves Zhul?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3859
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3882
 msgid ""
 "Were still trying to get a head count, but between the underground horrors "
 "and the water, we lost quite a few. Recruiting new warriors is going to be "
@@ -6444,34 +6454,34 @@ msgid ""
 "of us did survive."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4006
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4029
 msgid ""
 "Well Nym's right, we don't know what's out there. So we should set up a "
 "perimeter guard around the cave mouth and start discovering what this side "
 "of the mountains looks like."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4013
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4036
 msgid "Explore Outside"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4017
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4619
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4739
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4040
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4642
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4762
 msgid "Death of Kaleh, Nym, or Zhul"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4050
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4073
 msgid ""
 "Praise Eloh, it is so good to be outside again.  To see the sky stretching "
 "out above me, to feel the wind in my face. ..."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4057
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4080
 msgid "Can you see very far? Do you have any idea where we are?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4062
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4085
 msgid ""
 "We've come out on the side of a mountain, overlooking a large valley. The "
 "land seems to be much the same as the foothills south of the mountains. The "
@@ -6480,76 +6490,76 @@ msgid ""
 "I can see something sparkling on the horizon, but I don't know what it is."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4176
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4199
 msgid "Kaleh, Kaleh, come to me."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4181
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4204
 msgid "What is the voice? It sounds so familiar."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4187
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4210
 msgid "Come out so that I might see you, your god calls to you."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4192
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4215
 msgid "Am I dreaming? Is this real? I'm coming, I'm coming."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4209
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4232
 msgid "Hail Kaleh, it is I, Eloh."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4217
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4240
 msgid "But I am not asleep? And yet I can see you? How is this possible?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4223
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4246
 msgid ""
 "Do you doubt my powers? You have come out of the darkness, and I appear unto "
 "you to congratulate you."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4239
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4259
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4262
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4282
 msgid "Kaleh, who are you talking to?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4245
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4265
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4268
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4288
 msgid ""
 "For now, I appear only to you, for you Kaleh are special, you are the Chosen "
 "One."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4250
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4273
 msgid " $speaker.description be quiet, I'll explain it all later."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4270
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4293
 msgid "Be quiet Zhul, I'll explain it all later."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4279
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4302
 msgid ""
 "Yes, I have chosen you as the one to lead my people out of danger and death "
 "and into a live of eternal salvation. Crossing under the mountains was a "
 "very important step, your destruction of the unbelievers proves your-"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4293
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4316
 msgid "Kaleh, a quick question-"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4298
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4321
 msgid "Not now $ally_name , I'm busy."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4304
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4327
 msgid "What's this? You did not kill the unbelievers?!."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4317
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4340
 msgid ""
 "I am sorry I could not have fulfilled your command, but we found ourselves "
 "in the middle of a war. We were vastly outnumbered and we needed help. In "
@@ -6558,7 +6568,7 @@ msgid ""
 "alive."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4326
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4349
 msgid ""
 "I am sorry I could not have fulfilled your command, but we found ourselves "
 "in the middle of a war. We were vastly outnumbered and we needed help. In "
@@ -6566,45 +6576,45 @@ msgid ""
 "dwarves and without them we would not have made it out of the caves alive."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4335
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4358
 msgid ""
 "You were weak and foolish, but I forgive you. You must remember Kaleh, that "
 "without my guidance, your people would have died out years ago. I am your "
 "god, and you must follow my every command."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4341
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4364
 msgid ""
 "Now, in the valley live a group of humans who have also seen the light. They "
 "may seem strange, but they are my obedient followers. You must trust them, "
 "they will show you the way north. Follow them and they will lead you to me. "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4346
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4369
 msgid ""
 "What do you mean 'lead you to me'? You are a god, don't you exist "
 "everywhere? I thought you were going to show us our new home."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4352
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4375
 msgid ""
 "Of course I am. Oh, how little you understand. Do not worry yourself with "
 "all those tiny questions. Come to me and all will be made clear."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4370
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4393
 msgid ""
 "I saw the distress signal from the outpost on the bluff. Who in Nagoth's "
 "name are you and what have you done with my men?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4375
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4398
 msgid ""
 "My name is Kaleh, and these are my people. We come from the south and "
 "unfortunately we found your men dead--"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4380
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4403
 msgid ""
 "Dead?! You 'found' them you say? You'll pardon me if I don't take you at "
 "your word. We haven't seen elves for generations, but we remember your "
@@ -6612,18 +6622,18 @@ msgid ""
 "onto our back doorstep? "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4385
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4408
 msgid "Well, actually they were fleeing from--"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4398
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4421
 msgid ""
 "A troll! This just gets better and better. We haven't seen one of your kind "
 "up here for many years, but I have a long memory. I still remember the troll "
 "raids when I was a youth."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4407
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4430
 msgid ""
 "A dwarf! This just gets better and better. We haven't seen one of your kind "
 "up here for many years, but we have a long memories. I remember how your "
@@ -6631,35 +6641,35 @@ msgid ""
 "we're not so easy to fool this time."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4415
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4438
 msgid "Look if you'll just let me explain--"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4428
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4451
 msgid ""
 "Oh they're no need to explain, it's pretty obvious what you're up to. Here "
 "we have a whole legion of elves, consorting with trolls, sneaking up behind "
 "our defenses. This looks an awful lot like an invasion to me."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4437
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4460
 msgid ""
 "Oh they're no need to explain, it's pretty obvious what you're up to. Here "
 "we have a whole legion of elves, consorting with dwarves, sneaking up behind "
 "our defenses. This looks an awful lot like an invasion to me. "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4445
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4468
 msgid "No, no. I don't understand, we were told you could help us."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4450
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4473
 msgid ""
 "Sir, remember the edict passed down by councilman Noblis? About any "
 "foreigners spotted on the borders?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4455
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4478
 msgid ""
 "I have no idea what you're babbling about, but you're just lucky you caught "
 "me on a good day. You get to explain everything to the Iron Council. Now you "
@@ -6667,23 +6677,23 @@ msgid ""
 "to be judged. They'll deal with you as they see fit."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4461
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4484
 msgid "Everything will be fine. Do as he says."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4466
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4489
 msgid ""
 "I am my own master, I will not be ordered around, not even by you, Eloh."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4471
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4494
 msgid ""
 "What's that boy? Are you talking back to me? You are walking on very thin "
 "ice. You are on my land, and under my jurisdiction. Lay down your weapons "
 "and submit peacefully or I'll make you sorry you didn't."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4477
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4500
 msgid ""
 "Kaleh, I am Eloh, bearer of the staff of Ishtar and slayer of the demon-god "
 "Yanqui. Do as I say! Submit to him or I will abandon your people to "
@@ -6691,84 +6701,84 @@ msgid ""
 "shall pick at your flesh. I am not a forgiving god, Kaleh."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4482
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4505
 msgid ""
 "Then kill me if you must, but I will not give myself over to those who "
 "threaten me and my people. I have not come through peril and darkness just "
 "to surrender to a man such as you."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4487
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4510
 msgid ""
 "Your dare defy me?!? All who refuse to submit to the authority of the Iron "
 "Council shall be killed. In Nagoth's name! To battle men, drive those "
 "heathens back into the caves!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4505
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4528
 msgid "Durstrag"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4520
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4543
 msgid ""
 "You disappoint me, Kaleh. You are weak, and not worthy of my guidance. Do "
 "what you will, but this is not over. You may be the appointed leader of your "
 "people but I am your god, and I will not let you usurp my authority."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4531
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4554
 msgid ""
 "You are not the god I grew with. You may be all powerful, but I will not be "
 "your puppet. I am still their leader and as long as I draw breath I will do "
 "what I think is best for my people."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4536
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4559
 msgid "Kaleh, would you mind telling me what in Uria's name is going on."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4541
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4564
 msgid ""
 "There's no time. Right now we have to prepare ourselves for another battle. "
 "I'd better head back to the outpost and rally our troops. I fear a whole lot "
 "of hurt is going to be coming up through those hills very soon."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4546
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4569
 msgid ""
 "Well, now we're really in for it. I hope you know what you're doing, Kaleh."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4566
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4589
 msgid ""
 " $ally_name no like humans either. They mean. But they sound great when they "
 "go squish."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4575
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4598
 msgid ""
 "I never liked humans much anyway. I'll be glad to be fighting something "
 "besides undead."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4615
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4731
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4638
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4754
 msgid "Defeat Durstrag"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4694
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4717
 msgid "I'm back, Kaleh."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4699
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4722
 msgid "Ah! You scared me Nym. I didn't see you coming."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4704
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4727
 msgid "Of course you didn't. That's why it's called sneaking."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4709
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4732
 msgid ""
 "Anyway you've really gotten us into a mess. The good news is that the "
 "outpost isn't guarded as heavily as you might think. The garrison seems only "
@@ -6776,11 +6786,11 @@ msgid ""
 "from this direction."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4714
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4737
 msgid "And what's the bad news?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4719
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4742
 msgid ""
 "The bad news is that I overheard the commander ordering a special group of "
 "his men to get ready to ride north and summon reinforcements. It seems that "
@@ -6790,21 +6800,21 @@ msgid ""
 "be crushed."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4724
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4747
 msgid ""
 "Then we'll just have to make sure that no messenger escapes this valley to "
 "summon reinforcements."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4735
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4758
 msgid "If a human messenger escapes the valley"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4742
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4765
 msgid "The messenger is the leader of the special white colored units"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4849
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4872
 msgid ""
 "Cursed Elves, you tracked your filth through our halls and you defiled our "
 "sanctuary. Your have besmirched our honor, and we will have our revenge. We "
@@ -6812,34 +6822,34 @@ msgid ""
 "shall rue the day that you ever trespassed into out lair!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4865
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4888
 msgid ""
 "Can't the dead ever just stay dead? And aren't they trapped by the flooded "
 "tunnels and caves?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4870
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4893
 msgid ""
 "Undead don't have to breathe and I don't think a little water is going to "
 "stop them. Besides you saw how the ghost just flew through the rock, if they "
 "can move through walls then what do they care about flooded tunnels?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4875
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4898
 msgid "Great. So now we're fighting in a haunted valley."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4898
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4921
 msgid "Undead Leader"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4941
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4964
 msgid ""
 "I don't understand. What are these humans doing here? I've never seen so "
 "many in one place before."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4946
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4969
 msgid ""
 "Human aren't just the bandits and outlaws you're familiar with from the "
 "deserts, Kaleh. Remember that long ago the great human empire of Wesnoth "
@@ -6849,7 +6859,7 @@ msgid ""
 "that was the cause of our corruption and downfall."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4951
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4974
 msgid ""
 "But now is not a time for preaching. Humans once spread to many lands, and "
 "despite all the ravages of time, I have no doubt that at least a few of them "
@@ -6857,11 +6867,11 @@ msgid ""
 "I only wish that the same could be said of our brethren."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4956
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4979
 msgid "There might be other elves somewhere. We can't be sure."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4961
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4984
 msgid ""
 "No we can't. But for now we must deal with the problem at hand. Thank you "
 "for the information Zhul, these humans are good fighters but they are no "
@@ -6869,109 +6879,109 @@ msgid ""
 "and I will not be bested by a bunch of ruffians."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5012
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5035
 msgid ""
 "Send forth the messenger and his escort. Go north and bring help as soon as "
 "possible!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5032
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5154
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5159
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5055
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5177
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5182
 msgid "Human Messenger"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5052
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5071
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5090
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5109
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5075
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5094
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5113
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5132
 msgid "Human Escort"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5119
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5142
 msgid ""
 "If that messenger escapes the valley, we'll be in trouble. We have to stop "
 "him!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5138
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5161
 msgid "No! I must get help!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5143
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5166
 msgid ""
 "Good. We're safe for now. We just have to defeat Durstrag before he sends "
 "another messenger for reinforcements."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5166
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5189
 msgid ""
 "The messenger has escaped! He will surely return with reinforcements. We are "
 "doomed!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5186
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5209
 msgid ""
 "Don't worry. We're not the monsters you seem to think we are. I will not "
 "kill you in cold blood."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5191
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5214
 msgid "Paugh, boy you know nothing! There are fates worse than death."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5202
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5225
 msgid "He killed himself rather then surrender to us!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5207
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5230
 msgid "They killed Durstrag! Run for your lives!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5224
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5247
 msgid "The rest of the humans are fleeing."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5229
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5252
 msgid "Let them go. We have won this battle and I weary of all this bloodshed."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5234
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5257
 msgid "What was it that Durstrag was so afraid of?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5239
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5262
 msgid "I don't know, but I fear we may find out."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5244
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5267
 msgid ""
 "You're being very cryptic, Kaleh. Now that the battle is over would you care "
 "to explain to us who you were talking to back when we first met Durstrag?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5249
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5272
 msgid "No, not yet."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5254
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5277
 msgid "What's wrong Kaleh? Don't you trust us?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5259
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5282
 msgid ""
 "Yes, yes of course I do. But it's just a theory. I don't want to say more "
 "until I have proof. Give me until tomorrow night, then I'll tell you "
 "everything."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5264
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5287
 msgid ""
 "Very well. I've trusted your decision and your leadership so far, I'll wait "
 "a little longer."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5269
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5292
 msgid ""
 "So what do we do now? The land seems to be about the same on the northern "
 "side of the mountains as it was on the south. And we can't hang around here "
@@ -6979,7 +6989,7 @@ msgid ""
 "valley is still haunted with undead."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5274
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5297
 msgid ""
 "Yes, I think the sooner we leave this valley, the better. But we don't know "
 "anything about the surrounding terrain. Without anyone to guide us, we have "
@@ -6988,21 +6998,21 @@ msgid ""
 "people already. I don't want to lead us into a trap."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5279
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5302
 msgid ""
 "When I was scouting around I think I saw a small oasis near the entrance to "
 "this valley. If we move out there we should be out of range of the undead. I "
 "think it would be safe, at least for the short term."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5284
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5307
 msgid ""
 "Indeed. Undead ghosts such as these are often bound to the places they died, "
 "the farther away they travel, the weaker they are. So if we move out of the "
 "immediate vicinity we should be pretty safe."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5289
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5312
 msgid ""
 "Good, we'll move our people out and camp by the oasis. Now Nym, you know who "
 "the best scouts are, I want you to lead a few elves to do some "
@@ -7011,145 +7021,145 @@ msgid ""
 "don't do anything dangerous. But I want to know what's out there."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5294
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5317
 msgid "But hasn't Eloh told you where to go and what dangers you face?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5299
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5322
 msgid ""
 "She was...rather vague. I know we're supposed to generally go north, but I "
 "want more information before I commit us to a direction."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5304
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5327
 msgid ""
 "Don't you worry about us, Kaleh. We'll be careful. I'll organize five bands "
 "to scout out the nearby lands. We should be back in about half a day."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5309
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5332
 msgid ""
 "Good, until then we'll settle around that oasis and set up as good a defense "
 "as we can. Until I know what's out there, I'm not taking any chances."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5885
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5909
 msgid "Help, I'm drowning!"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5985
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6015
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6041
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6071
 msgid ""
 "Look, the water is pouring out the side tunnel into the valley! That's a lot "
 "of water, it's even creating a small river. I sure wouldn't want to be "
 "downstream of that deluge right now."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6076
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6132
 msgid ""
 "Look, up there in the valley. The water has poured out of the side tunnel "
 "and created a small river and lake. I glad we weren't downstream of that "
 "deluge when the water came rushing out of the tunnel."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6097
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6153
 msgid ""
 "I can see human reinforcements arriving on the horizon. We'll surely be "
 "overwhelmed now! If only we had moved faster."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6154
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6210
 msgid "Several hours pass..."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6183
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6239
 msgid "In Eloh's name Nym, you look terrible. Are you okay?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6188
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6244
 msgid "Yes. Just...let me...catch...my breath."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6204
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6260
 msgid "Esanoo"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6222
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6278
 msgid "Water. Sweet water. By the gods, I thought my scales would fall off."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6232
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6288
 msgid "Relax, he's a friend. Just, let me explain."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6237
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6293
 msgid "You're really beat up Nym. Are you sure you're okay?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6242
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6298
 msgid "I'm fine. But I found someone who really wanted to speak with you."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6247
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6303
 msgid "He looks like a half man half fish."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6252
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6308
 msgid "Indeed. I come from the ocean, and long have I been looking for you."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6257
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6313
 msgid "The Ocean? What are you talking about?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6262
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6318
 msgid "Don't try to explain Esanoo. We'll have to show them instead."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6267
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6323
 msgid ""
 "It's not important. What's important is that I am an emissary from one who "
 "much desires to speak with you, Kaleh. Despite the danger, he sent my and my "
 "brethern to scour the dry land searching for you."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6272
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6328
 msgid "There are more of you? Where are the others?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6277
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6333
 msgid ""
 "They have been captured by the foul humans. I just barely managed to hide "
 "and escape, with the help of your friend."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6282
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6338
 msgid "And why should we trust anything you say?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6291
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6347
 msgid ""
 "My master thought you might be suspicious. He says that what we wants to "
 "talk with you about concerns the fate of your people. He said it concerns "
 "'Yechnagoth' and 'Yanqui'. He said that you would understand Kaleh."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6296
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6352
 msgid "Hmmmm...yes, yes I think I do. I don't know why, but I trust you."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6301
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6357
 msgid ""
 "Thank you. Now I have a boon to ask of you. Our instructions were to find "
 "you and to bring you and your people to meet with my master. The problem is "
 "that I don't know where he is hiding."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6306
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6362
 msgid "You don't know where to find your master?"
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6311
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6367
 msgid ""
 "It's complicated, and I don't know much I am allowed to tell you. My people "
 "are fighting a desperate war against...against a powerful foe. Many times "
@@ -7163,30 +7173,30 @@ msgid ""
 "it myself, but..."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6316
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6372
 msgid ""
 "It would be suicide for you to try to rescue them alone. Of course we will "
 "help you."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6321
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6377
 msgid "Thank you. I am not very good at fighting on the dry ground."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6326
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6382
 msgid ""
 "All the other scouting parties have returned, except for one. Tanstafaal and "
 "his scouts haven't reported back yet. I'm starting to get worried."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6331
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6387
 msgid ""
 "They were sent due north. From Esanoo's description it sounds like they were "
 "headed right for the human settlement. I hope nothing bad has happened to "
 "them."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6336
+#: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6392
 msgid ""
 "Things are coming to a head. I'm worried about Tanstafaal and your merfolk "
 "friends. Time is of the essence, so let's move out as soon as possible."
@@ -9026,22 +9036,58 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:895
 msgid ""
-"What? I've never heard of a god named Yanqui before. It must be another of "
-"her lies."
+"I wonder where Yechnagoth heard of the story of Eloh and Yanqui. Yes, Yanqui "
+"was a ancient god, but rarely is his story told anymore. Much like "
+"Yechnagoth, long ago, when our kind was young he appeared as a beautiful "
+"elven youth, and promised great power to anyone that would follow him. His "
+"honeyed words and powers of persuasion brought many elves into his ranks. "
+"But before he could bring his foul plans to fruition his cult was discovered "
+"and a great civil war broke out among the elves. In the end his followers "
+"were slaughtered, his temples smashed and in a great battle Eloh herself "
+"beheaded him and smote his ruin down upon the mountains. Even with him and "
+"his followers destroyed she feared that he might be worshipped as a martyr, "
+"so she chained him down in the deepest pits beneath the earth and declared "
+"his name and his story forbidden knowledge to all but her most devout "
+"priests. Until the Great Fall they kept watch over our people and even to "
+"mention his name as a death sentence. His name and his tale became forgotten "
+"lore, except among the high priestesses, who continued to pass it down among "
+"the forbidden knowledge even after the Great Fall. Eloh was very thorough in "
+"preventing Yanqui from ever again gaining sway over our people. For all I "
+"know, he lies there still, in the darkest pits deep deep under the earth. If "
+"only she was as successful against Uria. But I ramble on, suffice it to say, "
+"Yanqui is an demon long since destroyed by Eloh."
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:901
-msgid ""
-"Let me explain. When Eloh appeared to you Kaleh, I was\n"
-"able to use my powers to eavesdrop on your conversation. I did not know how "
-"much you suspected, but I did not want to cause panic by openly revealing "
-"who was actually speaking to you. I had hoped to convince you to come here "
-"so I could reveal the truth to you in person. I did not realize that "
-"Yechnagoth would move so fast. I am sorry that realizing who she really was "
-"carried such a high price for your people."
+msgid "I wonder what other forbidden lore you have been taught."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/9Fish.cfg:906
+#: Under_the_Burning_Suns/scenarios/9Fish.cfg:907
+msgid ""
+"Foolish girl! Do not ask such a question. It is better not to know. "
+"Knowledge can be a terrible weight, one that I would want a young one such "
+"as you to bear. Treasure the beautiful things in this life and pry not into "
+"the darker secrets. Eloh forgive me, I have probably told you too much "
+"already, but I felt that it was time for you to know a little bit of the "
+"truth."
+msgstr ""
+
+#: Under_the_Burning_Suns/scenarios/9Fish.cfg:912
+msgid ""
+"That is very interesting. In truth, I'd never heard of Yanqui before when I "
+"told Esanoo to mention him to you, Kaleh. Let me explain. When Eloh appeared "
+"to you, I was able to use my powers to eavesdrop on your conversation. I did "
+"not know how much you suspected, but I did not want to cause panic by openly "
+"revealing who was actually speaking to you. I had hoped to convince you to "
+"come here so I could reveal the truth to you in person. That's why I made "
+"those elusive references to Yechnagoth and Yanqui, hoping that Kaleh would "
+"make the connection between Eloh and Yechnagoth, and be curious enough to "
+"seek me out.  My mistake was that I did not realize that Yechnagoth would "
+"move so fast. I am sorry that discovering her true identity carried such a "
+"high price for your people."
+msgstr ""
+
+#: Under_the_Burning_Suns/scenarios/9Fish.cfg:917
 msgid ""
 "And now I must bid your farewell. The merfolk you rescued will help show you "
 "the path to the island, and I must go orchestrate our diversion. We will "
