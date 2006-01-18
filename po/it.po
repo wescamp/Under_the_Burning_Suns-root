@@ -6,14 +6,14 @@ msgstr ""
 "Project-Id-Version: under-the-burning-suns\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-11-28 10:44+0100\n"
-"PO-Revision-Date: 2006-01-08 23:23+0100\n"
+"PO-Revision-Date: 2006-01-18 00:25+0100\n"
 "Last-Translator: Luciano Montanaro <mikelima@cirulla.net>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11\n"
+"X-Generator: KBabel 1.11.1\n"
 
 #: Under_the_Burning_Suns.cfg:16
 msgid "Under the Burning Suns"
@@ -243,6 +243,14 @@ msgid ""
 "those poor souls we left behind in our village and the many who have marked "
 "our path with their blood, they all shall be avenged."
 msgstr ""
+"Ma Zhul ha ragione, se fossimo giunti fin qui solo per  poter aiutare i "
+"nereidi a sconfiggere Yechnagoth, il nostro viaggio non sarebbe stato vano. "
+"Abbiamo viaggiato così a lungo nella speranza di trovare una nuova casa, al "
+"sicuro dagli orrori e dalla morte del deserto. Ma in fondo non è questo che "
+"mi motiva. Tutto quello che voglio è una vendetta. Garak, Keratur, "
+"Tanstafaal, tutti gli sfortunati che abbiamo perduto al villaggio e tutti "
+"quelli che hanno segnato il nostro cammino con il sangue, tutti saranno "
+"vendicati."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:325
 msgid ""
@@ -349,6 +357,10 @@ msgid ""
 "things staring at us from the depths of the jungle, but I can't tell what "
 "they are. As much as I love plants and trees, I don't like the look of it."
 msgstr ""
+"Ugh! Questa giungla sembra oscura ed inquietante. Vedete quegli occhi? Ci "
+"sono cose che ci osservano dal profondo della giungla, ma non capisco che "
+"cosa siano. Per quanto ami gli alberi e le pianti, non mi piace l'aspetto "
+"che ha."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:855
 msgid ""
@@ -357,6 +369,10 @@ msgid ""
 "first. I don't think I want to hack through the jungle until we have more "
 "elves at our side."
 msgstr ""
+"Nemmeno a me, ma sembra molto più aperta verso sud. I nereidi hanno "
+"menzionato delle rovine delgi umani in direzione sudovest. Forse dovremmo "
+"cominciare l'esplorazione da lì. Non voglio addentrarmi nella giungla finché "
+"non avremo più elfi nelle nostre fila."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:885
 msgid ""
@@ -419,10 +435,14 @@ msgid ""
 "except for those lizards you found, and some abandoned villages, it seem to "
 "be empty. We captured those villages for you, to help support your troops."
 msgstr ""
+"Non temere, siamo qui! Abbiamo esplorato la parte meridionale dell'isola. A "
+"parte le lucertole che avete trovato e qualche villaggio abbandonato, sembra "
+"che sia vuota. Abbiamo occupato i villaggi per voi, per aiutare a supportare "
+"le truppe."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1206
 msgid "Thanks, I think we're going all the support we can get."
-msgstr "Grazie, avremo bisogno di tutto l'aiuto possibile."
+msgstr "Grazie, credo avremo bisogno di tutto l'aiuto possibile."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1217
 msgid ""
@@ -439,6 +459,10 @@ msgid ""
 "expensive. Of course if we lose this battle, then what use will gold be to "
 "us?"
 msgstr ""
+"Bene, ora possiamo cominciare a reclutare e richiamare i nostri guerrieri. "
+"Naturalmente con così poche persone rimaste, l'addestramento di nuovi "
+"guerrieri sarà molto difficile e dispendioso. Ma se perdiamo questa "
+"battaglia, a che ci servirà l'oro?"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1241
 msgid ""
@@ -489,7 +513,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1314
 msgid "I will slaughter you all and bathe in your blood!"
-msgstr ""
+msgstr "Ti massacrerò e farò il bagno nel tuo sangue."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1355
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1386
@@ -517,6 +541,9 @@ msgid ""
 "way to open it. All I see are what look like two tiny keyholes in the stone. "
 "Now I wonder where we might find the right keys?"
 msgstr ""
+"Un momento. C'è come il profilo di una porta che affiora dalla pietra. Ma "
+"non c'è modo di aprirla. Tutto quello che si vede sono due minuscole "
+"serrature nella pietra. Ora mi chiedo dove potremmo trovare le chiavi giuste?"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1372
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1479
@@ -543,6 +570,10 @@ msgid ""
 "one of each faction. I bet the leaders would be in charge of such valuable "
 "objects."
 msgstr ""
+"Ho un'idea. Scommetto che Eloh ha dato le chiavi ai più fidati. E c'erano un "
+"orco ed uno scheletro a guardia della porta. Le chiavi devono essere "
+"conservate da uno di ciascuna fazione. Scommetto che i due condottieri sono "
+"stati scelti per conservare questi oggetti così preziosi."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1414
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1521
@@ -573,6 +604,10 @@ msgid ""
 "the black citadel. I tire of all this bloodshed. Wherever Yechnagoth hides, "
 "we will find her and make her pay for all she has done."
 msgstr ""
+"Ora abbiamo tutte e due le chiavi. Dobbiamo solo usarle per aprire la porta "
+"della cittadella nera. Sono stanco di questa carneficina. Dovunque sia "
+"nascosta Yechnagoth, la troveremo e le faremo pagare per tutto quello che ha "
+"fatto."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1560
 msgid "Any unit must reach the black citadel"
@@ -671,6 +706,8 @@ msgid ""
 "So I see that you have finally slain both of my lieutenants. I wondered how "
 "long it would take you."
 msgstr ""
+"Così alla fine hai ucciso i miei due luogotenenti. Mi chiedevo quanto ci "
+"avresti messo."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1925
 msgid "We have your keys. You cannot hide from us now."
@@ -689,7 +726,7 @@ msgstr "Sigh, voi elfi siete così prevedibili."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1941
 msgid "Talk all you want, we will have our vengeance!"
-msgstr ""
+msgstr "Parla finché vuoi, avremo la nostra vendetta!"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1946
 msgid ""
@@ -756,6 +793,11 @@ msgid ""
 "if Eloh wills it he will prevail. You see how all our losses weigh upon him. "
 "He would not want us to disobey him and sacrifice our lives too."
 msgstr ""
+"Nymphtessa, cara, sei sempre stata una ribelle. Ma prima o poi dovrai "
+"imparare a rispettare le decisioni del tuo condottiero. Kaleh ha fatto la "
+"sua scelta, e se Eloh lo vorrà, riuscirà a prevalere. Puoi vedere come tutte "
+"le nostre perdite pesino su di lui. Non vorrebbe che gli disobbedissimo e "
+"sacrificassimo anche le nostre vite."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:2041
 msgid ""
@@ -764,6 +806,10 @@ msgid ""
 "made it out of the desert. The rest of you can just sit on your hands and "
 "pray, but I'm going in there!"
 msgstr ""
+"Non mi importa! Credi che lo possa lasciare andare lì dentro a combattere da "
+"solo? Sarà massacrato! Ha bisogno del nostro aiuto. Senza di noi non sarebbe "
+"nemmeno sopravvissuto nel deserto. Voialtri potete anche stare seduti qui a "
+"pregare, ma io andrò lì dentro!"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:2064
 msgid ""
@@ -772,6 +818,10 @@ msgid ""
 "right, I'm going in. The rest of you stand guard, if we don't come out in "
 "half a hour then flee the island with the merfolk."
 msgstr ""
+"Maledetta ragazza! Sarà la mia morte. Ma non ha speranza senza di me. Kaleh "
+"è una cosa, ma Nym ha bisogno di me. D'accordo, andrò anch'io. Voi rimasti "
+"state in guardia, se non torniamo indietro entro mezz'ora scappate "
+"dall'isola con i nereidi."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:2088
 msgid ""
@@ -779,6 +829,9 @@ msgid ""
 "their without me. Besides, whoever heard of a dwarf being afraid of going "
 "underground? I just hope they save some of the fighting for me."
 msgstr ""
+"Ho seguito quel ragazzo fin qui, e non lo lascerò entrare lì dentro senza di "
+"me. Tra l'altro, da quando in qua un nano ha paura di scendere nel "
+"sottosuolo? Spero solo che ci sia da combattere anche per me."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:2098
 msgid ""
@@ -902,11 +955,11 @@ msgstr "Morte agli eretici!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:665
 msgid "They worship their true god."
-msgstr ""
+msgstr "Adorano il loro vero dio."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:671
 msgid "Come and bow down before your true master, boy."
-msgstr ""
+msgstr "Vieni ed inchinati davanti alla tua vera padrona, ragazzo."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:677
 msgid "Your wish is my command."
@@ -914,7 +967,7 @@ msgstr "Il tuo desiderio è un ordine."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:944
 msgid "Argh, you stabbed me!"
-msgstr ""
+msgstr "Ah! Mi hai pugnalato!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:950
 msgid ""
@@ -926,7 +979,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:956
 msgid "I command you to stop this foolishness!"
-msgstr ""
+msgstr "Ti comando di fermare questa pazzia!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:962
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5040
@@ -940,7 +993,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:974
 msgid "You will never dominate us, not while hope survives!"
-msgstr ""
+msgstr "Non comanderai mai su di noi, non finché resta la speranza!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:980
 msgid ""
@@ -968,11 +1021,11 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1221
 msgid "You think you killed me? You have no idea what you are facing."
-msgstr ""
+msgstr "Credi di avermi ucciso? Non hai idea di chi stai affrontando."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1227
 msgid "Could it be Yanqui? Back to avenge his imprisonment?"
-msgstr ""
+msgstr "Che sia Yanqui? Tornato per vendicare la sua prigionia?"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1233
 msgid ""
@@ -990,6 +1043,8 @@ msgstr "Huh? Che cos'è successo?"
 msgid ""
 "Her spell has been broken. But I don't think we have won yet. Come aid us!"
 msgstr ""
+"Il suo incantesimo si è spezzato. Ma non credo che abbiamo ancora vinito. "
+"Vieni ad aiutarci!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1283
 msgid "Yes priestess."
@@ -1035,6 +1090,9 @@ msgid ""
 "our attacks are doing no damage at all. We got to try another tactic, and "
 "fast!"
 msgstr ""
+"Il corpo centrale si rigenera più velocemente di quanto riusciamo a "
+"danneggiarlo. È come se i nostri attacchi non facessero nessun danno. "
+"Dobbiamo provare un'altra tattica, e presto!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1779
 msgid "Aaaauuurrrggghhhh!!!"
@@ -1045,6 +1103,8 @@ msgid ""
 "I think we're finally doing some damage. We must attack the central body, "
 "while it remains vulnerable!"
 msgstr ""
+"Credo che stiamo riuscendo ad infliggere qualche danno. Dobbiamo attaccare "
+"il corpo centrale, finché resta vulnerabile!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1939
 msgid "Aiiieeee!!!"
@@ -1052,23 +1112,23 @@ msgstr "Aiiieeee!!!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1966
 msgid "At last. It is finished."
-msgstr ""
+msgstr "Finalmente. È finita."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1980
 msgid "Is Yechnagoth really dead?"
-msgstr ""
+msgstr "Yechnagoth è veramente morta?"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1986
 msgid "Yes, she's dead Nym."
-msgstr ""
+msgstr "Sì, lo`e Nym."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1992
 msgid "I almost can't believe it."
-msgstr ""
+msgstr "Non riesco quasi a crederci."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:2001
 msgid "Behold, the pretender has been defeated. Eloh's might has prevailed."
-msgstr ""
+msgstr "Guardate! l'impostore è stato sconfitto. La potenza di Eloh ha vinto."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:2015
 msgid ""
@@ -1076,6 +1136,9 @@ msgid ""
 "what in the nine hells we were fighting, but she doesn't smell any better "
 "dead than she did alive."
 msgstr ""
+"Ugh! Sono coperto di sangue ed interiora, e di questa schifosa roba blu. Non "
+"so, per i nove inferni, che creatura abbiamo combattuto, ma non ha un "
+"profumo migliore da morta che da viva."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:2025
 msgid ""
@@ -1475,7 +1538,9 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/13Credits.cfg:38
 msgid "Translators: Allefant [German], Sanna [Swedish]"
-msgstr "Traduttori: Allefant [Tedesco], Sanna [Svedese], Luciano [Italiano]"
+msgstr ""
+"Traduttori: Allefant [Tedesco], Sanna [Svedese], Luciano e Silvia Montanaro "
+"[Italiano]"
 
 #: Under_the_Burning_Suns/scenarios/13Credits.cfg:44
 msgid "Testers: Mark Polo, Isaac, Ringcaat"
@@ -2965,7 +3030,6 @@ msgid "A Stirring in the Night"
 msgstr "Un tumulto nella notte"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:33
-#, fuzzy
 msgid ""
 "Chapter 3: We continued north through the desert, the looming hills and "
 "mountains promised blessed relief from the seemingly neverending sand. Soon "
@@ -2973,7 +3037,14 @@ msgid ""
 "night. As tired as I was of marching across the sand, I felt strangely "
 "afraid. I had lived my entire life in the sands, they were my home, and the "
 "rocky hills and white glistening mountaintops seemed foreign and foreboding."
-msgstr "Capitolo 3:"
+msgstr ""
+"Capitolo 3: Continuammo a nord attraverso il deserto, i profili delle "
+"colline e delle montagne promettevano un riposo benedetto dalla sabbia "
+"apparentemente interminabile. Presto giungemmo ai piedi delle colline, e "
+"decidemmo di riposare in quel luogo per la notte. Per quanto fossi stanco di "
+"marciare nella sabbia, avevo una strana paura. Ho vissuto per tutta la vita "
+"fra le sabbie, erano la mia casa, e le colline rocciose e le cime bianche e "
+"scintillanti delle montagne sembravano estranee e inquietanti."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:37
 msgid ""
@@ -2984,6 +3055,13 @@ msgid ""
 "more about day to day matters than the extra-worldly ones. But who was I to "
 "question a god?"
 msgstr ""
+"Mi tormentavo pensando se stessi facendo la cosa giusta, portando la mia "
+"gente verso queste strane terre. Nonostante le promesse di Eloh, non ero "
+"fiducioso come Zhul che tutto sarebbe finito bene. A ripensarci, trovavo "
+"strano che io fossi colui a cui Eloh si manifestava. Non sono mai stato "
+"particolarmente devoto, e mi sono sempre preoccupato delle cose di tutti i "
+"giorni più che di quelle ultraterrene. Ma chi ero io, per chiedere conto "
+"alla Dea?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:41
 msgid ""
@@ -3145,6 +3223,9 @@ msgid ""
 "cannot last forever, and with the light of the sun the undeads' dark power "
 "wanes and their magics unravel."
 msgstr ""
+"Guardate, l'alba è vicina, la nostra salvezza è a portata di mano. Anche la "
+"lunga oscurità non dura per sempre, e con la luce del sole il potere oscuro "
+"dei non-morti sbiadisce e la magia si dissolve."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:177
 msgid ""
@@ -3201,7 +3282,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:255
 msgid "Kill Possessed Garak (or)"
-msgstr ""
+msgstr "Uccidi il Garak posseduto (oppure)"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:260
 msgid "Defeat remaining Undead Lord"
@@ -3251,6 +3332,8 @@ msgid ""
 "There's too many of them and the night is almost gone. Pull back you "
 "wretches, pull back!"
 msgstr ""
+"Ce ne sono troppi e la notte è quasi terminata. Tornate indietro, "
+"disgraziati, tornate indietro!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:390
 msgid ""
@@ -3258,6 +3341,10 @@ msgid ""
 "so beautiful. The undead forces have crumbled into dust and the remaining "
 "orcs are retreating with the dawn. But what of Garak?"
 msgstr ""
+"Comincio a vedere i primi raggi di Naia splendere all'orizzonte. Non è mai "
+"stata così bella. Le forze dei non-morti si sono dissolte all'alba e gli "
+"orchi rimasti si stanno ritirando con l'arrivo dell'alba. Ma che cosa è di "
+"Garak?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:395
 msgid "He's...He's still breathing!"
@@ -3265,13 +3352,15 @@ msgstr "Respira... respira ancora!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:400
 msgid "Protect the boy for me Zhul, (cough) I go to a better place."
-msgstr ""
+msgstr "Proteggi il ragazzo per me, Zhul, (coff) vado in un posto migliore."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:411
 msgid ""
 "From the sands he came, to the sands he will return. We remember and honor "
 "his sacrifice, and I vow that his death will not be in vain. "
 msgstr ""
+"Sabbia era e sabbia tornerà ad essere. Ricorderemo ed onoreremo il suo "
+"sacrificio, e giuro che la sua morte non sarà vana."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:416
 msgid "Goodbye old friend, may Eloh shine her light eternal upon you."
@@ -3282,12 +3371,15 @@ msgstr ""
 msgid ""
 "He was as brave and valiant a fighter as I have ever seen in my travels."
 msgstr ""
+"Era il più coraggioso e valoroso combattente che mi sia mai capitato di "
+"vedere nei miei viaggi."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:426
 msgid ""
 "He was a bastard at times.... But...but why did he have to die? It...it just "
 "doesn't make sense. "
 msgstr ""
+"A volte era n bastardo... Ma,,, ma perché doveva morire? Non... non ha senso."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:445
 msgid ""
@@ -3315,6 +3407,7 @@ msgstr "Miracolosamente, tutti gli accampamenti sono sopravvissuti alla notte."
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:490
 msgid "Well, only $village_counter encampments remain, but we shall survive."
 msgstr ""
+"Bè sono sopravvissuti solo $village_counter accampamenti, ma sopravviveremo."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:495
 msgid "Yes, but at what cost?"
@@ -3353,18 +3446,24 @@ msgid ""
 "All this death and destruction. What were those shades arguing over? Was "
 "this all just some sort of demented game?"
 msgstr ""
+"Tutta questa morte e distruzione. Per che cosa stavano litigando quelle "
+"ombre? Era forse una specie di gioco demente?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:575
 msgid ""
 "The lords of the dead are powerful and twisted indeed. Only Eloh knows the "
 "truth of what happened tonight."
 msgstr ""
+"I signori dei morti sono potenti e contorti per davvero. Sol Eloh conosce il "
+"significato di ciò che è accaduto questa notte."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:580
 msgid ""
 "I don't want to be here tomorrow night to find out. The hills to the north "
 "are close. Let's be far away before another nightfall."
 msgstr ""
+"Non voglio essere qui domani notte per scoprirlo. Le colline a nord sono "
+"vicine. Andiamocene via prima del prossimo tramonto."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:605
 msgid "Azkotep"
@@ -3384,7 +3483,7 @@ msgstr "Sconfiggi tutti i condottieri dei non-morti"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:825
 msgid "You Control Less Than 6 Villages"
-msgstr ""
+msgstr "Tu controlli meno di 6 villaggi"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1050
 msgid "Curse you! I will not forget this. You will rue this night."
@@ -3404,17 +3503,22 @@ msgid ""
 "What's this on our borders? Stinkin' elves and more undead? We'll teach them "
 "a lesson they won't soon forget. Attack!"
 msgstr ""
+"Che succede ai nostri confini? Elfi puzzolenti ed altri non-morti? Gli "
+"daremo una lezione che non dimenticheranno presto. All'attacco!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1190
 msgid ""
 "If those raiders capture any of our encampments, I fear our people's fates "
 "will be just as bad as if it was captured by the undead."
 msgstr ""
+"Se i predoni catturano uno dei nostri accampamenti, ho paura che il destino "
+"di nostri sarà tanto brutto quanto se fosse catturato dai non-morti."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1292
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1899
 msgid "They're raising the corpses of our slain people! What a horrible fate!"
 msgstr ""
+"Stanno risvegliando i cadaveri dei nostri caduti! Che destino terribile!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1297
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1904
@@ -3426,12 +3530,15 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1492
 msgid "I can just barely see the sun poking over the dunes. It is almost dawn!"
 msgstr ""
+"Riesco a vedere il sole che spunta appena sopra le dune. È quasi l'alba!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1336
 msgid ""
 "No! This contest is not over yet, Azkotep. I shall show you a taste of my "
 "true power."
 msgstr ""
+"No! Questa sfida non è ancora finita, Azkotep. Ti darò un assaggio della mia "
+"vera potenza."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1415
 msgid ""
@@ -3511,7 +3618,11 @@ msgid ""
 "we travelled I pondered what this world must have been like back before the "
 "Great Fall and I remembered the tale that had been told to me many times "
 "since I was a child:"
-msgstr "Capitolo 4:"
+msgstr ""
+"Capitolo 4: Trovammo la torre di ossidiana che Eloh aveva descritto, e ci "
+"accampammo alle pendici delle colline prima delle montagne.Ero ancora "
+"sconvolto dalla morte di Garak e degli altri elfi caduti nella battaglia "
+"della notte precedente."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:45
 msgid ""
@@ -3617,6 +3728,12 @@ msgid ""
 "they are filled with orcs and goblins. It may look peaceful now, but they "
 "hide in the many caves and tunnels beneath the surface."
 msgstr ""
+"Vorrei che Garak fosse qui, sapeva molte più cose di me su queste terre. Non "
+"sono mai stata qui, ma ho udito storie dai pochi che hanno fatto il viaggio "
+"fin qui e sono ritornati. Quella cosa bianca si chiama neve, Nym, e le "
+"montagne sono molto fredde. Queste colline non sono così difficili da "
+"attraversare, ma brulicano di orchi e goblin. Possono sembrare pacifiche "
+"ora, ma nascondono molte grotte e gallerie sotto la superficie."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:658
 msgid ""
@@ -3640,6 +3757,11 @@ msgid ""
 "those frozen peaks. As much as I dislike those pitch-black caves, if we want "
 "to cross these mountains we may have no choice."
 msgstr ""
+"Gli orchi ed i goblin hanno vissuto qui per migliaia di anni e la loro rete "
+"di gallerie e di grotte è più estesa di quanto si riesca ad immaginare. "
+"Chissà quanto si spingono in profondità? Non siamo attrezzati per affrontare "
+"i passi di quelle montagne gelate. Per quanto poco mi piacciano queste "
+"grotte nere come pece, se vogliamo attraversare le montagne non c'è scelta."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:673
 msgid ""
@@ -3650,6 +3772,12 @@ msgid ""
 "mountains. I fear no darkness, and you won't be lacking a source of fire or "
 "light."
 msgstr ""
+"Altre creature oltre agli orchi scavano gallerie nella terra. Molto tempo fa "
+"i nani avevano miniere in montagne come queste, ed enormi troll amavano "
+"nascondersi in luoghi oscuri nelle viscere della terra. Se la tua dea è "
+"onnisciente come credi, Kaleh, non sarei sorpresa se ci fosse modo di "
+"attraversare queste montagne. Non temo l'oscurità, e ti assicuro che non ti "
+"mancherà una fonte di fuoco o di luce."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:678
 msgid ""
@@ -3674,6 +3802,8 @@ msgstr ""
 msgid ""
 "Strike hard and fast and also be careful--right, this is going to be fun."
 msgstr ""
+"Colpisci duramente e velocemente, ma stai anche attento--sicuro, sarà "
+"divertente."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:907
 msgid "Attack!"
@@ -3753,6 +3883,10 @@ msgid ""
 "creatures of the lake! Fulfill the oaths you have made and help us drive "
 "these hated creatures from our lands."
 msgstr ""
+"Gli elfi hanno ucciso Panok il goblin! Gli altri goblin possono fuggire "
+"nelle grotte, ma noi non cederemo queste colline senza combattere. Venite, "
+"creature del lago! Rispettate i patti che avete stretto con noi ed aiutateci "
+"a scacciare queste odiose creature dalle nostre terre."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1261
 msgid "Ring of Speed"
@@ -3789,6 +3923,10 @@ msgid ""
 "who can shoot well anywhere will be invaluable, as will Captains and "
 "Marshals who can inspire our people."
 msgstr ""
+"Ricordati Kaleh, che è difficile combattere sottoterra. I tiratori scelti ed "
+"i campioni di tiro che sanno colpire bene in qualunque luogo saranno "
+"indispensabili, così come i capitani ed i colonnelli che possono ispirare la "
+"nostra gente."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1316
 msgid ""
@@ -3809,6 +3947,8 @@ msgid ""
 "Looks like the orcs were stashing their loot here. Not that they had much. "
 "Must be hard times."
 msgstr ""
+"Sembra che gli orchi tenessero il loro bottino qui. Non che avessero molto. "
+"Devono essere tempi duri."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1439
 msgid ""
@@ -3820,6 +3960,13 @@ msgid ""
 "to take this blade here, your greatest fear, will surely appear' It looks "
 "like a nice sword, but do I dare chance it?"
 msgstr ""
+"Che strano. Qualcuno ha scolpito una rozza fontana di pietra alla fine del "
+"passaggio. L'acqua gelata trabocca in una pozza più grande. In fondo alla "
+"pozza intravedo uno scheletro che tiene ancora in pugno una spada. La lama "
+"sembra pervasa di una tenue luminescenza blu. La pozza non è molto profonda, "
+"potrei entrarci e prendere agevolmente la spada. Ma qualcuno ha scritto un "
+"messaggio sul muro: «Se osi prendere la spada che è qui, la tua paura, sarà "
+"presto vera.» Sembra un'ottima spada, devo sfidare la sorte e prenderla?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1441
 msgid "I fear no creature, I will take the blade!"
@@ -3854,11 +4001,11 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1498
 msgid "The voices say I have no choice, I must attack!"
-msgstr ""
+msgstr "Le voci mi dicono che non ho scelta, devo attaccare!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1505
 msgid "I don't like the sound of this. I'm out of here."
-msgstr ""
+msgstr "Non mi piace l'aria che c'è qui. Me ne vado."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1534
 msgid ""
@@ -3872,7 +4019,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1586
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8432
 msgid "Cloaked Figure"
-msgstr "Figura ammantata"
+msgstr "Figura incappucciata"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1603
 msgid "Kaleh, I am death incarnate."
@@ -3896,12 +4043,12 @@ msgstr "Che cos'è successo? Dove sono?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2219
 msgid "Where did you go?"
-msgstr "Dove sei andato?"
+msgstr "Dove sei andata?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2224
 msgid ""
 "I don't know, someone just knocked me out. I didn't get a good look at them."
-msgstr ""
+msgstr "Non lo so, qualcuno mi ha stordito. Non sono riuscita a vederli bene."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2260
 msgid ""
@@ -3909,6 +4056,9 @@ msgid ""
 "and smooth and leads sharply downwards. I bet this was the way that Eloh was "
 "talking about."
 msgstr ""
+"Questo passaggio è diverso dalle altre gallerie e caverne. È largo e liscio, "
+"e porta direttamente verso il basso. Scommetto che questa è la strada a cui "
+"Eloh si riferiva."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2265
 msgid ""
@@ -3916,6 +4066,9 @@ msgid ""
 "be made by orcs. I wouldn't be surprised if this was once carved out by "
 "dwarves. I wonder if there are any still left in these mountains..."
 msgstr ""
+"Questo non è un passaggio naturale, ed i muri sono troppo lisci e ben "
+"scolpiti per essere stati scavati dagli orchi. Non mi sorprenderei se fosse "
+"stato fatto dai nani. Chissà se ce ne sono ancora fra queste montagne..."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2277
 msgid ""
@@ -3939,6 +4092,9 @@ msgid ""
 "I'll just be happy when I can breathe fresh air again and see the suns and "
 "stars. Still, who knows what we'll encounter deep under the earth?"
 msgstr ""
+"Sarò felice solo quando potrò respirare di nuovo aria fresca e vedere i soli "
+"e le stelle. Eppure, chi sa che cosa incontreremo nelle profondità della "
+"terra?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2296
 msgid "Well, there's only one way to find out."
@@ -3951,6 +4107,10 @@ msgid ""
 "no way we can kill all these orcs and goblins. We'll never make it to safety "
 "now."
 msgstr ""
+"Abbiamo impiegato troppo tempo per far uscire i nostri dalle gallerie! "
+"Stanno arrivando altri orchi dalle colline, sia da est che da ovest, e ci "
+"stanno accerchiando. Non riusciremo mai auccidere tutti questi orchi e "
+"goblin. Non raggiungeremo mai la salvezza ora."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8
@@ -4062,11 +4222,15 @@ msgid ""
 "have read a bit about them, and have a even met a few people who have had "
 "dealings with Dwarves."
 msgstr ""
+"No, non esploro spesso il sottosuolo se non devo proprio. Ci sono molte cose "
+"pericolose che si nascondono bene al riparo dalla luce dei soli. Ma ho letto "
+"molto su di loro, ed ho anche conosciuto alcune persone che hanno avuto "
+"contatti con i nani."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1398
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1452
 msgid "What are they like?"
-msgstr "Come sono?"
+msgstr "Come sono fatti?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1403
 msgid ""
@@ -4075,6 +4239,10 @@ msgid ""
 "little liking for Elves. There was some betrayal many years ago, though I "
 "don't know what happened."
 msgstr ""
+"Sono un popolo orgoglioso, ed alcuni dicono che sono avidi. Amano il loro "
+"oro ed i bei metalli, e forgiano molti oggetti meravigliosi. Ti devo "
+"avvertire che amano poco gli elfi. Ci fu un tradimento molto tempo fa, anche "
+"se non so che cosa sia successo di preciso."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1408
 msgid "And what about Trolls? I'm not sure I'd want to meet one face to face."
@@ -4089,6 +4257,12 @@ msgid ""
 "I knew one man long ago who traded with a group of trolls and said they were "
 "quite honorable, as long as you didn't try to cheat them."
 msgstr ""
+"I troll ed i nani sono nemici naturali, vivendo così a stretto contatto. E "
+"molti direbbero che i troll sono poco più che bruti e selvaggi. I troll sono "
+"enormi e fortissimi, con una pelle dura come pietra e possono essere "
+"formidabili nemici. Ma ho conosciuto un uomo molto tempo fa che commerciava "
+"con un gruppo di troll e diceva che fossero molto corretti, a patto che non "
+"si cercasse di ingannarli."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1418
 msgid ""
@@ -4096,11 +4270,15 @@ msgid ""
 "happy if our biggest problem is not getting lost. I have little wish to meet "
 "either Dwarves or Trolls. But Eloh will watch over us."
 msgstr ""
+"Be' se Eloh ci assiste, spero di trovare che queste gallerie sono deserte. "
+"Sarei contenta se il più grande dei nostri problemi fosse di non perderci. "
+"Non ho un gran desiderio di incontrare né i troll né i nani. Ma Eloh "
+"veglierà su di noi."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1423
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1477
 msgid "Will she? I got the impression she was powerless underground."
-msgstr ""
+msgstr "Lo farà davvero? Avevo l'impressione che non avesse potere sottoterra."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1428
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1482
@@ -4129,12 +4307,16 @@ msgid ""
 "I've heard of dwarves, but do you have any idea Zhul what kinds of creatures "
 "we might encounter underground?"
 msgstr ""
+"Ho sentito parlare dei nani, Zhul, ma hai un'idea di che tipo di creature "
+"potremmo incontrare sottoterra?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1447
 msgid ""
 "These tunnels are forign to me, I know little more than you do. All I know "
 "about dwarves is from the few tales from the Golden Age."
 msgstr ""
+"Queste gallerie mi sono estranee, non so molto più di te. Tutto quello che "
+"so sui nani deriva da qualche racconto dell'Età dell'Oro."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1457
 msgid ""
@@ -4190,6 +4372,8 @@ msgid ""
 "Woah! Did you see that? That huge stalactite just fell and crushed the "
 "spider. Aren't we lucky."
 msgstr ""
+"Ehi! Avete visto? Quell'enorme stalattite è caduta trafiggendo il ragno. "
+"Siamo proprio fortunati."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1593
 msgid ""
@@ -4216,19 +4400,20 @@ msgid "Nym, your timing is impeccable."
 msgstr "Nym, il tuo tempismo è impeccabile."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1648
-#, fuzzy
 msgid "That's a dwarf, but it looks like he's been beaten to a pulp."
-msgstr "Quello è un nano, ma sembra che sia stato picchiato come "
+msgstr "Quello è un nano, ma sembra che sia stato ridotto in poltiglia."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1657
 msgid "Short and hairy, he must be a dwarf. But he's been beaten to a pulp."
-msgstr ""
+msgstr "Basso e peloso, deve essere un nano. Ma è stato ridotto in poltiglia."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1665
 msgid ""
 "I don't know what 'they' are, but we can't go back. Prepare yourselves for "
 "anything, everyone."
 msgstr ""
+"Non so chi 'loro' siano, ma non possiamo tornare indietro. Preparatevi ad "
+"affrontare qualsiasi cosa."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1704
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1752
@@ -4270,6 +4455,8 @@ msgid ""
 "Kill the elves! We must stop them here. This is our land, crush the "
 "intruders!"
 msgstr ""
+"Uccidete gli elfi! Dobbiamo bloccarli qui. Questa è la nostra terra, "
+"schiacciate gli intrusi!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1999
 msgid "Woah."
@@ -4288,6 +4475,8 @@ msgid ""
 "You invade our tunnels, you slaughter our women and children, by Griknagh we "
 "will make you pay."
 msgstr ""
+"Invadete le nostre gallerie, uccidete donne e bambini, per Griknagh, ve la "
+"faremo pagare."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2059
 msgid ""
@@ -4318,7 +4507,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2089
 msgid "Nevermind that, who are you?"
-msgstr ""
+msgstr "Non farci caso, chi sei tu?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2094
 msgid ""
@@ -4353,6 +4542,10 @@ msgid ""
 "we should take them up on their offer; ally ourselves with one of the "
 "factions so we can get their help in finding a way back to the surface."
 msgstr ""
+"Sono in troppi perché possiamo affrontarli entrambi, e oltrettutto con tutte "
+"queste gallerie ramificate non avremo idea di dove andare. Credo che "
+"dovremmo accettare una delle offerte ed allearci con una delle fazioni "
+"perché ci aiuti a tornare in superficie."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2119
 msgid ""
@@ -4411,6 +4604,9 @@ msgid ""
 "can fight our way to the keep, we should be able to start rallying our "
 "warriors to help in the battle."
 msgstr ""
+"Sembra che ci sia una fortezza abbandonata dai nani proprio davanti a noi. "
+"Se riuscissimo ad arrivare al torrione, potremmo richiamare i nostri "
+"guerrieri per andare in battaglia."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:2466
 msgid "Fundin"
@@ -4549,6 +4745,9 @@ msgid ""
 "until all the trolls are dead. Tell us where to go, I want to kill me some "
 "troll!"
 msgstr ""
+"Sembra che siamo arrivati appena in tempo. Il nostro capo ci ha detto di "
+"combattere al vostro fianco fino a che tutti i troll saranno morti. Dicci "
+"dove andare, voglio uccidere un po' di troll!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3896
 msgid ""
@@ -4678,6 +4877,8 @@ msgid ""
 "Their knowledge of these tunnels is uncanny. I could have sworn that wall "
 "was solid rock."
 msgstr ""
+"La loro conoscenza delle gallerie è inquietante. Avrei giurato che quel muro "
+"fosse di solita roccia."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4298
 msgid "I go to my ancestors..."
@@ -4785,6 +4986,8 @@ msgid ""
 "Ha, you're trapped. I've got you right where I want you, and this time no "
 "one is gonna save you."
 msgstr ""
+"Ah, siete in trappola. Siete esattamente dove volevo che foste e questa "
+"volta nessuno vi salverà."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4867
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4926
@@ -4810,7 +5013,7 @@ msgstr "Dicci dove si nasconde il tuo capo!"
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5045
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5165
 msgid "Master, look!"
-msgstr ""
+msgstr "Padrone, guarda!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5050
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5170
@@ -4818,11 +5021,13 @@ msgid ""
 "Hah! You think you can save your friends. You are wrong. Ulg, go kill the "
 "other prisoner. We will deal with these fools."
 msgstr ""
+"Ah! Credi di poter salvare i tuoi amici. Ti sbagli. Ulg, vai ad uccidere "
+"l'altro prigioniero. Ci occuperemo di questi stupidi."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5055
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5175
 msgid "Yes master, I'll make him suffer."
-msgstr ""
+msgstr "Sì, padrone lo farò soffrire."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5094
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5214
@@ -4835,6 +5040,8 @@ msgid ""
 "If we move fast we might be able to save the other prisoner before he gets "
 "killed too."
 msgstr ""
+"Se ci muoviamo in fretta potremmo salvare l'altro prigioniero prima che "
+"venga ucciso anche lui."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:380
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5268
@@ -4921,6 +5128,8 @@ msgstr "Nano eremita"
 msgid ""
 "Incoming! Ug, it's big, hairy, and nasty. I hate bats, I really hate bats."
 msgstr ""
+"Arriva! Ugh, è grosso, peloso e cattivo. Odio i pipistrelli, oh, quanto li "
+"odio!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5915
 msgid "Grrraaawwwkkk!"
@@ -4939,7 +5148,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6162
 msgid "What are those?!?"
-msgstr ""
+msgstr "Che cosa sono quelli?!?"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6172
 msgid "Here come more of them!"
@@ -4950,6 +5159,8 @@ msgid ""
 "The movement under the water has stopped. I think we killed the last of "
 "them. Whatever 'them' was."
 msgstr ""
+"I movimenti subacquei sono cessati. Credo di aver ucciso l'ultimo di questi "
+"'cosi', qualunque cosa fossero."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6270
 msgid "Dwarf Chieftain"
@@ -4963,6 +5174,8 @@ msgstr "Siete arrivati finalmente. Facciamola finita, qui ed ora!"
 msgid ""
 "Paugh! Even in death I curse you! You will never escape these tunnels alive!"
 msgstr ""
+"Paugh! Anche da morto ti maledico! Non fuggirai mai da queste gallerie da "
+"vivo!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6373
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8060
@@ -4971,7 +5184,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6378
 msgid "The chieftain has fallen! Flee for your lives!"
-msgstr ""
+msgstr "Il capoclan è caduto! Scappate, se tenete alla vita!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6412
 msgid ""
@@ -5042,7 +5255,7 @@ msgstr "Rrrraaaarrrr!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6519
 msgid "Not again! I really really hate things that live underwater!"
-msgstr ""
+msgstr "Basta! Odio queste cose che vivono sottacqua!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6547
 msgid ""
@@ -5154,6 +5367,8 @@ msgid ""
 "The unit who wears this belt will gain 7 hit points and the first strike "
 "ability for his melee attack."
 msgstr ""
+"L'unità che indossa questa cintura guadagna 7 punti ferita e l'abilità di "
+"colpire per primo negli attacchi corpo a corpo."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7241
 msgid "Woah. This place is hot."
@@ -5191,7 +5406,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7779
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7816
 msgid "Troll High Shaman"
-msgstr ""
+msgstr "Alto sciamano troll"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7327
 msgid ""
@@ -5220,6 +5435,8 @@ msgid ""
 "What the heck is that? I sure doesn't look good. The last thing we need in "
 "here is even more fire."
 msgstr ""
+"Che cosa diavolo è quello? Di sicuro non ha un bell'aspetto. L'ultima cosa "
+"di cui abbiamo bisogno ora è altro fuoco."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7532
 msgid "That thing just won't stay dead!"
@@ -5231,7 +5448,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7628
 msgid "Look, more fire guardians!"
-msgstr ""
+msgstr "Guardate, altri guardiani di fuoco!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7655
 msgid "Arise and attack them now, while they are vulnerable!"
@@ -5242,30 +5459,38 @@ msgid ""
 "Oh great, even more fire guardians. When I get through this inferno I'm "
 "going to kill those trolls."
 msgstr ""
+"Oh, fantastico, altri guardiani di fuoco. Quando sarò uscito da questo "
+"inferno ucciderò quei troll."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7707
 msgid "They must not be allowed to cross to the other side! Kill them!"
-msgstr ""
+msgstr "Non dobbiamo permettere che arrivino all'altra sponda! Uccideteli!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7732
 msgid ""
 "How surprising, more fire guardians. I'm going to be really glad to get out "
 "of this cavern."
 msgstr ""
+"Che sorpresa, altri guardiani di fuoco. Non vedo l'ora di uscire da questa "
+"caverna."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7757
 msgid "Despite the fire guardians, the elves has almost crossed the lava!"
 msgstr ""
+"Nonostante i guardiani di fuoco gli elfi hanno quasi finito di attraversare "
+"la lava!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7762
 msgid ""
 "They obviously weren't enough. You go alert the others and summon "
 "reinforcements. I will hold them off for as long as I can."
 msgstr ""
+"Ovviamente non erano abbastanza. Vai ad avvisare gli altri e porta dei "
+"rinforzi. Cercherò di trattenerli il più a lungo possibile."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7767
 msgid "May Griknagh protect you. I'll be back soon!"
-msgstr "Che Griknagh vi protegga. Tornerò presto!"
+msgstr "Che Griknagh ti protegga. Tornerò presto!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7850
 msgid "Troll Chieftain"
@@ -5273,7 +5498,7 @@ msgstr "Capoclan troll"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7939
 msgid "High Advisor"
-msgstr ""
+msgstr "Alto consigliere"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7953
 msgid ""
@@ -5289,6 +5514,8 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7969
 msgid "Arise our brothers of ages past, arise and destroy the intruders!"
 msgstr ""
+"Svegliatevi, fratelli delle epoche passate! Svegliatevi e distruggete gli "
+"intrusi!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8055
 msgid "Argh! Curse you! May you never live to see daylight again!"
@@ -5365,6 +5592,9 @@ msgid ""
 "Look, a crumbling skeleton. I think this might be the body of the dwarven "
 "ghost. It shouldn't take long to dig a shallow grave."
 msgstr ""
+"Guardate uno scheletro in decomposizione. Potrebbe essere il corpo del "
+"fantasma di un nano. Non ci dovrebbe voler molto a scavare una tomba poco "
+"profonda."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8250
 msgid ""
@@ -5430,7 +5660,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8542
 msgid "Ow!"
-msgstr ""
+msgstr "Ah!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8548
 msgid ""
@@ -5444,6 +5674,8 @@ msgid ""
 "Where did he go? How does he disappear like that?  And what in Uria's name "
 "was he ranting about? Whoever that is is starting to make me get edgy."
 msgstr ""
+"Dov'è andato? Come fa a sparire così? E di che cosa stava parlando, nel nome "
+"di Uria? Chiunque sia comincia ad innervosirmi."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9160
 msgid "Where did you go? Do you remember anything?"
@@ -5686,7 +5918,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:674
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:676
 msgid "But we need you, what would we do without you?"
-msgstr ""
+msgstr "Ma abbiamo bisogno di te, come faremo senza di te?"
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:679
 msgid ""
@@ -5701,16 +5933,17 @@ msgstr ""
 msgid ""
 "If your mind is set, then I won't try to convince you. But we will miss you."
 msgstr ""
+"Se la tua decisione è presa, non cercherò di convincerti. Ma ci mancherai."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:689
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:691
 msgid "I thank Eloh for the brief time that she has let you spend with us."
-msgstr ""
+msgstr "Ringrazio Eloh per il breve tempo che ti ha lasciato passare con noi."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:694
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:696
 msgid "You take care of yourself, and someday maybe we'll meet again."
-msgstr ""
+msgstr "Abbi cura di te, e forse un giorno ci incontreremo di nuovo."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:699
 msgid ""
@@ -5781,11 +6014,13 @@ msgid ""
 "I will wield this blade proudly, and whenever I look upon it I shall "
 "remember you, Elyssa."
 msgstr ""
+"Sarò orgoglioso di brandire questa spada, e mi ricorderò di te ogni volta "
+"che la guarderò, Elyssa."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:818
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:820
 msgid "No, I think someone else should wield it."
-msgstr "No credo che dovrà impugnarla qualcun altro."
+msgstr "No, credo che dovrà impugnarla qualcun altro."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:7
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:8
@@ -5966,6 +6201,8 @@ msgid ""
 "The trolls who fought with you also want to thank you. They tell great tales "
 "of your valor."
 msgstr ""
+"I troll che hanno combattuto con voi vogliono ringraziarvi anche loro. "
+"Raccontano grandi cose del vostro valore."
 
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:641
 msgid ""
@@ -6095,7 +6332,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1131
 msgid "That's a big river; the water is really moving fast."
-msgstr ""
+msgstr "È un fiume veramente grande, l'acqua scorre molto velocemente."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1144
 msgid ""
@@ -6103,6 +6340,10 @@ msgid ""
 "this often go deep underground. Sometimes the rivers break through and flood "
 "caverns, a deadly accident that has occasionally befallen my kind."
 msgstr ""
+"Sì, in questo periodo dell'anno la neve si scioglie sulle montagne ed i "
+"fiumi come questo spesso scendono sottoterra. A volte i fiumi si ingrossano "
+"e inondano le caverne, un incidente mortale che la mia gente a subito in più "
+"occasioni."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1153
 msgid ""
@@ -6113,11 +6354,11 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1161
 msgid "Well the faster we get out of here, the happier I'll be."
-msgstr ""
+msgstr "Prima usciremo da qui, più sarò contenta."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1179
 msgid "Wait, did you feel that?"
-msgstr ""
+msgstr "Aspettate, avete sentito?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1184
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3752
@@ -6128,6 +6369,7 @@ msgstr "Cosa?"
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1189
 msgid "It felt like a distant rumbling. And what's that roaring sound?"
 msgstr ""
+"Mi sembrava un rombo in lontananza. E che cos'è questa specie di ruggito?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1214
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1235
@@ -6160,6 +6402,8 @@ msgid ""
 "That sound must be the rushing water. We have to get our people out of here, "
 "and fast!"
 msgstr ""
+"Deve essere il suono dell'acqua che arriva. Dobbiamo portare via i nostri, "
+"presto!"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1372
 msgid "Quick, the southern passage!"
@@ -6175,13 +6419,15 @@ msgstr "Guarda, altre formiche!"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1480
 msgid "Are you sure there aren't any spiders?"
-msgstr ""
+msgstr "Non ci sono anche dei ragni, per caso?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1485
 msgid ""
 "No, but the water is rising to the southeast as well. The river must have "
 "lead to more tunnels than we first thought."
 msgstr ""
+"No, ma l'acqua sta salendo anche a sudest. Il fiume deve scorrere in più "
+"gallerie di quelle che pensavamo."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1490
 msgid "The ants must be fleeing from the flood too."
@@ -6200,20 +6446,24 @@ msgid ""
 "Well we have get out of here too. Looks like we don't have any choice but to "
 "fight out way through the chaos."
 msgstr ""
+"Be' anche noi dobbiamo uscire da qui. Credo che non ci sia altra scelta che "
+"combattere e farci strada in mezzo a questo caos."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1621
 msgid ""
 "Huff, huff. First the boss tells us to patrol these caves, and then these "
 "durn caves start flooding, what next?"
 msgstr ""
+"Pant! Pant! Prima il capo ci dice di pattugliare le grotte, poi queste "
+"maledette grotte cominciano ad essere inondate, che altro succederà?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1626
 msgid "Shut up and keep running, or we'll be fishbait for sure!"
-msgstr ""
+msgstr "Zitto e corri, altrimenti diventeremo cibo per pesci!"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1631
 msgid "Hey look! Those must be Elves!"
-msgstr ""
+msgstr "Ehi guarda! Devono essere elfi!"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1636
 msgid "Huh? Elves?"
@@ -6225,6 +6475,9 @@ msgid ""
 "those shifty eyes, hearts a hard as a hermit crab's shell. It must be an "
 "invasion, they must have started the flood."
 msgstr ""
+"Già, proprio come li descriveva la nonna: orecchie a punta, capelli chiari, "
+"quegli occhi sfuggenti, il cuore duro come la conchiglia di un paguro. Deve "
+"essere un'invasione, devono aver provocato loro l'inondazione."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1646
 msgid "Then let's kill them!"
@@ -6242,18 +6495,24 @@ msgstr ""
 msgid ""
 "Fish bait? Hermit Crabs? Who are the humans and what were they talking about?"
 msgstr ""
+"Cibo per pesci? Paguri? Chi sono quegli umani, e di che cosa stanno parlando?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1704
 msgid ""
 "No time for questions now, the water shows no signs of stopping. We've got "
 "to get out of here while we still can!"
 msgstr ""
+"Non c'è tempo per le domande ora, l'acqua non accenna a fermarsi. Dobbiamo "
+"andarcene da qui finché possiamo!"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1709
 msgid ""
 "Curses, the water is rising too fast. That tunnel those humans were fleeing "
 "down was the fastest way out of here, but it's already flooding."
 msgstr ""
+"Maledizione, l'acqua sta salendo troppo rapidamente. La galleria verso cui "
+"stavano scappando quegli umani era la strada più veloce per l'uscita, ma è "
+"già inondata."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1714
 msgid "There must be another way out. There must!"
@@ -6261,39 +6520,43 @@ msgstr "Deve esserci un'altra uscita. Deve esserci!"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1719
 msgid "There is, but I don't--"
-msgstr ""
+msgstr "C'è, ma non credo--"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1724
 msgid "Then show us the way already! We're running out of time. "
-msgstr ""
+msgstr "Allora mostracela subito! Non abbiamo più tempo."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1729
 msgid "Fine. Just keep going west, but be careful."
-msgstr ""
+msgstr "D'accordo. Basta proseguire verso ovest. Ma state attenti."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1756
 msgid "Woah, what is this place? It sure seems well protected."
-msgstr ""
+msgstr "Ehi, che posto è questo? Di sicuro sembra ben difeso."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1761
 msgid ""
 "This is an ancient fortress, who lived here I do not know, but it has been "
 "long since abandoned."
 msgstr ""
+"È un'antica fortezza, non so chi vivesse qui, ma l'ha abbandonata molto "
+"tempo fa."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1766
 msgid "You've been this way before?"
-msgstr ""
+msgstr "Sei già stato qui?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1771
 msgid ""
 "Yes, but I didn't explore very far. This foul place is still protected by "
 "wards and guards, it reeks of dark magic."
 msgstr ""
+"Sì, ma non l'ho esplorato a fondo. Questo brutto posto è ancora protetto da "
+"sigilli e guardiani, emana magia nera."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1776
 msgid "I wish there was another path, but it seems we have no choice."
-msgstr ""
+msgstr "Vorrei che ci fosse un'altra strada, ma sembra che non abbiamo scelta."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1781
 msgid ""
@@ -6314,6 +6577,8 @@ msgid ""
 "Good, that should be the entrance to the secret tunnel. Now just push hard "
 "inwards."
 msgstr ""
+"Bene, dovrebbe essere l'ingresso di una galleria segreta. Prova a spingere "
+"forte."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1825
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1839
@@ -6325,6 +6590,8 @@ msgid ""
 "Hmmm, the entrance to the secret tunnel should be right around here "
 "somewhere."
 msgstr ""
+"Hmmm, l'ingresso della galleria segreta dovrebbe essere da qualche parte "
+"proprio qui vicino."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1883
 msgid "The passage just halts at a dead end."
@@ -6335,6 +6602,8 @@ msgid ""
 "You didn't expect the other end to be left wide open did you? There should "
 "be another secret door hidden right in from of you."
 msgstr ""
+"Non ti aspetterai mica che termini in uno sbocco aperto, vero? Dovrebbe "
+"esserci un'altra porta segreta proprio davanti a te."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1893
 msgid "Oh, right. Hold on, I think I've found it."
@@ -6359,16 +6628,24 @@ msgid ""
 "feet have left well worn paths leading in several directions. $ally_name "
 "which way should we go?"
 msgstr ""
+"Questa grotta sembra proprio vuota, tranne che per quelle due rune "
+"luminescenti al centro. Questo forte deve essere stato usato intensamente, "
+"perché ci sono sentieri ben battuti formati dai passi di innumerevoli piedi. "
+"$ally_name, in che direzione dovremmo andare?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2078
 msgid ""
 "I don't know. When I last came this way I got scared by all the runes and "
 "things moving in the shadows, and I explored no further."
 msgstr ""
+"Non lo so. Quando venni qui l'ultima volta, tutte queste rune, e certe cose "
+"che si muovevano nell'ombra mi spaventarono e non mi spinsi più avanti."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2083
 msgid "Well, we can't spend all day thinking about it. Pick a direction Kaleh."
 msgstr ""
+"Be', non possiamo passare tutto il giorno a pensarci su. Scegli una "
+"direzione, Kaleh."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2088
 msgid ""
@@ -6377,29 +6654,41 @@ msgid ""
 "some of the magic left behind here could help us, if someone was brave "
 "enough to step into them."
 msgstr ""
+"Aspettate, queste rune hanno una fredda luminescenza blu, e per qualche "
+"ragione non mi sembrano così minacciose come quelle rosso incandescente che "
+"abbiamo visto in precedenza. Forse un po' della magia che vi è rimasta "
+"intrappolata potrebbe aiutarci, se qualcuno fosse così coraggioso da salirci "
+"sopra."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2154
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2247
 msgid "I feel refreshed and rejuvenated!"
-msgstr "Mi sento rinvigorito e ringiovanito!"
+msgstr "Mi sento più forte e più giovane!"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2176
 msgid "The rune is gone. I guess the magic only had limited uses."
 msgstr ""
+"La runa è sparita. Probabilmente la magia aveva un numero di utilizzi "
+"limitati."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2236
 msgid "The user feel much better."
-msgstr ""
+msgstr "L'utilizzatore si sente molto meglio."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2269
 msgid "The rune is gone. I guess the magic only had limited uses"
 msgstr ""
+"La runa è sparita. Probabilmente la magia aveva un numero di utilizzi "
+"limitati."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2322
 msgid ""
 "There isn't much left of the furnishings of this room. I think it was some "
 "sort of storeroom, but it looks like scavengers have taken anything useful."
 msgstr ""
+"Non c'è molto arredamento in questa stanza. Credo che fosse una specie di "
+"magazzino, ma sembra che qualsiasi cosa utile sia stata portata via o rubata "
+"da tempo."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2327
 msgid ""
@@ -6407,18 +6696,25 @@ msgid ""
 "of this chamber is flooded. And I think I see some movement in the water. "
 "Whatever it is, it can't be good."
 msgstr ""
+"Che Uria sia maledetta! L'acqua sta salendo anche qui. Il lato occidentale "
+"della sala è già inondato. Mi sembra anche di vedere del movimento "
+"nell'acqua. Qualsiasi cosa sia, non può essere buona."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2381
 msgid ""
 "This looks like a training hall. There are still a few old swords and spears "
 "lying in the corners. But otherwise it seems quite abandoned."
 msgstr ""
+"Questo salone sembra che fosse dedicato all'addestramento. Ci sono ancora "
+"vecchie spade e lance abbandonate in giro. Per il resto sembra abbandonato."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2422
 msgid ""
 "All right you runts, lets try this again. Pior remember to swing your sword "
 "with your whole body, not just your arms."
 msgstr ""
+"Bene, signorine, riproviamo. Pior, ricordati di accompagnare la spada con "
+"tutto il corpo, non solo con le braccia."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2427
 msgid "Yes Sir."
@@ -6447,18 +6743,24 @@ msgid ""
 "And remember everyone, we're going to keep practicing until I'm satisfied. "
 "So, ready...attack!"
 msgstr ""
+"Ricordatevi tutti, continueremo l'allenamento finché non sarò soddisfatto. "
+"Quindi pronti... Attaccate!"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2458
 msgid ""
 "Wait a minute, I don't see any targets or practice dummies. Who are they "
 "supposed to be attacking?"
 msgstr ""
+"Un momento. Non vedo bersagli o manichini per fare pratica. Chi è che "
+"dovrebbero attaccare?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2463
 msgid ""
 "I believe that would be us. But perhaps we can give them a few lessons in "
 "proper fighting style."
 msgstr ""
+"Ho il sospetto che dovremmo essere noi. Ma forse potremo dargli qualche "
+"lezione nello stile del combattimento."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2569
 msgid ""
@@ -6504,6 +6806,8 @@ msgid ""
 "The past is the past, and there's nothing we can do about it. Right now we "
 "have our own people to worry about."
 msgstr ""
+"Il passato è passato, e non possiamo farci niente. In questo momento "
+"dobbiamo preoccuparci della nostra gente."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2828
 msgid ""
@@ -6552,7 +6856,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3008
 msgid "Grawww!"
-msgstr ""
+msgstr "Grawww!"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3013
 msgid "Make it end!"
@@ -6576,7 +6880,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3072
 msgid "Master, what is your command?"
-msgstr ""
+msgstr "Padrone, qual è il tuo comando?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3077
 msgid "What?!?"
@@ -6599,16 +6903,20 @@ msgid ""
 "Quick thinking Nym. It seems to be some sort of magical creation. Lucky that "
 "it thought we were its master."
 msgstr ""
+"Ottima pensata, Nym. Sembra una creatura magica. Per fortuna ci crede i suoi "
+"padroni."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3102
 msgid "Looks like you have your own rather large pet Nym. "
-msgstr "Sembra che ora tu abbia trovato un grosso cucciolo, Nym."
+msgstr "A quanto pare hai trovato un grosso cucciolo, Nym."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3107
 msgid ""
 "It wouldn't have been my first choice. But it could prove useful. I wonder "
 "what it likes to eat?"
 msgstr ""
+"Non sarebbe stata la mia prima scelta, ma potrebbe rivelarsi utile. Chissà "
+"che cosa mangia?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3114
 msgid "Leave that thing alone."
@@ -6629,6 +6937,7 @@ msgstr "Non mi piace l'odore di questo posto."
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3155
 msgid "I feel some sort of presence...ugh...it make my skin crawl."
 msgstr ""
+"Sento come una specie di presenza... ugh... mi fa accapponare la pelle."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3160
 msgid ""
@@ -6663,6 +6972,8 @@ msgstr "Sembra che il tempio abbia ancora un po' di potere, dopotutto."
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3235
 msgid "I have no idea what they just said, but their meaning is quite clear."
 msgstr ""
+"Non ho idea di che cosa abbiano detto, ma credo che il significato sia "
+"chiaro."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3240
 msgid ""
@@ -7319,7 +7630,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4559
 msgid "Kaleh, would you mind telling me what in Uria's name is going on."
-msgstr ""
+msgstr "Kale, vuoi dirmi, in nome di Uria, che cosa sta succedendo?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4564
 msgid ""
@@ -9087,6 +9398,8 @@ msgid ""
 "I am known as Melusand. I am what you might call a high priest among my "
 "people."
 msgstr ""
+"Sono conosciuto come Melusand. Sono quello che voi chiamereste un alto "
+"prelato fra la mia gente."
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:240
 msgid "This is--"
@@ -9389,17 +9702,19 @@ msgstr "Bene, che cosa ne pensate?"
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:617
 msgid "It's a heck of a story."
-msgstr ""
+msgstr "È una gran bella storia."
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:623
 msgid "I'm not sure what to think. It's all so much information."
-msgstr ""
+msgstr "Non sono sicura di cosa pensare. Ci sono così tante informazioni..."
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:637
 msgid ""
 "I'm still not sure I trust her. What if she's just trying to get you all to "
 "fight her war for her?"
 msgstr ""
+"Ancora non sono sicuro di fidarmi di lei. E se stesse cercando di farvi "
+"combattere la sua guerra al suo posto?"
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:647
 msgid ""
@@ -9598,7 +9913,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:853
 msgid "We thank you for such beautiful gifts. We will wear them with honor."
-msgstr ""
+msgstr "Ti ringraziamo per gli stupendi regali. Saremo onorati di indossarli."
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:859
 msgid "We have one favor to ask of you."
@@ -9711,7 +10026,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Alien_Body.cfg:4
 msgid "Central Body"
-msgstr ""
+msgstr "Corpo centrale"
 
 #: Under_the_Burning_Suns/units/Alien_Body3.cfg:30
 #: Under_the_Burning_Suns/units/Alien_Spire.cfg:24
@@ -9722,6 +10037,8 @@ msgid ""
 "This thing is impossible to describe, no one has seen anything like it "
 "before."
 msgstr ""
+"Questa cosa è impossibile da descrivere, nessuno ha mai visto niente di "
+"simile prima d'ora."
 
 #: Under_the_Burning_Suns/units/Alien_Body3.cfg:33
 #: Under_the_Burning_Suns/units/Alien_Body3.cfg:48
@@ -9776,7 +10093,7 @@ msgstr "magico"
 #: Under_the_Burning_Suns/units/Alien_Body3.cfg:4
 #: Under_the_Burning_Suns/units/Alien_Body2.cfg:4
 msgid "Weakened Central Body"
-msgstr ""
+msgstr "Corpo centrale indebolito"
 
 #: Under_the_Burning_Suns/units/Alien_Minion.cfg:4
 msgid "Crawling Horror"
@@ -9915,6 +10232,10 @@ msgid ""
 "bite at close range. When they don't have a Queen Ant to lead them, they can "
 "often become confused."
 msgstr ""
+"Le formiche giganti sono comuni in quasi tutti gli habitat, dalle caverne "
+"nelle profondità della terra alla cima delle più alte montagne. Sebbene "
+"normalmente non siano ostili, possono mordere se avvicinate. Se non hanno "
+"una formica regina a guidarle, possono spesso diventare confuse."
 
 #: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:4
 msgid "Corrupted Elf"
@@ -10030,7 +10351,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Crab_Man.cfg:20
 #: Under_the_Burning_Suns/units/Lava_Monster3.cfg:30
 msgid "claws"
-msgstr ""
+msgstr "chele"
 
 #: Under_the_Burning_Suns/units/Darawf.cfg:4
 msgid "Dawarf"
@@ -10137,7 +10458,7 @@ msgstr "pugnale"
 #: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:47
 #: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:44
 msgid "darts"
-msgstr ""
+msgstr "dardi"
 
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:50
 #: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:49
@@ -10154,6 +10475,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:20
 msgid "Sometimes those closest to you can be your bitterest foes."
 msgstr ""
+"A volte quelli più vicini a te possono rivelarsi i più acerrimi nemici."
 
 #: Under_the_Burning_Suns/units/Deep_One.cfg:4
 msgid "Deep One"
@@ -10167,6 +10489,11 @@ msgid ""
 "grab their opponents with strong tentacles, or spit a poisonous black ink "
 "from a distance. "
 msgstr ""
+"Le creature degli abissi sono giganteschi mostri acquatici che si annidano "
+"nei luoghi oscuri del mondo. Raramente vengono in superficie, e quando "
+"capita il miglior modo di sopravvivere ad un incontro con questi mostri è di "
+"rimanere a riva. Possono agguantare i nemici con i robusti tentacoli, o "
+"schizzare da lontano un velenoso inchiostro nero."
 
 #: Under_the_Burning_Suns/units/Giant_Tentacle.cfg:21
 #: Under_the_Burning_Suns/units/Deep_One.cfg:23
@@ -10248,7 +10575,7 @@ msgstr "inchiostro"
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:54
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:155
 msgid "pierce"
-msgstr ""
+msgstr "perforazione"
 
 #: Under_the_Burning_Suns/units/Desert_Archer.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Archer2.cfg:4
@@ -10361,13 +10688,17 @@ msgid ""
 "forms of combat. Like their kin, they prefer the sword to the bow and are "
 "adept at sneaking around and backstabing their enemies."
 msgstr ""
+"I vendicatori del deserto sono estremamente abili e veloci, formidabili in "
+"qualsiasi forma di combattimento. Come i loro simili, preferiscono usare la "
+"spada piuttosto che l'arco e sono abilissimi ad aggirare il nemico e ad "
+"attaccarlo di sorpresa alle spalle."
 
 #: Under_the_Burning_Suns/units/Desert_Avenger.cfg:42
 #: Under_the_Burning_Suns/units/Desert_Avenger.cfg:145
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:40
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:141
 msgid "backstab"
-msgstr ""
+msgstr "attacco alle spalle"
 
 #: Under_the_Burning_Suns/units/Desert_Avenger.cfg:106
 msgid "female^Desert Avenger"
@@ -10375,7 +10706,7 @@ msgstr "Vendicatrice del deserto"
 
 #: Under_the_Burning_Suns/units/Desert_Avenger.cfg:134
 msgid "ambush"
-msgstr ""
+msgstr "imboscata"
 
 #: Under_the_Burning_Suns/units/Garak_Captain.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Captain.cfg:4
@@ -10417,6 +10748,10 @@ msgid ""
 "wounds in close combat. Master fighters, they are also skilled with the bow, "
 "able to inflict damage on their enemies from both near and far."
 msgstr ""
+"I campioni del deserto sono i maestri incontrastati della scherma, capaci di "
+"infliggere ferite dolorose nel combattimento corpo a corpo. Sono abili anche "
+"con l'arco, e possono quindi infliggere danni al nemico sia da vicino che da "
+"lontano."
 
 #: Under_the_Burning_Suns/units/Zhul_Druid.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:4
@@ -10463,7 +10798,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:56
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:69
 msgid "ensnare"
-msgstr ""
+msgstr "intrappola"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:77
 #: Under_the_Burning_Suns/units/Desert_Prowler.cfg:59
@@ -10504,7 +10839,7 @@ msgstr "rallenta"
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:76
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:89
 msgid "thorns"
-msgstr ""
+msgstr "spine"
 
 #: Under_the_Burning_Suns/units/Kaleh_Fighter.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Fighter9.cfg:4
@@ -10535,6 +10870,10 @@ msgid ""
 "swordplay to archery. These Elves are deft of foot, and fight best in the "
 "open sands."
 msgstr ""
+"I combattenti del deserto formano la massa dei militari elfici di Wesnoth. "
+"Sono addestrati sia con la spada che con l'arco, sebbene come molti della "
+"loro gente preferiscano la scherma all'arcieria. Questi elfi sono svelti di "
+"piede, e combattono al meglio nelle sabbie aperte."
 
 #: Under_the_Burning_Suns/units/Kaleh_Hero.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Hero.cfg:4
@@ -10631,7 +10970,7 @@ msgstr "Tiratrice scelta"
 #: Under_the_Burning_Suns/units/Kaleh_Marshal.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Marshal.cfg:4
 msgid "Desert Marshal"
-msgstr ""
+msgstr "Colonnello del deserto"
 
 #: Under_the_Burning_Suns/units/Garak_Marshal.cfg:35
 #: Under_the_Burning_Suns/units/Kaleh_Marshal.cfg:35
@@ -10642,6 +10981,11 @@ msgid ""
 "skill. Desert Marshalls prefer engaging the enemy in melee combat, but are "
 "trained in archery as well."
 msgstr ""
+"I colonnelli del deserto sono abilissimi comandanti, capaci di ispirare "
+"sicurezza in tutte ;e unità di primo e secondo livello negli esagoni "
+"adiacenti, che combatteranno quindi con un'aumentata abilità. I colonnelli "
+"del deserto preferiscono il combattimento corpo a corpo, ma sono addestrati "
+"anche all'uso dell'arco."
 
 #: Under_the_Burning_Suns/units/Desert_Outrider.cfg:4
 msgid "Desert Outrider"
@@ -10742,6 +11086,9 @@ msgid ""
 "it is advantageous. They can cripple opponents with their bolas and are "
 "deadly with their swords."
 msgstr ""
+"Le sentinelle del deserto pattugliano le sabbie, e sono addestrate ad "
+"evitare i nemici quando è vantaggioso. Possono invalidare gli avversari con "
+"le bola e sono micidiali quando combattono col le loro spade."
 
 #: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:4
@@ -10781,6 +11128,10 @@ msgid ""
 "entangling attack slows enemies down and reduces by one the number of times "
 "they may attack. Shamans also possess basic healing abilities."
 msgstr ""
+"Gli sciamani del deserto si specializzano in modi meno violenti di "
+"ostacolare i nemici. I loro attacchi di intrappolamento rallentano i nemici "
+"e riducono di uno il numero di volte che questi possono attaccare. Gli "
+"sciamani possiedono anche semplici capacità curative."
 
 #: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:56
 #: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:56
@@ -10792,7 +11143,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Shaman9.cfg:56
 #: Under_the_Burning_Suns/units/Desert_Shaman.cfg:56
 msgid "entangle"
-msgstr ""
+msgstr "intrappolamento"
 
 #: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:4
 msgid "Desert Sharpshooter"
@@ -10872,11 +11223,11 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:25
 #: Under_the_Burning_Suns/units/Dread_Bat.cfg:25
 msgid "drain"
-msgstr ""
+msgstr "assorbimento"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:4
 msgid "Dwarvish Explorer"
-msgstr "Esploratore dei nani"
+msgstr "Nano esploratore"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:27
 msgid ""
@@ -10886,6 +11237,12 @@ msgid ""
 "physical attacks. They are the powerful fighters, second only to the Dwarven "
 "lords, and their amazing maneuverability makes them dangerous indeed."
 msgstr ""
+"I nani esploratori viaggiano spesso da soli in terre sconosciute, "
+"massacrando nemici e cercando nuovi depositi di metalli od altri preziosi "
+"minerali. Sono forti abbastanza da indossare un'armatura spessa, che li "
+"protegge egregiamente dagli attiacchi fisici. Sono combattenti formidabili, "
+"secondi solo ai signori dei nani, e la loro inaspettata agilità li rende "
+"veramente pericolosi."
 
 #: Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:25
 #: Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:54
