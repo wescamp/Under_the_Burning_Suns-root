@@ -1,27 +1,34 @@
+# translation of wesnoth-Under_the_Burning_Suns.po to Russian
+# Alexey Remizov <alexey@remizov.pp.ru>, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: wesnoth-Under_the_Burning_Suns\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-11-28 10:44+0100\n"
-"PO-Revision-Date: 2005-05-18 10:15+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2006-01-24 19:09+0300\n"
+"Last-Translator: Alexey Remizov <alexey@remizov.pp.ru>\n"
+"Language-Team: Russian <ru@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"X-Generator: KBabel 1.9.1\n"
+"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
 "10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: Under_the_Burning_Suns.cfg:16
 msgid "Under the Burning Suns"
-msgstr ""
+msgstr "Под палящими светилами"
 
 #: Under_the_Burning_Suns.cfg:21
+#, fuzzy
 msgid ""
 "In the distant future a small band of elves struggles to survive amidst the "
 "ruins of fallen empires. Lead your people out of the desert on an epic "
 "journey to find a new home. (Version 1.0.5 11/22/05)"
 msgstr ""
+"В отдалённом будущем небольшой отряд эльфов старается выжить среди руин "
+"павших империй. Выведите свой народ из пустыни и возглавьте великий поход в "
+"поисках нового дома. (Версия 1.0.5 22/11/05)"
 
 #: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Hunter5.cfg:4
@@ -35,46 +42,46 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Hunter10.cfg:4
 #: Under_the_Burning_Suns.cfg:24
 msgid "Desert Hunter"
-msgstr ""
+msgstr "Пустынный охотник"
 
 #: Under_the_Burning_Suns.cfg:24
 msgid "(Normal)"
-msgstr ""
+msgstr "(Нормальный)"
 
 #: Under_the_Burning_Suns.cfg:25
 msgid "(Challenging)"
-msgstr ""
+msgstr "(Проблемный)"
 
 #: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:4
 #: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:4
 #: Under_the_Burning_Suns.cfg:25
 msgid "Desert Sentinel"
-msgstr ""
+msgstr "Пустынный страж"
 
 #: Under_the_Burning_Suns.cfg:26
 msgid "(Hard)"
-msgstr ""
+msgstr "(Тяжёлый)"
 
 #: Under_the_Burning_Suns/units/Desert_Prowler.cfg:4
 #: Under_the_Burning_Suns/units/Nym_Prowler.cfg:4
 #: Under_the_Burning_Suns.cfg:26
 msgid "Desert Prowler"
-msgstr ""
+msgstr "Пустынный бродяга"
 
 #: Under_the_Burning_Suns/misc/deaths2.cfg:13
 #: Under_the_Burning_Suns/misc/deaths.cfg:13
 msgid "I'm too young to die. What will happen to my people?"
-msgstr ""
+msgstr "Я слишком молод, чтобы умирать. Что будет с моим народом?"
 
 #: Under_the_Burning_Suns/misc/deaths2.cfg:31
 #: Under_the_Burning_Suns/misc/deaths.cfg:49
 msgid "Save me Kaleh, I'm dying..."
-msgstr ""
+msgstr "Кале, помоги... Я умираю..."
 
 #: Under_the_Burning_Suns/misc/deaths2.cfg:49
 #: Under_the_Burning_Suns/misc/deaths.cfg:88
 msgid "Eloh protect us, I have fallen."
-msgstr ""
+msgstr "Храни нас Эло. Я пал..."
 
 #: Under_the_Burning_Suns/misc/deaths.cfg:127
 msgid "Aaaargh! Curse you!"
@@ -98,53 +105,54 @@ msgstr ""
 
 #: Under_the_Burning_Suns/misc/time.cfg:17
 msgid "First Dawn"
-msgstr ""
+msgstr "Восход первого солнца"
 
 #: Under_the_Burning_Suns/misc/time.cfg:24
 #: Under_the_Burning_Suns/misc/time.cfg:53
 #: Under_the_Burning_Suns/misc/time.cfg:59
 msgid "First Morning"
-msgstr ""
+msgstr "Первое утро"
 
 #: Under_the_Burning_Suns/misc/time.cfg:35
 msgid "Second Dawn"
-msgstr ""
+msgstr "Восход второго солнца"
 
 #: Under_the_Burning_Suns/misc/time.cfg:42
 #: Under_the_Burning_Suns/misc/time.cfg:68
 #: Under_the_Burning_Suns/misc/time.cfg:74
 msgid "Second Morning"
-msgstr ""
+msgstr "Второе утро"
 
 #: Under_the_Burning_Suns/misc/time.cfg:83
 msgid "First Mid-Day"
-msgstr ""
+msgstr "Первый полдень"
 
 #: Under_the_Burning_Suns/misc/time.cfg:89
 #: Under_the_Burning_Suns/misc/time.cfg:104
+#, fuzzy
 msgid "Mid-Day"
-msgstr ""
+msgstr "Полдень"
 
 #: Under_the_Burning_Suns/misc/time.cfg:98
 msgid "Second Mid-Day"
-msgstr ""
+msgstr "Второй полдень"
 
 #: Under_the_Burning_Suns/misc/time.cfg:113
 #: Under_the_Burning_Suns/misc/time.cfg:119
 #: Under_the_Burning_Suns/misc/time.cfg:150
 msgid "First Afternoon"
-msgstr ""
+msgstr "Первый вечер"
 
 #: Under_the_Burning_Suns/misc/time.cfg:128
 #: Under_the_Burning_Suns/misc/time.cfg:134
 #: Under_the_Burning_Suns/misc/time.cfg:168
 msgid "Second Afternoon"
-msgstr ""
+msgstr "Второй вечер"
 
 #: Under_the_Burning_Suns/misc/time.cfg:143
 #: Under_the_Burning_Suns/misc/time.cfg:190
 msgid "First Dusk"
-msgstr ""
+msgstr "Первый закат"
 
 #: Under_the_Burning_Suns/misc/time.cfg:161
 #: Under_the_Burning_Suns/misc/time.cfg:210
@@ -152,27 +160,27 @@ msgstr ""
 #: Under_the_Burning_Suns/misc/time.cfg:254
 #: Under_the_Burning_Suns/misc/time.cfg:274
 msgid "Second Dusk"
-msgstr ""
+msgstr "Второй закат"
 
 #: Under_the_Burning_Suns/misc/time.cfg:181
 msgid "The Short Dark"
-msgstr ""
+msgstr "Короткая ночь"
 
 #: Under_the_Burning_Suns/misc/time.cfg:201
 msgid "The Long Dark (1)"
-msgstr ""
+msgstr "Длинная ночь (1)"
 
 #: Under_the_Burning_Suns/misc/time.cfg:223
 msgid "The Long Dark (2)"
-msgstr ""
+msgstr "Длинная ночь (2)"
 
 #: Under_the_Burning_Suns/misc/time.cfg:245
 msgid "The Long Dark (3)"
-msgstr ""
+msgstr "Длинная ночь (3)"
 
 #: Under_the_Burning_Suns/misc/time.cfg:265
 msgid "The Long Dark (4)"
-msgstr ""
+msgstr "Длинная ночь (4)"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:8
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:9
@@ -252,7 +260,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:274
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:705
 msgid "Starting Objectives:"
-msgstr ""
+msgstr "Начальная задача:"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:697
 msgid "Kaleh must capture a keep"
@@ -432,7 +440,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4145
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4200
 msgid "New Objectives:"
-msgstr ""
+msgstr "Новые условия:"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1268
 msgid "Reach the black citadel in the center of the island."
@@ -1396,7 +1404,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:7
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:8
 msgid "The Morning After"
-msgstr ""
+msgstr "На следующее утро"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:42
 msgid ""
@@ -1407,6 +1415,13 @@ msgid ""
 "that you occasionally save your game mid-scenario, so you won't lose all "
 "your progress if you get stuck and have to start over."
 msgstr ""
+"Примечание: эта кампания, пожалуй, не лучший выбор для начинающего игрока. В "
+"ней изменены некоторые стандартные параметры \"Битвы за Веснот\", в "
+"частности характеристики эльфов и смена дня и ночи. Основное внимание "
+"уделяется элементам ролевой игры. Сценарии как правило длинные, с "
+"изменяющимися заданиями. Поэтому строго рекомендуется время от времени "
+"сохранять игру в процессе прохождения сценария, чтобы не пришлось "
+"переигрывать всё заново если сюжет зайдёт в тупик."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:46
 msgid ""
@@ -1414,6 +1429,9 @@ msgid ""
 "homeland in the Great Southern Desert. I write this story so that our "
 "descendants may know of our travels, and remember the sacrifices we made."
 msgstr ""
+"Это хроника исхода квенотских эльфов из родных земель Великой Южной Пустыни. "
+"Я пишу эти строки для того, чтобы потомки знали о наших странствиях и "
+"помнили о жертвах, на которые нам приходилось идти."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:50
 msgid ""
@@ -1428,6 +1446,17 @@ msgid ""
 "A people struggling in an ocean of sand, we thought we were ready for "
 "anything. All that changed one fateful night, when the sky rained fire..."
 msgstr ""
+"Глава 1. Я, Кале, вырос среди сыпучих песков под светом двух наших светил - "
+"Сэлы и Найи. Наша страна жарких сухих дней и холодных ночей, где вода "
+"ценилась дороже золота, была кошмаром для путешественников. Зелёные леса "
+"давным-давно канули в историю нашего мира, и с тех пор мы жили в пустыне. Мы "
+"не теряли мужества в дикой суровой земле и цеплялись за жизнь, заселяя земли "
+"вокруг редких оазисов. Моя деревня была самым крупным из известных нам "
+"поселений. Надёжные укрепления защищали нас от мародёров. Мой дядя Тануил "
+"правил нашим народом на протяжении многих лет. Он учил нас быть независимыми "
+"и стойкими перед лицом врага. Жители океана песков, мы думали, что готовы к "
+"любым невзгодам. Всё изменила одна роковая ночь, когда с небеса пролились "
+"огнём..."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:54
 msgid ""
@@ -1444,19 +1473,31 @@ msgid ""
 "somehow, eventually the thin yellow tendrils of a sickly dawn stole over the "
 "horizon, as if Naia herself were shocked by the devastation she saw."
 msgstr ""
+"Я помню всё так отчётливо, будто это случилось вчера. В ту ночь мне было "
+"странное видение, хотя я редко вижу сны. Досмотреть сон не удалось. Среди "
+"ночи я проснулся от ужасного грохота камней, треска дерева и криков поселян. "
+"С небес падали горящие валуны, куда большие, чем вы можете себе представить. "
+"Земля сотрясалась, словно в неё били молнии. Всё, что могло гореть, было "
+"охвачено огнём. Камни крошили дома, стены и мечущихся эльфов. Нигде нельзя "
+"было спрятаться, нигде нельзя было найти защиту. Меня охватил ужас. Думаю, "
+"если бы я побежал, то обязательно был бы раздавлен. Но я лишь закрыл голову "
+"руками и начал молиться Эло. Никогда я не молился так, как той ночью. "
+"Отовсюду доносились вопли и крики о помощи, но я не мог заставить себя "
+"сдвинуться с места. Наконец тонкий золотой волосок зари несмело затрепетал "
+"над горизонтом. Казалось, сама Найя ужаснулась увиденными разрушениями."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:63
 msgid "Kaleh"
-msgstr ""
+msgstr "Кале"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:86
 msgid "Nym"
-msgstr ""
+msgstr "Ним"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:182
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1070
 msgid "Rescue Surviving Elves"
-msgstr ""
+msgstr "Спасти выживших эльфов"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:290
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2759
@@ -1465,31 +1506,32 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:265
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:830
 msgid "Death of Kaleh, Nym, Garak or Zhul"
-msgstr ""
+msgstr "Смерть Кале, Ним, Гарака или Жул."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:285
 msgid "Hey Kaleh, are you in there?"
-msgstr ""
+msgstr "Эй, Кале, ты здесь?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:290
 msgid "Nym, is that you?"
-msgstr ""
+msgstr "Ним, это ты?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:295
 msgid ""
 "Yes, come on out already. The storm has passed. With the morning light Naia "
 "has ended the terrible night."
-msgstr ""
+msgstr "Да. Выходи уже. Буря прошла. Свет Найи прекратил этот кошмар."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:300
 msgid "Has the sky really stopped falling?"
-msgstr ""
+msgstr "Небо больше не падает на землю?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:305
 msgid ""
 "I already told you, the sky is clear and empty. Now come quickly, silly, "
 "others may need our help."
 msgstr ""
+"Я уже сказала, небо чисто. Выходи скорей, глупый, людям нужна наша помощь."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:310
 msgid ""
@@ -1497,6 +1539,8 @@ msgid ""
 "ruined. I can hardly recognize our village. I didn't think it could be this "
 "bad."
 msgstr ""
+"Что произошло? О, Эло, кругом воронки, руины, всё разрушено. Я не могу "
+"узнать нашу деревню. Даже не думал, что всё может быть настолько плохо."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:315
 msgid ""
@@ -1506,6 +1550,11 @@ msgid ""
 "to call of duty. Perhaps in the light of day things won't be as bad as you "
 "think. Let's explore the village and see who else has survived the night."
 msgstr ""
+"Пойдём уже, Кале. Нам нужно найти раненых и вообще всех, кому нужна помощь. "
+"Кажется я слышала голоса на юге. Не время хныкать, держи себя в руках. В "
+"конце концов, ты племянник Тануила, это накладывает обязанности. Может при "
+"свете дня всё окажется не так плохо, как ты думаешь. Осмотрим деревню и "
+"отыщем тех, кто выжил этой ночью."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:320
 msgid ""
@@ -1513,12 +1562,17 @@ msgid ""
 "recruiting others to help deal with the devastation. Perhaps we should go to "
 "the keep, before we explore the rest of the village."
 msgstr ""
+"Постой, на востоке наша крепость. Тануил должно быть уже собирает людей для "
+"работы в завалах. Лучше сначала пойти к нему, а потом вместе осмотреть "
+"деревню."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:340
 msgid ""
 "Tanuil's keep, our beautiful fortress, it is destroyed. How will we summon "
 "our people to battle?"
 msgstr ""
+"Башня Тануила, наша прекрасная крепость, разрушена! Где мы теперь будем "
+"собирать людей перед боем?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:344
 msgid ""
@@ -1526,26 +1580,30 @@ msgid ""
 "look like anyone survived, at least we can thank Eloh it was a quick death. "
 "But come on, we can't dwell on dead, we must help the living."
 msgstr ""
+"Мы должны помочь тем, кого найдём среди обломков. Здесь, похоже, никто не "
+"выжил. Что ж, поблагодарим Эло за то, что она подарила им быструю смерть. А "
+"теперь пойдём. Нечего отвлекаться на мёртвых, когда мы можем понадобиться "
+"живым."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:348
 msgid "But if Tanuil is dead, who will lead us?"
-msgstr ""
+msgstr "Но если Тануил мёртв, кто будет нами руководить?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:352
 msgid "That's a question for another time. Let's keep exploring the wreckage."
-msgstr ""
+msgstr "Обсудим позже. Продолжай обыскивать развалины."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:437
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:523
 msgid "Kaleh, Nym, help us!"
-msgstr ""
+msgstr "Кале, Ним, помогите!"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6283
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:441
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:527
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:794
 msgid "What in Uria's name is that?"
-msgstr ""
+msgstr "Во имя Урии! Это ещё что?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:445
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:531
@@ -1554,39 +1612,42 @@ msgid ""
 "more seem to be emerging from the craters. If we don't stop them there will "
 "be nothing left of our village or our people."
 msgstr ""
+"Они выползли из камней, которые упали с неба. Не знаю что это. Они "
+"появляются из кратеров. Если мы не остановим их, от нашей деревни и наших "
+"людей совсем ничего не останется."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:449
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:535
 msgid "To battle my friends! There are still those left who can fight."
-msgstr ""
+msgstr "В бой, друзья! Ещё остались те, кто в состоянии драться."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:458
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:544
 msgid "There are more of our people fighting the mud monsters!"
-msgstr ""
+msgstr "Смотрите, остальные тоже бьются с глиняными монстрами!"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:462
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:548
 msgid "Then let's join the battle!"
-msgstr ""
+msgstr "Присоединимся и поможем!"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:597
 msgid "Garak"
-msgstr ""
+msgstr "Гарак"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:613
 msgid ""
 "This is our training ground. And look, there is Garak, the captain of the "
 "guard. He and his fighters have survived the night!"
-msgstr ""
+msgstr "Наш полигон. Смотрите, капитан стражи Гарак и его солдаты спаслись."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:618
 msgid "But they are fighting many mud creatures. Quick, we must help them!"
-msgstr ""
+msgstr "Их атакует множество глиняных тварей. Скорее, мы должны помочь!"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:646
 msgid "Ha! They're destroyed at last."
-msgstr ""
+msgstr "Ха! Убили всех до единого."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:650
 msgid ""
@@ -1594,44 +1655,49 @@ msgid ""
 "But there's no time to talk, we must save the rest of our people and crush "
 "any other of these earthen abominations back into the earth."
 msgstr ""
+"Спасибо за помощь. Рад видеть, что ночью спаслось так много народа. Но "
+"сейчас нет времени на разговоры. Мы должны спасти остальных людей и загнать "
+"обратно в землю остатки этой глиняной мерзости."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:671
 msgid "This bridge leads to the holy island at the center of our lake."
-msgstr ""
+msgstr "Этот мост ведёт к священному острову в центре озера."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:675
 msgid ""
 "Hmmmm. Some of the druids that worship on the island may still be alive. We "
 "should go check."
-msgstr ""
+msgstr "Хмм... Из друидов, живших на озере, кто-нибудь мог выжить. Проверим."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:679
 msgid ""
 "Be careful. The bridge is broken, so we'll have to wade through the shallow "
 "water."
-msgstr ""
+msgstr "Осторожнее. Мост сломан. Нужно идти вброд по отмели."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:705
 msgid ""
 "The great tree! It has been buried under the rocks. Our most holy sanctuary, "
 "defiled. Oh, Eloh, what shall we do?"
 msgstr ""
+"Великое древо погребено под камнями! Наша величайшая святыня осквернена. О, "
+"Эло, что нам теперь делать?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:710
 msgid "Is anyone still alive?"
-msgstr ""
+msgstr "Кто-нибудь жив?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:716
 msgid "Zhul"
-msgstr ""
+msgstr "Жул"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:732
 msgid "Finally! We were worried that no one else had survived."
-msgstr ""
+msgstr "Наконец-то! Мы боялись, что эту ночь не пережил никто."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:737
 msgid "Mother priestess, are you all right?"
-msgstr ""
+msgstr "Святая мать, вы в порядке?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:742
 msgid ""
@@ -1639,10 +1705,13 @@ msgid ""
 "survived, but we will lend you what skills we have. Show me to those who "
 "need healing."
 msgstr ""
+"Нет времени для церемоний. Со мной всё хорошо. Боюсь, нас осталось слишком "
+"мало, но мы постараемся помочь вам всем, чем сможем. Покажите, кто здесь "
+"нуждается в лечении?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:747
 msgid "But the great tree, it has been destroyed!"
-msgstr ""
+msgstr "Но великое древо уничтожено!"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:752
 msgid ""
@@ -1650,45 +1719,51 @@ msgid ""
 "new one shall grow in its place. Come now, let us see to the needs of our "
 "people."
 msgstr ""
+"Всё в мире преходяще, вечна лишь сила Эло. На этом месте вырастет новое "
+"дерево. Пойдём, посмотрим чем мы можем помочь."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:789
 msgid "Raaaar!"
-msgstr ""
+msgstr "Рра-а-арр!"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:799
 msgid ""
 "I felt a great darkness in this lake, but I knew not what it was. The "
 "falling rocks must have woken it from its sleep."
 msgstr ""
+"Я чувствовала, что в озере таится что-то зловещее, но не знала что это. "
+"Должно быть упавшие камни пробудили его ото сна."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:804
 msgid ""
 "Protect the priestesses, we shall send this monstrosity back to the depths "
 "it came from!"
 msgstr ""
+"Защищайте жриц. Мы должны отправить это чудище в глубины, из которых оно "
+"вылезло!"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:833
 msgid "These fields seem strangely vacant. Where are the horses?"
-msgstr ""
+msgstr "Странно, в полях никого нет. Где же лошади?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:837
 msgid "Maybe they're hiding in the stables. Let go check."
-msgstr ""
+msgstr "Может прячутся в конюшнях? Пойдём проверим."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:869
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:942
 msgid "I think I see movement in the stables. Is anyone there?"
-msgstr ""
+msgstr "В конюшнях какое-то движение. Эй, здесь есть кто-нибудь?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:876
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:949
 msgid "Is it safe to come out? I was so scared."
-msgstr ""
+msgstr "Уже можно выходить? Я так напугана."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:881
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:954
 msgid "Where are all the other horses?"
-msgstr ""
+msgstr "Где остальные лошади?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:886
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:959
@@ -1698,6 +1773,10 @@ msgid ""
 "were scared by the falling rocks and fled into the night. It took all my "
 "skill to calm Yasi and keep him from running."
 msgstr ""
+"Вчера в пустыню ушёл отряд охотников. Если камни падали не повсюду, значит "
+"большая часть лошадей спаслась. А те, что оставались в конюшнях, были "
+"напуганы камнепадом и разбежались. Я сделала всё возможное, чтобы успокоить "
+"Яси и не дать ему убежать."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:891
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:964
@@ -1707,28 +1786,31 @@ msgid ""
 "of the people out in the desert have been able to round up some of the loose "
 "horses."
 msgstr ""
+"Нам нужна твоя помощь. Проверь, всё ли в порядке у внешних поселенцев. Кто "
+"знает, что им пришлось пережить этой ночью? Возможно кто-нибудь из живущих в "
+"пустыне сможет вернуть убежавших лошадей."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:896
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:969
 msgid "Well, let's hope that hunting party comes back soon."
-msgstr ""
+msgstr "Будем надеяться, что охотники скоро вернутся."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:905
 msgid "Hey Naru, the rocks have stopped falling. You can come out now!"
-msgstr ""
+msgstr "Эй, Нару, камнепад закончился, можно выходить!"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:912
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:983
 msgid "Oh, thank Eloh, I thought they would never stop."
-msgstr ""
+msgstr "Хвала Эло, я думал, это никогда не закончится."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:976
 msgid "Hey Nisa, the rocks have stopped falling. You can come out now!"
-msgstr ""
+msgstr "Эй, Ниса, камнепад закончился, можно выходить!"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:998
 msgid "Xanthos"
-msgstr ""
+msgstr "Ксантос"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1037
 msgid ""
@@ -1737,6 +1819,9 @@ msgid ""
 "over life. Puny elves, I shall use the corpses of your families to create an "
 "army of undead! All shall bow down to me!"
 msgstr ""
+"Здесь пахнет смертью, я чую это за милю. Как я люблю этот запах, запах силы, "
+"неизбежной победы смерти над жизнью. Эй, дохлые эльфы, я соберу из трупов "
+"ваших родственников армию мертвецов! Все будут падать ниц передо мной!"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1042
 msgid ""
@@ -1744,12 +1829,17 @@ msgid ""
 "small targets, but they haven't had the guts to attack us for years. Why has "
 "Eloh heaped so much misfortune upon us?"
 msgstr ""
+"Выбрал самое худшее для нас время. Раньше у них не хватало сил воевать с "
+"нами. Некроманты предпочитают выбирать добычу послабее. Эло, за что ты "
+"послала нам столько бед сразу?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1047
 msgid ""
 "Have some more faith girl, the goddess does not give us more than we can "
 "handle. With Eloh's grace we shall yet triumph over this pretender."
 msgstr ""
+"Больше веры, девочка. Боги не дают человеку больше, чем он может нести. "
+"Милость Эло поможет нам одержать победу над этим выскочкой."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1052
 msgid ""
@@ -1757,6 +1847,8 @@ msgid ""
 "anyone else, and our elvish hunters can easily decimate their skeleton "
 "armies."
 msgstr ""
+"Ба, однажды я уже сражался с этими некромантами. Мх можно убить так же, как "
+"и всех остальных. Эльфийские охотники легко разбивали армии скелетов."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1057
 msgid ""
@@ -1765,18 +1857,22 @@ msgid ""
 "that death is not all-powerful. You shall not desecrate the bodies of my "
 "kith and kin! Cower before the might of Eloh and the Quenoth elves!"
 msgstr ""
+"Я наслышан о вашей банде, гнусный дохломант. Вы бродите по пескам, нападаете "
+"со спины и забираете в рабство самых слабых. Мы докажем вам, что смерть это "
+"не самое сильное, что есть в этом мире. Даже не думайте осквернить тела моих "
+"родственников! Трепещите перед силой Эло и эльфов Квенота!"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1074
 msgid "Defeat Xanthos"
-msgstr ""
+msgstr "Поразить Ксантоса"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1124
 msgid "The necromancer is finally vanquished."
-msgstr ""
+msgstr "Некромант уничтожен навсегда!"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1129
 msgid "And at last the dead shall have their rest."
-msgstr ""
+msgstr "И мёртвые наконец обретут покой."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1140
 msgid ""
@@ -1784,12 +1880,14 @@ msgid ""
 "village. There may still be elves that need rescuing. We should go back and "
 "check. "
 msgstr ""
+"Мы победили некроманта. Теперь нужно продолжить поиски в деревне. Возможно "
+"мы не единственные, кто остался в живых. Вернёмся и проверим."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1172
 msgid ""
 "We've explored the village and I think we've rescued the last of the "
 "survivors."
-msgstr ""
+msgstr "Мы осмотрели всё. Думаю, там больше никого нет."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1208
 msgid ""
@@ -1797,10 +1895,13 @@ msgid ""
 "the open sands. They thought they could flee to the safety of our walls if "
 "danger came. I shudder to think what has happened to them."
 msgstr ""
+"Некоторым эльфам было тесно в деревне. Они хотели жить на воле в открытой "
+"пустыне. Надеялись, что успеют спрятаться за нашими стенами, если придёт "
+"беда. Я содрогаюсь при мысли о том, что с ними стало."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1251
 msgid "Hail, is anyone still alive?"
-msgstr ""
+msgstr "Эй, есть кто живой?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1256
 msgid ""
@@ -1808,6 +1909,8 @@ msgid ""
 "attacking us, he intends to use our fallen comrades as fodder for his evil "
 "magics. Where have you been?"
 msgstr ""
+"Да, и нам нужна ваша помощь. На нас напал подлый некромант, он пытается "
+"захватить тела наших павших товарищей для своих тёмных ритуалов. Где вы были?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1261
 msgid ""
@@ -1815,10 +1918,14 @@ msgid ""
 "as we saw the rock storm we raced back as fast as we could. I only wish we "
 "could have come sooner."
 msgstr ""
+"Далеко в песках, искали бродячих орков. Как только мы увидели падающие "
+"камни, мы поскакали назад так быстро, как только могли. Похоже, мы всё равно "
+"опоздали."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1266
 msgid "No use crying over spilt water. But we're sure glad you're here now."
 msgstr ""
+"Нечего жалеть о том, что прошло. Мы действительно рады, что вы сейчас здесь."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1316
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1406
@@ -1844,22 +1951,26 @@ msgid ""
 "This encampment has been abandoned. There are signs of a struggle and a few "
 "bloodstains but nothing else. I fear for those elves who lived out here."
 msgstr ""
+"Эта стоянка разрушена. Тут следы борьбы и несколько кровавых пятен, больше "
+"ничего. Я боюсь за эльфов, которые здесь жили."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1656
 msgid "It seems that we finally have some peace. But what do we do now?"
 msgstr ""
+"Похоже, теперь мы можем немного пожить спокойно. А что мы будем делать "
+"дальше?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1661
 msgid "Where is Tanuil and his family?"
-msgstr ""
+msgstr "Где Тануил и его семья?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1666
 msgid "The keep has been crushed by the rocks. We could find no survivors."
-msgstr ""
+msgstr "Башня была разрушена камнями. В живых не остался никто."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1671
 msgid "Too many have died this night."
-msgstr ""
+msgstr "Слишком многие ушли из жизни этой ночью."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1676
 msgid ""
@@ -1868,12 +1979,19 @@ msgid ""
 "are destroyed. And the great tree itself is no more. One thing is obvious, "
 "we cannot stay here."
 msgstr ""
+"Наша деревня лежит в руинах. Стены, которые строили поколения наших предков, "
+"были разрушены за считанные часы. Почти все наши жилища рзарушены. И даже "
+"великого древа больше не существует. Несомненно, мы не можем оставаться "
+"здесь."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1681
 msgid ""
 "You are a fool to despair. This has always been our home. The water here is "
 "good, we know this land. We can rebuild; Eloh willing, we can thrive again."
 msgstr ""
+"Отчаяние свело тебя с ума. Эта земля всегда будет нашим домом. Здесь хорошая "
+"вода, мы хорошо знаем эту местность. Мы всё восстановим и возродим наш "
+"народ, волею Эло."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1686
 msgid ""
@@ -1882,15 +2000,20 @@ msgid ""
 "desert, and we have many enemies who would seek to gain in our time of "
 "weakness."
 msgstr ""
+"А если немного подумать? Кто ещё видел этот каменный град? Что наши враги "
+"собираются сделать с оставшимися людьми? Пустыня не знает жалости, а у нас "
+"много врагов, которые только и ждут когда мы ослабеем."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1691
 msgid ""
 "Impudent girl, you should not speak so to your elders, or to your betters."
 msgstr ""
+"Дерзкая девчонка! Не смей так разговаривать с теми, кто старше и опытнее "
+"тебя!"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1696
 msgid "I have a right to speak my mind!"
-msgstr ""
+msgstr "Я имею право говорить то, что думаю!"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1701
 msgid ""
@@ -1900,6 +2023,11 @@ msgid ""
 "over scraps of meat. Among the survivors Kaleh is by heritage the closest "
 "relative to Tanuil and thus our leader. What say you Kaleh?"
 msgstr ""
+"Успокойтесь пожалуйста, не ссорьтесь. Хаос нет несё ничего кроме смерти и "
+"разрушения. Даже в судный день мы должны хранить мужество и соблюдать "
+"законы. Без законов мы уподобимся пустынным тварям, рвущих друг друга ради "
+"объедков. Среди тех, кто уцелел, Кале - ближайший родственник Тануила, и ему "
+"суждено стать нашим предводителем. Что скажешь, Кале?"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1706
 msgid ""
@@ -1913,12 +2041,24 @@ msgid ""
 "will see it done. Our home is gone and the desert is a harsh place. If Eloh "
 "has prepared a new home for us, then I will lead us there."
 msgstr ""
+"Прошлой ночью, перед тем, как с неба начали падать камни, я слышал во сне "
+"голос. Он звучал как прекрасная музыка, и каким-то образом я понял, что это "
+"была Эло. Я в точности запомнил её слова: \"Ты должен быть сильным, юный "
+"эльф, потому что наступают тяжёлые времена. Твой дом будет разрушен, и ты "
+"поведёшь свой народ в новые земли. На севере вы найдёте спасение и покой. "
+"Пересеките пустыню, покорите горы. Не бойтесь, я буду направлять и защищать "
+"вас.\" Я не знаю, почему богиня решила обратится именно ко мне, но такова её "
+"воля, и воля её уже начинает исполняться. Нашего дома нет и мы стоим посреди "
+"враждебной пустыни. Если Эло приготовила для нас новый дом, я поведу нас "
+"туда."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1711
 msgid ""
 "I fear what dangers lurk in the harsh sands and to beyond to the north, but "
 "as our leader, I will follow your counsel."
 msgstr ""
+"Я боюсь, что в жестоких песках севера таится множество опасностей, но, как "
+"командир наших воинов, я сделаю так, как ты скажешь."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1716
 msgid ""
@@ -1926,12 +2066,17 @@ msgid ""
 "north with great haste. Our home is protection no longer, we must find a new "
 "haven for our people."
 msgstr ""
+"Позволь нам собрать то, что уцелело после разгрома и веди нас на север как "
+"можно быстрее. Стены больше не защищают нас, мы должны искать новое "
+"пристанище."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1721
 msgid ""
 "What about the bodies of the dead? We can't leave them to be torn by crows "
 "or desecrated by other necromancers."
 msgstr ""
+"А что с телами погибших? Мы не должны оставлять их на поживу воронам и "
+"некромантам."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1726
 msgid ""
@@ -1939,6 +2084,9 @@ msgid ""
 "them with proper ceremony, so that the smoke may carry them on to the next "
 "realm."
 msgstr ""
+"Согласен, мы не должны забывать об ушедших. Соберём большой погребальный "
+"костёр и совершим сожжение со всеми почестями. Пусть дымная дорога приведёт "
+"их в лучший мир."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1731
 msgid ""
@@ -1946,6 +2094,9 @@ msgid ""
 "see to the dead before we leave. Garak, you and your men start collecting "
 "our dead. Nym, help me find oil and wood so that we may build a pyre."
 msgstr ""
+"Кале, я не хочу задерживаться, но согласна с тем, что перед уходом мы должны "
+"позаботиться о погибших. Гарак, возьми своих людей и собери тела. Ним, "
+"помоги мне найти масло и хворост для костра."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1736
 msgid ""
@@ -1956,6 +2107,12 @@ msgid ""
 "journey. They were the first of our people to die in this great endeavor, "
 "but they were to be far from the last."
 msgstr ""
+"Так и было сделано. Мёртвых эльфов с почётом уложили на вершине горы "
+"древесных обломков, которых нашли немного. Но тем не менее пламя было "
+"достаточно жарким, чтобы обратить тела в пепел и унести души на тот свет. "
+"Смерть множества эльфов была не лучшим знамением перед началом дальнего "
+"пути. Это были первые погибшие в нашем великом походе, но далеко не "
+"последние."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1761
 msgid ""
@@ -1963,6 +2120,9 @@ msgid ""
 "must have attracted other necromancers. There's no way we can defeat them "
 "all. We've run out of time. There's no escape. Eloh save us!"
 msgstr ""
+"Что это там на севере? Ещё больше мертвецов! На каменный дождь пришли "
+"остальные некроманты. Мы не справимся с ними. Мы не успели. Бежать некуда. "
+"Эло, спаси нас!"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:18
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:19
@@ -9132,7 +9292,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Alien_Body2.cfg:48
 #: Under_the_Burning_Suns/units/Alien_Minion.cfg:37
 msgid "energy ray"
-msgstr ""
+msgstr "энергетический луч"
 
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:21
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:35
@@ -9148,7 +9308,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Alien_Body2.cfg:49
 #: Under_the_Burning_Suns/units/Alien_Minion.cfg:38
 msgid "cold"
-msgstr ""
+msgstr "холод"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:51
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:97
@@ -9171,7 +9331,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:45
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:91
 msgid "magical"
-msgstr ""
+msgstr "магический"
 
 #: Under_the_Burning_Suns/units/Alien_Body3.cfg:4
 #: Under_the_Burning_Suns/units/Alien_Body2.cfg:4
@@ -9180,7 +9340,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Alien_Minion.cfg:4
 msgid "Crawling Horror"
-msgstr ""
+msgstr "Ползучий ужас"
 
 #: Under_the_Burning_Suns/units/Confused_Ant.cfg:20
 #: Under_the_Burning_Suns/units/Ant.cfg:20
@@ -9188,7 +9348,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Alien_Minion.cfg:29
 #: Under_the_Burning_Suns/units/Dread_Bat.cfg:20
 msgid "fangs"
-msgstr ""
+msgstr "клыки"
 
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:24
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:46
@@ -9284,7 +9444,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:36
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:137
 msgid "blade"
-msgstr ""
+msgstr "клинок"
 
 #: Under_the_Burning_Suns/units/Alien_Spire.cfg:4
 msgid "Pulsing Spire"
@@ -9292,7 +9452,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Ant.cfg:4
 msgid "Giant Ant"
-msgstr ""
+msgstr "Гигантский муравей"
 
 #: Under_the_Burning_Suns/units/Ant.cfg:17
 msgid ""
@@ -9399,13 +9559,13 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:35
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:136
 msgid "sword"
-msgstr ""
+msgstr "меч"
 
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:34
 #: Under_the_Burning_Suns/units/Troll_Shaman.cfg:45
 #: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:48
 msgid "magic"
-msgstr ""
+msgstr "магия"
 
 #: Under_the_Burning_Suns/units/Crab_Man.cfg:4
 msgid "Crab Man"
@@ -9422,7 +9582,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Crab_Man.cfg:20
 #: Under_the_Burning_Suns/units/Lava_Monster3.cfg:30
 msgid "claws"
-msgstr ""
+msgstr "когти"
 
 #: Under_the_Burning_Suns/units/Darawf.cfg:4
 msgid "Dawarf"
@@ -9440,7 +9600,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Troll_Shaman.cfg:32
 #: Under_the_Burning_Suns/units/Darawf.cfg:20
 msgid "fist"
-msgstr ""
+msgstr "кулак"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:50
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:76
@@ -9497,7 +9657,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:70
 #: Under_the_Burning_Suns/units/Deep_One.cfg:24
 msgid "impact"
-msgstr ""
+msgstr "толчок"
 
 #: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:4
 #: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:4
@@ -9519,14 +9679,14 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:25
 #: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:22
 msgid "dagger"
-msgstr ""
+msgstr "кинжал"
 
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:45
 #: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:44
 #: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:47
 #: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:44
 msgid "darts"
-msgstr ""
+msgstr "дротики"
 
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:50
 #: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:49
@@ -9534,7 +9694,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:49
 #: Under_the_Burning_Suns/units/Deep_One.cfg:71
 msgid "poison"
-msgstr ""
+msgstr "яд"
 
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:4
 msgid "Uncloaked Assassin"
@@ -9546,7 +9706,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Deep_One.cfg:4
 msgid "Deep One"
-msgstr ""
+msgstr "Глубинная тварь"
 
 #: Under_the_Burning_Suns/units/Deep_One.cfg:20
 msgid ""
@@ -9560,11 +9720,11 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Giant_Tentacle.cfg:21
 #: Under_the_Burning_Suns/units/Deep_One.cfg:23
 msgid "tentacle"
-msgstr ""
+msgstr "щупальца"
 
 #: Under_the_Burning_Suns/units/Deep_One.cfg:61
 msgid "ink"
-msgstr ""
+msgstr "тушь"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:96
 #: Under_the_Burning_Suns/units/Desert_Scout3.cfg:60
@@ -9637,7 +9797,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:54
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:155
 msgid "pierce"
-msgstr ""
+msgstr "укол"
 
 #: Under_the_Burning_Suns/units/Desert_Archer.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Archer2.cfg:4
@@ -9722,7 +9882,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:53
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:154
 msgid "bow"
-msgstr ""
+msgstr "лук"
 
 #: Under_the_Burning_Suns/units/Desert_Archer.cfg:96
 #: Under_the_Burning_Suns/units/Desert_Archer2.cfg:96
@@ -9734,7 +9894,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Archer9.cfg:96
 #: Under_the_Burning_Suns/units/Desert_Archer3.cfg:96
 msgid "female^Desert Archer"
-msgstr ""
+msgstr "Пустынная лучница"
 
 #: Under_the_Burning_Suns/units/Desert_Avenger.cfg:4
 msgid "Desert Avenger"
@@ -9752,21 +9912,21 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:40
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:141
 msgid "backstab"
-msgstr ""
+msgstr "обманный удар"
 
 #: Under_the_Burning_Suns/units/Desert_Avenger.cfg:106
 msgid "female^Desert Avenger"
-msgstr ""
+msgstr "Пустынная мстительница"
 
 #: Under_the_Burning_Suns/units/Desert_Avenger.cfg:134
 msgid "ambush"
-msgstr ""
+msgstr "засада"
 
 #: Under_the_Burning_Suns/units/Garak_Captain.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Captain.cfg:4
 #: Under_the_Burning_Suns/units/Kaleh_Captain.cfg:4
 msgid "Desert Captain"
-msgstr ""
+msgstr "Пустынный капитан"
 
 #: Under_the_Burning_Suns/units/Garak_Captain.cfg:13
 #: Under_the_Burning_Suns/units/Garak_Marshal.cfg:13
@@ -9775,7 +9935,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Marshal.cfg:13
 #: Under_the_Burning_Suns/units/Kaleh_Captain.cfg:13
 msgid "leadership"
-msgstr ""
+msgstr "лидерство"
 
 #: Under_the_Burning_Suns/units/Garak_Captain.cfg:34
 #: Under_the_Burning_Suns/units/Desert_Captain.cfg:33
@@ -9789,7 +9949,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Kaleh_Champion.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Champion.cfg:4
 msgid "Desert Champion"
-msgstr ""
+msgstr "Пустынный защитник"
 
 #: Under_the_Burning_Suns/units/Kaleh_Champion.cfg:33
 #: Under_the_Burning_Suns/units/Desert_Champion.cfg:32
@@ -9802,14 +9962,14 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Zhul_Druid.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:4
 msgid "Desert Druid"
-msgstr ""
+msgstr "Пустынный друид"
 
 #: Under_the_Burning_Suns/units/Zhul_Druid.cfg:34
 #: Under_the_Burning_Suns/units/Desert_Shyde.cfg:37
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:33
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:38
 msgid "cures"
-msgstr ""
+msgstr "лечение"
 
 #: Under_the_Burning_Suns/units/Zhul_Druid.cfg:35
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:34
@@ -9831,7 +9991,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Zhul_Druid.cfg:38
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:37
 msgid "staff"
-msgstr ""
+msgstr "посох"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:75
 #: Under_the_Burning_Suns/units/Zhul_Star.cfg:76
@@ -9840,7 +10000,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:56
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:69
 msgid "ensnare"
-msgstr ""
+msgstr "ловушка"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:77
 #: Under_the_Burning_Suns/units/Desert_Prowler.cfg:59
@@ -9872,7 +10032,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Hunter10.cfg:57
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:71
 msgid "slow"
-msgstr ""
+msgstr "замедление"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:95
 #: Under_the_Burning_Suns/units/Zhul_Star.cfg:96
@@ -9881,7 +10041,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:76
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:89
 msgid "thorns"
-msgstr ""
+msgstr "колючки"
 
 #: Under_the_Burning_Suns/units/Kaleh_Fighter.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Fighter9.cfg:4
@@ -9894,7 +10054,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Fighter5.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Fighter4.cfg:4
 msgid "Desert Fighter"
-msgstr ""
+msgstr "Пустынный боец"
 
 #: Under_the_Burning_Suns/units/Kaleh_Fighter.cfg:32
 #: Under_the_Burning_Suns/units/Desert_Fighter9.cfg:31
@@ -9912,11 +10072,14 @@ msgid ""
 "swordplay to archery. These Elves are deft of foot, and fight best in the "
 "open sands."
 msgstr ""
+"Пустынные бойцы составляют основную часть эльфийских войск Веснота. Они "
+"тренируются как с мечами, так и с луками, но всё же предпочитают фехтование "
+"стрельбе. Бойцы быстро двигаются и лучше всего сражаются в открытых песках."
 
 #: Under_the_Burning_Suns/units/Kaleh_Hero.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Hero.cfg:4
 msgid "Desert Hero"
-msgstr ""
+msgstr "Пустынный герой"
 
 #: Under_the_Burning_Suns/units/Kaleh_Hero.cfg:32
 #: Under_the_Burning_Suns/units/Desert_Hero.cfg:31
@@ -9929,7 +10092,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Horseman.cfg:4
 msgid "Desert Horseman"
-msgstr ""
+msgstr "Пустынный конник"
 
 #: Under_the_Burning_Suns/units/Desert_Horseman.cfg:36
 msgid ""
@@ -9971,11 +10134,11 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:52
 #: Under_the_Burning_Suns/units/Desert_Hunter10.cfg:52
 msgid "bola"
-msgstr ""
+msgstr "бола"
 
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:4
 msgid "Desert Marksman"
-msgstr ""
+msgstr "Пустынный снайпер"
 
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:30
 msgid ""
@@ -9991,24 +10154,24 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:49
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:153
 msgid "longbow"
-msgstr ""
+msgstr "большой лук"
 
 #: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:52
 #: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:157
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:51
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:155
 msgid "marksman"
-msgstr ""
+msgstr "меткость"
 
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:108
 msgid "female^Desert Marksman"
-msgstr ""
+msgstr "Пустынная снайперша"
 
 #: Under_the_Burning_Suns/units/Garak_Marshal.cfg:4
 #: Under_the_Burning_Suns/units/Kaleh_Marshal.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Marshal.cfg:4
 msgid "Desert Marshal"
-msgstr ""
+msgstr "Пустынный маршал"
 
 #: Under_the_Burning_Suns/units/Garak_Marshal.cfg:35
 #: Under_the_Burning_Suns/units/Kaleh_Marshal.cfg:35
@@ -10022,7 +10185,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Outrider.cfg:4
 msgid "Desert Outrider"
-msgstr ""
+msgstr "Пустынный наездник"
 
 #: Under_the_Burning_Suns/units/Desert_Prowler.cfg:31
 #: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:30
@@ -10031,7 +10194,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:31
 #: Under_the_Burning_Suns/units/Nym_Prowler.cfg:32
 msgid "skirmisher"
-msgstr ""
+msgstr "застрельщик"
 
 #: Under_the_Burning_Suns/units/Desert_Outrider.cfg:36
 msgid ""
@@ -10053,7 +10216,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:4
 msgid "Desert Ranger"
-msgstr ""
+msgstr "Пустынный странник"
 
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:29
 msgid ""
@@ -10065,11 +10228,11 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:105
 msgid "female^Desert Ranger"
-msgstr ""
+msgstr "Пустынная странница"
 
 #: Under_the_Burning_Suns/units/Desert_Rider.cfg:4
 msgid "Desert Rider"
-msgstr ""
+msgstr "Пустынный всадник"
 
 #: Under_the_Burning_Suns/units/Desert_Rider.cfg:37
 msgid ""
@@ -10089,7 +10252,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Scout10.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Scout9.cfg:4
 msgid "Desert Scout"
-msgstr ""
+msgstr "Пустынный разведчик"
 
 #: Under_the_Burning_Suns/units/Desert_Scout3.cfg:35
 #: Under_the_Burning_Suns/units/Desert_Scout4.cfg:35
@@ -10123,7 +10286,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Shaman9.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Shaman.cfg:4
 msgid "Desert Shaman"
-msgstr ""
+msgstr "Пустынный шаман"
 
 #: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:12
 #: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:12
@@ -10135,7 +10298,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Shaman9.cfg:12
 #: Under_the_Burning_Suns/units/Desert_Shaman.cfg:12
 msgid "heals"
-msgstr ""
+msgstr "исцеление"
 
 #: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:33
 #: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:33
@@ -10162,11 +10325,11 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Shaman9.cfg:56
 #: Under_the_Burning_Suns/units/Desert_Shaman.cfg:56
 msgid "entangle"
-msgstr ""
+msgstr "запутывание"
 
 #: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:4
 msgid "Desert Sharpshooter"
-msgstr ""
+msgstr "Пустынный мастер стрельбы"
 
 #: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:30
 msgid ""
@@ -10202,7 +10365,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Shyde.cfg:42
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:43
 msgid "faerie touch"
-msgstr ""
+msgstr "волшебное касание"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:4
 #: Under_the_Burning_Suns/units/Zhul_Star.cfg:4
@@ -10212,7 +10375,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:12
 #: Under_the_Burning_Suns/units/Zhul_Star.cfg:13
 msgid "illuminates,cures"
-msgstr ""
+msgstr "освещение,лечение"
 
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:45
 #: Under_the_Burning_Suns/units/Zhul_Star.cfg:46
@@ -10242,7 +10405,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:25
 #: Under_the_Burning_Suns/units/Dread_Bat.cfg:25
 msgid "drain"
-msgstr ""
+msgstr "истощение"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:4
 msgid "Dwarvish Explorer"
@@ -10265,7 +10428,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:25
 #: Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:49
 msgid "axe"
-msgstr ""
+msgstr "топор"
 
 #: Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:4
 msgid "Dwarvish Pathfinder"
@@ -10304,11 +10467,11 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Flesh_Golem.cfg:26
 msgid "smashing frenzy"
-msgstr ""
+msgstr "сокрушающее безумие"
 
 #: Under_the_Burning_Suns/units/Flesh_Golem.cfg:29
 msgid "berserk"
-msgstr ""
+msgstr "берсерк"
 
 #: Under_the_Burning_Suns/units/Giant_Tentacle.cfg:4
 msgid "Giant Tentacle"
@@ -10319,7 +10482,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Grog_Troll_Warrior.cfg:9
 #: Under_the_Burning_Suns/units/Troll_Shaman.cfg:7
 msgid "regenerates"
-msgstr ""
+msgstr "восстановление"
 
 #: Under_the_Burning_Suns/units/Giant_Tentacle.cfg:18
 msgid ""
@@ -10329,7 +10492,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Grog_Troll.cfg:4
 msgid "Troll"
-msgstr ""
+msgstr "Тролль"
 
 #: Under_the_Burning_Suns/units/Grog_Troll.cfg:24
 msgid ""
@@ -10340,7 +10503,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Grog_Troll.cfg:27
 msgid "club"
-msgstr ""
+msgstr "дубина"
 
 #: Under_the_Burning_Suns/units/Grog_Troll_Warrior.cfg:4
 msgid "Troll Warrior"
@@ -10354,7 +10517,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Grog_Troll_Warrior.cfg:28
 msgid "mace"
-msgstr ""
+msgstr "булава"
 
 #: Under_the_Burning_Suns/units/Haunt.cfg:4
 msgid "Haunt"
@@ -10371,11 +10534,11 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:20
 #: Under_the_Burning_Suns/units/Haunt.cfg:24
 msgid "touch"
-msgstr ""
+msgstr "касание"
 
 #: Under_the_Burning_Suns/units/Haunt.cfg:36
 msgid "wail"
-msgstr ""
+msgstr "вопль"
 
 #: Under_the_Burning_Suns/units/Ixthala_Demon.cfg:4
 msgid "Ixthala Demon"
@@ -10391,7 +10554,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Ixthala_Demon.cfg:23
 msgid "flaming sword"
-msgstr ""
+msgstr "пылающий меч"
 
 #: Under_the_Burning_Suns/units/Lava_Monster2.cfg:30
 #: Under_the_Burning_Suns/units/Lava_Monster2.cfg:54
@@ -10401,7 +10564,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Troll_Shaman.cfg:46
 #: Under_the_Burning_Suns/units/Lava_Monster3.cfg:55
 msgid "fire"
-msgstr ""
+msgstr "огонь"
 
 #: Under_the_Burning_Suns/units/Lava_Monster2.cfg:4
 #: Under_the_Burning_Suns/units/Lava_Monster.cfg:4
@@ -10420,13 +10583,13 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Lava_Monster2.cfg:29
 #: Under_the_Burning_Suns/units/Lava_Monster.cfg:29
 msgid "fire claws"
-msgstr ""
+msgstr "огненные когти"
 
 #: Under_the_Burning_Suns/units/Lava_Monster2.cfg:52
 #: Under_the_Burning_Suns/units/Lava_Monster.cfg:52
 #: Under_the_Burning_Suns/units/Lava_Monster3.cfg:53
 msgid "fire breath"
-msgstr ""
+msgstr "огненное дыхание"
 
 #: Under_the_Burning_Suns/units/Lava_Monster2.cfg:26
 #: Under_the_Burning_Suns/units/Lava_Monster3.cfg:26
@@ -10439,7 +10602,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Lava_Monster3.cfg:31
 msgid "slash"
-msgstr ""
+msgstr "удар сплеча"
 
 #: Under_the_Burning_Suns/units/Nym_Hunter.cfg:32
 msgid ""
@@ -10455,7 +10618,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Sentinel.cfg:23
 #: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Stalwart.cfg:23
 msgid "steadfast"
-msgstr ""
+msgstr "устойчивость"
 
 #: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Sentinel.cfg:30
 msgid ""
@@ -10468,7 +10631,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Stalwart.cfg:32
 #: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Stalwart.cfg:46
 msgid "spear"
-msgstr ""
+msgstr "копьё"
 
 #: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Stalwart.cfg:4
 msgid "Dwarvish Stalwart"
@@ -10493,7 +10656,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:62
 msgid "mud glob"
-msgstr ""
+msgstr "комок грязи"
 
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:4
 msgid "Spider Lich"
@@ -10529,7 +10692,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Troll_Zombie.cfg:31
 msgid "plague"
-msgstr ""
+msgstr "чума"
 
 #: Under_the_Burning_Suns/units/Undead_Horseman.cfg:4
 msgid "Skeleton Rider"
