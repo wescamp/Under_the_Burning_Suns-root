@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-01-26 11:14+0100\n"
-"PO-Revision-Date: 2005-11-24 13:47+0100\n"
+"PO-Revision-Date: 2006-01-27 22:29+0100\n"
 "Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,6 @@ msgid "Under the Burning Suns"
 msgstr "De Brännande Solarna"
 
 #: Under_the_Burning_Suns.cfg:21
-#, fuzzy
 msgid ""
 "In the distant future a small band of elves struggles to survive amidst the "
 "ruins of fallen empires. Lead your people out of the desert on an epic "
@@ -25,7 +24,7 @@ msgid ""
 msgstr ""
 "I en avlägsen framtid kämpar en liten grupp alver för sin överlevnad bland "
 "ruinerna av fallna stater. Led ditt folk på en episk resa ut ur öknen i "
-"jakten på ett nytt hem. (Version 1.0.5, 2005-11-22)"
+"jakten på ett nytt hem. (Version 1.1, 2006-01-25)"
 
 #: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Hunter5.cfg:4
@@ -642,12 +641,16 @@ msgid ""
 "Look, I found a gold key on a chain around his neck. This must be one of the "
 "keys needed to enter the black citadel."
 msgstr ""
+"Titta, jag fann en guldnyckel i hans halskedja. Det måste vara en av "
+"nycklarna till det svarta citadellet."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1613
 msgid ""
 "Look, I found a gold key on a chain around his neck. I wonder what this key "
 "is for? I bet it will come in use eventually. I'll keep it just in case."
 msgstr ""
+"Titta, jag fann en guldnyckel i hans halskedja. Undrar vad den går till? Den "
+"kommer säkert till nytta för eller senare. Det är bäst att jag behåller den."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1654
 msgid "Nooooo!!!"
@@ -658,12 +661,16 @@ msgid ""
 "Look, I found an iron key on a chain around his neck. This must be one of "
 "the keys needed to enter the black citadel."
 msgstr ""
+"Titta, jag fann en järnnyckel i hans halskedja. Det måste vara en av "
+"nycklarna till det svarta citadellet."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1682
 msgid ""
 "Look, I found an iron key on a chain around his neck. I wonder what this key "
 "is for? I bet it will come in use eventually. I'll keep it just in case."
 msgstr ""
+"Titta, jag fann en järnnyckel i hans halskedja. Undrar vad den går till? Den "
+"kommer säkert till nytta för eller senare. Det är bäst att jag behåller den."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1823
 msgid "Grateful Merman"
@@ -675,28 +682,36 @@ msgid ""
 "don't know how long. So close to the water, but so far. I don't think I "
 "could have lasted much longer. It was horrible."
 msgstr ""
+"Tack skall ni ha. Jag tillfångatogs av nagafolket och har varit instängd här "
+"i evigheter, jag vet inte hur länge. Så nära vattnet, men ändå så långt "
+"borta. Jag tror inte att jag skulle orkat mycket längre. Det var "
+"fruktansvärt."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1842
 msgid ""
 "Well, help us get revenge on the naga. We are here to\n"
 "destroy Yechnagoth."
 msgstr ""
+"Nå, hjälp oss att hämnas på nagafolket. Vi är här för att förgöra Yechnagoth."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1847
 msgid "Gladly. Just let me recover my strength first."
-msgstr ""
+msgstr "Med glädje. Låt mig bara återhämta mig lite först."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1864
 msgid ""
 "I found a chest in the hold of this wrecked ship. It looks like sunken "
 "treasure!"
 msgstr ""
+"Jag hittade en kista i hans skeppsvrak. Det ser ut som en sjunken skatt!"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1882
 msgid ""
 "We've run out of time. The forces that the merfolk helped distract have "
 "returned and will surely kill us all."
 msgstr ""
+"Tiden har hunnit ikapp oss. Styrkorna som sjöfolket hjälpte oss att "
+"distrahera har återvänt och kommer döda oss alla."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1047
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1903
@@ -709,10 +724,12 @@ msgid ""
 "So I see that you have finally slain both of my lieutenants. I wondered how "
 "long it would take you."
 msgstr ""
+"Så, jag ser att ni lyckats dräpa båda mina löjtnanter. Jag undrade just hur "
+"lång tid ni behövde på er."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1925
 msgid "We have your keys. You cannot hide from us now."
-msgstr ""
+msgstr "Vi har dina nycklar. Du kan inte gömma dig för oss nu."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1930
 msgid ""
@@ -720,14 +737,17 @@ msgid ""
 "enter and leave my sanctum? The entire thing was just a charade to see how "
 "much trouble you would go through on your pathetic little quest."
 msgstr ""
+"Trodde ni verkligen att något så simpelt som ett par nycklar räckte för att "
+"träda in i min kammare? Det hela var bara ett skådespel för att se hur "
+"mycket ni var villiga att gå igenom för att uppnå ert ynkliga lilla uppdrag."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1935
 msgid "Sigh, you elves are so predictable."
-msgstr ""
+msgstr "Suck, ni alver är så förutsägbara."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1941
 msgid "Talk all you want, we will have our vengeance!"
-msgstr ""
+msgstr "Du kan prata så mycket du vill, vi kommer att få vår hämnd!"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1946
 msgid ""
@@ -736,6 +756,10 @@ msgid ""
 "prove that you have what it takes. All you others, stay away unless you want "
 "a slow and painful death. I will deal with you later."
 msgstr ""
+"Är det det ni vill? Jag antar att jag är skyldig Kaleh en personlig audiens, "
+"efter allt jag lät honom gå igenom. Nå, här har du din chans. Kom till mig, "
+"pojk, och visa att du har vad som krävs. Ni andra håller er undan, såvida "
+"inte ni söker en långsam och plågsam död. Jag tar itu med er senare."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1964
 msgid ""
@@ -745,16 +769,24 @@ msgid ""
 "safety. My last wish is that no matter what happens you all live long and "
 "fruitful lives. Don't let our sacrifices be forgotten..."
 msgstr ""
+"Jag måste gå och få ett slut på det här. Men först vill jag tacka er alla "
+"för er tilltro till mig genom vår långa resa. Om jag inte kommer levande ur "
+"detta, så var snälla och fly härifrån med sjöfolket och finn någon plats där "
+"ni är trygga. Min sista önskan är att ni, vad som än händer, skall leva "
+"långa och rika liv. Låt inte vår uppoffringar förglömmas..."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1970
 msgid "Kaleh, you can't just go in there alone. She'll kill you!"
-msgstr ""
+msgstr "Kaleh, du kan inte bara gå in där själv. Hon dödar dig!"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1976
 msgid ""
 "I must. Too many others have died because of my actions. I couldn't face "
 "losing you, Nym. Now it is time for me to finish it, alone."
 msgstr ""
+"Jag måste. Alldeles för många har redan dött på grund av mina handlingar. "
+"Jag klarar inte av att förlora dig, Nym. Det är dags för mig att avsluta "
+"det, ensam."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1982
 msgid "May Eloh protect you."
@@ -766,21 +798,23 @@ msgstr "Ske hennes vilja."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:2011
 msgid "Well, now we just have to wait... "
-msgstr ""
+msgstr "Tja, nu kan vi bara vänta..."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:2017
 msgid "You aren't actually going to let him face her alone!?!"
-msgstr ""
+msgstr "Du tänker väl inte låta honom möta henne ensam?!"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:2023
 msgid "Yes I am. In the end it is his decision."
-msgstr ""
+msgstr "Jo, det tänker jag. Det är upp till honom."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:2029
 msgid ""
 "I've saved his sorry ass all this way, I'm not going to let him go and let "
 "himself get killed now."
 msgstr ""
+"Jag har haft honom under uppsikt hela den här tiden. Jag tänker inte låta "
+"honom gå och bli dödad nu."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:2035
 msgid ""
@@ -789,6 +823,10 @@ msgid ""
 "if Eloh wills it he will prevail. You see how all our losses weigh upon him. "
 "He would not want us to disobey him and sacrifice our lives too."
 msgstr ""
+"Nymftessa, kära du, du har alltid varit en rebell. Men du måste lära dig att "
+"respektera dina ledares beslut. Kaleh har gjort sitt val, och om Eloh vill "
+"så klarar han det. Du har ju sett hur våra förluster har tyngt honom. Han "
+"vill inte att vi struntar i vad han säger och offrar våra liv också."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:2041
 msgid ""
@@ -797,6 +835,10 @@ msgid ""
 "made it out of the desert. The rest of you can just sit on your hands and "
 "pray, but I'm going in there!"
 msgstr ""
+"Det bryr jag mig inte om! Tror du jag tänker låta honom gå in där och slåss "
+"alldeles ensam? Han kommer att bli slaktad! Han behöver vår hjälp. Utan oss "
+"hade han aldrig klarat sig genom öknen. Resten av er kan ju sitta här och "
+"be, men jag tänker hjälpa honom!"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:2064
 msgid ""
@@ -805,6 +847,10 @@ msgid ""
 "right, I'm going in. The rest of you stand guard, if we don't come out in "
 "half a hour then flee the island with the merfolk."
 msgstr ""
+"Förbannade flicka! Hon tar livet av mig. Men hon har ändå inte en chans utan "
+"mig. Kaleh är en sak, men Nym behöver mitt beskydd. Okej, jag går in. Resten "
+"av er står på vakt, och om vi inte är ute igen om en halvtimme, så ta med er "
+"sjöfolket och fly härifrån."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:2088
 msgid ""
@@ -812,6 +858,9 @@ msgid ""
 "their without me. Besides, whoever heard of a dwarf being afraid of going "
 "underground? I just hope they save some of the fighting for me."
 msgstr ""
+"Jag har följt pojken så här långt, och jag tänker inte bara låta honom gå in "
+"där utan mig. Och vem har förresten hört om en dvärg som varit rädd för "
+"underjorden? Jag hoppas bara att de sparar lite strid till mig också."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:2098
 msgid ""
@@ -819,18 +868,21 @@ msgid ""
 "will need Grog's help. Other elves may be scared, but Grog fear no dark "
 "place. Grog just hope there still something to smash when he gets there."
 msgstr ""
+"Grog inte sitta här medan Kaleh får all strid. Kaleh behöver Grogs hjälp. "
+"Andra alver kanske rädda, men Grog inte rädd för mörka platser. Grog hoppas "
+"bara att det finns nån att kvar mosa när han kommer dit."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:2278
 msgid "What's that strange screeching sound coming from the jungle?"
-msgstr ""
+msgstr "Vad är det för något konstigt skrikande från djungeln?"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:2416
 msgid "That's odd. Why did those bats suddenly fly off?"
-msgstr ""
+msgstr "Underligt. Vart försvann alla fladdermöss?"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:2422
 msgid "They must be nocturnal."
-msgstr ""
+msgstr "De måste vara nattdjur."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:9
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:10
@@ -1474,31 +1526,35 @@ msgstr "SLUT"
 
 #: Under_the_Burning_Suns/scenarios/13Credits.cfg:20
 msgid "CAMPAIGN CREDITS:"
-msgstr ""
+msgstr "TACK TILL:"
 
 #: Under_the_Burning_Suns/scenarios/13Credits.cfg:26
 msgid "Campaign Writer and Programmer: Asa Swain"
-msgstr ""
+msgstr "Kampanjförfattare och programmerare: Asa Swain"
 
 #: Under_the_Burning_Suns/scenarios/13Credits.cfg:32
 msgid ""
 "Artists: Sangel, Jetryl, Pickslide (James Woo), Scott Klempner, Emdot, Shadow"
 "(Peter Geinitz), Frame (Hogne Håskjold)"
 msgstr ""
+"Artister: Sangel, Jetryl, Pickslide (James Woo), Scott Klempner, Emdor, "
+"Shadow (Peter Geinitz), Frame (Hogne Håskjold)"
 
 #: Under_the_Burning_Suns/scenarios/13Credits.cfg:38
 msgid "Translators: Allefant [German], Sanna [Swedish]"
-msgstr ""
+msgstr "Översättare: Allefant [Tyska], Sanna [Svenska], tephlon [svenska]"
 
 #: Under_the_Burning_Suns/scenarios/13Credits.cfg:44
 msgid "Testers: Mark Polo, Isaac, Ringcaat"
-msgstr ""
+msgstr "Testare: Mark Polo, Isaac, Ringcaat"
 
 #: Under_the_Burning_Suns/scenarios/13Credits.cfg:50
 msgid ""
 "And thanks to everyone else I have forgotten to mention. I could not have "
 "done this without the support of the Wesnoth Community."
 msgstr ""
+"Och tack till alla andra som jag glömt att nämna. Jag hade inte klarat att "
+"göra detta utan stöd från Wesnothgemenskapen."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:7
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:8
