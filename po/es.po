@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-02-27 12:18+0100\n"
-"PO-Revision-Date: 2006-02-17 02:40+0100\n"
+"PO-Revision-Date: 2006-03-04 15:31+0100\n"
 "Last-Translator: Elestel <dadoverde@hotmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -2623,6 +2623,10 @@ msgid ""
 "out of the northern foothills and were rampaging across the sands, killing "
 "anything they could get their filthy hands on."
 msgstr ""
+"Capitulo 2: Cuando tenía quince años hice mi primera incursión, contra unos "
+"intrusores orcos hacia el oeste. Un grupo numeroso de orcos bajo algún nuevo "
+"líder había salido de las estibaciones del norte y se estaban desmandando "
+"por las arenas, matanto a cualquiera que pudieran pillar en sus sucias manos."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:63
 msgid ""
@@ -2635,6 +2639,16 @@ msgid ""
 "colors, fled from the battlefield. It seemed a glorious victory, and I "
 "hardly noticed our elven brethren lying dead in the sand."
 msgstr ""
+"Serpenteando entre las arenas nos deslizamos en el campamento y les "
+"emboscamos al amanecer. Para un chico joven como era fueron impresionantes "
+"las espadas chocando, la sangre, los gritos de guerra y amigos y enemigos "
+"mezclandose adelante y atrás. Los orcos se reunieron en torno a su líder, y "
+"nuestra habilidad al combate fue contrarrestada por sus enormes números. Fue "
+"mi padre quién finalmente luchó con el asqueroso jefe orco mano a mano, y le "
+"remató en la arena ocre, cubierto de sangre. Los orcos supervivientes, "
+"viendo sus verdaderos colores, se retiraron del campo de batalla. Parecía "
+"una victoria gloriosa, y yo descubrí duramente a nuestros hermanos elfos "
+"yaciendo muertos en la arena del desierto."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:67
 msgid ""
@@ -2647,6 +2661,15 @@ msgid ""
 "to Eloh as if my life depended on it. The air grew thick with sand, and "
 "everything grew dark and hazy..."
 msgstr ""
+"Estaba mareado en el viaje de vuelta a casa, mi corazón palpitando con "
+"euforia y orgullo. Había peleado en mi primera batalla, y ahora era un "
+"hombre como mi padre. Luego una noche, durante la larga oscuridad un viento "
+"cruel vino sobre nosotros, huracanado y gimiente alrededor de nuestras "
+"tiendas. Al amanecer se había vuelto peor, y me pregunté si algún mal dios "
+"estaba tratando de vengarse de nuestra masacre de los orcos. Había visto "
+"tormentas de arena antes, pero ninguna como esta. Me escondí en mi tienda "
+"rezando a Eloh como si mi vida dependiera de ello. El aire se volvió denso "
+"con arena, y todo se tornó oscuro y brumoso..."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:71
 msgid ""
@@ -2661,6 +2684,18 @@ msgid ""
 "way again. I learned that the desert can be fickle and fierce, and death is "
 "always lurking just over the horizon."
 msgstr ""
+"La siguiente cosa que recuerdo, es que alguien estaba inclinado sobre mi y "
+"sacudiéndome para que despertara. Estaba medio enterrado en la arena, y me "
+"sentía débil pero vivo. Nuestro equipamiento estaba diseminado por las dunas "
+"o enterrado en la arena. Mirando alrededor, sólo vi a unos pocos de mis "
+"compañeros, que estaban cavando en la arena, fervientemente esperando "
+"encontrar a otros supervivientes. Yo excavé furiosamente en la arena con mis "
+"manos y grité hasta quedarme afónico, pero lo intenté mientras tuve fuerzas, "
+"sin poder encontrar a mi padre. Me dijeron que había sido tragado por la "
+"arena, pero no pude ser consolado. En un instante mi mundo se derrumbó; "
+"nunca volví al ver el desierto completamente de la misma forma de nuevo. "
+"Aprendí que el desierto puede ser inconstante y feroz, y que la muerte está "
+"siempre acechando justo detrás del horizonte."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:75
 msgid ""
@@ -2670,6 +2705,12 @@ msgid ""
 "Thinking of the last time we had gone out in force, I made a silent prayer "
 "to my father to watch over us. There was nowhere to go but north."
 msgstr ""
+"Ahora otra vez salía a través de las arenas, pero esta vez no estaba sólo "
+"yo, sino todo mi pueblo al que tenía que proteger. Dependían de mi juicio, y "
+"estaba sólo, demasiado consciente del peso sobre mis estrechos hombros. "
+"Pensando en la última vez que habíamos de salir por la fuerza, hice un "
+"silencioso rezo a mi padre para que nos protegiera. No había ningún sitio a "
+"donde ir salvo hacia el norte."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:97
 msgid "Thorn"
@@ -2678,7 +2719,7 @@ msgstr "Thorn"
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:286
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2751
 msgid "Kaleh Must Reach the Northern Edge of the Desert"
-msgstr ""
+msgstr "Kaleh Debe Alcanzar el Borde Norte del Desierto"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:524
 msgid ""
@@ -2688,10 +2729,16 @@ msgid ""
 "nightfall, but all his magics couldn't save him when we cut off his head. "
 "Ah, those were the days..."
 msgstr ""
+"Había cruzado las arenas hace mucho tiempo, cuando era un joven, y fuimos en "
+"una gran incursión contra un asqueroso nigromante que se ocultaba en una de "
+"las ruinas, creando un ejército de no muertos. Fue una sucia batalla, "
+"especialmente después de la caida de la noche, pero todas sus magias no "
+"pudieron salvarle cuando le cortamos la cabeza. Ah, aquellos viejos "
+"tiempos..."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:529
 msgid "Do you remember anything about these sands?"
-msgstr ""
+msgstr "¿Recuerdas algo sobre estas arenas?"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:534
 msgid ""
@@ -2700,6 +2747,11 @@ msgid ""
 "its base, or did the last time I camped there. If we make it to Pinnacle "
 "Rock we will be just a few miles from the edge of the mountains."
 msgstr ""
+"¿Ves el punto marrón levantándose en el horizonte al norte? Es la Roca de la "
+"Cumbre. Es el sitio más alto en muchas millas alrededor, y tiene un pozo en "
+"su base, o al menos estaba la última vez que acampamos allí. Si llegamos a "
+"la Roca de la Cumbre estaremos sólo a unas pocas millas del principio de las "
+"montañas."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:539
 msgid ""
@@ -2710,12 +2762,20 @@ msgid ""
 "old stone roads that lead from oasis to oasis. Once the path must have "
 "formed a great thoroughfare for commerce. "
 msgstr ""
+"Pero entre aquí y allí hay un trecho particularmente estéril de arenas, con "
+"muy pocos oasis y agujeros donde encontrar agua. Por suerte creo que solía "
+"haber una vieja ruta de caravanas hacia el norte, que iba de oasis a oasis. "
+"Los oasis no son fáciles de encontrar pero ocasionalmente las arenas se "
+"apartan, revelando viejos monolitos de piedra que guían entre oasis y oasis. "
+"Una vez el camino debió haber formado un gran pasillo para el comercio."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:544
 msgid ""
 "I believe that there was once a great empire in these lands, long ago, "
 "before the sands came."
 msgstr ""
+"Creo que eso fue cuando hubo un gran imperio en estas tierras, hace mucho, "
+"antes de que las arenas vinieran."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:549
 msgid ""
@@ -2724,6 +2784,11 @@ msgid ""
 "oasis to oasis, we may be able to survive the thirst and heat of the desert. "
 "But there are worse dangers in these sands than thirst."
 msgstr ""
+"He visto los antiguos restos de castillos de piedra y marcas en las arenas. "
+"Los senderos de los antiguos todavía pueden servirnos de nuevo. Si seguimos "
+"los senderos entre oasis y oasis, podremos ser capaces de sobrevivir a la "
+"sed y el calor del desierto. Pero hay peligros mucho peores que la sed en "
+"estas arenas."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:554
 msgid ""
@@ -2733,6 +2798,12 @@ msgid ""
 "more sources of water. As it is, between the heat of the day and the cold of "
 "the night, this journey will be hard on our people."
 msgstr ""
+"Desafortunadamente debido a nuestra rápida salida de la aldea, estamos "
+"cortos de agua y raciones. Tendremos lo suficiente si nos movemos "
+"rápidamente y comemos lo menos posible, pero no duraremos demasiado en "
+"terreno baldío si no podemos encontrar más fuentes de agua. Mientras así "
+"sea, entre el calor del día y el frío de la noche, este viaje será duro en "
+"nuestra gente."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:559
 msgid ""
@@ -2742,6 +2813,12 @@ msgid ""
 "units, it will never lower them below 1 hit point. Also, at the start of "
 "your turn, each unit in an oasis (shallow water) hex will gain 8 hit points."
 msgstr ""
+"Durante el día (Amanecer, Mañana, Mediodía, Tarde y Anochecer) al final de "
+"cada uno de tus turnos, cada unidad que esté en un hexágono de arena, "
+"camino, ruinas o duna de arena recibirá $desert_damage de daño. Aunque la "
+"deshidratación puede dañar severamente a tus unidades, se quedarán como "
+"mínimo con 1 punto de vida. También, al principio de tu turno, cada unidad "
+"en un oasis (aguas superficiales), ganará 8 puntos de vida."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:564
 msgid ""
@@ -2750,6 +2827,11 @@ msgid ""
 "key to our survival, their fresh water will heal our people much faster and "
 "better than any of our powers."
 msgstr ""
+"Las otras chamanes y yo podemos proveer curación menor para aliviar la "
+"extenuación y deshidratación del viaje por el desierto. Pero los oasis como "
+"el que está junto a nosotros son la llave de nuestra supervivencia, su agua "
+"fresca curará a nuestra gente mucho más rápido y mejor que cualquiera de "
+"nuestros poderes."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:569
 msgid ""
@@ -2759,18 +2841,24 @@ msgid ""
 "people get more experienced they often require more support, so we don't "
 "want to run out of supplies halfway across the desert."
 msgstr ""
+"También Kaleh, ten cuidado de no reclutar a demasiados guardias que vayan "
+"con nosotros. Dudo de que vayamos a encontrar alguna aldea más en las "
+"arenas, así que los ingresos que ahora tenemos es todo lo que vamos a tener. "
+"Recuerda que mientras nuestra gente vaya cogiendo más experiencia a veces "
+"requerirán más soporte, asi que no queramos quedarnos sin suministros a "
+"mitad de camino por el desierto."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:574
 msgid "Well, the sooner we reach Pinnacle Rock, the better. Onwards!"
-msgstr ""
+msgstr "Bueno, cuanto antes alcancemos la Roca de la Cima, mejor. ¡En marcha!"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:936
 msgid "Scorpions! We must have stumbled across a nest of them."
-msgstr ""
+msgstr "¡Escorpiones! Debemos haber tropezado con un nido de ellos."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:943
 msgid "We've hit a nest of scorpions!"
-msgstr ""
+msgstr "¡Hemos entrado en un nido de escorpiones!"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1021
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1029
@@ -2782,44 +2870,57 @@ msgid ""
 "from thirst or hunger, nor cold nor heat. I've heard tales of such magical "
 "items, we can certainly use it now."
 msgstr ""
+"Los escorpiones estaban devorando el cuerpo de alguna pobre víctima. No "
+"parece que quede mucho de él o ella, pero espera... ¿Qué es esto? Parece un "
+"pequeño anillo de oro. Y hay runas élficas en el interior, difícilmente "
+"puedo sacarlas. Parece ser un anillo de viaje, que aquel que lo lleve no "
+"sufrirá sed o hambre, ni frío ni calor. He oído cuentos de estos objetos "
+"mágicos, podemos usarlo ciertamente ahora."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1037
 msgid ""
 "One unit wearing this ring is immune to any damage caused during the day by "
 "the heat of the desert."
 msgstr ""
+"Una unidad que lleve este anillo es inmune a cualquier daño causado durante "
+"el día por el calor del desierto."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1070
 msgid "Traveller's Ring"
-msgstr ""
+msgstr "Anillo del Viajero"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1072
 msgid "At the end of each turn, this unit takes no damage from the desert."
-msgstr ""
+msgstr "Al final de cada turno, esta unidad no recibe daño del desierto."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1122
 msgid ""
 "Look, an oasis! Its refreshing water will heal any of our wounded people who "
 "enter it, and others can rest safely on the grass during the heat of the day."
 msgstr ""
+"¡Mira, un oasis! Su resfrecante agua curará a cualquiera de los nuestros "
+"heridos que entre en él, y otros podrán descansar a salvo en la hierba "
+"durante el calor del día."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1419
 msgid "Ambush! Ogres!"
-msgstr ""
+msgstr "¡Emboscada! ¡Ogros!"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1426
 msgid "Ogre Ambush!"
-msgstr ""
+msgstr "¡Emboscada de Ogros!"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1434
 msgid "Fresh Meat!"
-msgstr ""
+msgstr "¡Carne Fresca!"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1448
 msgid ""
 "Ugh, they smell as bad as they look. And they're huge! Well, the bigger they "
 "are, the harder they fall."
 msgstr ""
+"Ugh, huelen tan mal como pintan. ¡Y son enormes! Bueno, cuanto más grande se "
+"es, más dura es la caída."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1496
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1502
@@ -2827,22 +2928,27 @@ msgid ""
 "That's the last of them. This looks like a raiding party, they must have a "
 "camp around here somewhere."
 msgstr ""
+"Este era el último de ellos. Parecía una partida de incursores, deben de "
+"tener el campamento en algún lugar aquí cerca."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1688
 msgid "This is our oasis, and we will water it with your blood!"
-msgstr ""
+msgstr "¡Éste es nuestro oasis, y lo regaremos con vuestra sangre!"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1693
 msgid ""
 "We don't know who you are, and we don't much care. Tremble before the might "
 "of the Black Hand!"
 msgstr ""
+"No sabemos quienes sois, y no nos importa demasiado. ¡Temblad bajo la fuerza "
+"de la Mano Negra!"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1706
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1713
 msgid ""
 "We need that water, and if we have to go through you to get it, so be it."
 msgstr ""
+"Necesitamos esa agua, y si necesitamos atravesaros para cogerla, que así sea."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:1844
 msgid "Elyssa"
@@ -2854,7 +2960,7 @@ msgstr "Go-hag"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2102
 msgid "Back you fiends! Or I'll kill you a second time!"
-msgstr ""
+msgstr "¡Atrás demonios! ¡O yo os mataré una segunda vez!"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2109
 msgid ""
@@ -2862,42 +2968,49 @@ msgid ""
 "personally make it slow and painful, to thank you for that scorching you "
 "gave me. "
 msgstr ""
+"¡Has desafiado a nuestro maestro por última vez! ¡Ahora debes morir! Y yo "
+"personalmente lo realizaré lenta y dolorosamente, para agradecerte las "
+"quemaduras que me hiciste."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2116
 msgid "You have defied our master for the last time. Now you shall die!"
-msgstr ""
+msgstr "¡Has desafiado a nuestro maestro por última vez! ¡Ahora debes morir!"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2123
 msgid "Stupid undead, they never listen. Then have a taste of my flame!"
-msgstr ""
+msgstr "Estúpidos no muertos, nunca escuchan. ¡Tendrán el gusto de mi llama!"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2128
 msgid "She looks like she's in trouble. We should help her."
-msgstr ""
+msgstr "Parece que está en problemas. Deberíamos ayudarla."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2141
 msgid "Whew! Looks like that's the last of them."
-msgstr ""
+msgstr "¡Guau! Parece que ese era el último de ellos."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2146
 msgid "Thanks for the help, that was a little too close for comfort."
-msgstr ""
+msgstr "Gracias por la ayuda, ese estaba un poquito demasiado cerca."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2151
 msgid "That was a lot of undead, why were they coming after you?"
-msgstr ""
+msgstr "Había un montón de no muertos, ¿Porqué te estaban persiguiendo?"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2156
 msgid ""
 "I accidentally managed to anger a powerful necromancer a while ago...it's a "
 "long story. But who are you? You almost look like elves."
 msgstr ""
+"Accidentalmente conseguí enfurecer a un poderoso nigromante hace tiempo... "
+"es una larga historia. ¿Pero quienes sois? Casi pareceis como elfos."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2161
 msgid ""
 "We are, we're the Quenoth Elves and we are traveling north. You look like "
 "you're a mage, but I thought your kind were all gone."
 msgstr ""
+"Lo somos, somos los Elfos de Quenoth y estamos viajando al norte. Parece que "
+"eres una maga, pero pensé que los tuyos habían desaparecido."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2166
 msgid ""
@@ -2906,43 +3019,55 @@ msgid ""
 "meaning to check out the northern mountains, mind if I join you for a while "
 "in your travels?"
 msgstr ""
+"Lo soy, soy una maga de fuego. Ahora estoy viajando por una temporada, "
+"explorando y aprendiendo. Pero estas arenas parecen particularmente "
+"inhóspitas, y estaba dirigiéndome a comprobar las montañas del norte, ¿Os "
+"importaría si me uno a vuestros viajes por un tiempo?"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2171
 msgid "We'd be glad to have the help of someone with the mastery of fire."
 msgstr ""
+"Estaremos encantados de tener la ayuda de alguien con la maestría del fuego."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2208
 msgid ""
 "The undead are defeated, but we lost her in the fight as well. Darn, if only "
 "we could have saved her."
 msgstr ""
+"Los no muertos están derrotados, pero la perdimos en la lucha también. "
+"Caray, ojalá hubiéramos podido haberla salvado."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2343
 msgid "Elves! Kill them all!"
-msgstr ""
+msgstr "¡Elfos! ¡Matádlos a todos!"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2348
 msgid ""
 "This ruined castle must be where the ogres make their home. Well, if it's a "
 "fight they want, it's a fight they'll get. "
 msgstr ""
+"Este castillo en ruinas debe ser donde los ogros tienen su hogar. Bueno, si "
+"una lucha es lo que ellos quieren, una lucha tendrán."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2410
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2419
 msgid "That's the last of those stinking beasts. They will trouble us no more."
 msgstr ""
+"Esta es la última de esas bestias hendiondas. No nos darán más problemas ya."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2428
 msgid "Y'know, this ruin looks oddly familiar."
-msgstr ""
+msgstr "Sabes, estas ruinas me parecen extrañamente familiares."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2433
 msgid "Yuck, there's still dried blood on the stones. It's kind of spooky."
 msgstr ""
+"Vaya, todavía hay sangre seca en las piedras. Hay algo de espeluznante en "
+"todo esto."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2563
 msgid "Vengeful Lord"
-msgstr ""
+msgstr "Señor Vengativo"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2582
 msgid ""
@@ -2951,87 +3076,115 @@ msgid ""
 "before. Death reigns eternal, and soon your scorched bones and lifeless "
 "bodies shall follow a new master!"
 msgstr ""
+"¡Nunca más los infieles contaminarán mi castillo! Esperad un minuto, os "
+"recuerdo, elfos. Pensabais que me habíais derrotado, pero he vuelto otra vez "
+"más poderoso que antes. ¡La Muerte reina eternamente, y pronto vuestros "
+"cuerpos requemados y sin vida seguirán a un nuevo maestro!"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2587
 msgid ""
 "Still singing the same tune. We defeated you once before, we can do so again!"
 msgstr ""
+"Todavía sigue cantando la misma canción. ¡Te derrotamos una vez antes, y "
+"podemos hacerlo de nuevo!"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2611
 msgid "No!!!!"
-msgstr ""
+msgstr "¡¡¡¡No!!!!"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2642
 msgid "Searching his castle, we found a chest with $goldreward gold."
-msgstr ""
+msgstr "Buscando por el castillo, encontramos un cofre con $goldreward de oro."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2712
 msgid ""
 "This sign reads: This land belongs to the Black Hand. Trespass and you will "
 "die."
 msgstr ""
+"En este cartel se lee: Esta tierra pertenece a la Mano Negra. Traspasala y "
+"tú morirás."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2725
 msgid ""
 "So they're posting signs now, are they? Whoever these guys are, if they get "
 "in our way, they're going to be sorry."
 msgstr ""
+"Así que ahora se dedican a poner carteles, ¿no? Quienquiera que sean estos "
+"tipos, están en nuestro camino, y lo van a lamentar."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2734
 msgid ""
 "I'm not sure who these guys are, but they don't sound friendly. Nonetheless, "
 "if they get in our way, they're going to be sorry."
 msgstr ""
+"No estoy seguro de quienes son estos tipos, pero no suenan amistosos. De "
+"ninguna de las maneras, si se interponen en nuestro camino, lo van a "
+"lamentar."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2742
 msgid ""
 "There's no way we can get all our people safely across the desert, if these "
 "outlaws are harassing us. We must defeat them before we can continue. "
 msgstr ""
+"No hay forma de que podamos llevar a todo nuestra gente a salvo a través del "
+"desierto, si esos proscritos nos acosan. Debemos derrotarles antes de que "
+"podamos continuar."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2755
 msgid "Defeat Outlaw Leader"
-msgstr ""
+msgstr "Derrotar al Líder Proscrito"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2867
 msgid ""
 "Dang. I was sure I saw an oasis here. Must have been a mirage. I've been out "
 "in the sand for too long."
 msgstr ""
+"Vaya. Estaba seguro deque vi un oasis aquí. Debe haber sido un espejismo. He "
+"estado en la arena demasiado tiempo."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2892
 msgid ""
 "So, the outlaws have made a base around Pinnacle Rock. It's a good location, "
 "but we will drive them from it all the same"
 msgstr ""
+"Asi pues, los proscritos han hecho una base en torno a la Roca de la Cumbre. "
+"Es una buena localización, pero les sacaremos de allí de todas formas."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2915
 msgid "I surrender, I mean we surrender. Just please don't kill me."
-msgstr ""
+msgstr "Me rindo, quiero decir que nos rendimos. Pero por favor no me mates."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2922
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2934
 msgid ""
 "Please, have mercy on us. We'm just trying to survive in this horrible land."
 msgstr ""
+"Por favor, ten merced con nosotros. Sólo intentamos sobrevivir en esta "
+"tierra horrible."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2927
 msgid ""
 "I will not kill you in cold blood. But leave these lands, and never darken "
 "our path again. Or I will show you no mercy."
 msgstr ""
+"No te mataré a sangre fría. Pero abandona estas tierras, y nunca oscurezcas "
+"nuestro camino de nuevo. O no mostraré merced contigo."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2955
 msgid ""
 "Here, take this vial of holy water. You'll need it with all the undead "
 "around."
 msgstr ""
+"Mira, lleva este vial de agua bendita. La necesitarás con todos estos no "
+"muertos por aquí."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2960
 msgid ""
 "I will take this vial, in exchange for your life. But leave these lands, and "
 "never darken our path again. Or I will show you no mercy."
 msgstr ""
+"Tomaré este vial, en intercambio por tu vida. Pero abandona estas tierras, y "
+"nunca oscurezcas nuestro camino de nuevo. O no mostraré merced contigo."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2965
 msgid ""
@@ -3039,16 +3192,21 @@ msgid ""
 "Vials such as these are rare and valuable. We should choose carefully who "
 "will use it."
 msgstr ""
+"Es agua bendita. Cuando se imbuye un arma con ella la hace mortal para los "
+"no muertos. Viales como estos son raros y valiosos. Debemos elegir "
+"cuidadosamente quién la usará."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3006
 msgid "Pure Water"
-msgstr ""
+msgstr "Agua Bendita"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3008
 msgid ""
 "This water will make your melee weapons holy, and thus especially powerful "
 "against the undead."
 msgstr ""
+"Esta agua bendecirán tus armas de cuerpo a cuerpo, y las hará especialmente "
+"poderosas contra los no muertos."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3056
 msgid ""
@@ -3056,6 +3214,10 @@ msgid ""
 "fights we won't be able to get all our people across the sands safely. We "
 "must deal with the Black Hand before we can progress further."
 msgstr ""
+"Los proscritos de la Mano Negra siguen amenazando a los otros. Mientras su "
+"líder siga luchando no podremos ser capaces de llevar a nuestra gente a "
+"través de las arenas con seguridad. Debemos negociar con la Mano Negra antes "
+"de que podamos progresar más."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3086
 msgid ""
@@ -3063,6 +3225,9 @@ msgid ""
 "hills are just a few miles to the north. We should be able to find water and "
 "rest there."
 msgstr ""
+"Los bandidos han sido derrotados y hemos atravesado estas malditas arenas. "
+"Las colinas están sólo a unas pocas millas al norte. Debemos ser capaces de "
+"encontrar agua y descansar allí."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3111
 msgid ""
@@ -3070,6 +3235,9 @@ msgid ""
 "really doing out in the middle of the desert? It's a rather barren place to "
 "be travelling."
 msgstr ""
+"Ahora que tenemos un momento de paz, tengo que preguntarte, Elyssa, ¿Qué "
+"estabas haciendo realmente en medio del desierto? Es un sitio bastante "
+"estéril para estar viajando."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3116
 msgid ""
@@ -3077,12 +3245,18 @@ msgid ""
 "land used to be a huge empire? Apparently this used to all be great plains "
 "and farmland, before the sands came."
 msgstr ""
+"Estaba buscando secretos del pasado. ¿Sabías que toda esta tierra era un "
+"enorme imperio? Aparentemente estas eran grandes llanuras y tierras de "
+"cultivo, antes de que las arenas vinieran."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3121
 msgid ""
 "It's hard to imagine. There's barely enough rain here now to support these "
 "tiny cacti, let alone crops."
 msgstr ""
+"Es difícil imaginarlo. Es casi imposible pensar que haya suficiente lluvia "
+"aquí ahora para mantener estos cactus enanos, pues como para imaginarse "
+"cultivos."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3126
 msgid ""
@@ -3090,6 +3264,9 @@ msgid ""
 "testament that something was here before us. Perhaps in a time long ago when "
 "the land was more forgiving."
 msgstr ""
+"Y todavía las grandes ruinas que he visto diseminadas por aquí son un "
+"testamento de algo que estaba por aquí antes que nosotros. Quizás en un "
+"tiempo muy lejano cuando la tierra era más compasiva."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3131
 msgid ""
@@ -3099,10 +3276,15 @@ msgid ""
 "fragments that are left. For example, have you ever heard of The Sceptre of "
 "Fire?"
 msgstr ""
+"Antes de la gran caida, había enormes ciudades, con grandes escuelas de "
+"magia, bibliotecas de libros, vastos depósitos de conocimiento. La mayoría "
+"fueron destruidos en el subsiguiente caos y años de decadencia, pero estoy "
+"buscando los pequeños fragmentos que dejaron. Por ejemplo, ¿Has oído hablar "
+"alguna vez del Cetro de Fuego?"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3136
 msgid "No, I haven't. What is it?"
-msgstr ""
+msgstr "No. ¿Qué es?"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3141
 msgid ""
@@ -3112,17 +3294,27 @@ msgid ""
 "old empire, but I have no idea where it might be. So I scour the land, "
 "learning all I can about the olden days. I'm sure it must be somewhere."
 msgstr ""
+"No estoy segura. He leído algunas referencias a él, pero nada específico. Lo "
+"he estado buscando un largo tiempo. Todo lo que sé es que fue una vara "
+"mágica muy poderosa y era algún tipo de símbolo de la realeza en el antiguo "
+"imperio, pero no tengo ni idea de dónde puede estar. Por eso recorro las "
+"tierras, aprendiendo todo lo que pueda sobre los días antiguos. Estoy segura "
+"de que debe de estar en alguna parte."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3146
 msgid ""
 "Perhaps. But it has been so long, and so much has been lost. Who can say?"
 msgstr ""
+"Quizás. Pero ha sido hace tanto y tanto lo que se ha perdido. ¿Quién sabe?"
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3214
 msgid ""
 "We've run out of provisions and our people are exhausted. We've taken too "
 "long crossing the desert, I fear we shall never reach the other side. "
 msgstr ""
+"Nos hemos quedado sin provisiones y nuestra gente está exhausta. Nos ha "
+"llevado tanto tiempo cruzar el desierto, que me temo que nunca alcanzaremos "
+"el otro lado."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3454
 msgid ""
@@ -3131,31 +3323,41 @@ msgid ""
 "nasty. They disappear again at dawn, but personally I prefer the heat of the "
 "day to the horrors of the night."
 msgstr ""
+"Las arenas están malditas con los espíritus de almas torturadas muertas hace "
+"mucho. Al anochecer se levantarán de nuevo, y durante la Larga Oscuridad "
+"pueden ser particularmente asquerosos. Desaparecen al amanecer de nuevo, "
+"pero personalmente prefiero el calor del día a los horrores de la noche."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3459
 msgid ""
 "The combination of the heat of the day and the rising undead make dusk a "
 "particularly dangerous time of day."
 msgstr ""
+"La combinación del calor del día y los muertos levantándose hacen del "
+"anochecer un periodo particularmente peligroso del día."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3728
 msgid "What happened? The undead spirits all just disappeared."
 msgstr ""
+"¿Qué pasó? Los espíritus de los muertos vivientes, todos acaban de "
+"desaparecer."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3733
 msgid ""
 "These spirits are weak, they seek to prey on the helpless, but when they "
 "encounter strong resistance they flee."
 msgstr ""
+"Esos espíritus son débiles, deben alimentarse de la desesperación, pero "
+"cuando encuentran una fuerte resistencia se retiran."
 
 #: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:3747
 msgid "Flee, you craven spirits, and leave us in peace!"
-msgstr ""
+msgstr "¡Retiráos, espíritus ansiosos, y dejádnos en paz!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:13
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:14
 msgid "A Stirring in the Night"
-msgstr ""
+msgstr "Agitación Nocturna"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:33
 msgid ""
@@ -3166,6 +3368,14 @@ msgid ""
 "afraid. I had lived my entire life in the sands, they were my home, and the "
 "rocky hills and white glistening mountaintops seemed foreign and foreboding."
 msgstr ""
+"Capitulo 3: Continuamos hacia el norte a travás del desierto, las "
+"amenazantes colinas y montañas prometian un relieve bendito comparado con "
+"las aparentemente interminables arenas. Pronto alcanzamos el principio de "
+"las estribaciones, y decidimos descansar allí durante la noche. Tan cansado "
+"como estaba de marchar a través de la arena, me sentí extrañamente asustado. "
+"Había vivido mi vida entera en las arenas, ellas eran mi hogar, y las "
+"colinas rocosas y los relucientes picos blancos de las montañas me daban "
+"presentimientos extraños y ajenos."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:37
 msgid ""
@@ -3176,6 +3386,13 @@ msgid ""
 "more about day to day matters than the extra-worldly ones. But who was I to "
 "question a god?"
 msgstr ""
+"Me preocupaba si estaba haciendo lo correcto, llevando a mi pueblo a tierras "
+"extrañas. Aún pese a las promesas de Eloh, no estaba tan seguro de mi mismo "
+"como Zhul lo estaba, de que todo terminaría bien. Volviendo la vista a atrás "
+"pensé en lo extraño que era que fuera el único a quien Eloh se mostrase ella "
+"misma. Nunca fui particularmente devoto, siempre preocupaban los problemas "
+"de cada día que los de las deidades. Pero, ¿quién era yo para cuestionar a "
+"un dios?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:41
 msgid ""
@@ -3194,54 +3411,78 @@ msgid ""
 "fear not the dark.' And again, just like before, I was woken up by a shout "
 "in the night. "
 msgstr ""
+"Esa noche, mientras dormía, soñé de nuevo, por primera vez desde aquella "
+"primera noche fatídica. Eloh vino a mi de nuevo, y esta vez apareció en una "
+"visión como una bella figura fulgurante, tan brillante como los soles. Ella "
+"dijo: 'Ten coraje, aunque pronto debáis atravesar un tiempo de oscuridad, "
+"todas vuestras pruebas serán ricamente recompensadas al final. Debéis bajo "
+"las montañas del norte, no sobre ellas. Encontraréis las ruinas de una "
+"antigua torre de vigilancia hecha de obsidiana negra en el desierto al borde "
+"de las colinas. Por esa torre hallaréis la entrada a los túneles que "
+"buscáis. Seguid el suave tunel antiguo por debajo de las montañas y cuando "
+"vuelvas a ver el cielo y mis soles, contactaré contigo. Pero cuidáos de lo "
+"que se oculta en la oscuridad, se esconden de mi luz, y no se debe confiar. "
+"No tengo poder en la oscuridad, asi que sois la mano de mi justicia. "
+"Castigad a los que no crean en mi. Id ahora, y no temáis a la oscuridad.' Y "
+"de nuevo, justo como antes, fui despertado con un grito en la noche."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:55
 msgid "Kaleh, wake up! Scouts report movement out in the sands."
 msgstr ""
+"¡Kaleh, despierta! Los exploradores han descubierto movimiento en las arenas."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:60
 msgid "Is it orc raiders?"
-msgstr ""
+msgstr "¿Son incursores orcos?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:65
 msgid "I don't think so..."
-msgstr ""
+msgstr "No lo creo..."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:70
 msgid "We meet again Ystara."
-msgstr ""
+msgstr "Nos encontramos de nuevo, Ystara."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:75
 msgid "You think you can take me, Azkotep?"
-msgstr ""
+msgstr "¿Piensas que puedes cogerme, Azkotep?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:80
 msgid ""
 "My champion, Zur shall slice you to shreds like the puny adept you once were."
 msgstr ""
+"Mi campeón, Zur puede reducirte a trizas como el enclenque adepto que antes "
+"eras."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:85
 msgid ""
 "You always were an arrogant little bastard. Grek will swallow your soul "
 "first, or what's left of it."
 msgstr ""
+"Tu siempre fuiste un arrogante bastardillo. Grek se tragará tu alma antes, o "
+"lo que quede de ella."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:90
 msgid ""
 "You spurned me once; I will make you pay. But enough of the past--to battle, "
 "my minions! Behold the wrath of the dead!"
 msgstr ""
+"Me rechazaste una vez; te lo haré pagar. Pero basta del pasado, ¡a la "
+"batalla, mis secuaces! ¡Contemplad la furia de la muerte!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:95
 msgid ""
 "Great, ringside seats for an all out battle between two undead lords. You "
 "really know how to pick a campsite, Kaleh."
 msgstr ""
+"Genial, asientos de primera fila para toda una batalla entre dos señores no "
+"muertos. Realmente sabes donde poner los campamentos, Kaleh."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:100
 msgid ""
 "Where did they come from? I swear those castles weren't there at sunset."
 msgstr ""
+"¿De dónde han venido? Juraría que esos castillos no estaban ahí al anochecer."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:105
 msgid ""
@@ -3249,36 +3490,51 @@ msgid ""
 "wraith-like forms, I have no doubt that their cold steel can still bite "
 "flesh."
 msgstr ""
+"Muchas cosas extrañas pueden ocurrir durante la larga oscuridad. Pero aún "
+"por sus formas fantasmales, no tengo dudas de que su fría carne puede ser "
+"mordido por el acero para dejarles a cero."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:110
 msgid ""
 "Like I haven't killed enough undead recently. Why can't these guys just stay "
 "dead?"
 msgstr ""
+"Como si no hubiera matado suficientes no muertos recientemente. ¿Por qué "
+"estos tipos no pueden quedarse simplemente muertos?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:115
 msgid ""
 "Our encampment is out of the direct line of attack, so we should be somewhat "
 "safe, at least."
 msgstr ""
+"Nuestro campamento está fuera de la línea directa de ataque, así que podemos "
+"tener alguna seguridad, al menos."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:120
 msgid ""
 "But our people's encampments are in danger, they'll be slaughtered by the "
 "undead hordes!"
 msgstr ""
+"Pero la gente de nuestro campamento está en peligro, ¡serán masacrados por "
+"las hordas no muertas!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:126
 msgid ""
 "There's no way we can marshal our people to escape the battle in time. We "
 "must protect our people's twelve encampments from the undead."
 msgstr ""
+"No hay forma de que podamos ordenar a los nuestros de escapar de la batalla "
+"a tiempo. Debemos proteger a los doce campamentos de nuestro pueblo de los "
+"no muertos."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:131
 msgid ""
 "There's no way we can marshal our people to escape the battle in time. We "
 "must protect our people's eleven encampments from the undead."
 msgstr ""
+"No hay forma de que podamos ordenar a los nuestros de escapar de la batalla "
+"a tiempo. Debemos proteger a los once campamentos de nuestro pueblo de los "
+"no muertos."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:137
 msgid ""
@@ -3287,28 +3543,35 @@ msgid ""
 "have the strength to go on. Garak, wake your men. We must hold off the "
 "undead until dawn."
 msgstr ""
+"Si las fuerzas de los no muertos alcanzan a nuestros campamento antes, "
+"seguramente será destruido. Me temo que si perdemos más de la mitad de "
+"nuestros campamentos no tendremos la fuerza para continuar. Garak, despierta "
+"a tus hombres. Debemos rechazar a los no muertos hasta el amanecer."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:142
 msgid "To arms my people, to arms!"
-msgstr ""
+msgstr "¡A las armas mis valientes, a las armas!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:152
 msgid "Eloh protect us, what has he done?"
-msgstr ""
+msgstr "Eloh protégenos, ¿qué ha hecho?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:157
 msgid "I live again! I can feel!"
-msgstr ""
+msgstr "¡Yo vivo de nuevo! ¡Puedo sentirlo!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:162
 msgid "Garak?"
-msgstr ""
+msgstr "¿Garak?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:167
 msgid ""
 "Hahahaha! Your puny friend is no more. With his body I shall crush you all. "
 "Arise again my minions and feast in the slaughter!"
 msgstr ""
+"¡Jajajaja! Tu enclenque amigo creo que estará un pelín cambiado a partir de "
+"ahora. Con su cuerpo os aplastaré a todos. ¡Levantáos de nuevo, mis secuaces "
+"y festejad la carnicería!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:172
 msgid ""
@@ -3316,12 +3579,18 @@ msgid ""
 "cannot last forever, and with the light of the sun the undeads' dark power "
 "wanes and their magics unravel."
 msgstr ""
+"Pero observa, el amanecer se acerca, nuestra salvación está casi en la mano. "
+"Incluso la larga oscuridad no puede durar eternamente, y con la luz de los "
+"soles el poder oscuro de los no muertos palidece y sus magias se "
+"desenmarañan."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:177
 msgid ""
 "No! I shall have my vengeance upon you all. Darkness shall reign until I "
 "have triumphed!"
 msgstr ""
+"¡No! Tendré mi venganza sobre todos vosotros. ¡La oscuridad reinará hasta "
+"que haya triunfado!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:190
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:199
@@ -3329,6 +3598,8 @@ msgid ""
 "In this I shall support you, the sun shall not rise until one of us is "
 "victorious."
 msgstr ""
+"En esto estoy de acuerdo contigo, los soles no se alzarán hasta que uno de "
+"nosotros sea victorioso."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:207
 msgid ""
@@ -3338,10 +3609,15 @@ msgid ""
 "the spectral evil that remains, one of them must die for this battle to end. "
 "We have no choice."
 msgstr ""
+"Quizás he hablado demasiado pronto. Maldita Uria, incluso han borrado las "
+"estrellas, todo es oscuridad. Kaleh, nuestro camino es claro, debemos "
+"destruir una de esas abominaciones. Incluso sea la cosa que se haya llevado "
+"a nuestro amigo, o el espectro oscuro que en él permanece, uno de ellos debe "
+"morir para acabar esta batalla. No tenemos elección."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:212
 msgid "But to kill Garak? How can we?"
-msgstr ""
+msgstr "¿Pero matar a Garak? ¿Cómo podremos?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:217
 msgid ""
@@ -3352,21 +3628,29 @@ msgid ""
 "important than protecting our encampments. And I do not intend to let that..."
 "thing keep control of the body of our friend."
 msgstr ""
+"Esa cosa no es Garak. Esta noche ya ha durado suficiente, y demasiados de "
+"nuestra gente han muerto. ¿A cuántos más sacrificarás por Garak? Proteger "
+"nuestros campamentos es inútil, la oscuridad y el caos nos aplastarán si no "
+"acabamos con esta batalla. Matando a uno de esos dos malditos es ahora más "
+"importante que proteger nuestros campamentos. Y no intentéis dejar a esa... "
+"cosa que tome el control del cuerpo de nuestro amigo."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:229
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:236
 msgid "The stench of death is in the air."
-msgstr ""
+msgstr "El hedor de la muerte está en el aire."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:243
 msgid "Yes, let us end this once and for all."
-msgstr ""
+msgstr "Si, acabemos esto de una vez por todas."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:248
 msgid ""
 "Your scenario objectives have changed: no longer must you protect at least 6 "
 "encampments."
 msgstr ""
+"Tus objetivos de escenario han cambiado: no tienes que proteger más al menos "
+"seis campamentos."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:255
 msgid "Kill Possessed Garak (or)"
@@ -3374,7 +3658,7 @@ msgstr "Matar a Garak poseido (o)"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:260
 msgid "Defeat remaining Undead Lord"
-msgstr ""
+msgstr "Derrota al Señor No Muerto restante"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:279
 msgid ""
@@ -3382,38 +3666,46 @@ msgid ""
 "so easily vanquished. We shall return, and shall rule long after your bones "
 "have crumbled to dust. This is our land, and none shall leave it unscathed."
 msgstr ""
+"Has triunfado por el momento, pero no pienses que los señores de la "
+"oscuridad pueden caer tan fácilmente. Nosotros volveremos, y dominaremos "
+"mucho después de que tus huesos se hayan reducido a polvo. Esta es nuestra "
+"tierra, y nadie puede dejarla ileso."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:284
 msgid ""
 "You fought so hard to protect your precious people, young elf. No great deed "
 "should go unpunished."
 msgstr ""
+"Has luchado muy duro para proteger tu precioso pueblo, joven elfo. Ninguna "
+"gran hazaña debe marchar impune."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:289
 msgid "A token to remember us by..."
-msgstr ""
+msgstr "Una señal para recordarnos..."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:294
 msgid "Aaaauuugggghhhh!"
-msgstr ""
+msgstr "¡Aaaauuugggghhhh!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:299
 msgid "He just collapsed!"
-msgstr ""
+msgstr "¡Se acaba de derrumbar!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:353
 msgid "The undead lords are defeated at last."
-msgstr ""
+msgstr "Los señores no muertos al final han sido derrotados."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:362
 msgid "Finally. It is over."
-msgstr ""
+msgstr "Finalmente. Se terminó."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:381
 msgid ""
 "There's too many of them and the night is almost gone. Pull back you "
 "wretches, pull back!"
 msgstr ""
+"Hay demasiados de ellos y la noche casi se está terminando. ¡Retiráos, "
+"miserables, retiráos!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:390
 msgid ""
@@ -3421,35 +3713,44 @@ msgid ""
 "so beautiful. The undead forces have crumbled into dust and the remaining "
 "orcs are retreating with the dawn. But what of Garak?"
 msgstr ""
+"Puedo ver los primeros rayos de Naia brillando sobre el horizonte. Nunca me "
+"pareció tan bella. Las fuerzas de los no muertos se han reducido a polvo y "
+"los orcos restantes se están retirando con el amanecer. ¿Pero qué pasa con "
+"Garak?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:395
 msgid "He's...He's still breathing!"
-msgstr ""
+msgstr "Está... ¡Todavía sigue respirando!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:400
 msgid "Protect the boy for me Zhul, (cough) I go to a better place."
-msgstr ""
+msgstr "Protege al chico por mi, Zhul, (tos) me voy a un lugar mejor."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:411
 msgid ""
 "From the sands he came, to the sands he will return. We remember and honor "
 "his sacrifice, and I vow that his death will not be in vain. "
 msgstr ""
+"De las arenas vino, y a las arenas retornará. Recordaremos su honor y su "
+"sacrificio, y yo juro que su muerte no será en vano."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:416
 msgid "Goodbye old friend, may Eloh shine her light eternal upon you."
-msgstr ""
+msgstr "Adiós, viejo amigo, que Eloh brille con su luz eterna sobre ti."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:421
 msgid ""
 "He was as brave and valiant a fighter as I have ever seen in my travels."
 msgstr ""
+"Él era el luchador más valiente y más bravo que haya visto en mis viajes."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:426
 msgid ""
 "He was a bastard at times.... But...but why did he have to die? It...it just "
 "doesn't make sense. "
 msgstr ""
+"Era un bastardillo a ratos... Pero... ¿Pero porqué tenía que morir? Es "
+"que... simplemente no tiene sentido."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:445
 msgid ""
@@ -3459,6 +3760,11 @@ msgid ""
 "fewer of our people died than would have if we had had to wait out the long "
 "night."
 msgstr ""
+"Eso fue muy bravo lo que hiciste, Kaleh, derrotando a ambos señores No "
+"muertos. Llevó mucho coraje y esfuerzo. Debido a tu atrevido ataque, no "
+"hemos tenido que esperar al amanecer para salvarnos. Fuiste nuestro "
+"salvador. Y muchos menos de nuestra gente han muerto de los que habrían "
+"perecido si hubiéramos tenido que esperar toda la larga noche."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:450
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:476
@@ -3469,18 +3775,25 @@ msgid ""
 "costly to recruit new warriors. It would be wise to stockpile gold against "
 "this eventuality."
 msgstr ""
+"Aunque salvamos a todo nuestro pueblo esta vez, no siempre tendremos tanta "
+"suerte. Mientras los elfos que han luchado contigo en el pasado con mucho "
+"gusto volverían, si los números de nuestra gente disminuyen, se va a volver "
+"más y más costoso reclutar nuevos guerreros. Sería deseable ahorrar oro para "
+"esta eventualidad."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:471
 msgid "Miraculously, all of our encampments survived the night."
-msgstr ""
+msgstr "Milagrosamente, todos nuestros campamentos sobrevivieron a la noche."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:490
 msgid "Well, only $village_counter encampments remain, but we shall survive."
 msgstr ""
+"Bueno, sólo permanecen $village_counter campamentos, pero podremos "
+"sobrevivir."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:495
 msgid "Yes, but at what cost?"
-msgstr ""
+msgstr "Si, ¿pero a qué coste?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:509
 msgid ""
@@ -3490,6 +3803,11 @@ msgid ""
 "costly to recruit new warriors. It would be wise to stockpile gold against "
 "this eventuality."
 msgstr ""
+"Aunque salvamos a todo nuestro pueblo esta vez, no siempre tendremos tanta "
+"suerte. Mientras los elfos que han luchado contigo en el pasado con mucho "
+"gusto volverían, como los números de nuestra gente disminuyan, se va a "
+"volver más y más costoso reclutar nuevos guerreros. Sería deseable ahorrar "
+"oro para esta eventualidad."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:532
 msgid ""
@@ -3499,6 +3817,11 @@ msgid ""
 "become more and more costly to recruit new warriors. It would be wise to "
 "stockpile gold against this eventuality."
 msgstr ""
+"Hemos sufrido pérdidas, pero todavía no estamos reventados. Nos hemos "
+"salvado gran parte de nuestra gente esta noche. Pero aunque los elfos que "
+"han luchado contigo en el pasado con mucho gusto volverían, como los números "
+"de nuestra gente disminuyan, se va a volver más y más costoso reclutar "
+"nuevos guerreros. Sería deseable ahorrar oro para esta eventualidad."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:546
 msgid ""
@@ -3509,24 +3832,37 @@ msgid ""
 "become more and more costly to recruit new warriors. It would be wise to "
 "stockpile gold against this eventuality."
 msgstr ""
+"Hemos sufrido graves pérdidas, pero todavía no estamos rotos. Durante mucho "
+"tiempo será recordada esta matanza por nuestro pueblo. ¿Dónde estaba Eloh "
+"durante la oscuridad?. Y me temo que mientras los elfos que han luchado "
+"contigo en el pasado con mucho gusto volverían, como los números de nuestra "
+"gente disminuyan, se va a volver más y más costoso reclutar nuevos "
+"guerreros. Sería deseable ahorrar oro para esta eventualidad."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:570
 msgid ""
 "All this death and destruction. What were those shades arguing over? Was "
 "this all just some sort of demented game?"
 msgstr ""
+"Toda esta muerte y destrucción... ¿De qué estaban discutiendo esas sombras? "
+"¿Era todo esto algún tipo de juego demente?"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:575
 msgid ""
 "The lords of the dead are powerful and twisted indeed. Only Eloh knows the "
 "truth of what happened tonight."
 msgstr ""
+"Los señores de la muerte son poderosos y retorcidos también. Sólo Eloh sabe "
+"la verdad de lo acaecido esta noche."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:580
 msgid ""
 "I don't want to be here tomorrow night to find out. The hills to the north "
 "are close. Let's be far away before another nightfall."
 msgstr ""
+"No quiero estar aquí mañana por la noche para encontrarnoslos. Las colinas "
+"al norte están cerca. Estemos lejos de aquí antes de que vuelva a caer otra "
+"noche."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:605
 msgid "Azkotep"
@@ -3538,23 +3874,23 @@ msgstr "Ystara"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:815
 msgid "Survive Until Dawn (or)"
-msgstr ""
+msgstr "Sobrevivir Hasta el Amanecer (o)"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:820
 msgid "Defeat all Undead Leaders"
-msgstr ""
+msgstr "Derrota a todos los Líderes No Muertos"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:825
 msgid "You Control Less Than 6 Villages"
-msgstr ""
+msgstr "Controlar Menos de 6 Aldeas"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1050
 msgid "Curse you! I will not forget this. You will rue this night."
-msgstr ""
+msgstr "¡Maldito seas! No olvidaré esto. Te arrepentirás de esta noche."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1075
 msgid "Noooooo! I shall have my revenge!"
-msgstr ""
+msgstr "¡Noooooo! ¡Tendré mi venganza!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1104
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1115
@@ -3566,34 +3902,44 @@ msgid ""
 "What's this on our borders? Stinkin' elves and more undead? We'll teach them "
 "a lesson they won't soon forget. Attack!"
 msgstr ""
+"¿Qué hay en nuestros bordes? ¿Pegajosos elfos y más no muertos? Les "
+"enseñaremos una lección que no olvidarán fácilmente. ¡Atacad!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1190
 msgid ""
 "If those raiders capture any of our encampments, I fear our people's fates "
 "will be just as bad as if it was captured by the undead."
 msgstr ""
+"Si alguno de esos invasores captura cualquiera de nuestros campamentos, me "
+"temo que el destino de nuestras gentes no sea mucho mejor que si fueran "
+"capturados por los no muertos."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1292
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1899
 msgid "They're raising the corpses of our slain people! What a horrible fate!"
 msgstr ""
+"¡Están levantando los cadáveres de nuestra gente caida! ¡Qué horrible "
+"destino!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1297
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1904
 msgid "Then we shall have to give them a proper cremation."
-msgstr ""
+msgstr "Entonces tendrémos que darles una cremación apropiada."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1331
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1410
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1492
 msgid "I can just barely see the sun poking over the dunes. It is almost dawn!"
 msgstr ""
+"Puedo ver vagamente al sol asomando sobre las dunas. ¡Es casi amanecer!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1336
 msgid ""
 "No! This contest is not over yet, Azkotep. I shall show you a taste of my "
 "true power."
 msgstr ""
+"¡No! Este concurso no se ha acabado todavía, Azkotep. Te mostraré el sabor "
+"de mi verdadero poder."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1415
 msgid ""
@@ -3601,6 +3947,9 @@ msgid ""
 "just before dawn. I call upon the lord of death and decay, grant me my "
 "vengeance!"
 msgstr ""
+"No, tendré mi venganza. Te mostraré que la oscuridad es más fuerte justo "
+"antes de amanecer. ¡Llamo al señor de la muerte y la decadencia, garantízame "
+"mi venganza!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1497
 msgid ""
@@ -3608,6 +3957,9 @@ msgid ""
 "just before dawn. I call upon the powers of disease and despair, grant me my "
 "vengeance!"
 msgstr ""
+"No, tendré mi venganza. Te mostraré que la oscuridad es más fuerte justo "
+"antes de amanecer. ¡Llamo a los poderes de la enfermedad y la desesperación, "
+"garantízadme mi venganza!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1585
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1625
@@ -3615,10 +3967,12 @@ msgid ""
 "Hah, now you have learned the flesh is always weaker than the powers of the "
 "undead."
 msgstr ""
+"Ja, ahora has aprendido que la carne es siempre es más débil que los poderes "
+"de la no muerte."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1605
 msgid "My undead zombies shall always defeat the living."
-msgstr ""
+msgstr "Mis zombies no muertos siempre derrotarán a los vivientes."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1683
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1772
@@ -3626,6 +3980,8 @@ msgid ""
 "You think you have defeated me, don't you? Foolish boy, I shall assume a new "
 "form more powerful and horrible than you could ever imagine!"
 msgstr ""
+"Piensas que me has derrotado, ¿no? Chico tonto, ¡asumiré una nueva forma más "
+"poderosa y horrible de lo que jamás pudieras imaginar!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1688
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1777
@@ -3633,35 +3989,45 @@ msgid ""
 "How dare you interfere in our contest! I did not need your help. I shall "
 "teach you not to cross a lord of darkness."
 msgstr ""
+"¡Cómo te atreves a interferir en nuestra pelea! No necesitaba tu ayuda. Te "
+"enseñaré a no cruzarte en el camino de un señor de la oscuridad."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1706
 msgid ""
 "See, I told you I was more powerful. This game is over, now I can leave this "
 "shell of a body."
 msgstr ""
+"Ves, te dije que era más poderoso. Este juego se ha acabado, ahora puedo "
+"abandonar esta cáscara de cuerpo."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1795
 msgid ""
 "See I told you I was more powerful. This game is over, now I can leave this "
 "shell of a body."
 msgstr ""
+"Ves que te dije que era más poderoso. Este juego se ha acabado, ahora puedo "
+"abandonar esta cáscara de cuerpo."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1954
 msgid ""
 "Too many of our people have been killed. We will surely be overwhelmed by "
 "the undead now. All is lost!"
 msgstr ""
+"Demasiada gente de nuestro pueblo ha sido matada. Seguramente seremos "
+"aplastados por los no muertos ahora. ¡Todo está perdido!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:1979
 msgid ""
 "This darkness will never end, and the undead will soon overwhelm us. I'm "
 "sorry Garak, we couldn't save you."
 msgstr ""
+"Esta oscuridad nunca acabará, y los no muertos pronto nos aplastarán. "
+"Perdóname Garak, no pudimos salvarte."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:9
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:10
 msgid "Descending into Darkness"
-msgstr ""
+msgstr "Descendiendo a la Oscuridad"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:45
 msgid ""
@@ -3673,6 +4039,13 @@ msgid ""
 "Great Fall and I remembered the tale that had been told to me many times "
 "since I was a child:"
 msgstr ""
+"Capitulo 4: Encontramos la desmoronada torre de obsidiana que Eloh había "
+"descrito, y acampamos al borde de las colinas antes de las montañas. Estaba "
+"todavía conmocionado por la pérdida de Garak y de todos los otros elfos que "
+"cayeron en batalla la noche anterior. Había demasiada muerte en este mundo, "
+"¿Era siempre este el camino? Mientras viajábamos yo le daba vueltas a cómo "
+"debía haber sido el mundo antes de la Gran Caída y recordé el cuento que me "
+"habían dicho muchas veces desde que era un crío:"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:49
 msgid ""
@@ -3685,6 +4058,15 @@ msgid ""
 "dark hours were few. Happy indeed were our people during these long years, "
 "but it was not to last forever."
 msgstr ""
+"Hace mucho, mucho tiempo, hubo una edad dorada entre los elfos. Nuestro "
+"pueblo vivía en armonía con la naturaleza y la tierra estaba llena de "
+"árboles, árboles que llegaban tan lejos como tu vista alcanzase a ver. Había "
+"paz entre los Elfos y otras razas como los Humanos y los Enanos, y todas las "
+"criaturas malignas fueron conducidas a las profundidades de la tierra. Los "
+"poderes oscuros de Uria fueron casi olvidados, y durante este tiempo Eloh "
+"nos bendijo elevando otro sol en el cielo, así que los días fueron alargados "
+"y las horas de oscuridad eran pocas. Durante estos largos años nuestro "
+"pueblo fue muy feliz, pero nada dura para siempre."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:53
 msgid ""
@@ -3703,6 +4085,22 @@ msgid ""
 "friends fought over what few resources remained, and chaos threatened to "
 "overwhelm us all."
 msgstr ""
+"Aunque Uria había sido olvidada por la mayoria de nuestra gente, no se había "
+"desvanecido. Se preparó su tiempo, y lentamente arañó con sus manos negras "
+"al mundo. Al principio, pequeñas rencillas entre Humanos, Elfos y Enanos se "
+"fueron transformando en conflictos, embrollando a nuestro pueblo en las "
+"primeras guerras que habían luchado en épocas. Luego los orcos y otras "
+"sucias criaturas volvieron a la superficie y arrasaron nuestros "
+"asentamientos, arramplando con aldeas y masacrando a centenares. Nuestro "
+"pueblo había crecido débil y mansamente en tiempos de paz y plenitud y "
+"estaban incapaces para afrontar estas nuevas situaciones. Incluso la "
+"naturaleza misma parecía amedrantarse ante la embestida: los cultivos "
+"fracasaban, los árboles enfermaban y nuestros bosques empezaron a morir. Más "
+"preocupante eran la forma que las noche se alargaban, creando la gran "
+"oscuridad que sufrimos hoy. Muchos de los nuestros desaparecieron, y unos "
+"pocos incluso abrazaron la progresiva oscuridad, orando a Uria con "
+"esperanzas de salvarse a si mismos. Antiguos amigos luchaban por los pocos "
+"recursos que quedaban, y el caos amenazó con aplastarnos a todos."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:57
 msgid ""
@@ -3720,6 +4118,20 @@ msgid ""
 "that we might live, and always looking to create a better world for our "
 "children."
 msgstr ""
+"En este tiempo de problemas, Eloh misma se apareció a un número selecto de "
+"nosotros, a aquellos pocos que seguían luchando por preservar nuestro hogar "
+"y nuestro linaje. Nos dijo que los viejos días se habían acabado y que sólo "
+"a través de esctricta disciplina y fuerza podíamos prosperar en el nuevo "
+"mundo. Ella nos sacó de los restantes bosques, que estaban siendo talados y "
+"quemados por los orcos, hacia las llanuras abiertas donde podíamos vagar "
+"libremente. Nos dijo que por separado éramos débiles, pero que juntos "
+"todavía podíamos llevar miedo a los corazones de nuestros enemigos . Así que "
+"la única forma de sobrevivir en este duro nuevo mundo era protegiendo el "
+"bien común sobre los deseos individuales. Sin el resto no éramos nada. "
+"Mientras las llanuras se desecaban en desiertos continuábamos siguiéndola en "
+"su voluntad y caminando en su camino, recordando a nuestros ancestros y los "
+"sacrificios que habían hecho para que pudiéramos vivir, y siempre mirando "
+"para crear un mundo mejor para nuestros hijos."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:61
 msgid ""
@@ -3731,6 +4143,14 @@ msgid ""
 "Was there anywhere left in this world that I could take my people which "
 "would be any better than the land we were born into?"
 msgstr ""
+"¿Éra la edad dorada sólo un mito? ¿Qué tipo de mundo era capaz de crear para "
+"las generaciones futuras de nuestro pueblo? Todo lo que sabía del pasado "
+"eran las ruinas de grandes castillos y cuentos de un tiempo cuando la vida "
+"era más que sólo un intento de sobrevivir. La vida no parecía haber mejorado "
+"ni ser más fácil para mi gente en las últimas generaciones, si nada en la "
+"tierra crecía incluso más imperdonable. ¿Quedaba algo en el mundo a donde "
+"pudiera llevar a mi pueblo que llegase a ser mejor que la tierra en la que "
+"nacimos?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:89
 msgid "Panok"
@@ -3745,8 +4165,9 @@ msgid "Ug'lok"
 msgstr "Ug'lok"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:292
+#, fuzzy
 msgid "Kaleh Must Reach the Exit Tunnel at the North Edge of the Map"
-msgstr ""
+msgstr "Kaleh Debe Alcanzar el Borde Norte del Desierto"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:297
 #: Under_the_Burning_Suns/scenarios/5Struggle-new.cfg:497
@@ -3762,6 +4183,8 @@ msgid ""
 "Those mountains are huge, I never thought they would be so big. And what's "
 "that white stuff on the tops of the peaks?"
 msgstr ""
+"Esas montañas son enormes, nunca pensé que pudieran ser tan grandes. ¿Qué es "
+"esa cosa blanca en lo alto de los picos?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:638
 msgid ""
@@ -3772,6 +4195,13 @@ msgid ""
 "they are filled with orcs and goblins. It may look peaceful now, but they "
 "hide in the many caves and tunnels beneath the surface."
 msgstr ""
+"Desearía que Garak estuviera aquí, él tenía más ideas sobre estas tierras "
+"que yo. Nunca he estado por aquí, pero he oído historias de los pocos que "
+"hicieron el viaje y regresaron. La cosa blanca se llama nieve, Nym, y las "
+"montañas son muy frías. Estas pequeñas colinas no son tan difíciles de "
+"cruzar, pero están llenas de orcos y goblins. Pueden parecer pacíficas "
+"ahora, pero ellos se ocultan en los muchos túneles y cuevas bajo la "
+"superficie."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:643
 msgid ""
@@ -3779,10 +4209,13 @@ msgid ""
 "but instead of trying to go over the mountains, she said that we had to go "
 "underneath them."
 msgstr ""
+"He tenido otra visión la pasada noche, Eloh me dijo que teníamos que "
+"continuar hacia el norte, pero en vez de intentar pasar sobre las montañas, "
+"dijo que teníamos que pasar bajo ellas."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:648
 msgid "Underneath them? But how?"
-msgstr ""
+msgstr "¿Bajo ellas? ¿Pero cómo?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:653
 msgid ""
@@ -3792,6 +4225,12 @@ msgid ""
 "those frozen peaks. As much as I dislike those pitch-black caves, if we want "
 "to cross these mountains we may have no choice."
 msgstr ""
+"Los Orcos y los Goblins han estado viviendo aquí durante cientos de años y "
+"su red de túneles y cuevas es más extensa de lo que podrías imaginar. ¿Quién "
+"sabe a dónde llegan bajo tierra? No estamos preparados en absoluto para "
+"escalar entre esos picos helados. Por mucho que me disgusten esa cuevas tan "
+"negras como la boca de un lobo, si queremos cruzar esas montañas no tenemos "
+"elección."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:658
 msgid ""
@@ -3802,12 +4241,20 @@ msgid ""
 "mountains. I fear no darkness, and you won't be lacking a source of fire or "
 "light."
 msgstr ""
+"Otras criaturas además de los orcos cavan túneles en la tierra. Hace mucho "
+"los enanos cavaban minas en montañas como estas, y a los enormes trolls "
+"gustaban de esconderse en profundos lugares oscuros bajo tierra. Si nuestra "
+"diosa es tan omnisciente como pareces pensar, Kaleh, no estaría sorprendida "
+"de encontar un camino para cruzar por debajo de estas montañas. No temo a la "
+"oscuridad, y no te faltará una fuente de luz o fuego."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:663
 msgid ""
 "Well if we are going to go under these mountains, we're certainly going to "
 "have our hands full fighting all those orcs and goblins."
 msgstr ""
+"Bueno, si vamos a ir bajo esas montañas, ciertamente vamos a tener nuestras "
+"manos completamente ocupadas luchando con todos esos orcos y goblins."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:668
 msgid ""
@@ -3819,63 +4266,80 @@ msgid ""
 "people into the tunnels. And hopefully underground it will be easier to "
 "protect them than out in the open."
 msgstr ""
+"Pues va a ser que si. Quiero advertirte Kaleh, de nuevo, que esto no es el "
+"desierto. A los orcos les gusta luchar en colinas y cuevas, y no tendremos "
+"las ventajas de luchar en las arenas abiertas. Y con nuestras recientes "
+"pérdidas no tenemos la ventaja numérica que solíamos tener. Así que es mejor "
+"que seamos extra cuidadosos. Aunque podamos limpiar un sendero en las "
+"colinas delante nuestro, tendremos que ser capaces de escoltar a nuestra "
+"gente hacia los túneles. Y esperanzadoramente será más fácil protegerles "
+"bajo tierra que en el exterior."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:673
 msgid ""
 "Strike hard and fast and also be careful--right, this is going to be fun."
 msgstr ""
+"Golpead duro y rápido y también sed cuidadosos. Relmente, vamos a tener "
+"diversión para rato."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:892
 msgid "Attack!"
-msgstr ""
+msgstr "¡Atacad!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:898
 msgid "Run Away!"
-msgstr ""
+msgstr "¡Huid!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:903
 msgid "Goblins are so predictable."
-msgstr ""
+msgstr "Los goblins son tan predecibles..."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1013
 msgid ""
 "Come forth, creatures of the lake! Fulfill the oaths you have made and help "
 "us drive these hated creatures from our lands."
 msgstr ""
+"¡Venid, creaturas del lago! Cumplid las promesas que hicisteis y ayudadnos a "
+"rechazar a estas odiadas criaturas de nuestras tierras."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1018
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1157
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1218
 msgid "Sssslay them all! In the name of the ssscaled one!"
-msgstr ""
+msgstr "¡Matassslosss a todosss! ¡En el nombre del essscamosso!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1044
 msgid "These elves are stronger than we thought. Send for more reinforcements!"
 msgstr ""
+"Esos elfos son más fuertes de lo que pensábamos. ¡Llamad a más refuerzos!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1049
 msgid ""
 "How can he move that fast? He is faster than any goblin rider I have ever "
 "seen. It's almost unnatural."
 msgstr ""
+"¿Cómo puede moverse tan rápido? Es más rápido que cualquier jinete goblin "
+"que haya visto jamás. Es casi innatural."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1066
 msgid "Gaagghhh!!!"
-msgstr ""
+msgstr "¡¡¡Gaagghhh!!!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1088
 msgid ""
 "Wait a minute. He was wearing a silver ring on one of his fingers. I think "
 "the ring might be magical. Maybe that's why he was moving so fast."
 msgstr ""
+"Espera un minuto. Llevaba un anillo de plata en uno de sus dedos. Pienso que "
+"el anillo puede ser mágico. Quizás por eso se movía tan rápido."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1093
 msgid "I think, Kaleh, that you should take the ring."
-msgstr ""
+msgstr "Creo, Kaleh, que deberías tomar el anillo."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1098
 msgid "Why me?"
-msgstr ""
+msgstr "¿Por qué yo?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1103
 msgid ""
@@ -3884,6 +4348,10 @@ msgid ""
 "you never know when being able to run a bit faster might be the difference "
 "between life and death."
 msgstr ""
+"Porque tenderás a moverte más lento si vamos a las cuevas y necesitaras toda "
+"la velocidad que puedas alcanzar. Y además, no podemos permitirnos perderte; "
+"no se sabe cuándo puede venir bien ser capaz de correr un poco más rápido, "
+"pues puede ser la diferencia entre la vida y la muerte."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1152
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1213
@@ -3893,14 +4361,18 @@ msgid ""
 "creatures of the lake! Fulfill the oaths you have made and help us drive "
 "these hated creatures from our lands."
 msgstr ""
+"¡Los elfos han matado a Panok el goblin! Los otros goblins se retirarán a "
+"las cuevas, pero no rendiremos estas montañas sin una lucha. ¡Venid, "
+"creaturas del lago! Cumplid las promesas que hicisteis y ayudadnos a "
+"rechazar a estas odiadas criaturas de nuestras tierras."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1246
 msgid "Ring of Speed"
-msgstr ""
+msgstr "Anillo de Velocidad"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1248
 msgid "This ring will increase your maximum speed by 1."
-msgstr ""
+msgstr "Este anillo incrementará tu movimiento máximo en 1."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1286
 msgid ""
@@ -3908,6 +4380,9 @@ msgid ""
 "night. And it stinks of orc filth, I can hardly think of a place I would "
 "less like to go into."
 msgstr ""
+"¡Ugh! Estos túneles son como la boca de un lobo, es tan malo como luchar en "
+"una noche sin luna. Y hay un tufazo de suciedad orca, no puedo imaginarme "
+"fácilmente un sitio peor para meterme y que me gustase menos."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1291
 msgid ""
@@ -3915,6 +4390,10 @@ msgid ""
 "beneath them. If the orcs skulk in their tunnels and block our way, we must "
 "enter their dark places and fight them, no matter what the conditions."
 msgstr ""
+"No tenemos elección. No podemos cruzar sobre las montañas, asi que debemos "
+"ir bajo ellas. Si los orcos se esconden en estos túneles y nos bloquean "
+"nuestro camino, deberemos entrar en sus lugares oscuros y combatirles, no "
+"importan las condiciones."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1296
 msgid ""
@@ -3922,23 +4401,32 @@ msgid ""
 "who can shoot well anywhere will be invaluable, as will Captains and "
 "Marshals who can inspire our people."
 msgstr ""
+"Recuerda Kaleh, que es desagradable luchar bajo tierra. Los Tiradores y "
+"Saeteros, que pueden disparar bien en cualquier situación serán "
+"invalorables, como los Capitanes y Mariscales para alentar a los nuestros."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1301
 msgid ""
 "Also, any time you find a particularly tough orc blocking a passage, my "
 "fireballs can blast him quick enough."
 msgstr ""
+"También, en cualquier momento que encontréis un orco particularmente duro "
+"bloqueando el pasaje, mis bolas de fuego le pueden echar abajo rápidamente."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1372
 msgid ""
 "Greebo keep shinies safe from nasty orcses. And 'specially stinking elves."
 msgstr ""
+"Greebo guardar brillantes de asquerosos orcos. Y 'specialmente de apestosos "
+"elfos."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1392
 msgid ""
 "Looks like the orcs were stashing their loot here. Not that they had much. "
 "Must be hard times."
 msgstr ""
+"Parece como si los ocos estuvieran guardando su botín aquí. Tampoco tienen "
+"demasiado. Deben ser tiempos duros."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1424
 msgid ""
@@ -3950,41 +4438,52 @@ msgid ""
 "to take this blade here, your greatest fear, will surely appear' It looks "
 "like a nice sword, but do I dare chance it?"
 msgstr ""
+"Qué extraño. Alguien ha excavado una tosca fuente en la piedra al fondo del "
+"pasaje. Su agua helada cae en un gran estanque. Al fondo del estanque puedo "
+"ver a un esqueleto todavía sosteniendo una espada. El filo parece brillar "
+"con un halo azul. El estanque no es muy profundo, puedo fácilmente entrar en "
+"él y cogerla. Pero alguien ha grabado un tosco mensaje en la pared. 'Si te "
+"atreves a tomar esta espada de aquí, tu mayor miedo, seguramente aparecerá' "
+"Parece una buena espada, ¿Pero me atrevería a arriesgarme?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1426
 msgid "I fear no creature, I will take the blade!"
-msgstr ""
+msgstr "¡No temo a ninguna criatura, tomaré la espada!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1436
 msgid ""
 "The blade is chill to the touch and gives off a cold glow. I wonder how it "
 "came to be here."
 msgstr ""
+"La hoja es fría al tacto y tiene un brillo frío. Me pregunto cómo llegó a "
+"aquí."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1450
 msgid "Cold Blade"
-msgstr ""
+msgstr "Espada Fría"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1451
 msgid ""
 "The unit who wields this blade will deal cold damage with its melee attack."
 msgstr ""
+"La unidad que luche con esta arma hará daño de frío con su ataque cuerpo a "
+"cuerpo."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1469
 msgid "I am an abomination, please kill me."
-msgstr ""
+msgstr "Yo soy una abominación, por favor, mátame."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1476
 msgid "I've seen some ugly creatures in my day, but that thing is just wrong."
-msgstr ""
+msgstr "He visto criaturas feas en mis días, pero esta cosa es horrenda."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1483
 msgid "The voices say I have no choice, I must attack!"
-msgstr ""
+msgstr "Las voces dicen que no tengo elección, ¡Debo atacar!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1490
 msgid "I don't like the sound of this. I'm out of here."
-msgstr ""
+msgstr "No me gusta el sonido de esto. Estoy fuera de lugar."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1519
 msgid ""
@@ -3993,28 +4492,32 @@ msgid ""
 "sure what I'm doing up here. Some strange influence made me want to come up "
 "here, but I don't know what made me think it could be of any good."
 msgstr ""
+"Este es el final de la línea. El agua es demasiado profunda para mí para "
+"continuar más allá. Estoy helado, mojado, y no puedo ver nada. No estoy "
+"seguro de lo que estoy haciendo aquí. Alguna extraña influencia me hizo "
+"querer venir aquí, pero no sé que me hizo pensar que pudiera ser algo bueno."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1616
 #: Under_the_Burning_Suns/scenarios/5Struggle-new.cfg:4951
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3456
 msgid "Cloaked Figure"
-msgstr ""
+msgstr "Figura Encapada"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1633
 msgid "Kaleh, I am death incarnate."
-msgstr ""
+msgstr "Kaleh, yo soy la muerte encarnada."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1639
 msgid "And I shall avenge all those you have killed!"
-msgstr ""
+msgstr "¡Y debo vengar a todos aquellos que mataste!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2217
 msgid "I promise we shall meet again."
-msgstr ""
+msgstr "Prometo que nos volveremos a encontrar."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2228
 msgid "He just disappeared, that's odd."
-msgstr ""
+msgstr "Simplemente ha desaparecido, qué extraño."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2254
 msgid ""
@@ -4024,16 +4527,16 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2282
 msgid "What happened? Where am I?"
-msgstr ""
+msgstr "¿Qué pasó? ¿Dónde estoy?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2287
 msgid "Where did you go?"
-msgstr ""
+msgstr "¿Dónde fuiste?"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2292
 msgid ""
 "I don't know, someone just knocked me out. I didn't get a good look at them."
-msgstr ""
+msgstr "No lo sé, alguien me dejó sin sentido. No puede ver bien quién fue."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2377
 msgid ""
@@ -4041,6 +4544,9 @@ msgid ""
 "and smooth and leads sharply downwards. I bet this was the way that Eloh was "
 "talking about."
 msgstr ""
+"Este pasaje parece diferente de otros túneles y cuevas. Es más ancho y liso "
+"y pica fuertemente hacia abajo. Apuesto que este era el camino del que Eloh "
+"estaba hablando."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2382
 msgid ""
@@ -4048,6 +4554,9 @@ msgid ""
 "be made by orcs. I wouldn't be surprised if this was once carved out by "
 "dwarves. I wonder if there are any still left in these mountains..."
 msgstr ""
+"Este no es un pasaje natural, y las paredes están bien excavadas y alisadas "
+"para haber sido hechas por orcos. No estaría sorprendido si esto fue cavado "
+"por enanos. Me pregunto si todavía quedarán en estas montañas..."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2394
 msgid ""
@@ -4057,6 +4566,12 @@ msgid ""
 "dangers we don't. We really are putting our lives in Eloh's palm, may she "
 "guide us as well as she has before."
 msgstr ""
+"Habiendo matado a los líderes orco y goblin de las cercanías, podemos "
+"tomarnos nuestro tiempo y no tener problemas en llevar al resto de nuestro "
+"pueblo abajo por este camino. Es extraño, imagino que estamos cambiando los "
+"problemas que conocemos por los que no conocemos. Estamos poniendo nuestras "
+"vidas realmente en la palma de Eloh, espero que ella nos guíe tan bien como "
+"lo ha hecho antes."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2401
 msgid ""
@@ -4065,16 +4580,24 @@ msgid ""
 "for the dangers we don't. We really are putting our lives in Eloh's palm, "
 "may she guide as well as she has before."
 msgstr ""
+"Ahora que has encontrado el camino podremos ser capaces de llevar a nuestra "
+"gente más allá de los orcos. Es extraño, imagino que estamos cambiando los "
+"problemas que conocemos por los que no conocemos. Estamos poniendo nuestras "
+"vidas realmente en la palma de Eloh, espero que ella nos guíe tan bien como "
+"lo ha hecho antes."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2408
 msgid ""
 "I'll just be happy when I can breathe fresh air again and see the suns and "
 "stars. Still, who knows what we'll encounter deep under the earth?"
 msgstr ""
+"Sólo tendré felicidad cuando pueda respirar aire fresco de nuevo y ver los "
+"soles y las estrellas. De todas formas, quién sabe qué encontraremos en las "
+"profundidades bajo la tierra."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2413
 msgid "Well, there's only one way to find out."
-msgstr ""
+msgstr "Bueno, sólo hay una manera de saberlo."
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:2440
 msgid ""
@@ -4083,11 +4606,15 @@ msgid ""
 "no way we can kill all these orcs and goblins. We'll never make it to safety "
 "now."
 msgstr ""
+"¡Nos ha llevado demasiado tiempo ir con nuestro pueblo a los túneles! "
+"Incluso están llegando más orcos a través de las estribaciones del este y "
+"del oeste y nos están envolviendo. No hay manera de que podamos matar a "
+"todos esos orcos y goblins. Nunca lo conseguiremos por salvarnos ahora."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle-new.cfg:15
 #: Under_the_Burning_Suns/scenarios/5Struggle-new.cfg:16
 msgid "A Subterranean Struggle"
-msgstr ""
+msgstr "Una Lucha Subterránea"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle-new.cfg:426
 msgid ""
@@ -5094,8 +5621,9 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/6_1_Hunting_Trolls.cfg:612
+#, fuzzy
 msgid "Intruders! Kill them!"
-msgstr ""
+msgstr "¡Elfos! ¡Matádlos a todos!"
 
 #: Under_the_Burning_Suns/scenarios/6_1_Hunting_Trolls.cfg:628
 msgid ""
@@ -11631,6 +12159,18 @@ msgstr ""
 "Las Serpientes de agua son las primas menores de las más famosas Serpientes "
 "Marinas. Las Serpientes de agua pueden nadar más rápidamente y se alimentan "
 "de todo tipo de criaturas, grandes y pequeñas."
+
+#~ msgid "Kaleh Must Reach the"
+#~ msgstr "Kaleh Debe Alcanzar el"
+
+#~ msgid "Northern Edge of the Desert"
+#~ msgstr "Borde Norte del Desierto"
+
+#~ msgid "Kaleh Must Reach the Exit Tunnel"
+#~ msgstr "Kaleh Debe Alcanzar la Entrada del Túnel"
+
+#~ msgid "at the North Edge of the Map"
+#~ msgstr "en el Borde Norte del Mapa"
 
 #~ msgid "ambush"
 #~ msgstr "embosca"
