@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: utbs-it\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-02-27 12:18+0100\n"
+"POT-Creation-Date: 2006-03-13 13:53+0100\n"
 "PO-Revision-Date: 2006-03-02 02:35+0100\n"
 "Last-Translator: Luciano Montanaro <mikelima@cirulla.net>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -29,8 +29,8 @@ msgstr ""
 "alle rovine di imperi caduti. Porta via il tuo popolo dal deserto con un "
 "epico viaggio alla ricerca di una nuova patria. (Versione 1.5 ?/3/2006)"
 
+#: Under_the_Burning_Suns.cfg:23
 #: Under_the_Burning_Suns/units/Desert_Hunter.cfg:4
-#: Under_the_Burning_Suns/units/Desert_Hunter10.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Hunter2.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Hunter4.cfg:4
@@ -38,7 +38,8 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Hunter6.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Hunter9.cfg:4
-#: Under_the_Burning_Suns/units/Nym_Hunter.cfg:4 Under_the_Burning_Suns.cfg:23
+#: Under_the_Burning_Suns/units/Nym_Hunter.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Hunter10.cfg:4
 msgid "Desert Hunter"
 msgstr "Cacciatore del deserto"
 
@@ -50,9 +51,9 @@ msgstr "(Normale)"
 msgid "(Challenging)"
 msgstr "(Stimolante)"
 
-#: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:4
-#: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:4
 #: Under_the_Burning_Suns.cfg:24
+#: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:4
 msgid "Desert Sentinel"
 msgstr "Sentinella del deserto"
 
@@ -60,9 +61,9 @@ msgstr "Sentinella del deserto"
 msgid "(Hard)"
 msgstr "(Difficile)"
 
-#: Under_the_Burning_Suns/units/Desert_Prowler.cfg:4
-#: Under_the_Burning_Suns/units/Nym_Prowler.cfg:4
 #: Under_the_Burning_Suns.cfg:25
+#: Under_the_Burning_Suns/units/Nym_Prowler.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Prowler.cfg:4
 msgid "Desert Prowler"
 msgstr "Nomade del deserto"
 
@@ -279,19 +280,19 @@ msgstr ""
 msgid "Trapped Merman"
 msgstr "Nereide intrappolato"
 
-#: Under_the_Burning_Suns/scenarios/10Island.cfg:695
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:339
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:182
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:284
-#: Under_the_Burning_Suns/scenarios/3Night.cfg:813
-#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:290
-#: Under_the_Burning_Suns/scenarios/5Struggle-new.cfg:487
 #: Under_the_Burning_Suns/scenarios/6_1_Hunting_Trolls.cfg:283
+#: Under_the_Burning_Suns/scenarios/10Island.cfg:695
+#: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:290
+#: Under_the_Burning_Suns/scenarios/3Night.cfg:813
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:284
 #: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:238
+#: Under_the_Burning_Suns/scenarios/5Struggle-new.cfg:487
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:973
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:989
-#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:93
 #: Under_the_Burning_Suns/scenarios/7_2_TrollInterlude.cfg:93
+#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:93
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:661
 msgid "Starting Objectives:"
 msgstr "Obiettivi iniziali:"
@@ -506,14 +507,14 @@ msgstr ""
 msgid "Thank you. I'm sure the reinforcements will be very useful."
 msgstr "Grazie. Sicuramente i rinforzi saranno utilissimi."
 
+#: Under_the_Burning_Suns/scenarios/11Final.cfg:1590
+#: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1069
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1266
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1412
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1519
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1558
-#: Under_the_Burning_Suns/scenarios/11Final.cfg:1590
-#: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1069
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2748
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:252
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2748
 #: Under_the_Burning_Suns/scenarios/5Struggle-new.cfg:1813
 #: Under_the_Burning_Suns/scenarios/5Struggle-new.cfg:1855
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4099
@@ -720,8 +721,8 @@ msgstr ""
 "Non abbiamo più tempo. Le forze che i nereidi sono riuscite a distrarre "
 "stanno tornando e ci uccideranno tutti, sicuramente."
 
-#: Under_the_Burning_Suns/scenarios/10Island.cfg:1903
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:556
+#: Under_the_Burning_Suns/scenarios/10Island.cfg:1903
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1047
 msgid "Eloh"
 msgstr "Eloh"
@@ -1798,10 +1799,10 @@ msgstr "Salva gli elfi sopravvissuti"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:188
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:1080
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:290
-#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2759
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:265
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:830
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:290
+#: Under_the_Burning_Suns/scenarios/2Harsh_Sands.cfg:2759
 msgid "Death of Kaleh, Nym, Garak or Zhul"
 msgstr "Morte di Kaleh, Nym, Garak o Zhul"
 
@@ -3981,12 +3982,12 @@ msgid "Kaleh Must Reach the Exit Tunnel at the North Edge of the Map"
 msgstr ""
 "Kaleh deve raggiungere la galleria d'uscita al confine nord della mappa"
 
+#: Under_the_Burning_Suns/scenarios/6_1_Hunting_Trolls.cfg:289
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:297
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:245
 #: Under_the_Burning_Suns/scenarios/5Struggle-new.cfg:497
 #: Under_the_Burning_Suns/scenarios/5Struggle-new.cfg:1820
 #: Under_the_Burning_Suns/scenarios/5Struggle-new.cfg:1862
-#: Under_the_Burning_Suns/scenarios/6_1_Hunting_Trolls.cfg:289
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:245
 msgid "Death of Kaleh, Nym or Zhul"
 msgstr "Morte di Kaleh, Nym o Zhul"
 
@@ -5554,9 +5555,9 @@ msgid "No, someone grabbed me and knocked me out. I have no idea who it was."
 msgstr ""
 "No, qualcuno mi ha afferrato e mi ha stordito. Non ho idea di chi fosse."
 
-#: Under_the_Burning_Suns/scenarios/5Struggle-new.cfg:5820
 #: Under_the_Burning_Suns/scenarios/6_1_Hunting_Trolls.cfg:2155
 #: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1919
+#: Under_the_Burning_Suns/scenarios/5Struggle-new.cfg:5820
 msgid ""
 "Oh no, we took too long and enemy reinforcements have arrived. We'll surely "
 "be overwhelmed now!"
@@ -8810,8 +8811,8 @@ msgid ""
 "came to meet with the dwarven king..."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:95
 #: Under_the_Burning_Suns/scenarios/7_2_TrollInterlude.cfg:95
+#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:95
 msgid "Choose a Unit to Take the Fire Blade"
 msgstr "Scegli a quale unità dare la lama di fuoco"
 
@@ -8999,8 +9000,8 @@ msgstr ""
 "terminati qui sotto. Non temete, non ci riposeremo finché non avremo ucciso "
 "l'ultimo troll."
 
-#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:648
 #: Under_the_Burning_Suns/scenarios/7_2_TrollInterlude.cfg:650
+#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:648
 msgid ""
 "I understand. Thank you, you were a huge help to us. It was a honor to fight "
 "by your side."
@@ -9008,15 +9009,15 @@ msgstr ""
 "Capisco. Grazie, siete stati un grande aiuto. È stato un onore combattere al "
 "vostro fianco."
 
-#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:663
 #: Under_the_Burning_Suns/scenarios/7_2_TrollInterlude.cfg:665
+#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:663
 msgid "I'm afraid, Kaleh, that the time has come for our paths to seperate."
 msgstr ""
 "Ho paura, Kaleh, che sia venuto il momento in cui le nostre strade si "
 "dividono."
 
-#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:668
 #: Under_the_Burning_Suns/scenarios/7_2_TrollInterlude.cfg:670
+#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:668
 msgid "What?!"
 msgstr "Cosa?!"
 
@@ -9036,8 +9037,8 @@ msgstr ""
 "ancora tanto da imparare. Avete visto le forgie? Sanno veramente come "
 "lavorare con il fuoco e lo usano in modi sorprendenti."
 
-#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:678
 #: Under_the_Burning_Suns/scenarios/7_2_TrollInterlude.cfg:680
+#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:678
 msgid "But we need you, what would we do without you?"
 msgstr "Ma abbiamo bisogno di te, come faremo senza di te?"
 
@@ -9053,20 +9054,20 @@ msgstr ""
 "patria per la tua gente. Il mio posto è qui con i nani. E non avete "
 "veramente bisogno di me. Voi avete l'un l'altro."
 
-#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:688
 #: Under_the_Burning_Suns/scenarios/7_2_TrollInterlude.cfg:690
+#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:688
 msgid ""
 "If your mind is set, then I won't try to convince you. But we will miss you."
 msgstr ""
 "Se la tua decisione è presa, non cercherò di convincerti. Ma ci mancherai."
 
-#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:693
 #: Under_the_Burning_Suns/scenarios/7_2_TrollInterlude.cfg:695
+#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:693
 msgid "I thank Eloh for the brief time that she has let you spend with us."
 msgstr "Ringrazio Eloh per il breve tempo che ti ha lasciato passare con noi."
 
-#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:698
 #: Under_the_Burning_Suns/scenarios/7_2_TrollInterlude.cfg:700
+#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:698
 msgid "You take care of yourself, and someday maybe we'll meet again."
 msgstr "Abbi cura di te, e forse un giorno ci incontreremo di nuovo."
 
@@ -9084,18 +9085,18 @@ msgstr ""
 "il vostro cammino, e che distruggano i vostri nemici. La offro a tutti voi "
 "come segno della mia gratitudine."
 
-#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:710
 #: Under_the_Burning_Suns/scenarios/7_2_TrollInterlude.cfg:712
+#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:710
 msgid "A flaming sword. That's amazing. I just don't know who should use it. "
 msgstr "Una spada fiammeggiante. Incredibile. Ma non so chi debba prenderla."
 
-#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:715
 #: Under_the_Burning_Suns/scenarios/7_2_TrollInterlude.cfg:717
+#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:715
 msgid "I will let you decide, use it in the best way that you see fit."
 msgstr "Ti lascerò decidere, usala nel miglior modo possibile."
 
-#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:720
 #: Under_the_Burning_Suns/scenarios/7_2_TrollInterlude.cfg:722
+#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:720
 msgid ""
 "You can choose which unit you want to take the flaming sword. If you want "
 "another unit to wield the sword Kaleh can recruit or recall other units."
@@ -9114,9 +9115,9 @@ msgstr ""
 "ritirati di nuovo nei loro antri, per ora, ma chissà quando attaccheranno di "
 "nuovo."
 
+#: Under_the_Burning_Suns/scenarios/7_2_TrollInterlude.cfg:811
 #: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:734
 #: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:809
-#: Under_the_Burning_Suns/scenarios/7_2_TrollInterlude.cfg:811
 msgid ""
 "This is a marvelous city, but I for one can't wait to feel the sun upon my "
 "face again and the wind in my hair."
@@ -9124,29 +9125,29 @@ msgstr ""
 "Questa è una splendida città, ma sono impaziente di sentiredi nuovo i soli "
 "sulla mia faccia ed il vento fra i capelli."
 
-#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:763
 #: Under_the_Burning_Suns/scenarios/7_2_TrollInterlude.cfg:765
+#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:763
 msgid "Should I take this sword?"
 msgstr "Devo prendere la spada?"
 
-#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:765
 #: Under_the_Burning_Suns/scenarios/7_2_TrollInterlude.cfg:767
+#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:765
 msgid "Yes, I'll take it."
 msgstr "Sì, la prenderò."
 
-#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:779
 #: Under_the_Burning_Suns/scenarios/7_2_TrollInterlude.cfg:781
+#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:779
 msgid "Flaming Sword"
 msgstr "Spada fiammeggiante"
 
-#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:780
 #: Under_the_Burning_Suns/scenarios/7_2_TrollInterlude.cfg:782
+#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:780
 msgid "This sword will make all your melee attacks do fire damage."
 msgstr ""
 "Con questa spada tutti gli attacchi all'arma bianca faranno danni da fuoco."
 
-#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:795
 #: Under_the_Burning_Suns/scenarios/7_2_TrollInterlude.cfg:797
+#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:795
 msgid ""
 "I will wield this blade proudly, and whenever I look upon it I shall "
 "remember you, Elyssa."
@@ -9154,8 +9155,8 @@ msgstr ""
 "Sarò orgoglioso di brandire questa spada, e mi ricorderò di te ogni volta "
 "che la guarderò, Elyssa."
 
-#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:822
 #: Under_the_Burning_Suns/scenarios/7_2_TrollInterlude.cfg:824
+#: Under_the_Burning_Suns/scenarios/7_1_DwarfInterlude.cfg:822
 msgid "No, I think someone else should wield it."
 msgstr "No, credo che dovrà impugnarla qualcun altro."
 
@@ -9759,8 +9760,8 @@ msgstr ""
 "Vi reco cattive notizie, uno di voi mi ha tradito, ed è un traditore della "
 "vostra causa."
 
-#: Under_the_Burning_Suns/scenarios/8Water.cfg:1101
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:403
+#: Under_the_Burning_Suns/scenarios/8Water.cfg:1101
 msgid "No!"
 msgstr "No!"
 
@@ -11641,11 +11642,11 @@ msgstr ""
 msgid "Central Body"
 msgstr "Corpo centrale"
 
-#: Under_the_Burning_Suns/units/Alien_Body.cfg:36
 #: Under_the_Burning_Suns/units/Alien_Body2.cfg:36
 #: Under_the_Burning_Suns/units/Alien_Body3.cfg:36
-#: Under_the_Burning_Suns/units/Alien_Minion.cfg:24
 #: Under_the_Burning_Suns/units/Alien_Spire.cfg:30
+#: Under_the_Burning_Suns/units/Alien_Body.cfg:36
+#: Under_the_Burning_Suns/units/Alien_Minion.cfg:24
 msgid ""
 "This thing is impossible to describe, no one has seen anything like it "
 "before."
@@ -11653,55 +11654,55 @@ msgstr ""
 "Questa cosa è impossibile da descrivere, nessuno ha mai visto niente di "
 "simile prima d'ora."
 
-#: Under_the_Burning_Suns/units/Alien_Body.cfg:39
-#: Under_the_Burning_Suns/units/Alien_Body.cfg:56
 #: Under_the_Burning_Suns/units/Alien_Body2.cfg:39
 #: Under_the_Burning_Suns/units/Alien_Body2.cfg:56
 #: Under_the_Burning_Suns/units/Alien_Body3.cfg:39
 #: Under_the_Burning_Suns/units/Alien_Body3.cfg:56
-#: Under_the_Burning_Suns/units/Alien_Minion.cfg:36
 #: Under_the_Burning_Suns/units/Alien_Spire.cfg:33
+#: Under_the_Burning_Suns/units/Alien_Body.cfg:39
+#: Under_the_Burning_Suns/units/Alien_Body.cfg:56
+#: Under_the_Burning_Suns/units/Alien_Minion.cfg:36
 msgid "energy ray"
 msgstr "raggio di energia"
 
-#: Under_the_Burning_Suns/units/Alien_Body.cfg:40
-#: Under_the_Burning_Suns/units/Alien_Body.cfg:57
 #: Under_the_Burning_Suns/units/Alien_Body2.cfg:40
 #: Under_the_Burning_Suns/units/Alien_Body2.cfg:57
 #: Under_the_Burning_Suns/units/Alien_Body3.cfg:40
 #: Under_the_Burning_Suns/units/Alien_Body3.cfg:57
-#: Under_the_Burning_Suns/units/Alien_Minion.cfg:37
 #: Under_the_Burning_Suns/units/Alien_Spire.cfg:34
-#: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:55
 #: Under_the_Burning_Suns/units/Haunt.cfg:35
 #: Under_the_Burning_Suns/units/Haunt.cfg:50
+#: Under_the_Burning_Suns/units/Alien_Body.cfg:40
+#: Under_the_Burning_Suns/units/Alien_Body.cfg:57
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:27
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:43
+#: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:55
+#: Under_the_Burning_Suns/units/Alien_Minion.cfg:37
 msgid "cold"
 msgstr "freddo"
 
-#: Under_the_Burning_Suns/units/Alien_Body.cfg:42
-#: Under_the_Burning_Suns/units/Alien_Body.cfg:59
 #: Under_the_Burning_Suns/units/Alien_Body2.cfg:42
 #: Under_the_Burning_Suns/units/Alien_Body2.cfg:59
 #: Under_the_Burning_Suns/units/Alien_Body3.cfg:42
 #: Under_the_Burning_Suns/units/Alien_Body3.cfg:59
 #: Under_the_Burning_Suns/units/Alien_Spire.cfg:36
+#: Under_the_Burning_Suns/units/Divine_Avatar.cfg:33
+#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:93
+#: Under_the_Burning_Suns/units/Alien_Body.cfg:42
+#: Under_the_Burning_Suns/units/Alien_Body.cfg:59
+#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:54
+#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:104
+#: Under_the_Burning_Suns/units/Spider_Lich.cfg:44
+#: Under_the_Burning_Suns/units/Divine_Incarnation.cfg:33
+#: Under_the_Burning_Suns/units/Zhul_Star.cfg:62
+#: Under_the_Burning_Suns/units/Zhul_Star.cfg:112
 #: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:56
 #: Under_the_Burning_Suns/units/Desert_Druid.cfg:92
 #: Under_the_Burning_Suns/units/Desert_Shyde.cfg:53
 #: Under_the_Burning_Suns/units/Desert_Shyde.cfg:103
+#: Under_the_Burning_Suns/units/Troll_Shaman.cfg:51
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:61
 #: Under_the_Burning_Suns/units/Desert_Star.cfg:111
-#: Under_the_Burning_Suns/units/Divine_Avatar.cfg:33
-#: Under_the_Burning_Suns/units/Divine_Incarnation.cfg:33
-#: Under_the_Burning_Suns/units/Spider_Lich.cfg:44
-#: Under_the_Burning_Suns/units/Troll_Shaman.cfg:51
-#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:93
-#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:54
-#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:104
-#: Under_the_Burning_Suns/units/Zhul_Star.cfg:62
-#: Under_the_Burning_Suns/units/Zhul_Star.cfg:112
 msgid "magical"
 msgstr "magico"
 
@@ -11714,37 +11715,30 @@ msgstr "Corpo centrale indebolito"
 msgid "Crawling Horror"
 msgstr "Orrore strisciante"
 
-#: Under_the_Burning_Suns/units/Alien_Minion.cfg:28
-#: Under_the_Burning_Suns/units/Ant.cfg:27
 #: Under_the_Burning_Suns/units/Confused_Ant.cfg:27
+#: Under_the_Burning_Suns/units/Ant.cfg:27
 #: Under_the_Burning_Suns/units/Dread_Bat.cfg:26
 #: Under_the_Burning_Suns/units/Water_Serpent.cfg:19
+#: Under_the_Burning_Suns/units/Alien_Minion.cfg:28
 msgid "fangs"
 msgstr "zanne"
 
-#: Under_the_Burning_Suns/units/Alien_Minion.cfg:29
-#: Under_the_Burning_Suns/units/Ant.cfg:28
 #: Under_the_Burning_Suns/units/Confused_Ant.cfg:28
-#: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:36
-#: Under_the_Burning_Suns/units/Crab_Man.cfg:27
-#: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:37
-#: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:61
-#: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:37
-#: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:61
-#: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:40
-#: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:64
-#: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:24
-#: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:48
-#: Under_the_Burning_Suns/units/Desert_Archer.cfg:52
-#: Under_the_Burning_Suns/units/Desert_Archer.cfg:162
-#: Under_the_Burning_Suns/units/Desert_Archer10.cfg:52
-#: Under_the_Burning_Suns/units/Desert_Archer10.cfg:162
+#: Under_the_Burning_Suns/units/Desert_Hunter.cfg:43
+#: Under_the_Burning_Suns/units/Ant.cfg:28
+#: Under_the_Burning_Suns/units/Kaleh_Fighter.cfg:53
+#: Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:57
+#: Under_the_Burning_Suns/units/Desert_Avenger.cfg:53
+#: Under_the_Burning_Suns/units/Desert_Avenger.cfg:178
+#: Under_the_Burning_Suns/units/Nym_Prowler.cfg:47
+#: Under_the_Burning_Suns/units/Desert_Horseman.cfg:54
 #: Under_the_Burning_Suns/units/Desert_Archer2.cfg:52
 #: Under_the_Burning_Suns/units/Desert_Archer2.cfg:162
 #: Under_the_Burning_Suns/units/Desert_Archer3.cfg:52
 #: Under_the_Burning_Suns/units/Desert_Archer3.cfg:162
 #: Under_the_Burning_Suns/units/Desert_Archer4.cfg:52
 #: Under_the_Burning_Suns/units/Desert_Archer4.cfg:162
+#: Under_the_Burning_Suns/units/Crab_Man.cfg:27
 #: Under_the_Burning_Suns/units/Desert_Archer5.cfg:52
 #: Under_the_Burning_Suns/units/Desert_Archer5.cfg:162
 #: Under_the_Burning_Suns/units/Desert_Archer6.cfg:52
@@ -11753,23 +11747,46 @@ msgstr "zanne"
 #: Under_the_Burning_Suns/units/Desert_Archer7.cfg:162
 #: Under_the_Burning_Suns/units/Desert_Archer9.cfg:52
 #: Under_the_Burning_Suns/units/Desert_Archer9.cfg:162
-#: Under_the_Burning_Suns/units/Desert_Avenger.cfg:53
-#: Under_the_Burning_Suns/units/Desert_Avenger.cfg:178
-#: Under_the_Burning_Suns/units/Desert_Captain.cfg:57
-#: Under_the_Burning_Suns/units/Desert_Champion.cfg:53
-#: Under_the_Burning_Suns/units/Desert_Fighter.cfg:52
-#: Under_the_Burning_Suns/units/Desert_Fighter10.cfg:52
+#: Under_the_Burning_Suns/units/Desert_Marksman.cfg:49
+#: Under_the_Burning_Suns/units/Desert_Marksman.cfg:174
+#: Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:38
+#: Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:73
+#: Under_the_Burning_Suns/units/Desert_Ranger.cfg:56
+#: Under_the_Burning_Suns/units/Desert_Ranger.cfg:183
+#: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:45
+#: Under_the_Burning_Suns/units/Desert_Archer.cfg:52
+#: Under_the_Burning_Suns/units/Desert_Archer.cfg:162
+#: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:61
+#: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:193
+#: Under_the_Burning_Suns/units/Desert_Marshal.cfg:57
+#: Under_the_Burning_Suns/units/Desert_Archer10.cfg:52
+#: Under_the_Burning_Suns/units/Desert_Archer10.cfg:162
+#: Under_the_Burning_Suns/units/Desert_Outrider.cfg:49
+#: Under_the_Burning_Suns/units/Naga_Hunter.cfg:22
+#: Under_the_Burning_Suns/units/Desert_Hero.cfg:52
 #: Under_the_Burning_Suns/units/Desert_Fighter2.cfg:52
 #: Under_the_Burning_Suns/units/Desert_Fighter3.cfg:52
+#: Under_the_Burning_Suns/units/Desert_Scout2.cfg:52
 #: Under_the_Burning_Suns/units/Desert_Fighter4.cfg:52
+#: Under_the_Burning_Suns/units/Desert_Scout3.cfg:52
 #: Under_the_Burning_Suns/units/Desert_Fighter5.cfg:52
+#: Under_the_Burning_Suns/units/Desert_Scout4.cfg:52
 #: Under_the_Burning_Suns/units/Desert_Fighter6.cfg:52
+#: Under_the_Burning_Suns/units/Desert_Scout5.cfg:52
 #: Under_the_Burning_Suns/units/Desert_Fighter7.cfg:52
+#: Under_the_Burning_Suns/units/Desert_Scout6.cfg:52
+#: Under_the_Burning_Suns/units/Desert_Scout7.cfg:52
 #: Under_the_Burning_Suns/units/Desert_Fighter9.cfg:52
-#: Under_the_Burning_Suns/units/Desert_Hero.cfg:52
-#: Under_the_Burning_Suns/units/Desert_Horseman.cfg:54
-#: Under_the_Burning_Suns/units/Desert_Hunter.cfg:43
-#: Under_the_Burning_Suns/units/Desert_Hunter10.cfg:43
+#: Under_the_Burning_Suns/units/Desert_Scout9.cfg:52
+#: Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:32
+#: Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:62
+#: Under_the_Burning_Suns/units/Kaleh_Marshal.cfg:58
+#: Under_the_Burning_Suns/units/Kaleh_Hero.cfg:53
+#: Under_the_Burning_Suns/units/Dread_Bat.cfg:27
+#: Under_the_Burning_Suns/units/Desert_Captain.cfg:57
+#: Under_the_Burning_Suns/units/Desert_Fighter10.cfg:52
+#: Under_the_Burning_Suns/units/Desert_Scout10.cfg:52
+#: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:45
 #: Under_the_Burning_Suns/units/Desert_Hunter2.cfg:43
 #: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:43
 #: Under_the_Burning_Suns/units/Desert_Hunter4.cfg:42
@@ -11777,45 +11794,29 @@ msgstr "zanne"
 #: Under_the_Burning_Suns/units/Desert_Hunter6.cfg:43
 #: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:43
 #: Under_the_Burning_Suns/units/Desert_Hunter9.cfg:42
-#: Under_the_Burning_Suns/units/Desert_Marksman.cfg:49
-#: Under_the_Burning_Suns/units/Desert_Marksman.cfg:174
-#: Under_the_Burning_Suns/units/Desert_Marshal.cfg:57
-#: Under_the_Burning_Suns/units/Desert_Outrider.cfg:49
-#: Under_the_Burning_Suns/units/Desert_Prowler.cfg:47
-#: Under_the_Burning_Suns/units/Desert_Ranger.cfg:56
-#: Under_the_Burning_Suns/units/Desert_Ranger.cfg:183
-#: Under_the_Burning_Suns/units/Desert_Rider.cfg:58
-#: Under_the_Burning_Suns/units/Desert_Scout.cfg:52
-#: Under_the_Burning_Suns/units/Desert_Scout10.cfg:52
-#: Under_the_Burning_Suns/units/Desert_Scout2.cfg:52
-#: Under_the_Burning_Suns/units/Desert_Scout3.cfg:52
-#: Under_the_Burning_Suns/units/Desert_Scout4.cfg:52
-#: Under_the_Burning_Suns/units/Desert_Scout5.cfg:52
-#: Under_the_Burning_Suns/units/Desert_Scout6.cfg:52
-#: Under_the_Burning_Suns/units/Desert_Scout7.cfg:52
-#: Under_the_Burning_Suns/units/Desert_Scout9.cfg:52
-#: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:45
-#: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:61
-#: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:193
-#: Under_the_Burning_Suns/units/Dread_Bat.cfg:27
-#: Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:38
-#: Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:73
-#: Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:32
-#: Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:62
-#: Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:57
-#: Under_the_Burning_Suns/units/Garak_Captain.cfg:58
-#: Under_the_Burning_Suns/units/Garak_Marshal.cfg:58
-#: Under_the_Burning_Suns/units/Human_Captain.cfg:41
 #: Under_the_Burning_Suns/units/Kaleh_Captain.cfg:58
 #: Under_the_Burning_Suns/units/Kaleh_Champion.cfg:53
-#: Under_the_Burning_Suns/units/Kaleh_Fighter.cfg:53
-#: Under_the_Burning_Suns/units/Kaleh_Hero.cfg:53
-#: Under_the_Burning_Suns/units/Kaleh_Marshal.cfg:58
-#: Under_the_Burning_Suns/units/Naga_Hunter.cfg:22
-#: Under_the_Burning_Suns/units/Nym_Hunter.cfg:44
-#: Under_the_Burning_Suns/units/Nym_Prowler.cfg:47
-#: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:45
+#: Under_the_Burning_Suns/units/Garak_Marshal.cfg:58
+#: Under_the_Burning_Suns/units/Desert_Scout.cfg:52
+#: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:37
+#: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:61
+#: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:37
+#: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:61
+#: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:40
+#: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:64
+#: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:24
+#: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:48
 #: Under_the_Burning_Suns/units/Undead_Horseman.cfg:43
+#: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:36
+#: Under_the_Burning_Suns/units/Human_Captain.cfg:41
+#: Under_the_Burning_Suns/units/Nym_Hunter.cfg:44
+#: Under_the_Burning_Suns/units/Desert_Champion.cfg:53
+#: Under_the_Burning_Suns/units/Garak_Captain.cfg:58
+#: Under_the_Burning_Suns/units/Desert_Prowler.cfg:47
+#: Under_the_Burning_Suns/units/Alien_Minion.cfg:29
+#: Under_the_Burning_Suns/units/Desert_Fighter.cfg:52
+#: Under_the_Burning_Suns/units/Desert_Rider.cfg:58
+#: Under_the_Burning_Suns/units/Desert_Hunter10.cfg:43
 msgid "blade"
 msgstr "lama"
 
@@ -11871,11 +11872,12 @@ msgstr ""
 "Sebbene il corpo elfico spesso degeneri rapidamente, questi esseri "
 "abominevoli sono potenti armi nelle mani dei signori dei non-morti."
 
-#: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:35
-#: Under_the_Burning_Suns/units/Desert_Archer.cfg:51
-#: Under_the_Burning_Suns/units/Desert_Archer.cfg:161
-#: Under_the_Burning_Suns/units/Desert_Archer10.cfg:51
-#: Under_the_Burning_Suns/units/Desert_Archer10.cfg:161
+#: Under_the_Burning_Suns/units/Desert_Hunter.cfg:42
+#: Under_the_Burning_Suns/units/Kaleh_Fighter.cfg:52
+#: Under_the_Burning_Suns/units/Desert_Avenger.cfg:52
+#: Under_the_Burning_Suns/units/Desert_Avenger.cfg:177
+#: Under_the_Burning_Suns/units/Nym_Prowler.cfg:46
+#: Under_the_Burning_Suns/units/Desert_Horseman.cfg:53
 #: Under_the_Burning_Suns/units/Desert_Archer2.cfg:51
 #: Under_the_Burning_Suns/units/Desert_Archer2.cfg:161
 #: Under_the_Burning_Suns/units/Desert_Archer3.cfg:51
@@ -11890,23 +11892,41 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Archer7.cfg:161
 #: Under_the_Burning_Suns/units/Desert_Archer9.cfg:51
 #: Under_the_Burning_Suns/units/Desert_Archer9.cfg:161
-#: Under_the_Burning_Suns/units/Desert_Avenger.cfg:52
-#: Under_the_Burning_Suns/units/Desert_Avenger.cfg:177
-#: Under_the_Burning_Suns/units/Desert_Captain.cfg:56
-#: Under_the_Burning_Suns/units/Desert_Champion.cfg:52
-#: Under_the_Burning_Suns/units/Desert_Fighter.cfg:51
-#: Under_the_Burning_Suns/units/Desert_Fighter10.cfg:51
+#: Under_the_Burning_Suns/units/Desert_Marksman.cfg:48
+#: Under_the_Burning_Suns/units/Desert_Marksman.cfg:173
+#: Under_the_Burning_Suns/units/Desert_Ranger.cfg:55
+#: Under_the_Burning_Suns/units/Desert_Ranger.cfg:182
+#: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:44
+#: Under_the_Burning_Suns/units/Desert_Archer.cfg:51
+#: Under_the_Burning_Suns/units/Desert_Archer.cfg:161
+#: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:60
+#: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:192
+#: Under_the_Burning_Suns/units/Desert_Marshal.cfg:56
+#: Under_the_Burning_Suns/units/Desert_Archer10.cfg:51
+#: Under_the_Burning_Suns/units/Desert_Archer10.cfg:161
+#: Under_the_Burning_Suns/units/Desert_Outrider.cfg:48
+#: Under_the_Burning_Suns/units/Naga_Hunter.cfg:21
+#: Under_the_Burning_Suns/units/Desert_Hero.cfg:51
 #: Under_the_Burning_Suns/units/Desert_Fighter2.cfg:51
 #: Under_the_Burning_Suns/units/Desert_Fighter3.cfg:51
+#: Under_the_Burning_Suns/units/Desert_Scout2.cfg:51
 #: Under_the_Burning_Suns/units/Desert_Fighter4.cfg:51
+#: Under_the_Burning_Suns/units/Desert_Scout3.cfg:51
 #: Under_the_Burning_Suns/units/Desert_Fighter5.cfg:51
+#: Under_the_Burning_Suns/units/Desert_Scout4.cfg:51
 #: Under_the_Burning_Suns/units/Desert_Fighter6.cfg:51
+#: Under_the_Burning_Suns/units/Desert_Scout5.cfg:51
 #: Under_the_Burning_Suns/units/Desert_Fighter7.cfg:51
+#: Under_the_Burning_Suns/units/Desert_Scout6.cfg:51
+#: Under_the_Burning_Suns/units/Desert_Scout7.cfg:51
 #: Under_the_Burning_Suns/units/Desert_Fighter9.cfg:51
-#: Under_the_Burning_Suns/units/Desert_Hero.cfg:51
-#: Under_the_Burning_Suns/units/Desert_Horseman.cfg:53
-#: Under_the_Burning_Suns/units/Desert_Hunter.cfg:42
-#: Under_the_Burning_Suns/units/Desert_Hunter10.cfg:42
+#: Under_the_Burning_Suns/units/Desert_Scout9.cfg:51
+#: Under_the_Burning_Suns/units/Kaleh_Marshal.cfg:57
+#: Under_the_Burning_Suns/units/Kaleh_Hero.cfg:52
+#: Under_the_Burning_Suns/units/Desert_Captain.cfg:56
+#: Under_the_Burning_Suns/units/Desert_Fighter10.cfg:51
+#: Under_the_Burning_Suns/units/Desert_Scout10.cfg:51
+#: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:44
 #: Under_the_Burning_Suns/units/Desert_Hunter2.cfg:42
 #: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:42
 #: Under_the_Burning_Suns/units/Desert_Hunter4.cfg:41
@@ -11914,43 +11934,24 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Hunter6.cfg:42
 #: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:42
 #: Under_the_Burning_Suns/units/Desert_Hunter9.cfg:41
-#: Under_the_Burning_Suns/units/Desert_Marksman.cfg:48
-#: Under_the_Burning_Suns/units/Desert_Marksman.cfg:173
-#: Under_the_Burning_Suns/units/Desert_Marshal.cfg:56
-#: Under_the_Burning_Suns/units/Desert_Outrider.cfg:48
-#: Under_the_Burning_Suns/units/Desert_Prowler.cfg:46
-#: Under_the_Burning_Suns/units/Desert_Ranger.cfg:55
-#: Under_the_Burning_Suns/units/Desert_Ranger.cfg:182
-#: Under_the_Burning_Suns/units/Desert_Rider.cfg:57
-#: Under_the_Burning_Suns/units/Desert_Scout.cfg:51
-#: Under_the_Burning_Suns/units/Desert_Scout10.cfg:51
-#: Under_the_Burning_Suns/units/Desert_Scout2.cfg:51
-#: Under_the_Burning_Suns/units/Desert_Scout3.cfg:51
-#: Under_the_Burning_Suns/units/Desert_Scout4.cfg:51
-#: Under_the_Burning_Suns/units/Desert_Scout5.cfg:51
-#: Under_the_Burning_Suns/units/Desert_Scout6.cfg:51
-#: Under_the_Burning_Suns/units/Desert_Scout7.cfg:51
-#: Under_the_Burning_Suns/units/Desert_Scout9.cfg:51
-#: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:44
-#: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:60
-#: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:192
-#: Under_the_Burning_Suns/units/Garak_Captain.cfg:57
-#: Under_the_Burning_Suns/units/Garak_Marshal.cfg:57
-#: Under_the_Burning_Suns/units/Human_Captain.cfg:40
 #: Under_the_Burning_Suns/units/Kaleh_Captain.cfg:57
 #: Under_the_Burning_Suns/units/Kaleh_Champion.cfg:52
-#: Under_the_Burning_Suns/units/Kaleh_Fighter.cfg:52
-#: Under_the_Burning_Suns/units/Kaleh_Hero.cfg:52
-#: Under_the_Burning_Suns/units/Kaleh_Marshal.cfg:57
-#: Under_the_Burning_Suns/units/Naga_Hunter.cfg:21
+#: Under_the_Burning_Suns/units/Garak_Marshal.cfg:57
+#: Under_the_Burning_Suns/units/Desert_Scout.cfg:51
+#: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:35
+#: Under_the_Burning_Suns/units/Human_Captain.cfg:40
 #: Under_the_Burning_Suns/units/Nym_Hunter.cfg:43
-#: Under_the_Burning_Suns/units/Nym_Prowler.cfg:46
-#: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:44
+#: Under_the_Burning_Suns/units/Desert_Champion.cfg:52
+#: Under_the_Burning_Suns/units/Garak_Captain.cfg:57
+#: Under_the_Burning_Suns/units/Desert_Prowler.cfg:46
+#: Under_the_Burning_Suns/units/Desert_Fighter.cfg:51
+#: Under_the_Burning_Suns/units/Desert_Rider.cfg:57
+#: Under_the_Burning_Suns/units/Desert_Hunter10.cfg:42
 msgid "sword"
 msgstr "spada"
 
-#: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:54
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:42
+#: Under_the_Burning_Suns/units/Corrupted_Elf.cfg:54
 #: Under_the_Burning_Suns/units/Troll_Shaman.cfg:49
 msgid "magic"
 msgstr "magia"
@@ -11992,21 +11993,36 @@ msgstr ""
 "un segreto ben custodito dai grandi custodi della tradizione di Wesnoth. E "
 "non è bello. "
 
-#: Under_the_Burning_Suns/units/Darawf.cfg:26
-#: Under_the_Burning_Suns/units/Divine_Avatar.cfg:22
-#: Under_the_Burning_Suns/units/Divine_Incarnation.cfg:22
-#: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:51
-#: Under_the_Burning_Suns/units/Troll_Shaman.cfg:34
 #: Under_the_Burning_Suns/units/Troll_Zombie.cfg:32
+#: Under_the_Burning_Suns/units/Divine_Avatar.cfg:22
+#: Under_the_Burning_Suns/units/Darawf.cfg:26
+#: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:51
+#: Under_the_Burning_Suns/units/Divine_Incarnation.cfg:22
+#: Under_the_Burning_Suns/units/Troll_Shaman.cfg:34
 msgid "fist"
 msgstr "pugno"
 
-#: Under_the_Burning_Suns/units/Darawf.cfg:27
-#: Under_the_Burning_Suns/units/Deep_One.cfg:44
-#: Under_the_Burning_Suns/units/Desert_Druid.cfg:48
-#: Under_the_Burning_Suns/units/Desert_Druid.cfg:69
+#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:46
+#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:67
+#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:46
+#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:67
+#: Under_the_Burning_Suns/units/Desert_Shaman9.cfg:46
+#: Under_the_Burning_Suns/units/Desert_Shaman9.cfg:67
 #: Under_the_Burning_Suns/units/Desert_Hunter.cfg:63
-#: Under_the_Burning_Suns/units/Desert_Hunter10.cfg:63
+#: Under_the_Burning_Suns/units/Nym_Prowler.cfg:67
+#: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:65
+#: Under_the_Burning_Suns/units/Troll_Zombie.cfg:33
+#: Under_the_Burning_Suns/units/Deep_One.cfg:44
+#: Under_the_Burning_Suns/units/Flesh_Golem.cfg:29
+#: Under_the_Burning_Suns/units/Naga_Guardian.cfg:26
+#: Under_the_Burning_Suns/units/Darawf.cfg:27
+#: Under_the_Burning_Suns/units/Desert_Shaman.cfg:46
+#: Under_the_Burning_Suns/units/Desert_Shaman.cfg:67
+#: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:53
+#: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:73
+#: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:65
+#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:49
+#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:70
 #: Under_the_Burning_Suns/units/Desert_Hunter2.cfg:63
 #: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:63
 #: Under_the_Burning_Suns/units/Desert_Hunter4.cfg:62
@@ -12014,12 +12030,27 @@ msgstr "pugno"
 #: Under_the_Burning_Suns/units/Desert_Hunter6.cfg:63
 #: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:63
 #: Under_the_Burning_Suns/units/Desert_Hunter9.cfg:62
+#: Under_the_Burning_Suns/units/Grog_Troll.cfg:39
+#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:53
+#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:81
+#: Under_the_Burning_Suns/units/Naga_Sentinel.cfg:27
+#: Under_the_Burning_Suns/units/Grog_Troll_Warrior.cfg:40
+#: Under_the_Burning_Suns/units/Giant_Tentacle.cfg:67
+#: Under_the_Burning_Suns/units/Naga_Warden.cfg:26
+#: Under_the_Burning_Suns/units/Zhul_Star.cfg:61
+#: Under_the_Burning_Suns/units/Zhul_Star.cfg:89
+#: Under_the_Burning_Suns/units/Nym_Hunter.cfg:64
+#: Under_the_Burning_Suns/units/Desert_Druid.cfg:48
+#: Under_the_Burning_Suns/units/Desert_Druid.cfg:69
 #: Under_the_Burning_Suns/units/Desert_Prowler.cfg:67
-#: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:65
-#: Under_the_Burning_Suns/units/Desert_Shaman.cfg:46
-#: Under_the_Burning_Suns/units/Desert_Shaman.cfg:67
 #: Under_the_Burning_Suns/units/Desert_Shaman10.cfg:46
 #: Under_the_Burning_Suns/units/Desert_Shaman10.cfg:67
+#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:52
+#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:80
+#: Under_the_Burning_Suns/units/Troll_Shaman.cfg:35
+#: Under_the_Burning_Suns/units/Desert_Hunter10.cfg:63
+#: Under_the_Burning_Suns/units/Desert_Star.cfg:60
+#: Under_the_Burning_Suns/units/Desert_Star.cfg:88
 #: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:46
 #: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:67
 #: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:46
@@ -12028,36 +12059,6 @@ msgstr "pugno"
 #: Under_the_Burning_Suns/units/Desert_Shaman4.cfg:67
 #: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:46
 #: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:67
-#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:46
-#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:67
-#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:46
-#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:67
-#: Under_the_Burning_Suns/units/Desert_Shaman9.cfg:46
-#: Under_the_Burning_Suns/units/Desert_Shaman9.cfg:67
-#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:52
-#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:80
-#: Under_the_Burning_Suns/units/Desert_Star.cfg:60
-#: Under_the_Burning_Suns/units/Desert_Star.cfg:88
-#: Under_the_Burning_Suns/units/Flesh_Golem.cfg:29
-#: Under_the_Burning_Suns/units/Giant_Tentacle.cfg:67
-#: Under_the_Burning_Suns/units/Grog_Troll.cfg:39
-#: Under_the_Burning_Suns/units/Grog_Troll_Warrior.cfg:40
-#: Under_the_Burning_Suns/units/Naga_Guardian.cfg:26
-#: Under_the_Burning_Suns/units/Naga_Sentinel.cfg:27
-#: Under_the_Burning_Suns/units/Naga_Warden.cfg:26
-#: Under_the_Burning_Suns/units/Nym_Hunter.cfg:64
-#: Under_the_Burning_Suns/units/Nym_Prowler.cfg:67
-#: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:65
-#: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:53
-#: Under_the_Burning_Suns/units/Small_Mudcrawler.cfg:73
-#: Under_the_Burning_Suns/units/Troll_Shaman.cfg:35
-#: Under_the_Burning_Suns/units/Troll_Zombie.cfg:33
-#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:49
-#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:70
-#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:53
-#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:81
-#: Under_the_Burning_Suns/units/Zhul_Star.cfg:61
-#: Under_the_Burning_Suns/units/Zhul_Star.cfg:89
 msgid "impact"
 msgstr "impatto"
 
@@ -12093,12 +12094,12 @@ msgstr "pugnale"
 msgid "darts"
 msgstr "dardi"
 
+#: Under_the_Burning_Suns/units/Naga_Hunter.cfg:40
+#: Under_the_Burning_Suns/units/Deep_One.cfg:85
 #: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:65
 #: Under_the_Burning_Suns/units/Dark_Assassin2.cfg:65
 #: Under_the_Burning_Suns/units/Dark_Assassin3.cfg:68
 #: Under_the_Burning_Suns/units/Dark_Assassin4.cfg:52
-#: Under_the_Burning_Suns/units/Deep_One.cfg:85
-#: Under_the_Burning_Suns/units/Naga_Hunter.cfg:40
 msgid "poison"
 msgstr "veleno"
 
@@ -12143,11 +12144,10 @@ msgstr "arpione"
 msgid "ink"
 msgstr "inchiostro"
 
-#: Under_the_Burning_Suns/units/Deep_One.cfg:81
-#: Under_the_Burning_Suns/units/Desert_Archer.cfg:72
-#: Under_the_Burning_Suns/units/Desert_Archer.cfg:182
-#: Under_the_Burning_Suns/units/Desert_Archer10.cfg:72
-#: Under_the_Burning_Suns/units/Desert_Archer10.cfg:182
+#: Under_the_Burning_Suns/units/Kaleh_Fighter.cfg:73
+#: Under_the_Burning_Suns/units/Desert_Avenger.cfg:73
+#: Under_the_Burning_Suns/units/Desert_Avenger.cfg:198
+#: Under_the_Burning_Suns/units/Desert_Horseman.cfg:78
 #: Under_the_Burning_Suns/units/Desert_Archer2.cfg:72
 #: Under_the_Burning_Suns/units/Desert_Archer2.cfg:182
 #: Under_the_Burning_Suns/units/Desert_Archer3.cfg:72
@@ -12162,59 +12162,58 @@ msgstr "inchiostro"
 #: Under_the_Burning_Suns/units/Desert_Archer7.cfg:182
 #: Under_the_Burning_Suns/units/Desert_Archer9.cfg:72
 #: Under_the_Burning_Suns/units/Desert_Archer9.cfg:182
-#: Under_the_Burning_Suns/units/Desert_Avenger.cfg:73
-#: Under_the_Burning_Suns/units/Desert_Avenger.cfg:198
-#: Under_the_Burning_Suns/units/Desert_Captain.cfg:76
-#: Under_the_Burning_Suns/units/Desert_Champion.cfg:73
-#: Under_the_Burning_Suns/units/Desert_Druid.cfg:91
-#: Under_the_Burning_Suns/units/Desert_Fighter.cfg:72
-#: Under_the_Burning_Suns/units/Desert_Fighter10.cfg:72
-#: Under_the_Burning_Suns/units/Desert_Fighter2.cfg:72
-#: Under_the_Burning_Suns/units/Desert_Fighter3.cfg:72
-#: Under_the_Burning_Suns/units/Desert_Fighter4.cfg:72
-#: Under_the_Burning_Suns/units/Desert_Fighter5.cfg:72
-#: Under_the_Burning_Suns/units/Desert_Fighter6.cfg:72
-#: Under_the_Burning_Suns/units/Desert_Fighter7.cfg:72
-#: Under_the_Burning_Suns/units/Desert_Fighter9.cfg:72
-#: Under_the_Burning_Suns/units/Desert_Hero.cfg:72
-#: Under_the_Burning_Suns/units/Desert_Horseman.cfg:78
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:68
 #: Under_the_Burning_Suns/units/Desert_Marksman.cfg:193
-#: Under_the_Burning_Suns/units/Desert_Marshal.cfg:76
-#: Under_the_Burning_Suns/units/Desert_Outrider.cfg:68
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:77
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:204
-#: Under_the_Burning_Suns/units/Desert_Rider.cfg:82
-#: Under_the_Burning_Suns/units/Desert_Scout.cfg:76
-#: Under_the_Burning_Suns/units/Desert_Scout10.cfg:76
-#: Under_the_Burning_Suns/units/Desert_Scout2.cfg:76
-#: Under_the_Burning_Suns/units/Desert_Scout3.cfg:76
-#: Under_the_Burning_Suns/units/Desert_Scout4.cfg:76
-#: Under_the_Burning_Suns/units/Desert_Scout5.cfg:76
-#: Under_the_Burning_Suns/units/Desert_Scout6.cfg:76
-#: Under_the_Burning_Suns/units/Desert_Scout7.cfg:76
-#: Under_the_Burning_Suns/units/Desert_Scout9.cfg:76
+#: Under_the_Burning_Suns/units/Desert_Archer.cfg:72
+#: Under_the_Burning_Suns/units/Desert_Archer.cfg:182
 #: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:81
 #: Under_the_Burning_Suns/units/Desert_Sharpshooter.cfg:213
-#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:102
-#: Under_the_Burning_Suns/units/Desert_Star.cfg:110
-#: Under_the_Burning_Suns/units/Garak_Captain.cfg:77
-#: Under_the_Burning_Suns/units/Garak_Marshal.cfg:77
+#: Under_the_Burning_Suns/units/Desert_Marshal.cfg:76
+#: Under_the_Burning_Suns/units/Desert_Archer10.cfg:72
+#: Under_the_Burning_Suns/units/Desert_Archer10.cfg:182
+#: Under_the_Burning_Suns/units/Desert_Outrider.cfg:68
+#: Under_the_Burning_Suns/units/Naga_Hunter.cfg:36
+#: Under_the_Burning_Suns/units/Desert_Hero.cfg:72
+#: Under_the_Burning_Suns/units/Deep_One.cfg:81
+#: Under_the_Burning_Suns/units/Desert_Fighter2.cfg:72
+#: Under_the_Burning_Suns/units/Desert_Fighter3.cfg:72
+#: Under_the_Burning_Suns/units/Desert_Scout2.cfg:76
+#: Under_the_Burning_Suns/units/Desert_Fighter4.cfg:72
+#: Under_the_Burning_Suns/units/Desert_Scout3.cfg:76
+#: Under_the_Burning_Suns/units/Desert_Fighter5.cfg:72
+#: Under_the_Burning_Suns/units/Desert_Scout4.cfg:76
+#: Under_the_Burning_Suns/units/Desert_Fighter6.cfg:72
+#: Under_the_Burning_Suns/units/Desert_Scout5.cfg:76
+#: Under_the_Burning_Suns/units/Desert_Fighter7.cfg:72
+#: Under_the_Burning_Suns/units/Desert_Scout6.cfg:76
+#: Under_the_Burning_Suns/units/Desert_Scout7.cfg:76
+#: Under_the_Burning_Suns/units/Desert_Fighter9.cfg:72
+#: Under_the_Burning_Suns/units/Desert_Scout9.cfg:76
+#: Under_the_Burning_Suns/units/Kaleh_Marshal.cfg:77
+#: Under_the_Burning_Suns/units/Kaleh_Hero.cfg:73
+#: Under_the_Burning_Suns/units/Desert_Captain.cfg:76
+#: Under_the_Burning_Suns/units/Desert_Fighter10.cfg:72
+#: Under_the_Burning_Suns/units/Desert_Scout10.cfg:76
+#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:92
 #: Under_the_Burning_Suns/units/Kaleh_Captain.cfg:77
 #: Under_the_Burning_Suns/units/Kaleh_Champion.cfg:73
-#: Under_the_Burning_Suns/units/Kaleh_Fighter.cfg:73
-#: Under_the_Burning_Suns/units/Kaleh_Hero.cfg:73
-#: Under_the_Burning_Suns/units/Kaleh_Marshal.cfg:77
-#: Under_the_Burning_Suns/units/Naga_Hunter.cfg:36
-#: Under_the_Burning_Suns/units/Water_Serpent.cfg:20
-#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:92
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:103
+#: Under_the_Burning_Suns/units/Garak_Marshal.cfg:77
+#: Under_the_Burning_Suns/units/Desert_Scout.cfg:76
+#: Under_the_Burning_Suns/units/Water_Serpent.cfg:20
 #: Under_the_Burning_Suns/units/Zhul_Star.cfg:111
+#: Under_the_Burning_Suns/units/Desert_Druid.cfg:91
+#: Under_the_Burning_Suns/units/Desert_Champion.cfg:73
+#: Under_the_Burning_Suns/units/Garak_Captain.cfg:77
+#: Under_the_Burning_Suns/units/Desert_Fighter.cfg:72
+#: Under_the_Burning_Suns/units/Desert_Rider.cfg:82
+#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:102
+#: Under_the_Burning_Suns/units/Desert_Star.cfg:110
 msgid "pierce"
 msgstr "perforazione"
 
-#: Under_the_Burning_Suns/units/Desert_Archer.cfg:4
-#: Under_the_Burning_Suns/units/Desert_Archer10.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Archer2.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Archer3.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Archer4.cfg:4
@@ -12222,11 +12221,11 @@ msgstr "perforazione"
 #: Under_the_Burning_Suns/units/Desert_Archer6.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Archer7.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Archer9.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Archer.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Archer10.cfg:4
 msgid "Desert Archer"
 msgstr "Arciere del deserto"
 
-#: Under_the_Burning_Suns/units/Desert_Archer.cfg:47
-#: Under_the_Burning_Suns/units/Desert_Archer10.cfg:47
 #: Under_the_Burning_Suns/units/Desert_Archer2.cfg:47
 #: Under_the_Burning_Suns/units/Desert_Archer3.cfg:47
 #: Under_the_Burning_Suns/units/Desert_Archer4.cfg:47
@@ -12234,6 +12233,8 @@ msgstr "Arciere del deserto"
 #: Under_the_Burning_Suns/units/Desert_Archer6.cfg:47
 #: Under_the_Burning_Suns/units/Desert_Archer7.cfg:47
 #: Under_the_Burning_Suns/units/Desert_Archer9.cfg:47
+#: Under_the_Burning_Suns/units/Desert_Archer.cfg:47
+#: Under_the_Burning_Suns/units/Desert_Archer10.cfg:47
 msgid ""
 "Desert Archers are trained from youth in archery, and so skilled in long-"
 "range combat. Though their bows are cruder and their arrows less plentiful "
@@ -12245,10 +12246,10 @@ msgstr ""
 "rozzi e le frecce meno abbondanti dei loro antenati elfi, combattono con una "
 "ferocia che fa onore alla loro razza."
 
-#: Under_the_Burning_Suns/units/Desert_Archer.cfg:71
-#: Under_the_Burning_Suns/units/Desert_Archer.cfg:181
-#: Under_the_Burning_Suns/units/Desert_Archer10.cfg:71
-#: Under_the_Burning_Suns/units/Desert_Archer10.cfg:181
+#: Under_the_Burning_Suns/units/Kaleh_Fighter.cfg:72
+#: Under_the_Burning_Suns/units/Desert_Avenger.cfg:72
+#: Under_the_Burning_Suns/units/Desert_Avenger.cfg:197
+#: Under_the_Burning_Suns/units/Desert_Horseman.cfg:77
 #: Under_the_Burning_Suns/units/Desert_Archer2.cfg:71
 #: Under_the_Burning_Suns/units/Desert_Archer2.cfg:181
 #: Under_the_Burning_Suns/units/Desert_Archer3.cfg:71
@@ -12263,49 +12264,47 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Archer7.cfg:181
 #: Under_the_Burning_Suns/units/Desert_Archer9.cfg:71
 #: Under_the_Burning_Suns/units/Desert_Archer9.cfg:181
-#: Under_the_Burning_Suns/units/Desert_Avenger.cfg:72
-#: Under_the_Burning_Suns/units/Desert_Avenger.cfg:197
-#: Under_the_Burning_Suns/units/Desert_Captain.cfg:75
-#: Under_the_Burning_Suns/units/Desert_Champion.cfg:72
-#: Under_the_Burning_Suns/units/Desert_Fighter.cfg:71
-#: Under_the_Burning_Suns/units/Desert_Fighter10.cfg:71
-#: Under_the_Burning_Suns/units/Desert_Fighter2.cfg:71
-#: Under_the_Burning_Suns/units/Desert_Fighter3.cfg:71
-#: Under_the_Burning_Suns/units/Desert_Fighter4.cfg:71
-#: Under_the_Burning_Suns/units/Desert_Fighter5.cfg:71
-#: Under_the_Burning_Suns/units/Desert_Fighter6.cfg:71
-#: Under_the_Burning_Suns/units/Desert_Fighter7.cfg:71
-#: Under_the_Burning_Suns/units/Desert_Fighter9.cfg:71
-#: Under_the_Burning_Suns/units/Desert_Hero.cfg:71
-#: Under_the_Burning_Suns/units/Desert_Horseman.cfg:77
-#: Under_the_Burning_Suns/units/Desert_Marshal.cfg:75
-#: Under_the_Burning_Suns/units/Desert_Outrider.cfg:67
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:76
 #: Under_the_Burning_Suns/units/Desert_Ranger.cfg:203
-#: Under_the_Burning_Suns/units/Desert_Rider.cfg:81
-#: Under_the_Burning_Suns/units/Desert_Scout.cfg:75
-#: Under_the_Burning_Suns/units/Desert_Scout10.cfg:75
+#: Under_the_Burning_Suns/units/Desert_Archer.cfg:71
+#: Under_the_Burning_Suns/units/Desert_Archer.cfg:181
+#: Under_the_Burning_Suns/units/Desert_Marshal.cfg:75
+#: Under_the_Burning_Suns/units/Desert_Archer10.cfg:71
+#: Under_the_Burning_Suns/units/Desert_Archer10.cfg:181
+#: Under_the_Burning_Suns/units/Desert_Outrider.cfg:67
+#: Under_the_Burning_Suns/units/Naga_Hunter.cfg:35
+#: Under_the_Burning_Suns/units/Desert_Hero.cfg:71
+#: Under_the_Burning_Suns/units/Desert_Fighter2.cfg:71
+#: Under_the_Burning_Suns/units/Desert_Fighter3.cfg:71
 #: Under_the_Burning_Suns/units/Desert_Scout2.cfg:75
+#: Under_the_Burning_Suns/units/Desert_Fighter4.cfg:71
 #: Under_the_Burning_Suns/units/Desert_Scout3.cfg:75
+#: Under_the_Burning_Suns/units/Desert_Fighter5.cfg:71
 #: Under_the_Burning_Suns/units/Desert_Scout4.cfg:75
+#: Under_the_Burning_Suns/units/Desert_Fighter6.cfg:71
 #: Under_the_Burning_Suns/units/Desert_Scout5.cfg:75
+#: Under_the_Burning_Suns/units/Desert_Fighter7.cfg:71
 #: Under_the_Burning_Suns/units/Desert_Scout6.cfg:75
 #: Under_the_Burning_Suns/units/Desert_Scout7.cfg:75
+#: Under_the_Burning_Suns/units/Desert_Fighter9.cfg:71
 #: Under_the_Burning_Suns/units/Desert_Scout9.cfg:75
-#: Under_the_Burning_Suns/units/Garak_Captain.cfg:76
-#: Under_the_Burning_Suns/units/Garak_Marshal.cfg:76
-#: Under_the_Burning_Suns/units/Human_Captain.cfg:65
+#: Under_the_Burning_Suns/units/Kaleh_Marshal.cfg:76
+#: Under_the_Burning_Suns/units/Kaleh_Hero.cfg:72
+#: Under_the_Burning_Suns/units/Desert_Captain.cfg:75
+#: Under_the_Burning_Suns/units/Desert_Fighter10.cfg:71
+#: Under_the_Burning_Suns/units/Desert_Scout10.cfg:75
 #: Under_the_Burning_Suns/units/Kaleh_Captain.cfg:76
 #: Under_the_Burning_Suns/units/Kaleh_Champion.cfg:72
-#: Under_the_Burning_Suns/units/Kaleh_Fighter.cfg:72
-#: Under_the_Burning_Suns/units/Kaleh_Hero.cfg:72
-#: Under_the_Burning_Suns/units/Kaleh_Marshal.cfg:76
-#: Under_the_Burning_Suns/units/Naga_Hunter.cfg:35
+#: Under_the_Burning_Suns/units/Garak_Marshal.cfg:76
+#: Under_the_Burning_Suns/units/Desert_Scout.cfg:75
+#: Under_the_Burning_Suns/units/Human_Captain.cfg:65
+#: Under_the_Burning_Suns/units/Desert_Champion.cfg:72
+#: Under_the_Burning_Suns/units/Garak_Captain.cfg:76
+#: Under_the_Burning_Suns/units/Desert_Fighter.cfg:71
+#: Under_the_Burning_Suns/units/Desert_Rider.cfg:81
 msgid "bow"
 msgstr "arco"
 
-#: Under_the_Burning_Suns/units/Desert_Archer.cfg:115
-#: Under_the_Burning_Suns/units/Desert_Archer10.cfg:115
 #: Under_the_Burning_Suns/units/Desert_Archer2.cfg:115
 #: Under_the_Burning_Suns/units/Desert_Archer3.cfg:115
 #: Under_the_Burning_Suns/units/Desert_Archer4.cfg:115
@@ -12313,6 +12312,8 @@ msgstr "arco"
 #: Under_the_Burning_Suns/units/Desert_Archer6.cfg:115
 #: Under_the_Burning_Suns/units/Desert_Archer7.cfg:115
 #: Under_the_Burning_Suns/units/Desert_Archer9.cfg:115
+#: Under_the_Burning_Suns/units/Desert_Archer.cfg:115
+#: Under_the_Burning_Suns/units/Desert_Archer10.cfg:115
 msgid "female^Desert Archer"
 msgstr "Arciera del deserto"
 
@@ -12343,14 +12344,14 @@ msgid "female^Desert Avenger"
 msgstr "Vendicatrice del deserto"
 
 #: Under_the_Burning_Suns/units/Desert_Captain.cfg:4
-#: Under_the_Burning_Suns/units/Garak_Captain.cfg:4
 #: Under_the_Burning_Suns/units/Kaleh_Captain.cfg:4
+#: Under_the_Burning_Suns/units/Garak_Captain.cfg:4
 msgid "Desert Captain"
 msgstr "Capitano del deserto"
 
 #: Under_the_Burning_Suns/units/Desert_Captain.cfg:53
-#: Under_the_Burning_Suns/units/Garak_Captain.cfg:54
 #: Under_the_Burning_Suns/units/Kaleh_Captain.cfg:54
+#: Under_the_Burning_Suns/units/Garak_Captain.cfg:54
 msgid ""
 "Skilled in commanding other elves, Desert Captains provide a bonus to all "
 "level 1 units on adjacent hexes. Desert Captains prefer engaging the enemy "
@@ -12361,13 +12362,13 @@ msgstr ""
 "adiacenti. I capitani del deserto preferiscono affrontare i nemici in "
 "combattimenti corpo a corpo, ma sono addestrati anche nel tiro con l'arco."
 
-#: Under_the_Burning_Suns/units/Desert_Champion.cfg:4
 #: Under_the_Burning_Suns/units/Kaleh_Champion.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Champion.cfg:4
 msgid "Desert Champion"
 msgstr "Campione del deserto"
 
-#: Under_the_Burning_Suns/units/Desert_Champion.cfg:49
 #: Under_the_Burning_Suns/units/Kaleh_Champion.cfg:49
+#: Under_the_Burning_Suns/units/Desert_Champion.cfg:49
 msgid ""
 "Desert Champions are awesome masters of swordsmanship, inflicting grievous "
 "wounds in close combat. Master fighters, they are also skilled with the bow, "
@@ -12378,13 +12379,13 @@ msgstr ""
 "con l'arco, e possono quindi infliggere danni al nemico sia da vicino che da "
 "lontano."
 
-#: Under_the_Burning_Suns/units/Desert_Druid.cfg:4
 #: Under_the_Burning_Suns/units/Zhul_Druid.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Druid.cfg:4
 msgid "Desert Druid"
 msgstr "Driade del deserto"
 
-#: Under_the_Burning_Suns/units/Desert_Druid.cfg:43
 #: Under_the_Burning_Suns/units/Zhul_Druid.cfg:44
+#: Under_the_Burning_Suns/units/Desert_Druid.cfg:43
 msgid ""
 "Desert Druids are powerful masters of the sands. Brilliant at ensnaring "
 "unwary opponents, they also use the herbs of the forest to heal allies. "
@@ -12395,32 +12396,38 @@ msgstr ""
 "per curare gli alleati. Le driadi sono eccellenti unità di supporto in tutte "
 "le armate elfiche."
 
-#: Under_the_Burning_Suns/units/Desert_Druid.cfg:47
+#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:45
+#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:45
+#: Under_the_Burning_Suns/units/Desert_Shaman9.cfg:45
 #: Under_the_Burning_Suns/units/Desert_Shaman.cfg:45
+#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:48
+#: Under_the_Burning_Suns/units/Desert_Druid.cfg:47
 #: Under_the_Burning_Suns/units/Desert_Shaman10.cfg:45
 #: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:45
 #: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:45
 #: Under_the_Burning_Suns/units/Desert_Shaman4.cfg:45
 #: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:45
-#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:45
-#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:45
-#: Under_the_Burning_Suns/units/Desert_Shaman9.cfg:45
-#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:48
 msgid "staff"
 msgstr "bastone"
 
-#: Under_the_Burning_Suns/units/Desert_Druid.cfg:68
-#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:79
-#: Under_the_Burning_Suns/units/Desert_Star.cfg:87
 #: Under_the_Burning_Suns/units/Zhul_Druid.cfg:69
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:80
 #: Under_the_Burning_Suns/units/Zhul_Star.cfg:88
+#: Under_the_Burning_Suns/units/Desert_Druid.cfg:68
+#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:79
+#: Under_the_Burning_Suns/units/Desert_Star.cfg:87
 msgid "ensnare"
 msgstr "intrappola"
 
-#: Under_the_Burning_Suns/units/Desert_Druid.cfg:70
+#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:71
+#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:71
+#: Under_the_Burning_Suns/units/Desert_Shaman9.cfg:71
 #: Under_the_Burning_Suns/units/Desert_Hunter.cfg:67
-#: Under_the_Burning_Suns/units/Desert_Hunter10.cfg:67
+#: Under_the_Burning_Suns/units/Nym_Prowler.cfg:71
+#: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:69
+#: Under_the_Burning_Suns/units/Desert_Shaman.cfg:71
+#: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:69
+#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:71
 #: Under_the_Burning_Suns/units/Desert_Hunter2.cfg:67
 #: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:67
 #: Under_the_Burning_Suns/units/Desert_Hunter4.cfg:66
@@ -12428,39 +12435,32 @@ msgstr "intrappola"
 #: Under_the_Burning_Suns/units/Desert_Hunter6.cfg:67
 #: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:67
 #: Under_the_Burning_Suns/units/Desert_Hunter9.cfg:66
+#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:82
+#: Under_the_Burning_Suns/units/Zhul_Star.cfg:90
+#: Under_the_Burning_Suns/units/Nym_Hunter.cfg:68
+#: Under_the_Burning_Suns/units/Desert_Druid.cfg:70
 #: Under_the_Burning_Suns/units/Desert_Prowler.cfg:71
-#: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:69
-#: Under_the_Burning_Suns/units/Desert_Shaman.cfg:71
 #: Under_the_Burning_Suns/units/Desert_Shaman10.cfg:71
+#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:81
+#: Under_the_Burning_Suns/units/Desert_Hunter10.cfg:67
+#: Under_the_Burning_Suns/units/Desert_Star.cfg:89
 #: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:71
 #: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:71
 #: Under_the_Burning_Suns/units/Desert_Shaman4.cfg:71
 #: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:71
-#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:71
-#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:71
-#: Under_the_Burning_Suns/units/Desert_Shaman9.cfg:71
-#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:81
-#: Under_the_Burning_Suns/units/Desert_Star.cfg:89
-#: Under_the_Burning_Suns/units/Nym_Hunter.cfg:68
-#: Under_the_Burning_Suns/units/Nym_Prowler.cfg:71
-#: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:69
-#: Under_the_Burning_Suns/units/Zhul_Druid.cfg:71
-#: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:82
-#: Under_the_Burning_Suns/units/Zhul_Star.cfg:90
 msgid "slow"
 msgstr "rallenta"
 
-#: Under_the_Burning_Suns/units/Desert_Druid.cfg:90
-#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:101
-#: Under_the_Burning_Suns/units/Desert_Star.cfg:109
 #: Under_the_Burning_Suns/units/Zhul_Druid.cfg:91
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:102
 #: Under_the_Burning_Suns/units/Zhul_Star.cfg:110
+#: Under_the_Burning_Suns/units/Desert_Druid.cfg:90
+#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:101
+#: Under_the_Burning_Suns/units/Desert_Star.cfg:109
 msgid "thorns"
 msgstr "spine"
 
-#: Under_the_Burning_Suns/units/Desert_Fighter.cfg:4
-#: Under_the_Burning_Suns/units/Desert_Fighter10.cfg:4
+#: Under_the_Burning_Suns/units/Kaleh_Fighter.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Fighter2.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Fighter3.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Fighter4.cfg:4
@@ -12468,12 +12468,12 @@ msgstr "spine"
 #: Under_the_Burning_Suns/units/Desert_Fighter6.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Fighter7.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Fighter9.cfg:4
-#: Under_the_Burning_Suns/units/Kaleh_Fighter.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Fighter10.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Fighter.cfg:4
 msgid "Desert Fighter"
 msgstr "Combattente del deserto"
 
-#: Under_the_Burning_Suns/units/Desert_Fighter.cfg:46
-#: Under_the_Burning_Suns/units/Desert_Fighter10.cfg:46
+#: Under_the_Burning_Suns/units/Kaleh_Fighter.cfg:47
 #: Under_the_Burning_Suns/units/Desert_Fighter2.cfg:46
 #: Under_the_Burning_Suns/units/Desert_Fighter3.cfg:46
 #: Under_the_Burning_Suns/units/Desert_Fighter4.cfg:46
@@ -12481,7 +12481,8 @@ msgstr "Combattente del deserto"
 #: Under_the_Burning_Suns/units/Desert_Fighter6.cfg:46
 #: Under_the_Burning_Suns/units/Desert_Fighter7.cfg:46
 #: Under_the_Burning_Suns/units/Desert_Fighter9.cfg:46
-#: Under_the_Burning_Suns/units/Kaleh_Fighter.cfg:47
+#: Under_the_Burning_Suns/units/Desert_Fighter10.cfg:46
+#: Under_the_Burning_Suns/units/Desert_Fighter.cfg:46
 msgid ""
 "Desert Fighters make up the bulk of the Elven military in Wesnoth. They are "
 "trained in both sword and bow, though like most of their kin, they prefer "
@@ -12526,7 +12527,6 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Hunter.cfg:38
-#: Under_the_Burning_Suns/units/Desert_Hunter10.cfg:38
 #: Under_the_Burning_Suns/units/Desert_Hunter2.cfg:38
 #: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:38
 #: Under_the_Burning_Suns/units/Desert_Hunter4.cfg:37
@@ -12535,6 +12535,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:38
 #: Under_the_Burning_Suns/units/Desert_Hunter9.cfg:37
 #: Under_the_Burning_Suns/units/Nym_Hunter.cfg:39
+#: Under_the_Burning_Suns/units/Desert_Hunter10.cfg:38
 msgid ""
 "Desert Hunters are trained to scour the sands for prey and enemies. They can "
 "quickly entangle others with their bolas and then finish them off with their "
@@ -12545,7 +12546,9 @@ msgstr ""
 "e finirli con le spade."
 
 #: Under_the_Burning_Suns/units/Desert_Hunter.cfg:62
-#: Under_the_Burning_Suns/units/Desert_Hunter10.cfg:62
+#: Under_the_Burning_Suns/units/Nym_Prowler.cfg:66
+#: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:64
+#: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:64
 #: Under_the_Burning_Suns/units/Desert_Hunter2.cfg:62
 #: Under_the_Burning_Suns/units/Desert_Hunter3.cfg:62
 #: Under_the_Burning_Suns/units/Desert_Hunter4.cfg:61
@@ -12553,11 +12556,9 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Hunter6.cfg:62
 #: Under_the_Burning_Suns/units/Desert_Hunter7.cfg:62
 #: Under_the_Burning_Suns/units/Desert_Hunter9.cfg:61
-#: Under_the_Burning_Suns/units/Desert_Prowler.cfg:66
-#: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:64
 #: Under_the_Burning_Suns/units/Nym_Hunter.cfg:63
-#: Under_the_Burning_Suns/units/Nym_Prowler.cfg:66
-#: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:64
+#: Under_the_Burning_Suns/units/Desert_Prowler.cfg:66
+#: Under_the_Burning_Suns/units/Desert_Hunter10.cfg:62
 msgid "bola"
 msgstr "bola"
 
@@ -12599,14 +12600,14 @@ msgid "female^Desert Marksman"
 msgstr "Tiratrice scelta"
 
 #: Under_the_Burning_Suns/units/Desert_Marshal.cfg:4
-#: Under_the_Burning_Suns/units/Garak_Marshal.cfg:4
 #: Under_the_Burning_Suns/units/Kaleh_Marshal.cfg:4
+#: Under_the_Burning_Suns/units/Garak_Marshal.cfg:4
 msgid "Desert Marshal"
 msgstr "Colonnello del deserto"
 
 #: Under_the_Burning_Suns/units/Desert_Marshal.cfg:52
-#: Under_the_Burning_Suns/units/Garak_Marshal.cfg:53
 #: Under_the_Burning_Suns/units/Kaleh_Marshal.cfg:53
+#: Under_the_Burning_Suns/units/Garak_Marshal.cfg:53
 msgid ""
 "Desert Marshalls are master commanders, able to inspire confidence in any "
 "level 1 or 2 unit in adjacent hexes, causing them to fight with increased "
@@ -12632,8 +12633,8 @@ msgid ""
 "sands to evade response."
 msgstr ""
 
-#: Under_the_Burning_Suns/units/Desert_Prowler.cfg:42
 #: Under_the_Burning_Suns/units/Nym_Prowler.cfg:42
+#: Under_the_Burning_Suns/units/Desert_Prowler.cfg:42
 msgid ""
 "Desert Prowlers sneak across the sands, searching out enemies and protecting "
 "their people. They are trained to slip past enemies unnoticed and flank "
@@ -12678,8 +12679,6 @@ msgstr ""
 "anche in groppa al cavallo, ma preferiscono il combattimento corpo a corpo "
 "quando necessario."
 
-#: Under_the_Burning_Suns/units/Desert_Scout.cfg:4
-#: Under_the_Burning_Suns/units/Desert_Scout10.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Scout2.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Scout3.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Scout4.cfg:4
@@ -12687,11 +12686,11 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Desert_Scout6.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Scout7.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Scout9.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Scout10.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Scout.cfg:4
 msgid "Desert Scout"
 msgstr "Esploratore del deserto"
 
-#: Under_the_Burning_Suns/units/Desert_Scout.cfg:47
-#: Under_the_Burning_Suns/units/Desert_Scout10.cfg:47
 #: Under_the_Burning_Suns/units/Desert_Scout2.cfg:47
 #: Under_the_Burning_Suns/units/Desert_Scout3.cfg:47
 #: Under_the_Burning_Suns/units/Desert_Scout4.cfg:47
@@ -12699,6 +12698,8 @@ msgstr "Esploratore del deserto"
 #: Under_the_Burning_Suns/units/Desert_Scout6.cfg:47
 #: Under_the_Burning_Suns/units/Desert_Scout7.cfg:47
 #: Under_the_Burning_Suns/units/Desert_Scout9.cfg:47
+#: Under_the_Burning_Suns/units/Desert_Scout10.cfg:47
+#: Under_the_Burning_Suns/units/Desert_Scout.cfg:47
 msgid ""
 "Desert Scouts move swiftly across the sands. Their skill on horseback is "
 "virtually unmatched, although they do lack power in combat."
@@ -12707,8 +12708,8 @@ msgstr ""
 "a cavallo è virtualmente ineguagliata, sebbene siano poco efficaci nel "
 "combattimento."
 
-#: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:41
 #: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:41
+#: Under_the_Burning_Suns/units/Desert_Sentinel.cfg:41
 msgid ""
 "Desert Sentinels patrol the sands; they are trained to  avoid enemies when "
 "it is advantageous. They can cripple opponents with their bolas and are "
@@ -12718,27 +12719,27 @@ msgstr ""
 "evitare i nemici quando è vantaggioso. Possono invalidare gli avversari con "
 "le bola e sono micidiali quando combattono col le loro spade."
 
+#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Shaman9.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Shaman.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Shaman10.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Shaman4.cfg:4
 #: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:4
-#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:4
-#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:4
-#: Under_the_Burning_Suns/units/Desert_Shaman9.cfg:4
 msgid "Desert Shaman"
 msgstr "Sciamana del deserto"
 
+#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:41
+#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:41
+#: Under_the_Burning_Suns/units/Desert_Shaman9.cfg:41
 #: Under_the_Burning_Suns/units/Desert_Shaman.cfg:41
 #: Under_the_Burning_Suns/units/Desert_Shaman10.cfg:41
 #: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:41
 #: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:41
 #: Under_the_Burning_Suns/units/Desert_Shaman4.cfg:41
 #: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:41
-#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:41
-#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:41
-#: Under_the_Burning_Suns/units/Desert_Shaman9.cfg:41
 msgid ""
 "Desert Shamans focus on less violent ways to hinder the enemy. Their "
 "entangling attack slows enemies down and reduces by one the number of times "
@@ -12749,15 +12750,15 @@ msgstr ""
 "di uno il numero di volte che questi possono attaccare. Le sciamane "
 "possiedono anche semplici capacità curative."
 
+#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:66
+#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:66
+#: Under_the_Burning_Suns/units/Desert_Shaman9.cfg:66
 #: Under_the_Burning_Suns/units/Desert_Shaman.cfg:66
 #: Under_the_Burning_Suns/units/Desert_Shaman10.cfg:66
 #: Under_the_Burning_Suns/units/Desert_Shaman2.cfg:66
 #: Under_the_Burning_Suns/units/Desert_Shaman3.cfg:66
 #: Under_the_Burning_Suns/units/Desert_Shaman4.cfg:66
 #: Under_the_Burning_Suns/units/Desert_Shaman5.cfg:66
-#: Under_the_Burning_Suns/units/Desert_Shaman6.cfg:66
-#: Under_the_Burning_Suns/units/Desert_Shaman7.cfg:66
-#: Under_the_Burning_Suns/units/Desert_Shaman9.cfg:66
 msgid "entangle"
 msgstr "intrappolamento"
 
@@ -12784,13 +12785,13 @@ msgstr ""
 msgid "female^Desert Sharpshooter"
 msgstr "Campionessa di tiro del deserto"
 
-#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:4
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:4
 msgid "Desert Shyde"
 msgstr "Ninfa del deserto"
 
-#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:47
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:48
+#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:47
 msgid ""
 "Shydes are elves that are devoted to nature and their faerie side. Dragonfly "
 "wings sprout from their backs and change them into beautiful creatures. They "
@@ -12806,20 +12807,20 @@ msgstr ""
 "incontrano. Il loro potere magico si è adattato alla vita tra le sabbie, e "
 "quindi non funziona sopra acque profonde."
 
-#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:51
-#: Under_the_Burning_Suns/units/Desert_Star.cfg:59
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:52
 #: Under_the_Burning_Suns/units/Zhul_Star.cfg:60
+#: Under_the_Burning_Suns/units/Desert_Shyde.cfg:51
+#: Under_the_Burning_Suns/units/Desert_Star.cfg:59
 msgid "faerie touch"
 msgstr "tocco fatato"
 
-#: Under_the_Burning_Suns/units/Desert_Star.cfg:4
 #: Under_the_Burning_Suns/units/Zhul_Star.cfg:4
+#: Under_the_Burning_Suns/units/Desert_Star.cfg:4
 msgid "Desert Star"
 msgstr "Stella del deserto"
 
-#: Under_the_Burning_Suns/units/Desert_Star.cfg:55
 #: Under_the_Burning_Suns/units/Zhul_Star.cfg:56
+#: Under_the_Burning_Suns/units/Desert_Star.cfg:55
 msgid ""
 "Desert Stars are Shydes that have becomes so powerful and holy that they "
 "shine forth the light of Eloh, even in the darkest places. Like Shydes, they "
@@ -12899,8 +12900,8 @@ msgstr ""
 "sangue, sono cresciuti a dismisura e possono attaccare vittime sempre più "
 "grandi."
 
-#: Under_the_Burning_Suns/units/Dread_Bat.cfg:31
 #: Under_the_Burning_Suns/units/Haunt.cfg:39
+#: Under_the_Burning_Suns/units/Dread_Bat.cfg:31
 #: Under_the_Burning_Suns/units/Spider_Lich.cfg:31
 msgid "drain"
 msgstr "assorbimento"
@@ -12924,12 +12925,12 @@ msgstr ""
 "secondi solo ai signori dei nani, e la loro inaspettata agilità li rende "
 "veramente pericolosi."
 
+#: Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:31
+#: Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:56
 #: Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:37
 #: Under_the_Burning_Suns/units/Dwarvish_Explorer.cfg:72
 #: Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:31
 #: Under_the_Burning_Suns/units/Dwarvish_Pathfinder.cfg:61
-#: Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:31
-#: Under_the_Burning_Suns/units/Dwarvish_Scout.cfg:56
 #: Under_the_Burning_Suns/units/Undead_Horseman.cfg:42
 msgid "axe"
 msgstr "ascia"
@@ -13127,19 +13128,19 @@ msgstr ""
 msgid "flaming sword"
 msgstr "spada fiammeggiante"
 
-#: Under_the_Burning_Suns/units/Ixthala_Demon.cfg:31
-#: Under_the_Burning_Suns/units/Lava_Monster.cfg:36
-#: Under_the_Burning_Suns/units/Lava_Monster.cfg:62
 #: Under_the_Burning_Suns/units/Lava_Monster2.cfg:36
 #: Under_the_Burning_Suns/units/Lava_Monster2.cfg:62
 #: Under_the_Burning_Suns/units/Lava_Monster3.cfg:63
+#: Under_the_Burning_Suns/units/Lava_Monster.cfg:36
+#: Under_the_Burning_Suns/units/Lava_Monster.cfg:62
+#: Under_the_Burning_Suns/units/Ixthala_Demon.cfg:31
 #: Under_the_Burning_Suns/units/Troll_Shaman.cfg:50
 msgid "fire"
 msgstr "fuoco"
 
-#: Under_the_Burning_Suns/units/Lava_Monster.cfg:4
 #: Under_the_Burning_Suns/units/Lava_Monster2.cfg:4
 #: Under_the_Burning_Suns/units/Lava_Monster3.cfg:4
+#: Under_the_Burning_Suns/units/Lava_Monster.cfg:4
 msgid "Fire Guardian"
 msgstr "Guardiano di fuoco"
 
@@ -13155,14 +13156,14 @@ msgstr ""
 "inviati in missione, amano rosolarsi in pozze di lava e provano un "
 "incommensurabile piacere nel bruciare tutto quello che incontrano."
 
-#: Under_the_Burning_Suns/units/Lava_Monster.cfg:35
 #: Under_the_Burning_Suns/units/Lava_Monster2.cfg:35
+#: Under_the_Burning_Suns/units/Lava_Monster.cfg:35
 msgid "fire claws"
 msgstr "artigli infuocati"
 
-#: Under_the_Burning_Suns/units/Lava_Monster.cfg:60
 #: Under_the_Burning_Suns/units/Lava_Monster2.cfg:60
 #: Under_the_Burning_Suns/units/Lava_Monster3.cfg:61
+#: Under_the_Burning_Suns/units/Lava_Monster.cfg:60
 msgid "fire breath"
 msgstr "alito di fuoco"
 
