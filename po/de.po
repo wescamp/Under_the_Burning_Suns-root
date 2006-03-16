@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-03-14 23:08+0100\n"
+"POT-Creation-Date: 2006-03-16 23:08+0100\n"
 "PO-Revision-Date: 2006-02-21 00:22+0100\n"
 "Last-Translator: Allefant <allefant@gmail.com>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
@@ -24,7 +24,7 @@ msgstr "Unter brennenden Sonnen"
 msgid ""
 "In the distant future a small band of elves struggles to survive amidst the "
 "ruins of fallen empires. Lead your people out of the desert on an epic "
-"journey to find a new home. (Version 1.5 3/14/06)"
+"journey to find a new home."
 msgstr ""
 "In ferner Zukunft kämpft eine kleine Gruppe von Elfen um das Überleben "
 "inmitten der Ruinen eines zerfallenen Reiches. Führt euer Volk aus der Wüste "
@@ -1007,16 +1007,16 @@ msgstr ""
 "Angelegenheit helfen."
 
 #: Under_the_Burning_Suns/scenarios/10_Fish.cfg:836
+#, fuzzy
 msgid ""
 "Excellent. Due to our limited numbers, we cannot mount a full frontal "
 "assault against all her forces. Instead a sneak attack may allow us to "
 "bypass her defenses and strike at her heart. There are many among my people "
 "who yearn to strike against the Eater of Souls. I will help orchestrate an "
-"attack on one of the outmost northern islands to create a diversion. "
-"Although her magic has clouded the main island from my scrying, that is "
-"where I sense that strongest power. We will not be able to keep this feint "
-"going for long, but it should give you enough time to slip through her "
-"defenses and reach the island."
+"attack on one of the outmost northern islands to create a diversion. I also "
+"want to thank you for rescuing my brethren from the humans. They owe you "
+"their lives and they wish to return their debt of gratitude. They have "
+"volunteered to guide and escort you to your destination."
 msgstr ""
 "Exzellent. Aufgrund unserer geringen Zahl können wir keinen Frontalangriff "
 "gegen all ihre Truppen durchführen. Doch vielleicht gelingt es uns, in einem "
@@ -1032,11 +1032,23 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/10_Fish.cfg:841
 msgid ""
-"I also want to thank you for rescuing my brethren from the humans. In return "
-"they have volunteered to guide and escort you to the island. They owe you "
-"their lives and they wish to return their debt of gratitude. You must "
-"explore this island, find the source of the darkness that infests it and "
-"destroy it before the rest of her minions have time to return."
+"Although her magic has clouded the isles from my scrying, it is the largest "
+"island, which we call Zocthanol Isle, where I sense the strongest power."
+msgstr ""
+
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:847
+msgid "Why is it called Zocthanol Isle?"
+msgstr ""
+
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:852
+#, fuzzy
+msgid ""
+"Because Zocthanol means accursed in our tongue. Anyway, is it there that I "
+"think you will find the source of the corruption. We will not be able to "
+"continue our attack for long, but it should give you enough time to slip "
+"through her outer defenses and Zocthanol Isle. You must explore the island, "
+"find the source of the darkness that infests it and destroy it before the "
+"rest of the Yechnagoth's minions have time to return."
 msgstr ""
 "Außerdem will ich euch noch dafür danken, dass ihr meine Geschwister vor den "
 "Menschen gerettet habt. Sie haben sich als Gegenleistung bereit erklärt, "
@@ -1045,14 +1057,15 @@ msgstr ""
 "Insel erforschen. Findet die Quelle der Dunkelheit, und zerstört sie, bevor "
 "ihre Einheiten Zeit haben, zurückzukehren."
 
-#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:846
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:857
+#, fuzzy
 msgid ""
 "And on a related subject I can offer you a glimmer of hope in this dark "
-"time. I know that you have been searching for a home for your people. The "
-"islands that Yechnagoth infests were once rich and bountiful. If this "
-"darkness can truly be destroyed, then such a place might be the home you "
-"have been looking for. And I promise you that if you help us, we will help "
-"you adapt to these new lands. But that is talk for another day."
+"time. I know that you have been searching for a home for your people. These "
+"corrupted islands were once rich and bountiful. If this darkness can truly "
+"be destroyed, then such a place might be the home you have been looking for. "
+"And I promise you that if you help us, we will help you adapt to these new "
+"lands. But that is talk for another day."
 msgstr ""
 "Und in diesem Zusammenhang will ich euch auch einen Funken Hoffnung zu "
 "dieser schweren Stunde geben. Ich weiß, dass ihr ein neues Zuhause für euer "
@@ -1062,7 +1075,7 @@ msgstr ""
 "ihr uns helft, wir euch helfen würden, euch an diese neue Umgebung "
 "anzupassen. Aber darüber können wir uns zu einer anderen Stunde unterhalten."
 
-#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:851
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:862
 msgid ""
 "Before you go I have one thing to give you. I'm afraid that where you are "
 "going my magical power will be of little help. However I want you to have "
@@ -1078,20 +1091,20 @@ msgstr ""
 "tragt, wird es mir möglich sein, euren Fortschritt zu erkennen. Und "
 "vielleicht werden sie euch auch vor anderen Dingen beschützen."
 
-#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:857
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:868
 msgid "We thank you for such beautiful gifts. We will wear them with honor."
 msgstr ""
 "Wir danken dir für dieses wundervolle Geschenk. Es ehrt uns, sie zu tragen."
 
-#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:863
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:874
 msgid "We have one favor to ask of you."
 msgstr "Es gibt noch einen Gefallen, um den wir Euch bitten."
 
-#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:868
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:879
 msgid "Yes, anything."
 msgstr "Was immer ihr wollt."
 
-#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:875
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:886
 msgid ""
 "We go into this darkness knowing that perhaps none of us return alive. But I "
 "cannot ask all my people to go with me against their will. This battle is "
@@ -1108,7 +1121,7 @@ msgstr ""
 "fort von hier als möglich. Vielleicht wird es ihnen so möglich sein, ein "
 "glückliches und friedliches Leben in einer fernen Wildnis zu führen."
 
-#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:880
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:891
 msgid ""
 "I will do as you ask. It is only fair. But if if this battle goes ill I do "
 "not think there will be many safe places left in the known lands."
@@ -1117,7 +1130,7 @@ msgstr ""
 "dass es noch viele sichere Orte auf dieser Welt geben wird, wenn wir die "
 "Schlacht verlieren."
 
-#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:886
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:897
 msgid ""
 "Before we leave, there's one thing I don't understand. When he first met "
 "Kaleh, Esanoo said this all concerned Yechnagoth and Yanqui. We know about "
@@ -1127,7 +1140,7 @@ msgstr ""
 "Kaleh zum ersten Mal begegnet ist, sagte Esanoo, es gehe um Yechnagoth und "
 "Yanqui. Wir wissen jetzt wer Yechangoth ist, aber wer ist Yanqui?"
 
-#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:892
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:903
 #, fuzzy
 msgid ""
 "I remember when Yechnagoth was posing as Eloh, she said she was the slayer "
@@ -1136,13 +1149,13 @@ msgstr ""
 "Als Yechnagoth sich als Eloh ausgab, sagte sie, sie sei der Bezwinger des "
 "Dämonengottes Yanqui."
 
-#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:898
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:909
 msgid ""
 "I wonder where Yechnagoth heard of the story of the demon lord Yanqui. It is "
 "a sad tale and has not been told for ages, but perhaps now is the right time."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:904
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:915
 msgid ""
 "It all started in the years before the Great Fall. The elves of Wesmere "
 "Forest were masters of the arcane magics. They valued knowledge above all "
@@ -1150,7 +1163,7 @@ msgid ""
 "other races. In their scrying they attracted the notice of the Demon Yanqui."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:910
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:921
 msgid ""
 "Yanqui appeared to them in the guise of a beautiful elven youth and told "
 "them that a great darkness was coming, which would destroy all the knowledge "
@@ -1159,11 +1172,11 @@ msgid ""
 "dream of. But he wanted more; he demanded a blood sacrifice of one elf a "
 "month. Some of the elves were revolted, but most were tempted by the "
 "prospect of even greater power, and so they bowed down and worshipped him as "
-"their god. Those few who protected his ascendancy were the first to be "
+"their god. Those few who protested his ascendancy were the first to be "
 "thrown into jails and sacrificed."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:916
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:927
 msgid ""
 "And lo as the rest of the lands succumbed to darkness and chaos, Wesmere "
 "Forest was one of the few islands peace and safety. But Yanqui played upon "
@@ -1178,7 +1191,7 @@ msgid ""
 "the nearby lands."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:922
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:933
 msgid ""
 "By this point most of the other forests had been burned, and Eloh was "
 "leading our people south across the plains. We were surprised to find the "
@@ -1192,7 +1205,7 @@ msgid ""
 "with all our might."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:928
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:939
 msgid ""
 "Driven on by their dark priests and by their fear of Yanqui's wrath, the "
 "Wesmere elves fought stubbornly against our superior numbers. The fighting "
@@ -1206,7 +1219,7 @@ msgid ""
 "In the end she beheaded him and smote his body down upon the earth."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:934
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:945
 msgid ""
 "By this point the entire forest was being engulfed by flame, and friend and "
 "foe alike fled from the inferno. With the death of their god the Wesmere "
@@ -1220,7 +1233,7 @@ msgid ""
 "Yanqui might be saved. "
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:940
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:951
 msgid ""
 "Our priests also declared that Yanqui's name and his story were forbidden "
 "knowledge, to speak of him meant death. Their constant vigilance was "
@@ -1232,12 +1245,12 @@ msgid ""
 "folly of valuing knowledge higher than the welfare of our people."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:946
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:957
 #, fuzzy
 msgid "I wonder what other forbidden lore you've been taught."
 msgstr "Ich frage mich, welch anderes verbotenes Wissen du gelehrt wurdest."
 
-#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:952
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:963
 #, fuzzy
 msgid ""
 "Foolish girl! Do not ask such a question. Trust me, it is better not to "
@@ -1255,7 +1268,7 @@ msgstr ""
 "erzählt - doch ich fühlte dass es für euch an der Zeit war, einen kleinen "
 "Teil der Wahrheit zu erfahren."
 
-#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:957
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:968
 msgid ""
 "That is very interesting. In truth, I'd never heard of Yanqui before when I "
 "told Esanoo to mention him to you, Kaleh. Let me explain. When Eloh appeared "
@@ -1282,7 +1295,7 @@ msgstr ""
 "aufzusuchen. Es tut mir Leid, dass die Erkenntnis, wer sie wirklich war, "
 "einen so hohen Preis für euer Volk forderte."
 
-#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:962
+#: Under_the_Burning_Suns/scenarios/10_Fish.cfg:973
 msgid ""
 "And now I must bid your farewell. The merfolk you rescued will help show you "
 "the path to the island, and I must go orchestrate our diversion. We will "
@@ -1300,7 +1313,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/11_Island.cfg:10
 #: Under_the_Burning_Suns/scenarios/11_Island.cfg:11
 #, fuzzy
-msgid "Battle for the Emerald Isles"
+msgid "The Battle for Zocthanol Isle"
 msgstr "Die Schlacht um die Insel Nemsoth"
 
 #: Under_the_Burning_Suns/scenarios/11_Island.cfg:72
@@ -1860,8 +1873,9 @@ msgstr ""
 "gesunkener Schatz aus."
 
 #: Under_the_Burning_Suns/scenarios/11_Island.cfg:1918
+#, fuzzy
 msgid ""
-"We've run out of time. The forces that the merfolk helped distract have "
+"We've run out of time! The forces that the merfolk helped distract have "
 "returned and will surely kill us all."
 msgstr ""
 "Wie haben keine Zeit mehr. Die Truppen, die wir mit Hilfe der Meeresbewohner "
@@ -2385,11 +2399,11 @@ msgstr "Lasst uns hier verschwinden."
 msgid "Epilogue"
 msgstr "Epilog"
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:44
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:43
 msgid "Epilogue:"
 msgstr "Epilog:"
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:107
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:106
 msgid ""
 "I stumbled out into the daylight, scarcely believing that we were "
 "victorious. Looking out over the island it took me a moment to realize what "
@@ -2411,7 +2425,7 @@ msgstr ""
 "waren, die ich zuvor gesehen hatte. Auch sie hatten sich aus der "
 "Verzauberung befreien können."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:113
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:112
 msgid ""
 "Indeed with Yechnagoth's death it seems that all of her minions reverted to "
 "their original chaotic tendencies. Luckily we had already destroyed most of "
@@ -2429,20 +2443,22 @@ msgstr ""
 "nicht mehr belästigt. Wenigstens dieses Mal schienen wir vor unmittelbarer "
 "Bedrohung sicher zu sein."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:119
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:118
+#, fuzzy
 msgid ""
 "A few days later Melusand herself appeared and she declared the clensing of "
 "this island a miracle. We made a pact between elf and merfolk and vowed to "
-"live together in peace and prosperity. The merfolk have been very helpful in "
-"teaching us how to adapt to this strange land, though I still have trouble "
-"getting used to being surrounded by water. It used to be more precious than "
-"gold. Still, I could hardly imagine a better home for my people. Between the "
-"bounty of the sea and the many fruits of the jungle there is no shortage of "
-"food. We are isolated from the chaos on the mainland and the merfolk guard "
-"the waters. Melusand says now is a time for peace and prosperity. Part of me "
-"didn't think we would survive our journey, there were so many close calls. "
-"Coming here almost does seem like a miracle. If only I could forget the "
-"price we paid..."
+"live together in peace and prosperity. Melusand blessed the island, and "
+"named it 'Quenoth Isle' in honor of our people. The merfolk have been very "
+"helpful in teaching us how to adapt to this strange land, though I still "
+"have trouble getting used to being surrounded by water. It used to be more "
+"precious than gold. Still, I could hardly imagine a better home for my "
+"people. Between the bounty of the sea and the many fruits of the jungle "
+"there is no shortage of food. We are isolated from the chaos on the mainland "
+"and the merfolk guard the waters. Melusand says now is a time for peace and "
+"prosperity. Part of me didn't think we would survive our journey, there were "
+"so many close calls. Coming here almost does seem like a miracle. If only I "
+"could forget the price we paid..."
 msgstr ""
 "Ein paar Tage später erschien Melusand selbst, und erklärte die Säuberung "
 "der Insel für ein Wunder. Wir schlossen einen Pakt zwischen Elfen und "
@@ -2460,7 +2476,7 @@ msgstr ""
 "kommen ist fast ein Wunder. Wenn ich nur den Preis vergessen könnte, den wir "
 "bezahlen mussten..."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:135
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:134
 msgid ""
 "If you had told me at the start of our journey the price I was to pay in "
 "blood, I do not know if I would have had the strength to take that first "
@@ -2480,7 +2496,7 @@ msgstr ""
 "nur mussten so viele von uns sterben? Ich wünschte, ich könnte die Zeit "
 "zurückdrehen, und alles noch einmal versuchen."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:162
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:161
 msgid ""
 "If you had told me at the start of our journey the price I was to pay in "
 "blood, I do not know if I would have had the strength to take that first "
@@ -2499,7 +2515,7 @@ msgstr ""
 "um sie am Ende zu verlieren... ich wünschte, ich könnte die Zeit "
 "zurückdrehen, und alles noch einmal versuchen."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:179
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:178
 msgid ""
 "If you had told me at the start of our journey the price I was to pay in "
 "blood, I do not know if I would have had the strength to take that first "
@@ -2518,7 +2534,7 @@ msgstr ""
 "meiner Seite, nur, um sie am Ende zu verlieren... ich wünschte, ich könnte "
 "die Zeit zurückdrehen, und alles noch einmal versuchen."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:196
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:195
 msgid ""
 "If you had told me at the start of our journey the price I was to pay in "
 "blood, I do not know if I would have had the strength to take that first "
@@ -2537,7 +2553,7 @@ msgstr ""
 "kämpfen, nur, um ihn am Ende zu verlieren... ich wünschte, ich könnte die "
 "Zeit zurückdrehen, und alles noch einmal versuchen."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:217
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:216
 msgid ""
 "If you had told me at the start of our journey the price I was to pay in "
 "blood, I do not know if I would have had the strength to take that first "
@@ -2556,7 +2572,7 @@ msgstr ""
 "meiner Seite, nur, um sie am Ende zu verlieren... ich wünschte, ich könnte "
 "die Zeit zurückdrehen, und alles noch einmal versuchen."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:242
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:241
 msgid ""
 "Although I believe that our battle in the black citadel was our finest hour, "
 "I am still haunted by Nym's death in that dark place. And so every morning "
@@ -2581,7 +2597,7 @@ msgstr ""
 "sage ich mir selbst, dass es das wert gewesen ist. Doch manchmal ist das nur "
 "ein kleiner Trost."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:259
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:258
 msgid ""
 "Although I believe that our battle in the black citadel was out finest hour, "
 "I am still haunted by Zhul's death in that dark place. And so every morning "
@@ -2606,7 +2622,7 @@ msgstr ""
 "sage ich mir selbst, dass es das wert gewesen ist. Doch manchmal ist das nur "
 "ein kleine Trost."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:276
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:275
 msgid ""
 "Although I believe that our battle in the black citadel was out finest hour, "
 "I am still haunted by the death of $ally_name in that dark place. And so "
@@ -2633,7 +2649,7 @@ msgstr ""
 "meines Volkes, dann sage ich mir selbst, dass es das wert gewesen ist. Doch "
 "manchmal ist das nur ein kleine Trost."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:296
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:295
 msgid ""
 "Although I believe that our battle in the black citadel was out finest hour, "
 "I am still haunted by my friends' deaths in that dark place. And so every "
@@ -2658,7 +2674,7 @@ msgstr ""
 "Wohlstand meines Volkes, dann sage ich mir selbst, dass es das wert gewesen "
 "ist. Dennoch vermisse ich jeden einzelnen von ihnen schmerzlich."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:314
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:313
 msgid ""
 "We carried Nym to a small island to the north which had a single peak which "
 "provided a beautiful view of the surrounding islands. It seemed to me to a "
@@ -2685,7 +2701,7 @@ msgstr ""
 "schlimmer Lage wir uns befanden. Wie sehr vermisse ich ihr Lachen, ihr "
 "Lächeln, ihr..."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:332
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:331
 msgid ""
 "Zhul's funeral was a huge ceremony, like those we she told us of from ages "
 "ago. I lead a procession of our few remaining priestesses and all of the "
@@ -2710,7 +2726,7 @@ msgstr ""
 "ihrer harten Arbeit ernten konnten - aber ich bin zuversichtlich, dass sie "
 "jetzt bei Eloh ist, an einem besseren Ort."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:363
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:362
 #, fuzzy
 msgid ""
 "I am saddened by the death of $ally_name, but by saving my life in the end "
@@ -2737,7 +2753,7 @@ msgstr ""
 "Ehre, und werden uns noch lange an den Dienst erinnern, den sein Volk "
 "unserem Volk erwiesen hat."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:373
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:372
 #, fuzzy
 msgid ""
 "I am saddened by the death of $ally_name , but by saving my life in the end "
@@ -2764,7 +2780,7 @@ msgstr ""
 "Ehre, und werden uns noch lange an den Dienst erinnern, den sein Volk "
 "unserem Volk erwiesen hat."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:394
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:393
 msgid ""
 "Although I am not as devout as Zhul is, I do thank Eloh daily that Nym "
 "survived that horrible battle in the Black Citadel. No one has been more "
@@ -2793,7 +2809,7 @@ msgstr ""
 "wurden, überall fortbestehen können, solange wir nur den Willen zum "
 "Überleben haben."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:411
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:410
 msgid ""
 "The oldest of the surviving elves, Zhul is moving slower now, but she still "
 "has that sparkle in her eye. And she will be as quick as always to correct "
@@ -2820,7 +2836,7 @@ msgstr ""
 "sagen, und es ist ein Zeichen dafür, dass der Friede und Wohlstand aus der "
 "alten Zeit nun wiedergekehrt ist."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:438
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:437
 #, fuzzy
 msgid ""
 "By saving my life, $ally_name fulfilled his life debt to me, but we "
@@ -2855,7 +2871,7 @@ msgstr ""
 "Ergebenheit gedenken, und all dessen, das er getan hat, um uns in diesem "
 "Kampf zu helfen."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:448
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:447
 #, fuzzy
 msgid ""
 "By saving my life, $ally_name fulfilled his life debt to me, but we "
@@ -2891,8 +2907,8 @@ msgstr ""
 "Ergebenheit gedenken, und all dessen, das er getan hat, um uns in diesem "
 "Kampf zu helfen."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:483
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:493
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:482
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:492
 msgid ""
 "And I will always remember $ally_name who died along our journey. A braver "
 "warrior I have never seen, and though he was taken from us too soon, I am "
@@ -2903,7 +2919,7 @@ msgstr ""
 "wenn er uns so früh verließ, schätze ich mich glücklich, dass ich ihn für "
 "diese kurze Zeit gekannt habe."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:506
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:505
 msgid ""
 "So much has happened since we left the desert, but looking back upon our "
 "journey I do not want to forget Garak and his sacrifice. I doubt that we "
@@ -2924,7 +2940,7 @@ msgstr ""
 "sehr stolz auf uns gewesen. Er war ein großartiger Kämpfer und Lehrmeister. "
 "Man wird sich lange an ihn erinnern."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:512
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:511
 msgid ""
 "As for the Black Citadel, after much discussion we decided to go back to the "
 "ancient rituals for purifying unclean land, with fire. We filled the entire "
@@ -2954,7 +2970,7 @@ msgstr ""
 "hier einst hauste, und an alle jene, die ihr Leben gaben, um es zu "
 "vernichten."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:518
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:517
 msgid ""
 "It has been several years since the events that I chronicle here, and I'm "
 "not quite as spry and limber as I used to be, so I figure it is about time "
@@ -2982,23 +2998,23 @@ msgstr ""
 "Fehler, so dass ihr sie nicht wiederholt. Und am wichtigsten, schätzt jeden "
 "einzelnen Tag, denn er ist ein Geschenk, von uns an euch."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:578
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:577
 msgid "Hey Kaleh, how's the writing going?"
 msgstr "Hey, Kaleh - wie geht's voran mit dem Schreiben?"
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:584
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:583
 msgid "Actually I just finished."
 msgstr "Eigentlich bin ich gerade fertig geworden."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:590
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:589
 msgid "You've been working on that thing for months. I'm impressed."
 msgstr "Du hast mehrere Monate lang daran gearbeitet, ich bin beeindruckt."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:596
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:595
 msgid "Yes, it feels good to finally be done."
 msgstr "Ja, es ist ein gutes Gefühl, endlich fertig zu sein."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:602
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:601
 msgid ""
 "Well, your timing was perfect. Zhul is dedicating the new grove to Eloh, and "
 "you know they'll be one heck of a celebration afterwards."
@@ -3006,7 +3022,7 @@ msgstr ""
 "Nun, dein Timing war perfekt. Zhul widmet Eloh gerade den neuen Hain, und du "
 "kannst dir denken, dass es danach eine große Feier geben wird."
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:608
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:607
 msgid ""
 "I suppose we wouldn't want to miss that. I wonder if they will still have "
 "any of that wine left from last year?"
@@ -3014,11 +3030,11 @@ msgstr ""
 "Ich denke, das wollen wir nicht versäumen. Ich frage mich, ob wir noch etwas "
 "von dem Wein vom letzten Jahr übrig haben?"
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:614
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:613
 msgid "We'll just have to find out. Come on!"
 msgstr "Lass es uns heraus finden. Komm jetzt!"
 
-#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:618
+#: Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:617
 msgid "THE END"
 msgstr "ENDE"
 
@@ -3046,7 +3062,8 @@ msgid "Translators: Allefant [German], Sanna [Swedish], Luciano [Italian]"
 msgstr "Übersetzer: Allefant [deutsch], Sanna [schwedisch]"
 
 #: Under_the_Burning_Suns/scenarios/14_Credits.cfg:48
-msgid "Testers: Mark Polo, Isaac, Ringcaat"
+#, fuzzy
+msgid "Testers: Mark Polo, Isaac, Ringcaat (Thorin N. Tatge)"
 msgstr "Tester: Mark Polo, Isaac, Ringcaat"
 
 #: Under_the_Burning_Suns/scenarios/14_Credits.cfg:54
@@ -6892,7 +6909,7 @@ msgid ""
 msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/6_1_Hunting_Trolls.cfg:2607
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2371
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2373
 #: Under_the_Burning_Suns/scenarios/5_Struggle.cfg:4562
 msgid ""
 "Oh no, we took too long and enemy reinforcements have arrived. We'll surely "
@@ -7254,7 +7271,7 @@ msgstr ""
 "Argh! Verdammt seid ihr! Möget ihr diese Tunnel niemals lebend verlassen!"
 
 #: Under_the_Burning_Suns/scenarios/6_1_Hunting_Trolls.cfg:2256
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1976
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1978
 msgid "And so, at last, it ends."
 msgstr "Und so endet es zu guter Letzt."
 
@@ -7453,7 +7470,7 @@ msgstr ""
 "Dieser Zauberstab belegt die Nahkampfwaffe der Einheit mit Gift-Schaden."
 
 #: Under_the_Burning_Suns/scenarios/6_1_Hunting_Trolls.cfg:2567
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2330
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2332
 msgid "On second thought, it's better to leave the dead in peace."
 msgstr ""
 "Wenn ich es mir genau überlege, am besten, wir lassen die Toten in Frieden "
@@ -7556,27 +7573,27 @@ msgid ""
 "route, I guess we'll just have to be sure not to fail."
 msgstr ""
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:816
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:818
 msgid "Do you what the first task of any dwarven warrior is, runt?"
 msgstr "He, du Neuling, kennst du die oberste Aufgabe eines Zwergenkriegers?"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:821
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:823
 msgid "Sir?"
 msgstr "Meister?"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:826
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:828
 msgid "Constant vigilance boys, the enemy could be anywhere!"
 msgstr "Stetige Wachsamkeit, Knaben! Der Feind kann überall sein!"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:831
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:833
 msgid "But Sir..."
 msgstr "Aber Meister..."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:836
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:838
 msgid "Did I give you permissions to speak? Did I?"
 msgstr "Habe ich dir erlaubt, zu sprechen? Habe ich?"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:841
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:843
 msgid ""
 "I was killing trolls when you were in swaddling clothes. I wrote the book on "
 "killing trolls. And you're not going anywhere until I'm done with you."
@@ -7585,11 +7602,11 @@ msgstr ""
 "bin gewissermaßen der Erfinder des Trolltötens. Und du wirst dich hier nicht "
 "von der Stelle rühren, solange ich nicht mit dir fertig bin!"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:846
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:848
 msgid "But Sir, behind you..."
 msgstr "Aber Meister, hinter Euch..."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:851
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:853
 msgid ""
 "Oh let me guess, a big nasty troll, right? And when I turn around you flee "
 "like the cowards you are. Do you think I'm stupid enough to fall for that "
@@ -7599,12 +7616,12 @@ msgstr ""
 "ich mich umdrehe, rennt ihr davon, Feiglinge die ihr seid! Denkt ihr "
 "wirklich, ich bin dumm genug, darauf hereinzufallen?"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:856
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:858
 #, fuzzy
 msgid "I'm too young to die, save me!"
 msgstr "Ich bin zu jung zum Sterben. Was soll nun mit meinem Volk geschehen?"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:861
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:863
 #, fuzzy
 msgid ""
 "Oh grow a backbone...Huh? Hey, for once the runt was telling the truth. Come "
@@ -7613,16 +7630,16 @@ msgstr ""
 "Ihr habt einfach kein Rückgrat. Vorwärts, Jungs, tötet den Eindringling!"
 
 # Anm. Was heißt Sarge???
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:884
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:886
 msgid "I love you Sarge..."
 msgstr "Vergebt mir Meister..."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:913
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:915
 #: Under_the_Burning_Suns/scenarios/7_2_TrollInterlude.cfg:455
 msgid "Grog"
 msgstr "Grog"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:926
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:928
 msgid ""
 "Ha, you're trapped. I've got you right where I want you, and this time no "
 "one is gonna save you."
@@ -7630,11 +7647,11 @@ msgstr ""
 "Ha, du sitzt in der Falle. Ich habe dich genau da, wo ich dich haben will, "
 "und dieses Mal wird dich keiner retten."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:931
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:933
 msgid "How did a troll get stuck all the way back here?"
 msgstr "Wie kommt ein Troll hierher, soweit hier hinten?"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:951
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:953
 msgid ""
 "Thank you. Grog got lost and there were so many smelly dwarves. If you "
 "hadn't come Grog would have been killed. Grog owes you his life."
@@ -7642,18 +7659,18 @@ msgstr ""
 "Danke. Grog verirrt, und so viele stinkende Zwerge. Wenn ihr nicht gekommen, "
 "Grog getötet. Grog verdankt euch Leben."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1005
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1099
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1007
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1101
 msgid "Here they come! Blow the charges!"
 msgstr "Da kommen sie! Zündet die Sprengladungen!"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1051
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1145
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1053
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1147
 msgid "They're coming this way too! Blow the charges!"
 msgstr "Sie kommen auch von hier! Zündet die Sprengladungen!"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1063
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1157
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1065
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1159
 msgid ""
 "What!?! Nothing happened! Who in Moradin's name rigged the darn charges "
 "anyway? I'm going to have to hold them off by myself. "
@@ -7661,7 +7678,7 @@ msgstr ""
 "Was?! Nichts ist passiert! Wer in Moradins Namen hat die Sprengladungen "
 "angebracht? Jetzt muss ich sie selber zurückschlagen."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1209
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1211
 msgid ""
 "It was a mistake to depend on trickery, we will defeat you fighting face to "
 "face. A true dwarf always looks his opponent in the eye when he kills him!"
@@ -7670,7 +7687,7 @@ msgstr ""
 "von Angesicht zu Angesicht besiegen. Ein echter Zwerg schaut seinem Gegner "
 "in die Augen, während er ihn tötet!"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1214
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1216
 msgid ""
 "So I challenge you, man to man, if you are not cowards, step out onto these "
 "bridges and meet your fate!"
@@ -7678,7 +7695,7 @@ msgstr ""
 "Ich fordere euch heraus, Mann gegen Mann, und wenn ihr keine Feiglinge seid, "
 "tretet hinaus auf diese Brücken und seht eurem Schicksal ins Auge!"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1273
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1275
 msgid ""
 "I couldn't do it. Blow the backup charges! If we can't stop them the maybe "
 "the black lake will."
@@ -7686,8 +7703,8 @@ msgstr ""
 "Es funktioniert nicht. Führt die Notfallsprengung durch! Falls wir sie nicht "
 "aufhalten können, dann vielleicht der schwarze See."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1318
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1327
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1320
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1329
 #, fuzzy
 msgid ""
 "They've crossed the chasm! Blow the backup charges! If we can't stop them "
@@ -7696,7 +7713,7 @@ msgstr ""
 "Sie haben den Abgrund überquert. Zündet die Notfallsprengladungen! Falls wir "
 "sie nicht aufhalten können, dann vielleicht der schwarze See."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1402
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1404
 msgid ""
 "It's a huge underground lake. The water look dark and deep and is cold to "
 "the touch. There also seems to be some glowing moss on the walls which "
@@ -7707,30 +7724,30 @@ msgstr ""
 "Art leuchtendes Moos an den Wänden, das die Höhlen erleuchtet. Dadurch kann "
 "man besser sehen."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1425
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1427
 msgid "Extra Hairy Bat"
 msgstr "Extra haarige Fledermaus"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1470
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1472
 msgid "Dwarf Hermit"
 msgstr "Einsiedlerzwerg"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1503
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1505
 msgid ""
 "Incoming! Ug, it's big, hairy, and nasty. I hate bats, I really hate bats."
 msgstr ""
 "Etwas kommt! Ack, es ist groß, haarig, und hässlich. Ich hasse Fledermäuse, "
 "über alle Maßen."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1517
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1519
 msgid "Grrraaawwwkkk!"
 msgstr "Grrraaawwwkkk!"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1522
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1524
 msgid "Good Riddance."
 msgstr "Gut, weg damit."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1616
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1618
 msgid ""
 "The ledge just drops off here. The water might be shallow enough to wade "
 "across, but I think I vaguely see something moving underneath the surface. "
@@ -7741,15 +7758,15 @@ msgstr ""
 "Vielleicht ist es nur ein Fisch, aber mir gefällt sein Aussehen überhaupt "
 "nicht."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1766
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1768
 msgid "What are those?!?"
 msgstr "Was ist das?!?"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1776
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1778
 msgid "Here come more of them!"
 msgstr "Da kommen noch mehr davon!"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1840
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1842
 msgid ""
 "The movement under the water has stopped. I think we killed the last of "
 "them. Whatever 'them' was."
@@ -7757,28 +7774,28 @@ msgstr ""
 "Die Bewegung unter dem Wasser hat aufgehört. Ich denke, wir haben den "
 "letzten getötet. Was auch immer es gewesen sein mag."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1875
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1877
 msgid "Dwarf Chieftain"
 msgstr "Zwergenhäuptling"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1957
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1959
 msgid "So you've come at last. Let it end, here and now!"
 msgstr ""
 "Ihr seid also letztendlich gekommen. Dann lasst es uns zu Ende bringen, hier "
 "und jetzt!"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1971
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1973
 msgid ""
 "Paugh! Even in death I curse you! You will never escape these tunnels alive!"
 msgstr ""
 "Pah! Noch im Tode verfluche ich euch! Ihr werdet niemals lebendig aus diesen "
 "Höhlen entkommen!"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1981
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:1983
 msgid "The chieftain has fallen! Flee for your lives!"
 msgstr "Der Häuptling ist gefallen! Flieht um euer Leben!"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2015
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2017
 #, fuzzy
 msgid ""
 "Little elves fight good. Zurg impressed. With dwarf chieftain dead, cowardly "
@@ -7795,7 +7812,7 @@ msgstr ""
 "seiner Gegenwart. Aber er wünscht, mit euch sprechen, und euch belohnen. "
 "Bitte, folgt mir."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2020
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2022
 #, fuzzy
 msgid ""
 "With their knowledge of all these secret tunnels, you think they could have "
@@ -7807,7 +7824,7 @@ msgstr ""
 "können. Es hätte uns einige unnötige Kämpferei erspart, bevor wir dann "
 "überhaupt den Häuptling erreicht haben."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2025
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2027
 #, fuzzy
 msgid ""
 "Perhaps they wanted to further test our prowess in battle. And besides every "
@@ -7817,7 +7834,7 @@ msgstr ""
 "Ich denke, sie wollten unsere Tapferkeit noch weiter prüfen. Und vielleicht "
 "vertrauten sie uns auch nicht genug, um uns all ihre Geheimnisse zu verraten."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2030
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2032
 #, fuzzy
 msgid ""
 "Shhhh, you two. Yes, of course, we would be honored to come and meet the "
@@ -7830,7 +7847,7 @@ msgstr ""
 "oben in dem Gang gelassen, und wir befürchten, dass sie dort nicht sicher "
 "sind. Könnt ihr uns helfen, unsere Leute in Sicherheit zu bringen?"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2035
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2037
 #, fuzzy
 msgid ""
 "Hmmmm, yes, yes we can help. We have a few big caves you little people can "
@@ -7843,7 +7860,7 @@ msgstr ""
 "Anführer will keine unliebsamen Überraschungen. Zeigt mir wo eure Leute "
 "versteckt sind, und wir helfen, bringen sie zu unseren Höhlen."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2040
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2042
 msgid ""
 "I thank you. Come on people, no celebrating yet, we still have work left to "
 "do!"
@@ -7851,7 +7868,7 @@ msgstr ""
 "Ich danke dir. Kommt, Leute, es ist noch zu früh zum Feiern, wir haben noch "
 "ein Stück Arbeit vor uns."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2068
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2070
 #, fuzzy
 msgid ""
 "They've come for my precious. It's mine, yes it is. They shant have it, no "
@@ -7861,11 +7878,11 @@ msgstr ""
 "können ihn nicht haben, nein, sie können nicht, mein Schatz. Wir werden sie "
 "töten, die garstigen Elfen, ja, das werden wir."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2082
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2084
 msgid "Curse them! We hates them!"
 msgstr "Verflucht sollen sie sein! Wir hassen sie!"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2087
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2089
 #, fuzzy
 msgid ""
 "What's this? His clothes were in rags, and yet he had this ancient jeweled "
@@ -7878,16 +7895,16 @@ msgstr ""
 "riesigen Amethyst, der mit einem Schwachen purpurnen Licht zu pulsieren "
 "scheint. Ich frage mich, wo er so eine Art Schmuckstück nur her haben kann?"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2116
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2118
 msgid "Rrrraaaarrrr!"
 msgstr "Rrrraaaarrrr!"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2121
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2123
 msgid "Not again! I really really hate things that live underwater!"
 msgstr ""
 "Nicht schon wieder! Ich hasse Kreaturen die unter Wasser Leben dermaßen!"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2149
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2151
 msgid ""
 "Hey wait a minute, that amulet glows the same color as theis rune. Maybe if "
 "I put the amulet on and step into the rune..."
@@ -7895,7 +7912,7 @@ msgstr ""
 "He, einen Augenblick, das Amulett leuchtet in der selben Farbe wie die Rune. "
 "Vielleicht wenn ich das Amulett anlege, und auf die Rune trete..."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2186
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2188
 #, fuzzy
 msgid ""
 "Woah. That was pretty impressive. The amulet stopped glowing and the rune is "
@@ -7904,7 +7921,7 @@ msgstr ""
 "Woah. Das war wirklich beeindruckend. Die Rune ist verschwunden, und das "
 "Amulett hat aufgehört zu leuchten. Aber was ist zum Vorschein gekommen?"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2214
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2216
 msgid ""
 "The rune is still there, glowing mysteriously. I still have no idea why it "
 "was put here, but it's obviously powerful and magical, a combination of "
@@ -7915,7 +7932,7 @@ msgstr ""
 "Machtvolles und etwas Magisches - eine Kombination, mit der ich nicht "
 "bereitwillig herum experimentiere."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2232
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2234
 msgid ""
 "What in Eloh's name is this? Someone has carved a glowing purple rune in the "
 "floor at the end of this passage. It must be magical. And this passage ends "
@@ -7928,7 +7945,7 @@ msgstr ""
 "Aber die Wand sieht ziemlich massiv aus. Ich frage mich, wer diese Rune hier "
 "eingeritzt hat, und warum?"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2273
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2275
 msgid ""
 "Based on the runes covering the walls this must be the tomb of some ancient "
 "dwarf. The tomb seems empty except for this ornate stone coffin. The "
@@ -7948,11 +7965,11 @@ msgstr ""
 "aber dieser Gürtel sieht aus als hätte er magische Eigenschaften, und der "
 "frühere Besitzer wird ihn kaum vermissen."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2276
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2278
 msgid "I fear no ghosts, I'll take it."
 msgstr "Ich fürchte mich nicht vor Geistern, ich werden den Gürtel nehmen."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2286
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2288
 msgid ""
 "The belt fits perfectly! Somehow I feel stronger and tougher. This is too "
 "easy, there seem to have been no traps set upon the coffin. Today's my lucky "
@@ -7962,22 +7979,22 @@ msgstr ""
 "stärker. Es kommt mir aber zu einfach vor - an dem Sarg sind keinerlei "
 "Fallen angebracht. Es muss wohl mein Glückstag sein."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2301
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2303
 msgid "Dwarven Belt"
 msgstr "Zwergengürtel"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2302
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2304
 msgid ""
 "The maximum hit points of the unit who wears this belt will increase by 12."
 msgstr ""
 "Die maximalen Lebenspunkte der Einheit, die diesen Gürtel trägt, erhöhen "
 "sich um 12."
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2318
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2320
 msgid "You who disturb my rest, come and join me in death!"
 msgstr "Ihr der Ihr meine Ruhe stört, kommt und folgt mir in den Tod!"
 
-#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2323
+#: Under_the_Burning_Suns/scenarios/6_2_Hunting_Dwarves.cfg:2325
 msgid "Then again, maybe I spoke too soon."
 msgstr "Andererseits, vielleicht hab' ich mich zu früh gefreut."
 
@@ -10839,7 +10856,8 @@ msgstr ""
 "Blutvergießens müde."
 
 #: Under_the_Burning_Suns/scenarios/8_Frying_Pan.cfg:5909
-msgid "What was it that Durstrag was so afraid of?"
+#, fuzzy
+msgid "What was it that the human Durstrag was so afraid of?"
 msgstr "Wovor hatte Durstrang nur so große Angst?"
 
 #: Under_the_Burning_Suns/scenarios/8_Frying_Pan.cfg:5914
@@ -10847,9 +10865,10 @@ msgid "I don't know, but I fear we may find out."
 msgstr "Ich weiß nicht, aber ich fürchte, wir werden es herausfinden."
 
 #: Under_the_Burning_Suns/scenarios/8_Frying_Pan.cfg:5919
+#, fuzzy
 msgid ""
 "You're being very cryptic, Kaleh. Now that the battle is over would you care "
-"to explain to us who you were talking to back when we first met Durstrag?"
+"to explain to us who you were talking to back when we first met the humans?"
 msgstr ""
 "Du sprichst in Rätseln, Kaleh. Jetzt wo die Schlacht vorbei ist, hättest du "
 "die Güte, uns zu erklären, mit wem du gesprochen hast, als wir Durstrang das "
