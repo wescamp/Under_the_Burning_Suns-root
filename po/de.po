@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-26 18:36+0200\n"
-"PO-Revision-Date: 2006-02-21 00:22+0100\n"
+"PO-Revision-Date: 2006-06-13 17:39+0200\n"
 "Last-Translator: Allefant <allefant@gmail.com>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -14189,7 +14189,7 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Sentinel.cfg:33
 #: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Sentinel.cfg:47
 msgid "spear"
-msgstr ""
+msgstr "Speer"
 
 #: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Stalwart.cfg:4
 msgid "Dwarvish Stalwart"
