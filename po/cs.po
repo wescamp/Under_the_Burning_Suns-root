@@ -1,17 +1,18 @@
-# translation of cs.po to Czech
+# translation of utbs-cs.vs-edit.po to Czech
 # Český překlad hry Battle for Wesnoth (Bitva o Wesnoth).
 # Copyright (C) 2004 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 #
 # Czech Wesnoth translation team, Yeti <yeti@physics.muni.cz> et al, 2004.
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2006.
+# Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-26 18:36+0200\n"
-"PO-Revision-Date: 2006-06-28 00:34+0100\n"
-"Last-Translator: Vladimír Slávik <slavik.vladimir@seznam.cz>\n"
+"PO-Revision-Date: 2006-07-09 09:16+0200\n"
+"Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,6 +20,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Poedit-Language: Czech\n"
 "X-Poedit-Country: CZECH REPUBLIC\n"
+"X-Generator: KBabel 1.11.2\n"
 
 #: Under_the_Burning_Suns.cfg:16
 msgid "Under the Burning Suns"
@@ -100,9 +102,9 @@ msgid ""
 "diversion, but the fact that we had not encountered any resistance was still "
 "eerily disturbing. Ahead of us, the large island loomed, dark and menacing."
 msgstr ""
-"Kapitola 11: Naše lodě hladce prorážely vodou, zakryté ranními tmami. Touto "
-"dobou mořští lidé zahajoval jejich odpoutávací útok, ale fakt že jsme se "
-"ještě nesetkali s žádným odporem byl strašidelně znepokojivý. Před námi se "
+"Kapitola 11: Naše lodě hladce prorážely vodu, zakryté ranními tmami. Touto "
+"dobou mořští lidé zahajoval jejich odpoutávací útok, ale fakt, že jsme se "
+"ještě nesetkali s žádným odporem, byl strašidelně znepokojivý. Před námi se "
 "vynořil velký ostrov, tmavý a hrozivý."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:317
@@ -241,9 +243,9 @@ msgid ""
 "If you explore the land to the west, then we will swim through the shallows "
 "and see what we can find."
 msgstr ""
-"Myslím že v jihozápadní části ostrova se nacházejí nějaké lidské ruiny. Když "
-"prozkoumáte ostrov směrem na západ, my poplaveme mělčinami a uvidíme, co "
-"najdeme."
+"Myslím, že v jihozápadní části ostrova se nacházejí nějaké lidské ruiny. "
+"Když prozkoumáte ostrov směrem na západ, my poplaveme mělčinami a uvidíme, "
+"co najdeme."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:797
 msgid ""
@@ -260,7 +262,7 @@ msgid ""
 "they are. As much as I love plants and trees, I don't like the look of it."
 msgstr ""
 "Fuj. Ta džungle se zdá temná a odmítavá. Vidíte ty oči? Jsou to nějaké věci, "
-"které na nás zírají z hloubi pralesa, ale nedokážu říct co jsou zač. "
+"které na nás zírají z hloubi pralesa, ale nedokážu říct, co jsou zač. "
 "Jakkoliv mám ráda rostliny a stromy, nelíbí se mi to."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:855
@@ -281,8 +283,8 @@ msgid ""
 "I thought we would be attacked the moment we set foot on this island. Where "
 "is everybody?"
 msgstr ""
-"Nezdá se mi to. Všechno co vidíme jsou ruiny, kosti, trocha písku a trsy "
-"trávy. Myslela jsem si že se octneme pod útokem, jakmile vstoupíme na "
+"Nezdá se mi to. Všechno, co vidíme, jsou ruiny, kosti, trocha písku a trsy "
+"trávy. Myslela jsem si, že se octneme pod útokem, jakmile vstoupíme na "
 "ostrov. Kde je někdo?"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:891
@@ -291,7 +293,7 @@ msgid ""
 "from behind the next rock or stone wall and attack, but everything is "
 "silent. Too silent."
 msgstr ""
-"To mě právě znepokojuje. Nedokážu se zbavit představy že se něco chystá "
+"To mě právě znepokojuje. Nedokážu se zbavit představy, že se něco chystá "
 "vyskočit na mě zpoza další skály nebo zdi a zaútočit, ale všude je ticho. "
 "Příliš ticho."
 
@@ -335,7 +337,6 @@ msgstr ""
 "teď, kdepak jsou asi mořští lidé?"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1194
-#, fuzzy
 msgid ""
 "Fear not, here we are! We have explored the southern half of the island. And "
 "except for those lizards you found, and some abandoned villages, it seem to "
@@ -343,11 +344,12 @@ msgid ""
 msgstr ""
 "Nebojte se, tady jsme! Prozkoumali jsme jižní polovinu ostrova. Kromě těch "
 "ještěráků, o které jste se postarali a pár opuštěných vesnic se zdá prázdná. "
-"Obsadili jsme vám ty vesnice, aby jste mohli lépe podporovat jednotky."
+"Obsadili jsme vám ty vesnice, abyste mohli lépe podporovat jednotky."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1206
+#, fuzzy
 msgid "Thanks, I think we're going all the support we can get."
-msgstr ""
+msgstr "Díky, budeme potřebovat veškerou podporu, jaké se nám dostane."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1217
 msgid ""
@@ -459,8 +461,8 @@ msgid ""
 "Now I wonder where we might find the right keys?"
 msgstr ""
 "Počkat. Tady je v kameni tenká linka, obrys dveří. Ale není tu žádný způsob, "
-"jak je otevřít. Všechno co vidím jsou dvě maličké dírky, asi klíčové. Kdepak "
-"se asi dají najít správné klíče?"
+"jak je otevřít. Všechno, co vidím, jsou dvě maličké dírky, asi klíčové. "
+"Kdepak se asi dají najít správné klíče?"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1372
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1479
@@ -488,7 +490,7 @@ msgid ""
 "objects."
 msgstr ""
 "Mám nápad. Vsadím se, že je Eloh dala těm, kterým nejvíc věří. Dveře hlídal "
-"skřet a kostlivec. Klíče musí mít jeden od každé frakce. Vsadím se že za "
+"skřet a kostlivec. Klíče musí mít jeden od každé frakce. Vsadím se, že za "
 "takové cenné předměty zodpovídají vůdci."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1414
@@ -530,9 +532,8 @@ msgid "Any unit must reach the black citadel"
 msgstr "Kterákoliv jednotka dojde k černé citadele"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1585
-#, fuzzy
 msgid "Aaaargh!"
-msgstr "Aaaargh!"
+msgstr "Aaarr!"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1604
 msgid ""
@@ -583,7 +584,7 @@ msgid ""
 "could have lasted much longer. It was horrible."
 msgstr ""
 "Děkuji vám! Zajaly mě nágy a byl jsem tu uvězněn po celé věky, ani nevím jak "
-"dlouho. Tak blízko vody, a přece tak daleko. Nevěřím že bych to byl ještě "
+"dlouho. Tak blízko vody, a přece tak daleko. Nevěřím, že bych to byl ještě "
 "vydržel. Bylo to strašné."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1842
@@ -629,7 +630,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1925
 msgid "We have your keys. You cannot hide from us now."
-msgstr "Máme tvé klíče. Teď už se před námi neukryješ."
+msgstr "Máme tvé klíče. Teď už se před námi neukryješ!"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1930
 msgid ""
@@ -673,7 +674,7 @@ msgstr ""
 "Musím to jít ukončit. Ale předtím bych vám chtěl všem poděkovat za vaši "
 "důvěru ve mne během této dlouhé cesty. Pokud nezvítězím, uprchněte s mořským "
 "lidem a najděte si místo, kde budete moci žít v klidu a bezpečí. Mé poslední "
-"přání je, aby jste žili dlouhé a šťastné životy, ať už se stane cokoliv. "
+"přání je, abyste žili dlouhé a šťastné životy, ať už se stane cokoliv. "
 "Nedopusťte, aby byly naše oběti zapomenuty..."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:1970
@@ -713,6 +714,8 @@ msgid ""
 "I've saved his sorry ass all this way, I'm not going to let him go and let "
 "himself get killed now."
 msgstr ""
+"Tolikrát jsem mu po celou cestu tahala ten jeho ubohý zadek z bryndy, přece "
+"ho teď nenechám jít a nechat se zabít!"
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:2035
 #, fuzzy
@@ -747,7 +750,7 @@ msgid ""
 msgstr ""
 "Strašlivé děvče! Ještě mě užene k smrti. Ale i tak beze mě nemá šanci. Kaleh "
 "je něco jiného, ale Nym potřebuje moji ochranu. No nic, asi musím jít "
-"dovnitř. Vy ostatní buďte ne stráži, a když nevyjdeme do půl hodiny, "
+"dovnitř. Vy ostatní buďte na stráži, a když nevyjdeme do půl hodiny, "
 "prchněte z ostrova s mořským lidem."
 
 #: Under_the_Burning_Suns/scenarios/10Island.cfg:2088
@@ -834,7 +837,7 @@ msgid ""
 "The little one is not dead yet. But where is evil lady that did this to him?"
 msgstr "Maličký ještě není mrtvý. Ale kde je ta zlá paní, která mu to udělala?"
 
-# pův.: trapní přátele
+# pův.: trapní přátelé
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:573
 msgid ""
 "So, the elf's puny friends think they can save him. But you are too late. He "
@@ -862,8 +865,8 @@ msgid ""
 "Your struggles were mildly entertaining, but futile in the end. For I am "
 "powerful beyond your imagining, and this is the seat of my power!"
 msgstr ""
-"Vaše potyčky byly trochu zábavné, ale nakonec bezvýznamné. Neboť mám síly "
-"nade vše co si dokážete představit, a toto je sídlo mé moci!"
+"Vaše potyčky byly mírně zábavné, ale nakonec stejně bezvýznamné. Neboť mám "
+"síly nade vše, co si dokážete představit, a toto je sídlo mé moci!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:661
 msgid "You are not Eloh. You are but a pitiful mockery of her power and glory!"
@@ -887,7 +890,7 @@ msgstr "Zylea"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:719
 msgid "All hail Eloh!"
-msgstr ""
+msgstr "Sláva Eloh!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:724
 msgid "Death to the heretics!"
@@ -907,9 +910,8 @@ msgid "Your wish is my command."
 msgstr "Tvé přání je mým rozkazem."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1009
-#, fuzzy
 msgid "Argh, you stabbed me!"
-msgstr "Argh, tys mě bodl!"
+msgstr "Óch, tys mě bodl!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1015
 msgid ""
@@ -918,7 +920,7 @@ msgid ""
 "tired of being called boy; I am Kalehssar, the leader of my people and I "
 "will fight you until my dying breath!"
 msgstr ""
-"Překročil jsem pouště, pohoří a oceány a viděl můj lid krvácet na každém "
+"Překročil jsem pouště, pohoří a oceány a viděl svůj lid krvácet na každém "
 "kroku té cesty. Nepřišel jsem až sem, abych se teď vzdal. Už mě unavuje být "
 "nazýván chlapcem. Jsem Kalehssar, vůdce mého lidu, a budu s tebou bojovat až "
 "do posledního dechu!"
@@ -971,7 +973,7 @@ msgstr "Au, přilepil jsem se!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1286
 msgid "You think you killed me? You have no idea what you are facing."
-msgstr "Myslíte že jste mě zabili? Nemáte představu, před čím stojíte."
+msgstr "Myslíte, že jste mě zabili? Nemáte představu, před čím stojíte."
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1292
 #, fuzzy
@@ -985,9 +987,9 @@ msgid ""
 "Nonsense. Unlike that fool, I do not care about petty things like revenge. "
 "Nor do I depend on mortals to enact my will. No, I shall destroy you myself!"
 msgstr ""
-"Nesmysl! Na rozdíl od toho pitomce se nestarám o tak malicherné záležitosti "
-"jako pomsta. A ani nezávisím na smrtelnících, když chci prosadit svou vůli. "
-"Ne, zničím vás sama!"
+"Nesmysl! Na rozdíl od toho pitomce se já nestarám o tak malicherné "
+"záležitosti jako pomsta. A ani nezávisím na smrtelnících, když chci prosadit "
+"svou vůli. Ne, zničím vás sama!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1337
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:9196
@@ -1053,9 +1055,8 @@ msgstr ""
 "taktiku, a to rychle!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1847
-#, fuzzy
 msgid "Aaaauuurrrggghhhh!!!"
-msgstr "Aaaauuurrrggghhhh!!!"
+msgstr "Aaaauuuhrrrrrrrr!!!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:1870
 msgid ""
@@ -1066,9 +1067,8 @@ msgstr ""
 "korpus, dokud je zranitelný!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:2007
-#, fuzzy
 msgid "Aiiieeee!!!"
-msgstr "Aiiieeee!!!"
+msgstr "Iiiieee!!!"
 
 #: Under_the_Burning_Suns/scenarios/11Final.cfg:2034
 msgid "At last. It is finished."
@@ -1134,7 +1134,7 @@ msgid ""
 "was overjoyed to discover that they were no longer the mindless slaves I had "
 "seen before. They too had broken free from their enchantment."
 msgstr ""
-"Vypotácel jsem se ven na denní světlo. Stěží jsem dokázal uvěřit že jsme "
+"Vypotácel jsem se ven na denní světlo. Stěží jsem dokázal uvěřit, že jsme "
 "zvítězili. Při pohledu na ostrov mi chvíli trvalo uvědomit si, co se "
 "změnilo. Páchnoucí temnota se zvedla ze země a poprvé po zdánlivě nekonečné "
 "době jsem spatřil obě slunce jasně zářit. Hledíc na zelené stromy a jiskřící "
@@ -1178,16 +1178,16 @@ msgid ""
 msgstr ""
 "O několik dní později se objevila i sama Melusand a prohlásila vyčištění "
 "tohoto ostrova zázrakem. Uzavřeli jsme pakt mezi elfy a mořským lidem a "
-"slíbili si, že budeme žít v míru a blahobytu. Melusand posvětila ostrov, a "
+"slíbili si, že budeme žít v míru a blahobytu. Melusand posvětila ostrov a "
 "nazvala jej na počest našeho lidu „Ostrov Quenoth“. Mořští lidé nám velmi "
-"pomohli; učili nás, jak si zvyknout na tuto zvláštní zemi. I tak mám sále "
+"pomohli; učili nás, jak si zvyknout na tuto zvláštní zemi. I tak mám stále "
 "potíže zvyknout si, že jsem neustále obklopen vodou. Bývala pro mne cennější "
 "než zlato. Nedokážu si ale představit lepší domov pro můj lid. S bohatstvím "
-"darů moře a ovocem džungle na dosah nám nikdy nehrozí nedostatek potravy. "
-"Jsme bezpečně odděleni od chaosu na pevnině a mořský lid střeží vody. "
-"Melusand říká, že nadešel čas míru a rozkvětu. Kdysi jsem částečně nevěřil, "
-"že bychom mohli tu cestu přežít, tolikrát jsme unikli jen o vlásek. Náš "
-"příchod sem se zdá téměř zázrakem. Kdybych tak dokázal zapomenout cenu, "
+"darů moře a ovocem džungle na dosah ruky nám nikdy nehrozí nedostatek "
+"potravy. Jsme bezpečně odděleni od chaosu na pevnině a mořský lid střeží "
+"vody. Melusand říká, že nadešel čas míru a rozkvětu. Kdysi jsem částečně "
+"nevěřil, že bychom mohli tu cestu přežít, tolikrát jsme unikli jen o vlásek. "
+"Náš příchod sem se zdá téměř zázrakem. Kdybych tak dokázal zapomenout cenu, "
 "kterou jsme museli zaplatit..."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:131
@@ -1434,9 +1434,9 @@ msgid ""
 msgstr ""
 "Smrt $ally_name|a mě zarmoutila, ale zachránil mi život a tak naplnil svůj "
 "dluh. Myslím, že je rád, že padl v bitvě. Uvažoval jsem o vyslání expedice, "
-"která by vrátila jeho tělo, jeho lidu, ale všichni jsme byli vysíleni "
-"dlouhými strázněmi cesty a nechtěl jsem zbytečně riskovat. Místo toho jsme "
-"po celém ostrově hledali příhodné místo, které jsme nakonec nalezli v "
+"která by vrátila jeho tělo jeho lidu, ale všichni jsme byli vysíleni "
+"strázněmi dlouhé cesty a nechtěl jsem zbytečně riskovat. Místo toho jsme po "
+"celém ostrově hledali příhodné místo, které jsme nakonec nalezli v "
 "severozápadních skaliscích, několik menších jeskyní. Nebyly tak hluboké, "
 "jako v jeho domově, ale myslím, že $ally_name by ocenil alespoň tu trochu "
 "solidního kamene nad místem jeho posledního odpočinku. Tak jsme jej tedy "
@@ -1459,9 +1459,9 @@ msgid ""
 msgstr ""
 "Smrt $ally_name|a mě zarmoutila, ale zachránil mi život a tak naplnil svůj "
 "dluh. Myslím, že je rád, že padl v bitvě. Uvažoval jsem o vyslání expedice, "
-"která by vrátila jeho tělo, jeho lidu, ale všichni jsme byli vysíleni "
-"dlouhými strázněmi cesty a nechtěl jsem zbytečně riskovat. Místo toho jsme "
-"po celém ostrově hledali příhodné místo, které jsme nakonec nalezli v "
+"která by vrátila jeho tělo jeho lidu, ale všichni jsme byli vysíleni "
+"strázněmi dlouhé cesty a nechtěl jsem zbytečně riskovat. Místo toho jsme po "
+"celém ostrově hledali příhodné místo, které jsme nakonec nalezli v "
 "severozápadních skaliscích, několik menších jeskyní. Nebyly tak hluboké, "
 "jako v jeho domově, ale myslím, že $ally_name by ocenil alespoň tu trochu "
 "solidního kamene nad místem jeho posledního odpočinku. Tak jsme jej tedy "
@@ -1511,7 +1511,7 @@ msgstr ""
 "stále má v oku tu nezaměnitelnou jiskru. Navzdory strastem naší cesty a "
 "klamům, které nám uchystala Yechnagoth, naše vítězství jen posílilo její "
 "víru. Stále je tak hbitá, jako vždy, když nás opravuje v našich chybách a "
-"nevěře v síly Eloh. Nedávno mi řekla, že všechny zkoušky, vítězství a zvraty "
+"nevíře v síly Eloh. Nedávno mi řekla, že všechny zkoušky, vítězství a zvraty "
 "naší cesty nebyly nic než dílky ohromného plánu, který pro nás má Eloh, a "
 "tento nový domov je nám odměnou. Tráví veškerý čas učením nové generace "
 "kněžek a vyprávěním starých příběhů dětem, aby nebyly zapomenuty. Začala v "
@@ -1626,19 +1626,20 @@ msgid ""
 "lives to destroy it."
 msgstr ""
 "Co se týká černé citadely, po mnohých diskusích jsme se vrátili k pradávným "
-"rituálům pro očišťování pošpiněné země, ohněm. Naplnili jsme celou stavbu "
+"rituálům pro očišťování pošpiněné země - ohněm. Naplnili jsme celou stavbu "
 "dřevem a olejem a podpálili to místo, aby bylo jisté, že budou případné "
-"pozůstatky Yechnagothiny špíny zničeny svatým ohněm. Pak jsme celou citadelu "
-"strhli, kámen po kameni. Byl jsem sice v pokušení použít kameny při nějaké "
-"budoucí stavbě, ale nebyl jsem si jistý, jaká nečistá magie v nich může "
-"přetrvávat, a nehodlal jsem to zkoušet v praxi. S pomocí mořského lidu jsme "
-"kameny odvlekli daleko do vod a svrhli je do hlubin oceánu, až ke dnu. "
+"pozůstatky Yechnagothiny špíny zničeny svatými plameny. Pak jsme celou "
+"citadelu strhli, kámen po kameni. Byl jsem sice v pokušení použít kameny při "
+"nějaké budoucí stavbě, ale nebyl jsem si jistý, jaká nečistá magie v nich "
+"může přetrvávat, a nehodlal jsem to zkoušet v praxi. S pomocí mořského lidu "
+"jsme kameny odvlekli daleko do vod a svrhli je do hlubin oceánu, až ke dnu. "
 "Jakmile jsme se zbavili posledního kamene, rozhodli jsme, že to místo "
 "zůstane holé bez ohledu na to co postavíme nebo vyroste poblíž; bude tak "
 "připomínkou zla, které zde jednou přebývalo, a těch, kteří za jeho zničení "
 "položili životy."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:514
+#, fuzzy
 msgid ""
 "It has been several years since the events that I chronicle here, and I'm "
 "not quite as spry and limber as I used to be, so I figure it is about time "
@@ -1652,6 +1653,17 @@ msgid ""
 "mistakes so you will not repeat them. And most of all, treasure every day, "
 "for it is a gift, from us to you."
 msgstr ""
+"Od událostí, které zde popisuji, již uplynulo mnoho let a nejsem tak čiperný "
+"a hbitý, jak jsem bývával, a tak jsem se rozhodl, že nastal čas sepsat toto "
+"vše pro případ, že by se mi něco přihodilo. Mé jediné přání je, aby naši "
+"potomci nezapomněli na ty všechny, kteří přinesli nejvyšší oběť, aby mohl "
+"mít náš lid nějakou budoucnost. Při pohledu na ruiny, které po sobě "
+"zůstavily dávné říše chápu, že čas smaže vše. Zapomněli jsme toho tolik o "
+"zlatém věku. Nenechte náš příběh potkat tentýž osud. Neboť dokud jsou "
+"vyprávěny příběhy o těch, kteří již odešli, oni v jistém smyslu stále žijí a "
+"zůstávají s námi. Ctěte ty, kteří zemřeli. Pamatujte si naše chyby, ať se "
+"jich dokážete vyvarovat. A co je ze všeho nejdůležitější, pamatujte, že "
+"každý den je pokladem, darem, který jste dostali od nás."
 
 #: Under_the_Burning_Suns/scenarios/12Epilogue.cfg:574
 msgid "Hey Kaleh, how's the writing going?"
@@ -1728,7 +1740,6 @@ msgid "The Morning After"
 msgstr "Ráno poté"
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:42
-#, fuzzy
 msgid ""
 "Note: This campaign is probably not the best one for beginners. It changes "
 "certain Wesnoth standards, such as the elves' stats and the day/night cycle. "
@@ -1741,7 +1752,7 @@ msgstr ""
 "Modifikuje některé standardy Wesnothu, zejména vlastnosti elfů a denní "
 "cyklus. Zároveň klade důraz na RPG prvky a má delší scénáře s často se "
 "měnícími cíli. Z těchto důvodů je vhodné občas ukládat hru i uprostřed "
-"scénáře, aby jste při 'zákysu' nemuseli začínat znovu."
+"scénáře, abyste při „zákysu“ nemuseli začínat znovu."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:46
 msgid ""
@@ -1749,7 +1760,7 @@ msgid ""
 "homeland in the Great Southern Desert. I write this story so that our "
 "descendants may know of our travels, and remember the sacrifices we made."
 msgstr ""
-"Toto je kronika cesty Qenothských elfů z jejich domova ve velké jižní "
+"Toto je kronika cesty Quenothských elfů z jejich domova ve velké jižní "
 "poušti. Píši tento příběh, aby naši potomci věděli o našich cestách, a aby "
 "pamatovali na oběti, jež jsme přinesli."
 
@@ -1769,7 +1780,7 @@ msgstr ""
 "Kapitola 1: Já, Kaleh, jsem vyrůstal v přesýpajících se píscích pod našimi "
 "dvěma slunci Selou a Naiou. Byla to země horkých, suchých dní a chladných "
 "nocí, země potulných příšer, kde voda měla větší cenu než zlato. Žili jsme "
-"na píscích od té doby, když před eony zmizely lesy. Byla to tvrdá a "
+"na píscích od té doby, kdy před eony zmizely lesy. Byla to tvrdá a "
 "nehostinná země, ale my byli ještě tvrdší a dokázali přežít, usazeni v oáze. "
 "Výtečně jsme opevnili naši vesnici proti jakýmkoliv nájezdníkům; neznali "
 "jsme žádný větší kmen než náš. Můj strýc Tanuil nás vedl po mnohé roky a "
@@ -1841,8 +1852,8 @@ msgid ""
 "Yes, come on out already. The storm has passed. With the morning light Naia "
 "has ended the terrible night."
 msgstr ""
-"Ano, a už vylez. Bouře skončila. S ranním světlem Naia ukončila strašlivou "
-"noc."
+"Ano, a už vylez. Bouře skončila. S ranním světlem Naia ukončila tu "
+"strašlivou noc."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:300
 msgid "Has the sky really stopped falling?"
@@ -1876,7 +1887,7 @@ msgid ""
 "the night."
 msgstr ""
 "Pojď, Kalehu, musíme zjistit, jestli někdo není zraněný nebo nepotřebuje "
-"pomoc. Myslím, že slyším někoho volat na jihu. Teď není čas pro strach, "
+"pomoc. Myslím, že na jihu slyším někoho volat. Teď není čas pro strach, "
 "musíme být silní. Koneckonců jsi synovec našeho vůdce Tanuila a musíš splnit "
 "své povinnosti. Třeba nebudou v denním světle věci tak špatné, jak si "
 "myslíš. Prozkoumejme vesnici, ať zjistíme, kdo další přežil noc."
@@ -1996,7 +2007,7 @@ msgid ""
 "Hmmmm. Some of the druids that worship on the island may still be alive. We "
 "should go check."
 msgstr ""
-"Hmmmm. Někteří z druidů, kteří sídlí na ostrově, mohou být stále naživu. "
+"Hmmmm. Někteří z druidek, které sídlí na ostrově, mohou být stále naživu. "
 "Měli bychom to zjistit."
 
 #: Under_the_Burning_Suns/scenarios/1Morning_After.cfg:679
@@ -3516,9 +3527,8 @@ msgid "A token to remember us by..."
 msgstr "Aspoň drobnost na památku..."
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:294
-#, fuzzy
 msgid "Aaaauuugggghhhh!"
-msgstr "Aaaauuugggghhhh!"
+msgstr "Aaaauuuuuuu!"
 
 #: Under_the_Burning_Suns/scenarios/3Night.cfg:299
 msgid "He just collapsed!"
@@ -4016,8 +4026,8 @@ msgid ""
 "they are filled with orcs and goblins. It may look peaceful now, but they "
 "hide in the many caves and tunnels beneath the surface."
 msgstr ""
-"Kdyby tu tak s námi byl Garak, Věděl by o těch zemích víc než já. Nikdy jsem "
-"tu nebyl, ale slyšel jsem příběhy těch několika, kteří tu cestu zvládli a "
+"Kdyby tu tak s námi byl Garak, věděl by o těch zemích víc než já. Nikdy jsem "
+"tu nebyla, ale slyšela jsem příběhy těch několika, kteří tu cestu zvládli a "
 "vrátili se. To bíle se jmenuje sníh, Nym, a hory jsou velmi chladné. Tamty "
 "menší kopečky není tak obtížné přejít, ale jsou plné skřetů a goblinů. Může "
 "to tam teď vypadat klidně, ale ve skutečnosti se zatím jenom schovávají v "
@@ -4139,10 +4149,10 @@ msgstr ""
 "Jak se může pohybovat tak rychle? Je rychlejší než jakýkoliv gobliní jezdec, "
 "kterého jsem kdy viděl. Je to až nepřirozené."
 
+# proč jen mi ten zvuk připomíná kačera? ;-)
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1081
-#, fuzzy
 msgid "Gaagghhh!!!"
-msgstr "Gaagghhh!!!"
+msgstr "Gaaaaaach!!!"
 
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1103
 msgid ""
@@ -4261,7 +4271,7 @@ msgid ""
 "like a nice sword, but do I dare chance it?"
 msgstr ""
 "Zvláštní. Někdo vytesal na konci chodby do kamene neumělou fontánu. Mrazivá "
-"voda vytéká do velké nádrže. Na dně nádržky vidím ležícího kostlivec, stále "
+"voda vytéká do velké nádrže. Na dně nádržky vidím ležícího kostlivce, stále "
 "svírajícího meč. Nádrž není hluboká, můžu ji snadno přebrodit a vzít ten "
 "meč. Někdo jiný ale vytesal do zdi hrubý nápis: 'Pokud se odvážíš zvednout "
 "tuto čepel, zjeví se ti to, čeho se nejvíce obáváš.' Meč nevypadá špatně, "
@@ -4294,6 +4304,7 @@ msgstr ""
 msgid "I am an abomination, please kill me."
 msgstr "Jsem ohavnost, prosím, zabij mě!"
 
+# viděl(a) - ?
 #: Under_the_Burning_Suns/scenarios/4OrcishFoothills.cfg:1491
 msgid "I've seen some ugly creatures in my day, but that thing is just wrong."
 msgstr "Už jsem za svůj život viděl ledacos, ale tohle je prostě nechutné."
@@ -4480,12 +4491,12 @@ msgid ""
 msgstr ""
 "Při pohledu zpět myslím, že nejodvážnější čin mého lidu byl, když mě "
 "následoval do temnot jen ve víře ve sliby Eloh a důvěře v mé vůdcovství. "
-"Neměl jsem představu jak dlouho budeme v podzemí uvězněni, nebo dokonce kudy "
-"jít. Jen jsem doufal, že nás Eloh nějak povede. Nym mi řekla že mezi lidmi "
-"se šeptá, že bych je provedl čímkoliv, a je pravda, že když jsme odcházeli, "
-"stěží jsem si dokázal představit že bychom mohli bojovat s bandity, "
-"nemrtvými, skřety a gobliny. Celý můj předchozí život se zdál být celé roky "
-"vzdálen, i když od zničení naší vesnice uběhlo teprve deset dní."
+"Neměl jsem představu, jak dlouho budeme v podzemí uvězněni, nebo dokonce "
+"kudy jít. Jen jsem doufal, že nás Eloh nějak povede. Nym mi řekla že mezi "
+"lidmi se šeptá, že bych je provedl čímkoliv, a je pravda, že když jsme "
+"odcházeli, stěží jsem si dokázal představit že bychom mohli bojovat s "
+"bandity, nemrtvými, skřety a gobliny. Celý můj předchozí život se zdál být "
+"celé roky vzdálen, i když od zničení naší vesnice uběhlo teprve deset dní."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:606
 msgid ""
@@ -4579,7 +4590,7 @@ msgid ""
 "don't know what happened."
 msgstr ""
 "Je to hrdý lid, někteří by řekli hamižný. Milují své zlato a drahé kovy a "
-"vyrábějí mnohé krásné věci. Měla bych tě varovat, nemají elfy příliš v "
+"vyrábějí mnohé krásné věci. Měla bych vás varovat, nemají elfy příliš v "
 "oblibě; před mnoha lety došlo k nějaké zradě, ale nemám ani trochu představu "
 "o co tehdy šlo."
 
@@ -4600,7 +4611,7 @@ msgstr ""
 "Trollové a trpaslíci jsou přirození nepřátelé, i když žijí tak blízko sebe. "
 "Mnozí trolly nepovažují za nic víc než jen brutální obry a ničitele. "
 "Trollové jsou obří a velmi silní, mají kůži jako kámen a dokáží být "
-"strašliví nepřátelé. Ale znala jsem kdysi jednoho člověka který s nimi "
+"strašliví nepřátelé. Ale znala jsem kdysi jednoho člověka, který s nimi "
 "obchodoval, tedy se skupinkou trollů, a říkal že jsou docela slušní, dokud "
 "se je někdo nepokusí podvést."
 
@@ -4637,7 +4648,7 @@ msgstr ""
 "na nás svítí slunce. Ale říká se, že i v největší temnotě ochrání své věrné. "
 "A kdysi ve zlatém věku vedli svatí elfí válečníci výpravy proti skřetům a "
 "jiným nečistým věcem, které se skrývají pod zemí, a s pomocí Eloh je "
-"pobíjeli. Víra je náš štít, Kalehu. Myslí, že by sis měl nechat své pochyby "
+"pobíjeli. Víra je náš štít, Kalehu. Myslím, že by sis měl nechat své pochyby "
 "pro sebe; neposlouží nám, když příliš znejistíme naše lidi. Eloh nás vždy "
 "bude chránit, pokud půjdeme po jejích stezkách."
 
@@ -4646,7 +4657,7 @@ msgstr ""
 msgid ""
 "Then let us hope the rest of our journey may be as uneventful as it has been "
 "this far."
-msgstr "Pak doufejme že zbytek cesty bude tak jednotvárný jako dosud."
+msgstr "Pak doufejme, že zbytek cesty bude tak jednotvárný jako dosud."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:1447
 #, fuzzy
@@ -5017,9 +5028,8 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3146
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3400
-#, fuzzy
 msgid "Aaauuuggghhhh!"
-msgstr "Aaauuuggghhhh!"
+msgstr "Aaauuuuuuu!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3162
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3416
@@ -5064,9 +5074,8 @@ msgstr ""
 "by to trollové mohli dlouho vydržet."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3432
-#, fuzzy
 msgid "Gaggghhh!"
-msgstr "Gaggghhh!"
+msgstr "Ghhhhrr!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:3448
 #, fuzzy
@@ -5300,9 +5309,8 @@ msgid "I go to my ancestors..."
 msgstr "Odcházím k předkům..."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4378
-#, fuzzy
 msgid "Arrggg!!!"
-msgstr "Arrggg!!!"
+msgstr "Arrrrr!!!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4434
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:4507
@@ -5473,8 +5481,8 @@ msgid ""
 "If we move fast we might be able to save the other prisoner before he gets "
 "killed too."
 msgstr ""
-"Když budeme jednat rychle, snad stihneme zachránit druhého vězně dřív než ho "
-"zabijí."
+"Když budeme jednat rychle, snad stihneme zachránit druhého vězně dřív, než "
+"ho zabijí."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:380
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5273
@@ -5495,10 +5503,10 @@ msgid ""
 "will guard you with my life, even if I have to follow you to the ends of the "
 "earth. Now lead me to the trolls and let me avenge my friends' deaths!"
 msgstr ""
-"Dlužím vám svůj život. Nedokážu uvěřit že mě zajali, zatímco ti kolem mne "
-"zemřeli hrdinně v boji. Tak se stydím. Nedokázal jsem je ochránit... ale "
-"budu vás chránit až na smrt, i kdybych vás musel následovat až na konec "
-"země. Teď mě veďte ke trollům, ať mohu pomstít smrt svých přátel!"
+"Dlužím vám svůj život. Nedokážu uvěřit, že mě zajali, zatímco ti kolem mne "
+"zemřeli hrdinně v boji. Tak se stydím. Nedokázal jsem je ochránit... ale vás "
+"budu chránit až na smrt, i kdybych vás musel následovat až na konec země. "
+"Teď mě veďte ke trollům, ať mohu pomstít smrt svých přátel!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5425
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5524
@@ -5586,9 +5594,8 @@ msgstr ""
 "nenávidím netopýry."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:5920
-#, fuzzy
 msgid "Grrraaawwwkkk!"
-msgstr "Grrraaawwwkkk!"
+msgstr "Graaaakch!"
 
 # jojo, velmi volný překlad ;-)
 # ale myslím, že i tak sedí
@@ -5662,7 +5669,7 @@ msgstr ""
 "zbabělí trpaslíci před námi utíkají. Náš boj ještě není skončený, mnoho "
 "válčení, ale elfové a trollové vyhráli tuto bitvu. Děkujeme vám. Velký vůdce "
 "vám dovolil přijít a mluvit s ním. Velká čest, nikdy nesměl nikdo vašeho "
-"druhu být u něj. Al přeje si s vámi mluvit a odměnit vás. Pojďte se mnou, "
+"druhu být u něj. Ale přeje si s vámi mluvit a odměnit vás. Pojďte se mnou, "
 "prosím."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6422
@@ -5696,7 +5703,7 @@ msgid ""
 "that even now these caves aren't safe. Can you help us escort my people to "
 "safety?"
 msgstr ""
-"Pšt, vy dvě. Ano, ovšem, bylo by pro nás vyznamenáním setkat se se tvým "
+"Pšt, vy dvě. Ano, ovšem, bylo by pro nás vyznamenáním setkat se s vaším "
 "králem. Ale nejdřív, nechali jsme mnoho našich lidí vzadu v chodbě u ústí do "
 "té velké jeskyně, kde jsme se poprvé potkali. Obávám se, že ani teď nejsou "
 "ty jeskyně bezpečné. Pomůžeš nám odvést náš lid do bezpečí?"
@@ -5721,14 +5728,17 @@ msgid ""
 msgstr "Děkuji ti. Pojďte, lidi, ještě nemůžeme slavit, máme stále práci!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6471
+#, fuzzy
 msgid ""
 "They've come for my precious. It's mine, yes it is. They shant have it, no "
 "they shant. We will kill the nasty elfses, yes we will."
 msgstr ""
+"Pšišli pro našeho miláška. Je náš, ano, jenom náš. Nedostanou ho, ne. "
+"Všechny je zabijeme, viď, milášku? Ano, to uděláme."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6485
 msgid "Curse them! We hates them!"
-msgstr ""
+msgstr "Žloději! Nenávidíme je! Nenávidíme je až za hrob!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6490
 #, fuzzy
@@ -5806,8 +5816,8 @@ msgstr ""
 "dávno rozpadla v prach. Vše co zbývá je pár ceremoniálních šperků a tento "
 "zářivý zlatý opasek. Uvnitř jsou tato slova: „Kéž máš sílu zůstat stát "
 "dlouho poté, co tví nepřátelé padnou“. Vykrádání hrobů není nikdy nic "
-"dobrého, ale ten opasek vypadá kouzelně a jeho dřívější majitel jej určitě "
-"nebude postrádat."
+"dobrého, ale ten opasek vypadá jako kouzelný a jeho dřívější majitel jej "
+"určitě nebude postrádat."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6680
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6772
@@ -5841,7 +5851,7 @@ msgstr ""
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6820
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6919
 msgid "You who disturb my rest, come and join me in death!"
-msgstr "Vy kdož mě rušíte v mém odpočinku, pojďtež a zemřete též!"
+msgstr "Vy kdož rušíte mne v mém odpočinku, pojďtež a zemřetež též!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6727
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6825
@@ -5874,8 +5884,8 @@ msgstr ""
 "dávno rozpadla v prach. Vše co zbývá je pár ceremoniálních šperků a tento "
 "zářivý zlatý opasek. Uvnitř jsou tato slova: „Kéž máš sílu zůstat stát "
 "dlouho poté, co tví nepřátelé padnou“. Vykrádání hrobů není nikdy nic "
-"dobrého, ale ten opasek vypadá kouzelně a jeho dřívější majitel jej určitě "
-"nebude postrádat."
+"dobrého, ale ten opasek vypadá jako kouzelný a jeho dřívější majitel jej "
+"určitě nebude postrádat."
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6782
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:6881
@@ -5935,7 +5945,7 @@ msgid ""
 "start of each turn. This heat damage can reduce a unit to 1 hit point, but "
 "it can't kill it. "
 msgstr ""
-"jakákoliv jednotka končící svůj tah na lávě s výjimkou pouštních víl a "
+"Jakákoliv jednotka končící svůj tah na lávě s výjimkou pouštních víl a "
 "hvězd, které mohou nad lávou přeletět, bude na začátku dalšího kola zraněna "
 "o 25 hp. Toto zranění může jednotky zabít. Pouštní víly a hvězdy budou "
 "zraněny jen o $temp_damage hp za kolo, ale i ony mohou zemřít, pokud nad "
@@ -5969,7 +5979,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7414
 msgid "Arise! Arise and engulf the intruders in your holy fire!"
-msgstr "Povstaňte! Povstaňte a zalijte vetřelce vašim svatým ohněm!"
+msgstr "Povstaňte! Povstaňte a zalijte vetřelce vaším svatým ohněm!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:7458
 #, fuzzy
@@ -6063,7 +6073,6 @@ msgid "Arise our brothers of ages past, arise and destroy the intruders!"
 msgstr "Povstaňte, naši bratři včerejších dnů! Povstaňte a zničte vetřelce!"
 
 #: Under_the_Burning_Suns/scenarios/5Struggle.cfg:8060
-#, fuzzy
 msgid "Argh! Curse you! May you never live to see daylight again!"
 msgstr "Ááá! Proklínám vás! Nechť již nikdy neuvidíte opět denní světlo!"
 
@@ -6082,8 +6091,8 @@ msgid ""
 "you have done great deeds this day. Elves killing the troll chieftain! We "
 "will tell this story for years."
 msgstr ""
-"Zprávy cestují rychle. Chaos který jste zaseli způsobil, že se ti odporní "
-"trollové začali stahovat. A teď je architekt našeho utrpení mrtev. tato "
+"Zprávy cestují rychle. Chaos, který jste zaseli, způsobil, že se ti odporní "
+"trollové začali stahovat. A teď je architekt našeho utrpení mrtev. Tato "
 "válka má do konce ještě daleko, ale s vaší pomocí jsme v této bitvě "
 "zvítězili. Máte naše díky. Náš král nás instruoval, abychom vás za ním "
 "přivedli; chce si s vámi promluvit a odměnit vás. Očekává vás v naší "
@@ -6111,7 +6120,7 @@ msgid ""
 "that even now these caves aren't safe. Can you help us escort my people to "
 "safety?"
 msgstr ""
-"Pšt, vy dvě. Ano, ovšem, bylo by pro nás vyznamenáním setkat se se tvým "
+"Pšt, vy dvě. Ano, ovšem, bylo by pro nás vyznamenáním setkat se s vaším "
 "králem. Ale nejdřív, nechali jsme mnoho našich lidí vzadu v chodbě u ústí do "
 "té velké jeskyně, kde jsme se poprvé potkali. Obávám se, že ani teď nejsou "
 "ty jeskyně bezpečné. Pomůžeš nám odvést náš lid do bezpečí?"
@@ -6338,7 +6347,7 @@ msgstr ""
 "zdál plynout tam dole hluboko pod zemí jinak. Ale to, co jsem spatřil, když "
 "jsme se konečně dostali k našemu cíli, bralo dech. Vstoupili jsme do obří "
 "dutiny, kde trpaslíci vybudovali z kamene veliké město. To místo se zdálo "
-"nezničitelné, chráněno zdmi a branami většími, než vše co jsem kdy viděl. "
+"nezničitelné, chráněno zdmi a branami většími, než vše, co jsem kdy viděl. "
 "Jak jsme vstupovali dovnitř, měl jsem příležitost obdivovat jejich kamenické "
 "umění a spatřil jsem, že je tu plno trpaslíků, doslova hlava na hlavě. To "
 "město bylo mnohem větší než jakákoliv vesnice, kterou jsem kdy viděl."
@@ -6438,7 +6447,7 @@ msgid ""
 msgstr ""
 "Doslechl jsem se o tvých nedávných hrdinských činech proti trollí hrozbě. "
 "Jsou nám po dlouhou dobu ostnem v boku. Kdysi byli jen výjimečnými škůdci, "
-"ale kamkoliv se nyní otočíš, najdeš tam další. Stávají se chytřejšími a "
+"ale nyní, kamkoliv se otočíš, najdeš tam další. Stávají se chytřejšími a "
 "taktizují; jejich útokům již padlo za oběť mnoho našich vnějších osad. I tak "
 "ještě boje neutichly; s vaším nedávným vítězstvím se však snad štěstí v této "
 "bitvě přikloní na naši stranu. Ale pověz mi, co dělá tolik elfů tak hluboko "
@@ -6579,7 +6588,7 @@ msgid ""
 "I understand. Thank you, you were a huge help to us. It was a honor to fight "
 "by your side."
 msgstr ""
-"Rozumím. Díky, velmi jsi nám pomohla. Byla to čest, bojovat po tvém boku."
+"Rozumím. Díky, velmi jste nám pomohli. Byla to čest, bojovat po vašem boku."
 
 #: Under_the_Burning_Suns/scenarios/6aDwarf.cfg:659
 #: Under_the_Burning_Suns/scenarios/6bTroll.cfg:661
@@ -6627,7 +6636,7 @@ msgid ""
 "know that you will find a place for your people. My place is here, with the "
 "dwarves. And you don't really need me, you have each other."
 msgstr ""
-"Myslím že s pomocí trpaslíků se vám bude dařit dobře. Nevím jaký domov pro "
+"Myslím, že s pomocí trpaslíků se vám bude dařit dobře. Nevím jaký domov pro "
 "vás vaše bohyně přichystala, Kalehu, ale věřím ti, a vím, že pro svůj lid "
 "najdeš místo. Mé místo je tady, u trpaslíků. A mne doopravdy nepotřebujete, "
 "máte sebe navzájem."
@@ -7049,7 +7058,7 @@ msgid ""
 msgstr ""
 "Díky. Tolik vám dlužím za to, že jste mi pomohli objevit trolly. Nikdy bych "
 "se sem dolů sama nevydala. Když jsme bojovali s trpaslíky, našla jsem tento "
-"meč a s trochou pomoci od trollů jsem jej pro vás začarovala tuto ohnivou "
+"meč a s trochou pomoci od trollů jsem jej pro vás začarovala v tuto ohnivou "
 "čepel. Kéž její plameny vždy osvětlují vaše cesty a srazí vaše nepřátele. "
 "Dávám ji vám všem jako výraz mé vděčnosti."
 
@@ -7060,7 +7069,7 @@ msgid ""
 "sneaky, they retreat today but may attack again tomorrow. The sooner you "
 "leave the safer you will be."
 msgstr ""
-"A teď Darmog myslí, že byste měli odejít co nejdřív. Trpaslíci jsou lstiví, "
+"A teď Darmog myslí, že byste měli co nejdřív odejít. Trpaslíci jsou lstiví, "
 "dnes se stáhli ale zítra mohou zaútočit znova. Čím dříve odejdete, tím víc "
 "budete v bezpečí."
 
@@ -7444,7 +7453,7 @@ msgstr ""
 "Počkat. místnost před námi je asi dobře chráněná pastmi. Je tu jiná cesta. "
 "Když jsem tu předtím zkoumal, našel jsem tajný průchod, který obchází hlavní "
 "bránu. Hledej podél jižní zdi této jeskyně a najdeš je. Hlavní problém je, "
-"že ten průchod je dlouhý a větrný; ztratíme tem drahocenné minuty. "
+"že ten průchod je dlouhý a větrný; ztratíme tím drahocenné minuty. "
 "Stoupající voda nám nemusí dát dost času. Rozhodni ty, Kalehu."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:1846
@@ -7547,8 +7556,8 @@ msgid ""
 "enough to step into them."
 msgstr ""
 "Počkat, ty runy vydávají chladně modrou záři a nezdají se mi tak výhružné "
-"jako ty žhnoucí rudé které jsme viděli předtím. Třeba nám nějaká tu zbylá "
-"magie pomůže, pokud bude někdo dost odvážný a postaví se na ně."
+"jako ty žhnoucí rudé které jsme viděli předtím. Třeba nám nějaká magie, "
+"která tu zbyla, pomůže, pokud bude někdo dost odvážný a postaví se na runy."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2220
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2313
@@ -7691,7 +7700,6 @@ msgstr ""
 "dbal na pracovní etiku."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:2851
-#, fuzzy
 msgid ""
 "Sniff, who were those children? Why did they die, in the dark, so many years "
 "ago? May Eloh shine her eternal light upon their souls."
@@ -7960,7 +7968,7 @@ msgid ""
 "I have long waited for fools such as yourselves to dare to disturb our rest, "
 "elf. Pay the price of all such defilers!"
 msgstr ""
-"Dlouho jsem čekal až se takoví hlupáci jako ty, elfe, odváží vyrušit náš "
+"Dlouho jsem čekal, až se takoví hlupáci jako ty, elfe, odváží vyrušit náš "
 "odpočinek. Zaplaťtež cenu za všechny takové narušitele!"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3426
@@ -8052,8 +8060,8 @@ msgid ""
 "leave you here to die in the darkness. I will carry you in my own arm if I "
 "have to."
 msgstr ""
-"Bez ohledu na to co jsi udělal, jsi jedním z nás, Kerature, a nenechám tě tu "
-"umřít v temnotě. Ponesu tě sám, jestli budu muset."
+"Bez ohledu na to, co jsi udělal, jsi jedním z nás, Kerature, a nenechám tě "
+"tu umřít v temnotě. Ponesu tě sám, jestli budu muset."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3551
 msgid "So be it. I care not."
@@ -8086,9 +8094,9 @@ msgid ""
 "never would have found our way without your help. But with the tunnels "
 "flooded, how are you going to find your way back to your people?"
 msgstr ""
-"Chci ti moc poděkovat za provedení jeskyněmi a ven. Bez tvé pomoci bychom "
-"nikdy nenašli cestu. Jenže, teď když jsou tunely zatopené, jak najdeš cestu "
-"zpět ke svému lidu?"
+"$ally_name|e, chci ti moc poděkovat za provedení jeskyněmi a ven. Bez tvé "
+"pomoci bychom nikdy nenašli cestu. Jenže, teď když jsou tunely zatopené, jak "
+"najdeš cestu zpět ke svému lidu?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:3628
 msgid ""
@@ -8788,15 +8796,14 @@ msgid "Kaleh, would you mind telling me what in Uria's name is going on."
 msgstr "Kalehu, nevadilo by ti říct mi, co u Urie se tu děje?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4630
-#, fuzzy
 msgid ""
 "There's no time. Right now we have to prepare ourselves for another battle. "
 "I'd better head back to the outpost and rally our troops. I fear a whole lot "
 "of hurt is going to be coming up through those hills very soon."
 msgstr ""
 "Nemáme čas. Právě teď se musíme připravit na další bitvu. Raději bych se měl "
-"vrátit do pevnůstky a ??? naše jednotky. Obávám se, že velmi brzy vystoupí "
-"těmi kopci velmi mnoho bolesti."
+"vrátit do pevnůstky a připravit naše jednotky. Obávám se, že velmi brzy "
+"vstoupí do těchto kopců velmi mnoho bolesti."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:4635
 msgid ""
@@ -8864,8 +8871,8 @@ msgid ""
 "state if they bring the full strength of their army against us I fear we may "
 "be crushed."
 msgstr ""
-"Špatná zpráva - slyšela jsem velitele, jak přikazoval skupině jeho mužů aby "
-"se připravila k jízdě na sever a přivolali posily. Vypadá to že na severu "
+"Špatná zpráva - slyšela jsem velitele, jak přikazoval skupině jeho mužů, aby "
+"se připravila k jízdě na sever a přivolali posily. Vypadá to, že na severu "
 "mají lidé větší vesnici. Jejich pevnost je bráněna dost slabě, nejspíš je "
 "dokážeme porazit i v našem současném oslabeném stavu, ale kdyby přivedli "
 "celou svou armádu, obávám se, že by nás snadno rozdrtili."
@@ -8958,9 +8965,9 @@ msgid ""
 "I only wish that the same could be said of our brethren."
 msgstr ""
 "Ale teď není čas na modlení. Lidé se kdysi rozšířili do mnoha zemí a "
-"navzdory vší zkáze času nepochybuji, že alespoň někteří přežili. Jsou tvrdí "
-"a rychle se přizpůsobují novým podmínkám. Přeji si, aby bylo možno říci to i "
-"o našich bratrech."
+"navzdory vší zkáze času nepochybuji, že alespoň někteří přežili. Je to tvrdý "
+"národ a rychle se přizpůsobují novým podmínkám. Přeji si, aby bylo možno "
+"říci to i o nás."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5045
 msgid "There might be other elves somewhere. We can't be sure."
@@ -9055,12 +9062,12 @@ msgstr "Zbytek lidí prchá."
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5318
 #, fuzzy
 msgid "Let them go. We have won this battle and I weary of all this bloodshed."
-msgstr "Nechte je jít. Tuto bitvu jsme vyhráli a už se mi hnusí tyhle jatka."
+msgstr "Nechte je jít. Tuto bitvu jsme vyhráli a už se mi tyhle jatka hnusí."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5323
 #, fuzzy
 msgid "What was it that Durstrag was so afraid of?"
-msgstr "Co to bylo, to čeho se ten člověk Durstrag tak obával?"
+msgstr "Co to bylo, to čeho se ten člověk Durstrag tak bál?"
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:5328
 msgid "I don't know, but I fear we may find out."
@@ -9319,13 +9326,13 @@ msgid ""
 "talk with you about concerns the fate of your people. He said it concerns "
 "'Yechnagoth' and 'Yanqui'. He said that you would understand Kaleh."
 msgstr ""
-"Má paní očekávala, že budeš podezřívavý. Říkala, že to co s tebou musíme "
-"projednat se týká osudu tvého lidu. A taky ještě říkala, že se to týká "
+"Má paní očekávala, že budeš podezřívavý. Říkala, že to, co s tebou musíme "
+"projednat, se týká osudu tvého lidu. A taky ještě říkala, že se to týká "
 "„Yechnagoth“ a „Yanquiho“. Prý to určitě pochopíš, Kalehu. "
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6418
 msgid "Hmmmm...yes, yes I think I do. I don't know why, but I trust you."
-msgstr "Hmmmm... ano, myslím že ano. Nevím proč, ale věřím ti."
+msgstr "Hmmmm... ano, myslím, že ano. Nevím proč, ale věřím ti."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6423
 #, fuzzy
@@ -9370,7 +9377,7 @@ msgid ""
 "It would be suicide for you to try to rescue them alone. Of course we will "
 "help you."
 msgstr ""
-"Byly by to sebevražda, kdyby ses pokoušel zachránit je sám. Pochopitelně že "
+"Byly by to sebevražda, kdyby ses pokoušel zachránit je sám. Samozřejmě, že "
 "ti pomůžeme."
 
 #: Under_the_Burning_Suns/scenarios/7OutoftheFryingPan.cfg:6443
@@ -9402,6 +9409,7 @@ msgstr ""
 "Události se dostávají do pohybu. Bojím se o Tanstafaala a tvé mořské "
 "přátele. Čas je klíčový, takže se vydejme na cestu co nejdřív."
 
+# Současný překlad se vztahuje k bojům s rebelujícími elfy, ale je možný i "doslovný" výklad, že to jsou takové jatka, že krev teče úplnými potoky - a ona je opravdu hustší než voda.
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:11
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:12
 msgid "Blood is Thicker than Water"
@@ -9472,7 +9480,7 @@ msgstr ""
 "Což mne přivádí k dalšímu nepochopitelnému konceptu, který jsem se snažil "
 "rozluštit: naše bohyně Eloh. Jaký byl vlastně její plán? Proč chtěla, abych "
 "se vzdal lidem? Uctívají ji snad také? Zdají se tak brutální a sprostí, "
-"nedokážu si představit, že by ji uctívali také. Myslel jsem, že Eloh byla "
+"nedokážu si představit, že by ji také uctívali. Myslel jsem, že Eloh byla "
 "jen naše bohyně, nepamatuji se, že by se kdy Zhul zmiňovala o jiných rasách, "
 "které by ji po Velkém pádu uctívaly, ale třeba se to změnilo. Její příkazy "
 "nedávají smysl; ani se nezdá být taková, jak ji Zhul popisuje. A o čem to "
@@ -9788,10 +9796,10 @@ msgid ""
 "upon the edge of a knife, falter once and all shall fail."
 msgstr ""
 "Ale je tu někdo, koho zkazila jeho moc a odmítl můj božský plán. Snažil se "
-"přivlastnit si mou autoritu. Neměl víru a myslel si že ví více než já, která "
-"jsem nad vámi bděla po generace. Chtěl vás svést z pravé cesty. V těchto "
-"nebezpečných končinách, kde úspěch vaší výpravy visí na vlásku, stačí jednou "
-"zaváhat a je po všem."
+"přivlastnit si mou autoritu. Neměl víru a myslel si, že ví více než já, "
+"která jsem nad vámi bděla po generace. Chtěl vás svést z pravé cesty. V "
+"těchto nebezpečných končinách, kde úspěch vaší výpravy visí na vlásku, stačí "
+"jednou zaváhat a je po všem."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1125
 #, fuzzy
@@ -9803,7 +9811,7 @@ msgid ""
 "their insidious plans. Follow his path and he would have you bow down and "
 "serve the merfolk's foul god."
 msgstr ""
-"Ano, mluvím o vašem takzvaném vůdci, Kalehovi. Původně jsem jej povolala "
+"Ano, mluvím o vašem takzvaném vůdci, Kalehovi. Původně jsem jej povolala, "
 "protože se zdál být jedním z věrných, ale on zradil mou důvěru. Lidé, které "
 "vraždíte, vám chtěli pomoci, dokud na ně Kaleh bláznivě nezaútočil. A teď "
 "díky Kalehovi sloužíte ďábelskému mořskému lidu a jejich záludným plánům. "
@@ -9839,7 +9847,7 @@ msgstr ""
 "její činy mě přesvědčily, že to není nic než podvodník. Když se mi zjevila "
 "noc před tím, než Garak zemřel, řekla mi abych zabil vše, co najdu žít pod "
 "horami, dokonce i trpaslíky, kteří nám nakonec pomáhali. Stejně tak se mi "
-"zjevila poté co jsme unikli z jeskyní a řekla mi, abych se sklonil před "
+"zjevila poté, co jsme unikli z jeskyní, a řekla mi, abych se sklonil před "
 "lidmi, jinak mě zničí. Eloh nikdy nikomu z nás nevyhrožovala ani "
 "nepřikazovala."
 
@@ -9865,15 +9873,15 @@ msgid ""
 "slaves, and will not blindly follow either human or some false god."
 msgstr ""
 "Prohlašuje že to byla ona, kdo nás strážil během celé naší cesty, ale kdo "
-"vás chránil když jste šli přes nehostinné písky, kdo bojoval se skřety a "
-"vedl vás pod hory, kdo vás pak opět vyvedl, navzdory všem protivenstvím? Já "
-"to byl. Krvácel jsem pro vás, každý krok na té dlouhé cestě. Pokud nevěříte "
-"mým slovům, věřte alespoň mým činům. Udělal jsem pro svůj lid to nejlepší co "
-"jsem mohl, a za svými činy si stojím. Věřím, že mořští lidé jsou našimi "
-"přáteli, tak jako byli trpaslíci. Odmítám se klanět tvrdým slovům a "
-"výhrůžkám; my elfové jsme vždy měli volnost konání podle naší vlastní volby. "
-"Nejsme otroci, a nebudeme slepě následovat ani lidi, ani nějakého falešného "
-"boha."
+"vás chránil, když jste šli přes nehostinné písky, kdo bojoval se skřety a "
+"vedl vás pod hory, kdo vás pak opět vyvedl ven, navzdory všem protivenstvím? "
+"Já to byl. Krvácel jsem pro vás, každý krok na té dlouhé cestě. Pokud "
+"nevěříte mým slovům, věřte alespoň mým činům. Udělal jsem pro svůj lid to "
+"nejlepší, co jsem mohl, a za svými činy si stojím. Věřím, že mořští lidé "
+"jsou našimi přáteli, tak jako byli trpaslíci. Odmítám se klanět tvrdým "
+"slovům a výhrůžkám; my elfové jsme vždy měli volnost konání podle naší "
+"vlastní volby. Nejsme otroci a nebudeme slepě následovat ani lidi, ani "
+"nějakého falešného boha."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1167
 #, fuzzy
@@ -9918,15 +9926,15 @@ msgid ""
 "slaves, and will not blindly follow either the humans or some false god."
 msgstr ""
 "Prohlašuje že to byla ona, kdo nás strážil během celé naší cesty, ale kdo "
-"vás chránil když jste šli přes nehostinné písky, kdo bojoval se skřety a "
-"vedl vás pod hory, kdo vás pak opět vyvedl, navzdory všem protivenstvím? Já "
-"to byl. Krvácel jsem pro vás, každý krok na té dlouhé cestě. Pokud nevěříte "
-"mým slovům, věřte alespoň mým činům. Udělal jsem pro svůj lid to nejlepší co "
-"jsem mohl, a za svými činy si stojím. Věřím, že mořští lidé jsou našimi "
-"přáteli, tak jako byli trollové. Odmítám se klanět tvrdým slovům a "
-"výhrůžkám; my elfové jsme vždy měli volnost konání podle naší vlastní volby. "
-"Nejsme otroci, a nebudeme slepě následovat ani lidi, ani nějakého falešného "
-"boha."
+"vás chránil, když jste šli přes nehostinné písky, kdo bojoval se skřety a "
+"vedl vás pod hory, kdo vás pak opět vyvedl ven, navzdory všem protivenstvím? "
+"Já to byl. Krvácel jsem pro vás, každý krok na té dlouhé cestě. Pokud "
+"nevěříte mým slovům, věřte alespoň mým činům. Udělal jsem pro svůj lid to "
+"nejlepší, co jsem mohl, a za svými činy si stojím. Věřím, že mořští lidé "
+"jsou našimi přáteli, tak jako byli trollové. Odmítám se klanět tvrdým slovům "
+"a výhrůžkám; my elfové jsme vždy měli volnost konání podle naší vlastní "
+"volby. Nejsme otroci a nebudeme slepě následovat ani lidi, ani nějakého "
+"falešného boha."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1189
 #, fuzzy
@@ -9936,7 +9944,7 @@ msgid ""
 "heretics. All who are faithful, join me and let us kill the usurpers!"
 msgstr ""
 "Tvá slova jsou nesmyslná, Kalehu. Bratři, zjevila se vám Eloh a promluvila. "
-"Popírejte ji ke své vlastní škodě. Prohlašuji všechny kdo odporují Eloh "
+"Popírejte ji ke své vlastní škodě. Prohlašuji všechny, kdo odporují Eloh, "
 "kacíři. Kdo jste věrní, přidejte se ke mně a zabte samozvance!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1195
@@ -9966,7 +9974,7 @@ msgid ""
 "her would lead us down a dark road. One that I personally  do not want to "
 "discover the end of."
 msgstr ""
-"To nevím, ale když uvážím, co jsem viděl u lidí, zdá se mi jisté že "
+"To nevím, ale když uvážím, co jsem viděl u lidí, zdá se mi jisté, že "
 "kdybychom ji následovali, zavedla by nás na opravdu temné stezky. Takové, "
 "jejichž konce bych raději nehledal."
 
@@ -9996,7 +10004,7 @@ msgstr ""
 "poslouchat tvé rozkazy. Ale druzí elfové musí být na dalším ostrově. Jak "
 "překročíme hlubokou vodu?"
 
-# Má to původní vůbec smysl? Podle mě ne.
+# Má to původní anglické vůbec smysl? Podle mě ne. Nehodláme nijak škodit // činy hovoří ... eh? Jak to souvisí?
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1247
 #, fuzzy
 msgid ""
@@ -10011,7 +10019,7 @@ msgstr ""
 "udělal, Kalehu, a i když vám nehodláme nijak škodit, máš pravdu v tom, že "
 "činy hovoří hlasitěji než slova. Víme toho o vodách a souvisejících věcech "
 "více než vy a všimli jsme si, že na ostrov, kde musí být ti další elfové, "
-"vedou dva mělké chodníky. Ukážeme vám je a pomůžeme na druhou stranu abyste "
+"vedou dva mělké chodníky. Ukážeme vám je a pomůžeme na druhou stranu, abyste "
 "mohli potlačit to povstání."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1283
@@ -10024,7 +10032,7 @@ msgstr ""
 "Děkuji, jsem si jistý že budete v mělkých vodách velmi užiteční. Dobrá, "
 "lidičky, nehodlám jich zabít ani o trochu víc než bude nutné. Teklo již "
 "příliš mnoho krve. Bijte je, raňte je, ale zabíjejte, jen když budete muset. "
-"Ale musíme zastavit Tanstafaala v jeho šílenství dříve než nás úplně zničí."
+"Musíme ale zastavit Tanstafaala v jeho šílenství dříve než nás úplně zničí."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1289
 msgid ""
@@ -10033,7 +10041,7 @@ msgid ""
 "can recall past warriors, you won't be able to recruit any new ones."
 msgstr ""
 "My, kdo jsme s tebou bojovali po tvém boku zůstaneme s tebou, Kalehu, ale "
-"mnozí naši lidé prchají a přidávají se k Tanstafaalovi. Obávám se že i když "
+"mnozí naši lidé prchají a přidávají se k Tanstafaalovi. Obávám se, že i když "
 "můžeš přivolávat zkušené válečníky, nebudeš moci naverbovat nové."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:1295
@@ -10235,8 +10243,8 @@ msgid ""
 "Thank you for rescuing me. I never imagined that we would actually be able "
 "to find you elves. Our master was right after all. But more of that later..."
 msgstr ""
-"Díky za záchranu. Nikdy bych nebyl věřil že vás elfy dokážeme najít. Náš pán "
-"měl nakonec pravdu. Ale o tom později..."
+"Díky za záchranu. Nikdy bych nebyl věřil, že vás elfy dokážeme najít. Naše "
+"paní měla nakonec pravdu. Ale o tom později..."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2095
 msgid "Il-tian"
@@ -10466,7 +10474,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2883
 msgid "They are all dead. We were too late. Forgive me master."
-msgstr "Jsou všichni mrtví. Nestihli jsme to. Promiň, pane."
+msgstr "Jsou všichni mrtví. Nestihli jsme to. Promiň, paní."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2889
 #, fuzzy
@@ -10477,13 +10485,12 @@ msgstr ""
 "Nedokázali jsme zachránit dost mořských lidí. Selhali jsme. Teď se nikdy "
 "nedokážeme setkat s jejich vůdkyní!"
 
-# co jste udělali
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2907
 msgid ""
 "Oh Master, forgive me. I could not save them all in time. Vile humans, you "
 "shall pay twice over for what you have done!"
 msgstr ""
-"Ach, pane, odpusť mi. Nedokázal jsem je všechny včas zachránit. Odporní "
+"Ach, paní, odpusť mi. Nedokázal jsem je všechny včas zachránit. Odporní "
 "lidé, zaplatíte dvakrát za to, čeho jste se dopustili!"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:2931
@@ -10616,7 +10623,7 @@ msgid ""
 "and the thing pretending to be our god is gone."
 msgstr ""
 "Je to ukončeno. Vidíte, můj lide, Tanstafaal se zabil sám, a ta věc, která "
-"předstírala že je naší bohyní je pryč."
+"předstírala, že je naší bohyní, je pryč."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3397
 msgid ""
@@ -10718,7 +10725,7 @@ msgid ""
 "retreat back into the dunes?"
 msgstr ""
 "Naši lidé jsou rozptýlení a vyčerpaní, co teď, Kalehu? Ustoupíme zpátky do "
-"poutních dun?"
+"pouštních dun?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3591
 #, fuzzy
@@ -10747,8 +10754,8 @@ msgid ""
 "lagoon, I saw several ships anchored, which we might be able to use to "
 "transport your people across the waves."
 msgstr ""
-"Lidé Železné rady přebývají na velkém ostrově na severozápadě; vzali mě tam "
-"mnohokrát kvůli výslechům. Je to strašlivé místo, plné černých skal a "
+"Členové Železné rady přebývají na velkém ostrově na severozápadě; vzali mě "
+"tam mnohokrát kvůli výslechům. Je to strašlivé místo, plné černých skal a "
 "vysokých vrcholků, ale uprostřed je laguna. Tam jsem viděl zakotvené "
 "množství lodí, které bychom mohli použít k přepravení vás elfů přes moře."
 
@@ -10826,11 +10833,11 @@ msgid ""
 "can dispel the protections, but for now you must seize them yourselves."
 msgstr ""
 "Útočili jsme na lidi, když jejich lodě překračovaly naše hranice do našich "
-"vod, takže se nás velmi bojí. Jejich temní mágové pak jejich lodě nakouzlili "
-"ochranná kouzla, která nám všem zabraňují nastoupit na ně. Obávám se, že my "
-"nemůžeme lodě obsadit. Ovšem, pomůžeme vám zadržovat lidi. Později, až "
-"unikneme, s vaší pomocí snad dokážeme odstranit ochranná kouzla, ale zatím "
-"musíte lodě zabrat sami."
+"vod, takže se nás velmi bojí. Jejich temní mágové pak na jejich lodě "
+"nakouzlili ochranná kouzla, která nám všem zabraňují nastoupit na ně. Obávám "
+"se, že my nemůžeme lodě obsadit. Ovšem, pomůžeme vám zadržovat lidi. "
+"Později, až unikneme, s vaší pomocí snad dokážeme odstranit ochranná kouzla, "
+"ale zatím musíte lodě zabrat sami."
 
 # zbytek elfů?
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3667
@@ -10877,7 +10884,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:3998
 msgid "Don't worry Kaleh, we will see each other again...I promise."
-msgstr "Neboj se, Kalehu, slibuji že se uvidíme znovu."
+msgstr "Neboj se, Kalehu, slibuji, že se uvidíme znovu."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4009
 msgid "She freaks me out, but at least it seems that she can be destroyed."
@@ -10889,7 +10896,7 @@ msgid ""
 "all that she has done."
 msgstr ""
 "Tohle byl jen přízrak, ale jestli se setkáme znova, donutím ji zaplatit za "
-"všechno co způsobila."
+"všechno, co způsobila."
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4030
 msgid ""
@@ -10907,7 +10914,7 @@ msgid ""
 "it sounds, even death is a better fate."
 msgstr ""
 "Nemusíš se omlouvat. To, co jsi udělala, bylo velmi odvážné. Prosím... "
-"kteréhokoliv boha který nad námi bdí, aby nemuselo dojít k tomuto "
+"kteréhokoliv boha, který nad námi bdí, aby nemuselo dojít k tomuto "
 "krveprolití. Ale nemohl jsem nechat polovinu svých lidí podlehnout té věci. "
 "I když to zní hrozně, i smrt je lepším osudem."
 
@@ -10918,7 +10925,7 @@ msgid ""
 "escaped the caves, you were talking to Eloh, or whatever she is?"
 msgstr ""
 "Takže když jsi měl to zvláštní setkání s tím člověkem Durstragem a jeho "
-"stráží hned potom co jsme unikli z jeskyní, mluvil jsi s Eloh, nebo co to "
+"stráží hned potom, co jsme unikli z jeskyní, mluvil jsi s Eloh, nebo co to "
 "bylo?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4048
@@ -10938,7 +10945,7 @@ msgid ""
 "faith, what do we have left?"
 msgstr ""
 "Je zřejmé, že ta věc není naše bohyně. Nevím, co to bylo, ale musím i nadále "
-"věřit že Eloh někde je. Co nám zbude bez naší víry?"
+"věřit, že Eloh někde je. Co nám zbude bez naší víry?"
 
 #: Under_the_Burning_Suns/scenarios/8Water.cfg:4060
 msgid "We have each other."
@@ -11362,7 +11369,7 @@ msgid ""
 "end of the Golden Age."
 msgstr ""
 "Asi se divíte, odkud znám celou tuto historii. Daleko v moři je souostroví, "
-"které kdysi obývali nějací lidé z Říše Wesnothu. Během zlatého věku lodě "
+"které kdysi obývali nějací lidé z říše Wesnothu. Během zlatého věku lodě "
 "často převážely na pevninu a zpět zboží a zprávy. Podle všeho vedla kolonii "
 "skupina mágů, kteří chtěli mít klid k provádění svých experimentů. Tito "
 "kolonisté, chráněni izolací a jejich magií, se udrželi po pádu říše ze všech "
@@ -11473,7 +11480,7 @@ msgid ""
 "followers, but I believe that you may be just the ones who can destroy her."
 msgstr ""
 "Ano, myslela jsem, že vám to jméno bude povědomé. Vždy hledá další "
-"následovníky. Věřím, že to ona se zjevila vašemu lidu, předstírají, že je "
+"následovníky. Věřím, že to ona se zjevila vašemu lidu, předstírajíc, že je "
 "vaše bohyně. Ale její chtíč po další a další moci se může stát její zhoubou. "
 "Podcenila sílu vaší vůle; neovládne vás tak snadno jako ty, které si "
 "podrobila již dříve. Přivedla vás sem, abyste se stali jejími následovníky, "
@@ -11500,7 +11507,7 @@ msgid ""
 "pestilence might spread. I have scryed far and wide and there are few that "
 "have the strength to stand up to such a force. If we do not, who will?"
 msgstr ""
-"Musíte si uvědomit že pokud ji nikdo nezastaví, kdo ví kam až se rozšíří "
+"Musíte si uvědomit že pokud ji nikdo nezastaví, kdo ví, kam až se rozšíří "
 "její nákaza? Hledala jsem široko daleko a není mnoho těch, kteří by měli "
 "sílu odolat tak strašlivé moci. Pokud ne my, kdo tedy?"
 
@@ -11523,7 +11530,7 @@ msgstr ""
 "Kdyby jste o nás aspoň trochu něco věděli, nikdy by jste mi takovou otázku "
 "nepoložili! Něco takového je úplným protikladem všeho, za čím stojíme! "
 "Viděli jste, jak mí bratři riskovali životy a zdraví, aby vás našli a "
-"chránili vás a váš lid proti lidem. Viděli jste, jak se nám za to lidé "
+"chránili vás a váš národ proti lidem. Viděli jste, jak se nám za to lidé "
 "odvděčili. Nestačí snad jako důkaz naše činy?"
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:440
@@ -11535,7 +11542,7 @@ msgid ""
 "humans will be searching for you. Eloh's reach is long and her vengeance is "
 "terrible."
 msgstr ""
-"Protože se obávám, že nakonec vám nezbývá než nám věřit. Pokud bychom vás "
+"Obávám se totiž, že nakonec vám nezbývá než nám věřit. Pokud bychom vás "
 "chtěli zajmout, mohli jsme to už dávno provést. Ale nehodláme vás k ničemu "
 "nutit. Klidně odejděte, pokud chcete, vezmeme vás zpět na pevninu. Ale v "
 "divočinách severně od hor stěží najdete přátele, a lidé vás budou hledat. "
@@ -11551,11 +11558,12 @@ msgid ""
 "considers your kind a threat, but we have a real chance here to show her "
 "that there is still power in the known lands that she does not control."
 msgstr ""
-"Ano, přesně to očekává. Myslí si, že tak jako těch pár, kteří jí dokázali po "
-"nějaký čas vzdorovat, uprchnete co nejdále od ní. Už je to dlouho, co byla "
-"naposled vážně napadena; je to ta jediná věc, kterou nebude očekávat. "
-"Pochybuji, že vás vůbec kdy považovala za hrozbu, ale teď máme skutečně "
-"možnost ukázat jí, že je ve známých zemích ještě stále síla, kterou neovládá."
+"Ano, přesně to ona očekává. Myslí si, že tak jako těch pár, kteří jí "
+"dokázali po nějaký čas vzdorovat, uprchnete co nejdále od ní. Už je to "
+"dlouho, co byla naposled vážně napadena; je to ta jediná věc, kterou nebude "
+"očekávat. Pochybuji, že vás vůbec kdy považovala za hrozbu, ale teď máme "
+"skutečně možnost ukázat jí, že je ve známých zemích ještě stále síla, kterou "
+"neovládá."
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:451
 msgid ""
@@ -11596,7 +11604,7 @@ msgid ""
 "fight her war for her?"
 msgstr ""
 "Nejsem si stále jistý, jestli jí věřím. Co když se jen snaží přesvědčit vás "
-"všechny, aby jste za ni bojovali její válku?"
+"všechny, abyste za ni bojovali její válku?"
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:647
 #, fuzzy
@@ -11618,9 +11626,9 @@ msgid ""
 msgstr ""
 "Věc se má tak, že to není jen její boj, ale náš také. Například já jejímu "
 "vyprávění věřím. Jestli má Yechnagoth takovou moc, jak tvrdí Melusand, jak "
-"můžeme vědět že to nebyla ona, kdo zkropil naši vesnici skalami před všemi "
-"těmi týdny? Co když je to jen součást plánu jehož cílem je proměnit náš lid "
-"ve stádo slepých bezduchých posluhů?"
+"můžeme vědět, že to nebyla ona, kdo zkropil naši vesnici skalami před všemi "
+"těmi týdny? Co když je to jen součást plánu, jehož cílem je proměnit náš lid "
+"ve stádo slepých, bezduchých posluhů?"
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:662
 msgid ""
@@ -11655,12 +11663,12 @@ msgid ""
 "would be wandering aimlessly through the wilderness. Oh if only we did have "
 "Eloh to guide us. We need her now more than ever."
 msgstr ""
-"Musím přiznat, že Melusand má pravdu. Nemůžeme se vrátit pod horami tam kudy "
-"jsme přišli, lidé odteď budou tu cestu určitě dobře hlídat. Mohli bychom "
-"požádat mořské lidi, aby nás vrátili na pobřeží severně nebo jižně od místa "
-"odkud jsme vypluli, ale ani trochu neznám ty země. Bezcílně bychom bloudili "
-"divočinou. Ach, kdybychom tak měli Eloh, aby nás vedla. Teď ji potřebujeme "
-"více než kdy jindy."
+"Musím přiznat, že Melusand má pravdu. Nemůžeme se vrátit pod horami tou "
+"cestou, kterou jsme přišli, lidé ji odteď budou určitě dobře hlídat. Mohli "
+"bychom požádat mořské lidi, aby nás vrátili na pobřeží severně nebo jižně od "
+"místa, odkud jsme vypluli, ale ani trochu neznám ty země. Bezcílně bychom "
+"bloudili divočinou. Ach, kdybychom tak měli Eloh, aby nás vedla. Teď ji "
+"potřebujeme více než kdy jindy."
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:686
 msgid "This entire journey has been based on a lie--"
@@ -11696,8 +11704,8 @@ msgid ""
 "the time that is allotted to us. Do not succumb to despair Kaleh, or else "
 "Yechnagoth has already won."
 msgstr ""
-"Mnozí kteří prošli temnými časy si přejí, aby se mohli vrátit a změnit to co "
-"se stalo. Ale to není v naší moci; vše, co teď můžeme, je dělat v čase, "
+"Mnozí, kteří prošli temnými časy, si přejí, aby se mohli vrátit a změnit to, "
+"co se stalo. Ale to není v naší moci; vše, co teď můžeme, je dělat v čase, "
 "který nám zbývá, to, co považujeme za správné. Nepodléhej zoufalství, "
 "Kalehu, jinak už Yechnagoth vyhrála."
 
@@ -11720,8 +11728,8 @@ msgid ""
 "not a choice that I can make for all of our people."
 msgstr ""
 "Máte pravdu. Jakkoliv divně zní její příběh, věřím Melusand. Ze všeho je "
-"vidět že Yechnagoth je opravdová metla zkázy tohoto světa, a s radostí bych "
-"položil svůj život, jen abych se mohl pokusit zničit ji pro jednou a navždy. "
+"vidět, že Yechnagoth je opravdová zkázonosná metla tohoto světa a s radostí "
+"bych položil svůj život, jen abych se mohl pokusit zničit ji jednou provždy. "
 "Ale tuto volbu nemohu učinit za všechen náš lid."
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:743
@@ -11787,10 +11795,10 @@ msgid ""
 "in what peace they can find."
 msgstr ""
 "Pak je tedy rozhodnuto. I tak však nemůžeme v této věci rozhodnout za náš "
-"lid. Ti kdo se vydají na tuto výpravu se nemusí nikdy vrátit a bitva není "
+"lid. Ti, kdo se vydají na tuto výpravu, se nemusí nikdy vrátit a bitva není "
 "nic pro děti a staré. Nechme všechny, kdo se bojí nebo nemohou bojovat, u "
-"mořského lidu. Požádám Melusand aby zařídila že pokud selžeme, budou vzati "
-"daleko odtud aby mohli prožít své životy tak klidně, jak dokáží."
+"mořského lidu. Požádám Melusand, aby zařídila, že pokud selžeme, budou vzati "
+"daleko odtud, aby mohli prožít své životy tak klidně, jak dokáží."
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:788
 msgid ""
@@ -11798,8 +11806,9 @@ msgid ""
 "people will wish to stay behind. You are our leader Kaleh, and where you go, "
 "we will follow."
 msgstr ""
-"To je od tebe velmi soucitné, ale pochybuji že by si mnoho z našeho lidu "
-"přálo zůstat vzadu. Kalehu, jsi náš vůdce, a kam jdeš, my tě následujeme."
+"To je od tebe velmi soucitné, ale pochybuji, že by si mnoho z našeho lidu "
+"přálo zůstat vzadu. Kalehu, jsi náš vůdce, a kam ty půjdeš, my tě budeme "
+"následovat."
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:793
 msgid "Time passes."
@@ -11854,7 +11863,7 @@ msgstr ""
 "zdroj zkaženosti. Nebudeme moci pokračovat v našem útoku příliš dlouho, ale "
 "měl by vám poskytnout dostatek času k proklouznutí vnější obranou a dosažení "
 "ostrova. Musíte jej prozkoumat, najít zdroj temnoty, která jej zaplavuje a "
-"zničit jej dříve než se stihne vrátit zbytek následovníků Yechnagoth."
+"zničit jej dříve, než se stihne vrátit zbytek následovníků Yechnagoth."
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:842
 #, fuzzy
@@ -11914,7 +11923,7 @@ msgstr ""
 "nemohu žádat všechen svůj lid, aby šel se mnou proti své vůli. Tato bitva "
 "také není nic pro naše děti nebo starší. Žádám vás, abyste chránili ty, "
 "které zanecháme za sebou, a pokud se boj zvrtne v náš neprospěch, vezměte "
-"je, prosím, tak daleko odtud jak jen bude možné. Pak snad alespoň oni budou "
+"je, prosím, tak daleko odtud, jak jen bude možné. Pak snad alespoň oni budou "
 "moci mít trochu klidu a štěstí ve vzdálených krajích."
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:876
@@ -11923,7 +11932,7 @@ msgid ""
 "not think there will be many safe places left in the known lands."
 msgstr ""
 "Udělám, o co mne žádáte. Je to správné. Ale jestli se bitva opravdu zvrtne v "
-"náš neprospěch, nemyslím že by se dalo ve známých zemích najít ještě nějaké "
+"náš neprospěch, nemyslím, že by se dalo ve známých zemích najít ještě nějaké "
 "bezpečné místo."
 
 #: Under_the_Burning_Suns/scenarios/9Fish.cfg:882
@@ -12012,7 +12021,7 @@ msgid ""
 msgstr ""
 "To je velmi zajímavé. Ve skutečnosti jsem nikdy předtím o Yanquim neslyšela, "
 "když jsem říkala Esanoovi, aby se o něm zmínil Kalehovi. Je to takto: Když "
-"se ti Eloh zjevila, dokázala jsem svými silami tajně vyposlechnout váš "
+"se mu Eloh zjevila, dokázala jsem svými silami tajně vyposlechnout váš "
 "rozhovor. Nevěděla jsem, kolik toho tušíš, ale nechtěla jsem způsobit paniku "
 "tím, že bych veřejně odhalila, s kým vlastně mluvíš. Doufala jsem, že tě "
 "přesvědčím, abys přišel sem za mnou a mohla ti vyjevit pravdu osobně. Proto "
@@ -12033,7 +12042,7 @@ msgstr ""
 "A teď se s vámi musím rozloučit. Mořský lid, který jste zachránili, vám "
 "ukáže cestu na ostrov, a já musím zařídit naši diverzní akci. Začneme s "
 "naším útokem na konci příští dlouhé tmy, takže za svítání snad bude velký "
-"ostrov opuštěn a beze stráží. Budu se modlit za náš úspěch, budeme-li mít "
+"ostrov opuštěn a beze stráží. Budu se modlit za náš úspěch; budeme-li mít "
 "štěstí, všichni se znovu setkáme."
 
 #: Under_the_Burning_Suns/units/Alien_Body.cfg:4
@@ -12380,7 +12389,6 @@ msgstr "klepeta"
 msgid "Dawarf"
 msgstr "Dawarf"
 
-# pův.: folkloristé
 #: Under_the_Burning_Suns/units/Darawf.cfg:17
 msgid ""
 "Don't ask where the Dawarf came from. You really don't want to know. It is a "
@@ -12474,7 +12482,7 @@ msgid ""
 "death he leaves in his wake is unmistakeable."
 msgstr ""
 "Temný zabiják se objevuje a mizí mžikem oka. Nikdo neví, odkud přišel nebo "
-"proč jedná tak, jak jedná, ale stopa smrti, kterou za sebou zanechává na své "
+"proč jedná tak, jak jedná, ale stopa smrti kterou za sebou zanechává na své "
 "pouti je nezaměnitelná."
 
 #: Under_the_Burning_Suns/units/Dark_Assassin1.cfg:22
@@ -13062,7 +13070,7 @@ msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Outrider.cfg:4
 msgid "Desert Outrider"
-msgstr ""
+msgstr "Pouštní kavalérie"
 
 #: Under_the_Burning_Suns/units/Nym_Prowler.cfg:32
 #: Under_the_Burning_Suns/units/Nym_Sentinel.cfg:31
@@ -13074,6 +13082,7 @@ msgid "skirmisher"
 msgstr ""
 
 #: Under_the_Burning_Suns/units/Desert_Outrider.cfg:36
+#, fuzzy
 msgid ""
 "Riding like the wind, Desert Outriders breeze across the sands to strike at "
 "weaker units and exposed flanks. Quick and agile they are trained at riding "
@@ -13081,6 +13090,10 @@ msgid ""
 "sword, and trained in the bow, they strike hard before flying off into the "
 "sands to evade response."
 msgstr ""
+"Pouštní kavalérie létá po píscích rychlostí větru; udeří tvrdě na slabší "
+"nepřátelské jednotky nebo vystavená křídla a opět zmizí do dálav, aby se "
+"vyhnula protiútoku. Ať už útočí mečem, nebo lukem, zkušenosti v boji s "
+"těmito nástroji rozhodně nepostrádá."
 
 #: Under_the_Burning_Suns/units/Nym_Prowler.cfg:34
 #: Under_the_Burning_Suns/units/Desert_Prowler.cfg:33
@@ -13274,12 +13287,12 @@ msgid ""
 "Their magical powers have been adapted to a life among the sands, and so it "
 "does not work over deep water."
 msgstr ""
-"Pouštní víly jsou elfí kněžky oddané přírodě a jejich kouzelné ???. Z jejich "
-"zad vyrůstají křídla ne nepodobná vážčím, která je proměňují v nádherná "
-"stvoření. Dokáží díky nim bez problémů přelétat přes téměř jakýkoliv terén, "
-"s výjimkou hluboké vody, s níž se pouštní elfové nesetkávají příliš často. "
-"Jejich magické síly se po dlouhém životě na písku přizpůsobily poušti, a tak "
-"nad hlubokou vodou selhávají."
+"Pouštní víly jsou elfí kněžky oddané přírodě a magii. Z jejich zad vyrůstají "
+"křídla ne nepodobná vážčím, která je proměňují v nádherná stvoření. Dokáží "
+"díky nim bez problémů přelétat přes téměř jakýkoliv terén, s výjimkou "
+"hluboké vody, s níž se pouštní elfové nesetkávají příliš často. Jejich "
+"magické síly se po dlouhém životě na písku přizpůsobily poušti, a tak nad "
+"hlubokou vodou selhávají."
 
 #: Under_the_Burning_Suns/units/Zhul_Shyde.cfg:43
 #: Under_the_Burning_Suns/units/Zhul_Star.cfg:50
@@ -13601,8 +13614,9 @@ msgstr ""
 #: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Stalwart.cfg:46
 #: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Sentinel.cfg:33
 #: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Sentinel.cfg:47
+#, fuzzy
 msgid "spear"
-msgstr ""
+msgstr "hejno"
 
 #: Under_the_Burning_Suns/units/Rogrimir_Dwarvish_Stalwart.cfg:4
 #, fuzzy
@@ -13749,7 +13763,7 @@ msgstr ""
 #~ "Yanqui se jim zjevil jako krásný elfí mladík a řekl jim, že přichází "
 #~ "velká temnota, která zničí vše, co dokázali objevit, veškeré jejich "
 #~ "vědění. Prohlásil, že když jej budou uctívat jako boha, ochrání je je a "
-#~ "odhalí jim magii, o jaké mohou jen snít. Ale chtěl ještě více; požadoval "
+#~ "odhalí jim magii, o jaké mohli jen snít. Ale chtěl ještě více; požadoval "
 #~ "krvavou oběť jednoho elfa měsíčně. Někteří elfové byli pobouřeni, ale "
 #~ "většinu jich zlákala vidina ještě větší moci, a tak se sklonili před "
 #~ "Yanquim a uctívali jej jako svého boha. Těch několik, kteří protestovali "
@@ -13817,8 +13831,8 @@ msgstr ""
 #~ "Poháněni jejich kněžími temnot a strachem z Yanquiho hněvu bojovali "
 #~ "elfové z Wesmere zarytě i proti naší jasné převaze. Ten boj byl vpravdě "
 #~ "strašlivý; kdysi krásný les byl zalit krví a na slunných mýtinách se "
-#~ "válela těla. Bitva vyvrcholil, když se sám Yanqui objevil ve své pravé "
-#~ "podobě nad lesem. Letěl nad zemí a zasypával útočníky i obránce bez "
+#~ "válely hromady těl. Bitva vyvrcholila, když se sám Yanqui objevil ve své "
+#~ "pravé podobě nad lesem. Letěl nad zemí a zasypával útočníky i obránce bez "
 #~ "rozdílu ohněm, nadšen smrtí a zkázou. Neměli jsme sílu bojovat s někým "
 #~ "tak silným jako on, a volali jsme k Eloh, aby nás zachránila. Objevila se "
 #~ "jako skvělé vtělení světla a bojovala s Yanquim nad hořícím lesem. "
@@ -13837,10 +13851,10 @@ msgstr ""
 #~ "all other who renounced Yanqui might be saved. "
 #~ msgstr ""
 #~ "V tu chvíli byl celý les v plameni a přítel i nepřítel prchali z ohnivého "
-#~ "pekla. Se smrtí jejich boha se elfové z Wesmere vzdali a prosili nás o "
+#~ "pekla. Se smrtí jejich „boha“ se elfové z Wesmere vzdali a prosili nás o "
 #~ "slitování, přičemž nám pověděli celý ten příběh. Slitovali jsme se nad "
 #~ "nimi a postarali se o ně co nejlépe, ale obávali jsme se, že někteří "
-#~ "fanatičtí kněží mohou v tajnosti dále uctívat Yanquiho. Eloh nám totiž "
+#~ "fanatičtí kněží mohou v tajnosti dále Yanquiho uctívat. Eloh nám totiž "
 #~ "řekla, že Yanquiho nezabila, jen jej vypudila z tohoto světa. Nechtěli "
 #~ "jsme riskovat, že by Yanqui opět rozdělil náš lid; tak jsme rozhodli že "
 #~ "kněží temnoty, kteří se starali o oběti, musí být popraveni, ale ostatní, "
@@ -13857,15 +13871,16 @@ msgstr ""
 #~ "knowledge of the folly of valuing knowledge higher than the welfare of "
 #~ "our people."
 #~ msgstr ""
-#~ "Naše kněžky pak prohlásili Yanquiho jméno a jeho příběh zakázanými "
+#~ "Naše kněžky pak prohlásily Yanquiho jméno a jeho příběh zakázanými "
 #~ "vědomostmi, mluvit o nich znamenalo smrt. Jejich ostražitost došla "
 #~ "odměny; o několik generací později ten příběh znaly jen nejvyšší kněžky, "
-#~ "a tak byl předán mně. I když se ta opatření mohou zdát drsná, věřím, že "
+#~ "a tak byl předán i mně. I když se ta opatření mohou zdát drsná, věřím, že "
 #~ "byla ospravedlněna. Kdyby byl Yanqui opět přivolán, pochybuji, že bychom "
 #~ "dokázali přežít další schizma. A tak byl příběh Yanquiho předáván z "
-#~ "generace na generaci mezi námi strážci vědomostí, abychom pamatovali, "
+#~ "generace na generaci mezi námi, strážci vědomostí, abychom pamatovali, "
 #~ "jakou chybou je cenit si vědomostí více než blaha vlastního lidu."
 
+# nutnost vyhnout se 5. pádu allyho!
 #~ msgid "Nym, Zhul, $ally_name , you shouldn't have."
 #~ msgstr "Nym, Zhul, to jste neměly. Ani $ally_name."
 
@@ -14039,9 +14054,9 @@ msgstr ""
 #~ "extra ugly."
 #~ msgstr ""
 #~ "Tento průchod vede velmi blízko trollího hlavního doupěte; můžete slyšet, "
-#~ "jak dusají sem a tam hned za východní zdí. Vše, co nás dělí od trollů, je "
+#~ "jak dusají sem a tam hned za východní zdí. Vše, co nás dělí od trollů je "
 #~ "tenká kamenná stěna. Nechal jsem své chlapce podminovat konec tunelu "
-#~ "výbušninami; když přesunete jednotku k dělící zdi, odpálím nálože a "
+#~ "výbušninami; když přesunete jednotky k dělící zdi, odpálím nálože a "
 #~ "otevřu cestu. Trollí vůdce by měl být chráněn jen lehce, poslal své "
 #~ "nejlepší bojovníky na frontu. Hlavního trolla poznáte, až ho uvidíte, je "
 #~ "velký, zelený a pořádně škaredý."
@@ -14078,7 +14093,7 @@ msgstr ""
 #~ "bohatě se vám odměníme."
 
 #~ msgid "It shall be done."
-#~ msgstr "My to uděláme."
+#~ msgstr "Tak pojďme na to."
 
 #~ msgid ""
 #~ "Once you are done moving your people into position, I will blow the "
@@ -14204,7 +14219,7 @@ msgstr ""
 #~ "velké a dost vysoké pro mocné trolly. Když byl svět mladý, Grišnák udělal "
 #~ "do kamene mnoho tunelů a dutin, hluboko pod nás. Cestovali jsme velmi, "
 #~ "velmi hluboko podél pradávných pramínků, mnohem hlouběji než mizerní "
-#~ "trpaslíci. Ale teď jsme se vrátili zpět nahoru, velký vůdce říká, že "
+#~ "trpaslíci. Ale teď jsme se vrátili zpět nahoru, Velký vůdce říká, že "
 #~ "hluboko dole teď mnoho zlých věcí. Ne dobré pro trolly. Vracíme se nahoru "
 #~ "znova obsadit dávné země. Ale najdeme je plné malých smradlavých "
 #~ "trpaslíků. Všechny krásné kameny jsou pryč, lakomí trpaslíci je všechny "
@@ -14503,7 +14518,7 @@ msgstr ""
 #~ msgid "female^Desert Sentinel"
 #~ msgstr "Pouštní hlídka"
 
-#, fuzzy
+# pův.: jejich kouzelné ???
 #~ msgid ""
 #~ "Desert Shydes are elves that are devoted to nature and their faerie side. "
 #~ "Dragonfly wings sprout from their backs and change them into beautiful "
@@ -14515,10 +14530,10 @@ msgstr ""
 #~ "healing units around them, and curing them of poison. Shydes can fly "
 #~ "across any terrain except deep water."
 #~ msgstr ""
-#~ "Pouštní víly jsou elfí kněžky oddané přírodě a jejich kouzelné ???. Z "
-#~ "jejich zad vyrůstají křídla ne nepodobná vážčím, která je proměňují v "
-#~ "nádherná stvoření. Dokáží díky nim bez problémů přelétat přes téměř "
-#~ "jakýkoliv terén.\n"
+#~ "Pouštní víly jsou elfí kněžky oddané přírodě a magii. Z jejich zad "
+#~ "vyrůstají křídla ne nepodobná vážčím, která je proměňují v nádherná "
+#~ "stvoření. Dokáží díky nim bez problémů přelétat přes téměř jakýkoliv "
+#~ "terén.\n"
 #~ "\n"
 #~ "Zvláštní rysy: Zamotávací útok víl zpomaluje nepřátele, snižujíc na "
 #~ "polovinu jejich rychlost pohybu a způsobované zranění. Víly dokáží "
@@ -14841,9 +14856,8 @@ msgstr ""
 #~ msgid "Farewell Esanoo. You were my favorite of the merfolk."
 #~ msgstr "Sbohem, Esanoo. Byl jsi mým nejoblíbenějším mořským mužem."
 
-#, fuzzy
 #~ msgid "Aaauurrrgghhh!!!"
-#~ msgstr "Aaauurrrgghhh!!!"
+#~ msgstr "Aaauugrrrr!!!"
 
 #~ msgid "To die on the cusp of victory. Oh the irony!"
 #~ msgstr "Jaká ironie, zemřít, když vítězství je na dosah ruky!"
@@ -14910,9 +14924,6 @@ msgstr ""
 
 #~ msgid "The Long Dark (4)"
 #~ msgstr "Dlouhá tma (4)"
-
-#~ msgid "swarm"
-#~ msgstr "hejno"
 
 #~ msgid "UTBS - Main Developer"
 #~ msgstr "UTBS - Hlavní vývojář"
